@@ -18,7 +18,31 @@
             }
           },
           {
-            "id": "74451f5d560eee61",
+            "id": "397121bf08443b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入网页test（B站）"
+            }
+          },
+          {
+            "id": "2d99d92e3f359dd1",
             "type": "leaf",
             "state": {
               "type": "mx-welcome",
@@ -149,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "嵌入网页test（B站） 的大纲"
             }
           }
         ],
@@ -179,7 +204,7 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "74451f5d560eee61",
+  "active": "397121bf08443b36",
   "lastOpenFiles": [
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "obsidian/配置obsidian/同步.md",
