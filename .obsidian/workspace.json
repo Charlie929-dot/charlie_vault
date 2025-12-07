@@ -47,12 +47,36 @@
             "state": {
               "type": "mx-welcome",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mx-welcome"
+              "icon": "home",
+              "title": "Media Extended onboarding"
+            }
+          },
+          {
+            "id": "910d12c3d4eecda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,50 +229,25 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "397121bf08443b36",
+  "active": "910d12c3d4eecda1",
   "lastOpenFiles": [
-    "UP鬼头明里单推人/(Attachments)",
-    "UP鬼头明里单推人",
+    "obsidian/配置obsidian/嵌入网页test（B站）.md",
+    "conflict-files-obsidian-git.md",
     "Charlie",
-    "UP鬼头明里单推人/Obsidian+插件合集.md",
-    "UP鬼头明里单推人/（Template）/movie/天气之子.md",
-    "UP鬼头明里单推人/（Template）/movie/~syncthing~天气之子.md.tmp",
-    "Charlie/obsidian/配置obsidian/同步.md",
-    "UP鬼头明里单推人/(Attachments)/p2910701461.jpg",
-    "UP鬼头明里单推人/(Attachments)/p2558022335.jpg",
-    "UP鬼头明里单推人/(Attachments)/p458263441.jpg",
-    "Charlie/obsidian/code repository/笔记工具库.md",
-    "UP鬼头明里单推人/（Template）/电影剧集模板.md",
-    "UP鬼头明里单推人/（Template）/~syncthing~电影剧集模板.md.tmp",
-    "UP鬼头明里单推人/(Attachments)/p2361744534.jpg",
-    "Charlie/obsidian同步/~tmp50_宿舍.png",
-    "Charlie/obsidian同步/~tmp42_宿舍.png",
-    "Charlie/obsidian/配置obsidian/~syncthing~同步.md.tmp",
-    "Charlie/py/pandas/知识点.md",
-    "UP鬼头明里单推人/(Attachments)/~syncthing~p2910701461.jpg.tmp",
-    "UP鬼头明里单推人/(Attachments)/~syncthing~p2558022335.jpg.tmp",
-    "UP鬼头明里单推人/(Attachments)/~syncthing~p458263441.jpg.tmp",
-    "UP鬼头明里单推人/(Attachments)/~syncthing~p2361744534.jpg.tmp",
-    "UP鬼头明里单推人/~syncthing~Obsidian+插件合集.md.tmp",
-    "Charlie/obsidian同步/obsidian/code repository/笔记工具库.md",
-    "Charlie/obsidian同步/obsidian/tool/笔记工具库.md",
-    "Charlie/obsidian同步/寻深足迹/在追.md",
-    "Charlie/obsidian同步/obsidian/配置obsidian/插件.md",
-    "Charlie/obsidian/tool/笔记工具库.md",
-    "UP鬼头明里单推人/（Template）/movie/叶问.md",
-    "UP鬼头明里单推人/（Template）/书籍模板.md",
-    "Charlie/obsidian同步/~tmpE5_刷牙.md",
-    "Charlie/obsidian同步/~tmp2D_刷牙.md",
-    "Charlie/obsidian同步/寻深足迹/寻深足迹.md",
-    "Charlie/obsidian同步/py/pandas/知识点.md",
-    "Charlie/obsidian/py/pandas/知识点.md",
-    "Charlie/obsidian同步/LaTeX/数学公式test.md",
-    "Charlie/obsidian/配置obsidian/插件.md",
-    "UP鬼头明里单推人/（Template）/movie/大鱼海棠.md",
-    "Charlie/LaTeX/数学公式test.md",
-    "UP鬼头明里单推人/（Template）/movie/你的名字。.md",
-    "UP鬼头明里单推人/Markdown+语法手册.md",
-    "UP鬼头明里单推人/（Template）/番剧模板.md",
-    "Pasted image 20251207175744.png"
+    "Pasted image 20251207175744.png",
+    "obsidian/配置obsidian/同步.md",
+    "obsidian/配置obsidian/插件.md",
+    "README.md",
+    "LaTeX/数学公式test.md",
+    "Git插件.md",
+    "obsidian/code repository/笔记工具库.md",
+    "obsidian/tool/笔记工具库.md",
+    "切换到D盘.md",
+    "寻深足迹/寻深足迹.md",
+    "寻深足迹/在追.md",
+    "obsidian/py/pandas/知识点.md",
+    "寻深足迹/未命名",
+    "寻深足迹",
+    "py/pandas/知识点.md"
   ]
 }
