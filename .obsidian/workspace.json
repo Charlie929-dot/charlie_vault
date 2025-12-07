@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aeca9929d58bdee",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
-            }
-          },
-          {
             "id": "1d443770a1aad8ec",
             "type": "leaf",
             "state": {
@@ -41,21 +31,24 @@
               "title": "嵌入网页test（B站）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "fb324866a7a7db23",
+        "id": "dfc35b07e1df68f9",
         "type": "tabs",
         "children": [
           {
-            "id": "97f8e45aaec1ae7f",
+            "id": "562119ecfa29ded7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV15n24B2EHX/?vd_source=3964f41e718cb64d5ac181dfb3e1116e",
+                "title": "【周深｜MV】年代家庭短剧《家里家外2》主题曲《时间啊》正式上线_哔哩哔哩_bilibili",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "【周深｜MV】年代家庭短剧《家里家外2》主题曲《时间啊》正式上线_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -210,12 +203,12 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "97f8e45aaec1ae7f",
+  "active": "562119ecfa29ded7",
   "lastOpenFiles": [
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "obsidian/配置obsidian/同步.md",
-    "README.md",
     "obsidian/配置obsidian/插件.md",
+    "README.md",
     "LaTeX/数学公式test.md",
     "Git插件.md",
     "obsidian/code repository/笔记工具库.md",
