@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23db582f7e8158c8",
+        "id": "34c60aeaf4b368dc",
         "type": "tabs",
         "children": [
           {
-            "id": "06ac7a295ea6975a",
+            "id": "68786ff874665653",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06ac7a295ea6975a",
+  "active": "68786ff874665653",
   "lastOpenFiles": [
     "obsidian/code repository/笔记工具库.md",
-    "obsidian/tool/笔记工具库.md",
+    "切换到D盘.md",
     "obsidian/配置obsidian/同步.md",
+    "obsidian/tool/笔记工具库.md",
     "obsidian/配置obsidian/插件.md",
     "README.md",
     "寻深足迹/寻深足迹.md",
