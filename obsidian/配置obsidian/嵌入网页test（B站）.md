@@ -1,7 +1,3 @@
-https://www.bilibili.com/video/BV15n24B2EHX/?vd_source=3964f41e718cb64d5ac181dfb3e1116e
-
-<video width="600" height="420" controls> 
-<source src="https://www.bilibili.com/video/BV15n24B2EHX/?vd_source=3964f41e718cb64d5ac181dfb3e1116e" type="video/mp4"> 
-<source src="https://www.bilibili.com/video/BV15n24B2EHX/?vd_source=3964f41e718cb64d5ac181dfb3e1116e" type="video/ogg"> 
-<source src="https://www.bilibili.com/video/BV15n24B2EHX/?vd_source=3964f41e718cb64d5ac181dfb3e1116e" type="video/webm"> 
-</video>
+[00:00:20.720](jv://?url=file:///C:/Users/HP/Videos/baifen26E5baifen26B1baifen268Fbaifen26E5baifen26B9baifen2695baifen26E5baifen26BDbaifen2695baifen26E5baifen2688baifen26B6baifen26202025-10-19baifen2620000628.mp4&time=00:00:20.720&app=jump-video-sys-player)
+[00:00:23.567](jv://?url=file:///C:/Users/HP/Videos/baifen26E5baifen26B1baifen268Fbaifen26E5baifen26B9baifen2695baifen26E5baifen26BDbaifen2695baifen26E5baifen2688baifen26B6baifen26202025-10-19baifen2620000628.mp4&time=00:00:23.567&app=jump-video-sys-player)
+[00:00:27.864](jv://?url=file:///C:/Users/HP/Videos/baifen26E5baifen26B1baifen268Fbaifen26E5baifen26B9baifen2695baifen26E5baifen26BDbaifen2695baifen26E5baifen2688baifen26B6baifen26202025-10-19baifen2620000628.mp4&time=00:00:27.864&app=jump-video-sys-player)![[Pasted image 20251207175744.png]]

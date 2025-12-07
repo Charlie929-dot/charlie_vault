@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,7 @@
   },
   "active": "397121bf08443b36",
   "lastOpenFiles": [
+    "Pasted image 20251207175744.png",
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "obsidian/配置obsidian/同步.md",
     "obsidian/配置obsidian/插件.md",
