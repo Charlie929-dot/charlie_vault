@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "a4f91a8a12e9d4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9f6c4f6161f1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36aa1b1f2a183ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "番剧相关/Anime List/2025年番剧总结.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025年番剧总结"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d03c92054d65d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2af6b2724ac36b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94316e4159891162",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "78dfe68c603f71d3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "2c9693528be87c3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "716fb7de0c9acead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.00328826904297
+  },
+  "right": {
+    "id": "2ec824eb622817ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd0975d6538fc77",
+        "type": "tabs",
+        "dimension": 57.758620689655174,
+        "children": [
+          {
+            "id": "a3e8ab44c081efe1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "f3a6286384105a05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "番剧相关/Anime Database/我独自升级 -ReAwakening-.md"
+              },
+              "icon": "lucide-list",
+              "title": "我独自升级 -ReAwakening- 的大纲"
+            }
+          },
+          {
+            "id": "93d0fc276d6690f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "番剧相关/Anime List/2025年番剧总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025年番剧总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "0c958827c292186c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "番剧相关/Anime Database/剧场版 赛马娘：新时代之门.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "剧场版 赛马娘：新时代之门 的出链列表"
+            }
+          },
+          {
+            "id": "92ae5b759e575875",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0690d19e25f7158a",
+        "type": "tabs",
+        "dimension": 42.241379310344826,
+        "children": [
+          {
+            "id": "63834918800c5bc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-projects:打开项目": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "36aa1b1f2a183ccf",
+  "lastOpenFiles": [
+    "Anime Home Page.md",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVL00LXD8MV.info/PixPin_2025-01-04_18-41-30_thumbnail.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVL00LXD8MV.info/metadata.json",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVL00LXD8MV.info/PixPin_2025-01-04_18-41-30.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVL00LXD8MV.info",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVFFPMHR054.info/PixPin_2025-01-04_18-37-10_thumbnail.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVFFPMHR054.info/PixPin_2025-01-04_18-37-10.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVFFPMHR054.info/metadata.json",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HVFFPMHR054.info",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HV09GOQP9T8.info/PixPin_2025-01-04_18-25-23.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HV09GOQP9T8.info/metadata.json",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5HV09GOQP9T8.info",
+    "番剧相关/Anime Database/BanG Dream! Ave Mujica.md",
+    "番剧相关/Anime List/2025年番剧总结.md",
+    "（Template）/T-bangumi.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（导演）/导演_柿本広大.md",
+    "番剧相关/Anime Element/（动画公司）/三次元 サンジゲン.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（音监）/音监_柿本広大.md",
+    "番剧相关/Ave_Mujika(BangBang).md",
+    "番剧相关/Anime List/（清单）待补番剧 待看清单.md",
+    "番剧相关/Anime List/2024年番剧总结.md",
+    "番剧相关/Anime List/2024年度动画金泛团颁奖典礼.md",
+    "(Attachments)/2024.7_动画魂.png",
+    "(Attachments)/2024年7月新番初观感.png",
+    "(Attachments)/2024年1月完结排名.png",
+    "(Attachments)/2024年4月初印象排名.png",
+    "(Attachments)/2024.04_动画魂-Anitama_.png",
+    "游戏相关/Game Database/勇敢小骑士.md",
+    "游戏相关/Game Database/隐形守护者.md",
+    "游戏相关/Game Database/只狼 影逝二度.md",
+    "游戏相关/Game Database/双人成行.md",
+    "游戏相关/格蕾莱与激光眼.md",
+    "游戏相关/Game Database/命运石之门 游戏.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（导演）/导演_佐藤卓哉.md",
+    "番剧相关/Anime Element/（动画公司）/WHITEFOX.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（音监）/音监_藤山房伸.md",
+    "游戏相关/Game Database/命运石之门0 游戏.md",
+    "番剧相关/Anime Database/命运石之门.md",
+    "游戏相关/Game Database/褪黑素Melatonin.md",
+    "游戏相关/Game Database/糖豆人.md",
+    "电影剧集相关/铠甲勇士 刑天.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（导演）",
+    "番剧相关/Anime Element/（动画业界名人堂）/（音监）",
+    "番剧相关/Anime Database/乱马1",
+    "（Template）/T-bangumi.md.baiduyun.uploading.cfg"
+  ]
+}

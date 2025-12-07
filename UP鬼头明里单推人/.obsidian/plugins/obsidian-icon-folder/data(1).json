@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiArticle",
+      "TiVocabulary",
+      "LiAlertTriangle",
+      "LiBookImage",
+      "RiMovie2Line"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "【工作软件硬件一览】.md": "LiMonitorCog",
+  "视频学习 笔记/2024生贺": "🎂",
+  "视频学习 笔记/学习笔记/视频字幕转录+翻译软件.md": "LiCaptions",
+  "Obsidian 相关": {
+    "iconName": "SiObsidian",
+    "iconColor": "#ac41d2"
+  },
+  "澳洲信息.md": "🇦🇺",
+  "番剧相关": "🇯🇵",
+  "【密码本】.md": "RiLockPasswordFill",
+  "UEEC": {
+    "iconName": "LiUniversity",
+    "iconColor": "#d9c126"
+  },
+  "Obsidian 相关/Markdown 语法手册.md": "SiMarkdown",
+  "Obsidian 相关/Obsidian 插件合集.md": "SiObsidian",
+  "视频学习 笔记": {
+    "iconName": "SiAdobepremierepro",
+    "iconColor": "#1976f0"
+  },
+  "书籍": "LiBookText",
+  "主播Rの杂谈回": "SiLivejournal",
+  "心理学": "RiPsychotherapyFill",
+  "BrainStorm": "RiBrainFill",
+  "Previous Activity": "😎",
+  "学习方法 学术技能": "🧑‍💻",
+  "音频学习 笔记": {
+    "iconName": "SiAdobeaudition",
+    "iconColor": "#c433e1"
+  },
+  "常用视频制作软件汇总.md": "TiNetwork",
+  "常用素材网站汇总.md": "TiNetwork",
+  "音频学习 笔记/音效参考.md": "OcCrossReference16",
+  "Language Learning/Vocabulary": "TiVocabulary",
+  "Language Learning/逆转裁判 456 口语表达学习.md": "FasGamepad",
+  "游戏相关": {
+    "iconName": "FasGamepad",
+    "iconColor": "#f99d53"
+  },
+  "电影剧集相关": {
+    "iconName": "RiMovie2Line",
+    "iconColor": "#84f23a"
+  },
+  "漫画相关/漫画补完.md": "LiBookImage",
+  "漫画相关": {
+    "iconName": "LiBookImage",
+    "iconColor": "#85fff1"
+  },
+  "素材+文案/文案参考合集/笑话文案收集.md": "FarFaceLaughBeam",
+  "UEEC/Individual Issue U10-27.md": {
+    "iconName": "LiAlertTriangle",
+    "iconColor": "#f43e3e"
+  },
+  "Vocabulary DB": "TiVocabulary",
+  "素材+文案": {
+    "iconName": "TiArticle",
+    "iconColor": "#af38ff"
+  }
+}

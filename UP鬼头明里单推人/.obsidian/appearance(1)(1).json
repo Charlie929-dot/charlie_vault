@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Primary",
+  "accentColor": "#f95392",
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "interfaceFontFamily": "975Maru SC",
+  "textFontFamily": "975Maru SC"
+}

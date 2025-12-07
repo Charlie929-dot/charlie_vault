@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Primary",
+  "accentColor": "#f95392",
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "interfaceFontFamily": "975Maru SC",
+  "textFontFamily": "975Maru SC",
+  "enabledCssSnippets": [
+    "标注块自定义"
+  ]
+}

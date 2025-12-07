@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "e248a1aa4a449852",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f63881124339c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cebff8381a50c9",
+            "type": "leaf",
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "Home.components"
+              },
+              "icon": "gantt-chart",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "aa713349c9860da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSW Commerce/COMM1170 演讲稿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "COMM1170 演讲稿"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91bcfccc070c710",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8096a83c9e6d6095",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "c24d20f9001ef6da",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "COMM1170",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "dcfe1a9c06898c91",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "49a3262ab51d65c9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      },
+      {
+        "id": "ac710387512030be",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "bcab8c456f2087b1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "31aa2c3d31cf4be1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8261113f6aa2d816",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "番剧相关/Anime Database/魔女与使魔.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4a69ecc463c03307",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "【密码本】/Day One.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "387e035d39cd62f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-projects:打开项目": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aa713349c9860da8",
+  "lastOpenFiles": [
+    "UNSW Commerce/COMM1170.md",
+    "UNSW Commerce/2025 T2 General Commerce.md",
+    "澳洲信息.md",
+    "UNSW Commerce/COMM1120.md",
+    "游戏相关/Game Database/9-nine-春色春恋春熙风.md",
+    "游戏相关/Game Database/9-nine-天色天歌天籁音.md",
+    "游戏相关/Game Database/9-nine-雪色雪花雪之痕.md",
+    "番剧相关/Anime Database/魔女与使魔.md",
+    "番剧相关/Anime Database/末日后酒店.md",
+    "番剧相关/Anime Database/碧蓝之海.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/(音乐制作人)/音乐_エラーズ.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/(音乐制作人)/音乐_オブ.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/(音乐制作人)/音乐_マニュアル.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（导演）/导演_高松信司.md",
+    "番剧相关/Anime Element/（动画公司）/ゼロジー.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（音监）/音监_阿部秀平、高松信司.md",
+    "Home.components",
+    "美国物料生意/启动 2025.6.11.md",
+    "美国物料生意/北美接单 2025.6账单.md",
+    "美国物料生意/北美接单 主页.md",
+    "para-sample-vault2/组件/导航栏.md",
+    "(Attachments)/Pasted image 20250529221303.png",
+    "(Attachments)/COMM1120 Assessment Guide- T2 2025.pdf",
+    "UNSW Commerce/COMM1190_.md",
+    "(Attachments)/Pasted image 20250529221535.png",
+    "(Attachments)/COMM1170-T2-2025 Assessment Guide Final Word.pdf",
+    "Anime Home Page.md",
+    "【密码本】.md",
+    "随手记/day/20250324.md",
+    "随手记/day/20250310 夏日口袋.md",
+    "番剧相关/Anime Element/（动画业界名人堂）/（导演）/导演_小林智樹.md",
+    "(Attachments)/p455723402.webp",
+    "(Attachments)/s35032734.jpg",
+    "(Attachments)/p2306409195.webp",
+    "(Attachments)/中文攻略（剧情部分）.txt",
+    "para-sample-vault2/组件/DVJS-多条件复合检索V2.components",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LL078C1YV6G.info/PixPin_2025-01-07_08-56-28_thumbnail.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LL078C1YV6G.info/PixPin_2025-01-07_08-56-28.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LL078C1YV6G.info/metadata.json",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LL078C1YV6G.info",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LKZE458FZI8.info/PixPin_2025-01-07_08-55-50.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LKZE458FZI8.info/metadata.json",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LKZE458FZI8.info/PixPin_2025-01-07_08-55-50_thumbnail.png",
+    "(Attachments)/LETITBE_MacM4Pro.library/images/M5LKZE458FZI8.info",
+    "未命名",
+    "Obsidian_插件推荐.png"
+  ]
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="custom-question-type"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: '<svg>...https://publish-01.obsidian.md/access/cf01a21839823cd6cbe18031acf708c0/%E9%99%84%E4%BB%B6/Engelbart.jpg svg...</svg>';
+}

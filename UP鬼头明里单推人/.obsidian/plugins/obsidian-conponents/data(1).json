@@ -1,0 +1,15 @@
+{
+  "createComponentSilent": false,
+  "receiveBetaVersion": false,
+  "folder": "para-sample-vault2/组件",
+  "formFolder": "components/form",
+  "scriptFolder": "para-sample-vault2/组件",
+  "enableDebug": false,
+  "debugLogOutputFolder": "components/logs",
+  "fileEntrypoints": {},
+  "DEFAULT_SETTINGS": {
+    "folder": "",
+    "createComponentSilent": false,
+    "scriptFolder": "components/scripts"
+  }
+}

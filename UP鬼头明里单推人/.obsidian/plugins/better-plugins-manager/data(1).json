@@ -1,0 +1,298 @@
+{
+  "PERSISTENCE": false,
+  "FILTER_TAG": "",
+  "FILTER_GROUP": "",
+  "FILTER_DELAY": "",
+  "LANGUAGE": "zh-cn",
+  "CENTER": true,
+  "ITEM_STYLE": "alwaysExpand",
+  "GROUP_STYLE": "a",
+  "TAG_STYLE": "b",
+  "DELAY": true,
+  "FADE_OUT_DISABLED_PLUGINS": true,
+  "COMMAND_ITEM": true,
+  "COMMAND_GROUP": true,
+  "GROUPS": [
+    {
+      "id": "default",
+      "name": "备用",
+      "color": "#A079FF"
+    },
+    {
+      "id": "obsidian",
+      "name": "必开",
+      "color": "#c958fe"
+    },
+    {
+      "id": "Decoration",
+      "name": "美化",
+      "color": "#1affb2"
+    },
+    {
+      "id": "Auto",
+      "name": "自动化",
+      "color": "#000000"
+    },
+    {
+      "id": "BUG",
+      "name": "不好用",
+      "color": "#397bfe"
+    }
+  ],
+  "TAGS": [
+    {
+      "id": "default",
+      "name": "默认标签",
+      "color": "#A079FF"
+    }
+  ],
+  "DELAYS": [
+    {
+      "id": "default",
+      "name": "十秒延迟",
+      "time": 10
+    },
+    {
+      "id": "5s",
+      "name": "五秒延迟",
+      "time": 5
+    }
+  ],
+  "Plugins": [
+    {
+      "id": "dataview",
+      "name": "Dataview 快速信息检索",
+      "desc": "Complex data views for the data-obsessed.",
+      "group": "obsidian",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "date-inserter",
+      "name": "Date Inserter 快速插入日期",
+      "desc": "Insert a date at the cursor position using a calendar.",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "editing-toolbar",
+      "name": "Editing Toolbar 类Office功能栏",
+      "desc": "The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.",
+      "group": "BUG",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "floating-toc",
+      "name": "floating toc 右侧简易目录",
+      "desc": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar.",
+      "group": "default",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "highlightr-plugin",
+      "name": "Highlightr 快速高亮不同颜色",
+      "desc": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨.",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "homepage",
+      "name": "Homepage 主页设置",
+      "desc": "Open a specified note, canvas, or workspace on startup, or set it for quick access later.",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "mass-create",
+      "name": "Mass Create 快速批量创建",
+      "desc": "Create large quantities of notes easily at one time.",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "mousewheel-image-zoom",
+      "name": "Mousewheel Image zoom 快速放大缩小图片",
+      "desc": "This plugin enables you to increase/decrease the size of an image by scrolling",
+      "group": "default",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-bartender",
+      "name": "Bartender 文件夹排列",
+      "desc": "Allows for rearranging the elements in the status bar and sidebar ribbon允许重新排列状态栏和侧边栏中的元素",
+      "group": "obsidian",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "components",
+      "name": "Components 主页编辑器",
+      "desc": "create component for your obsidian",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-douban-plugin",
+      "name": "Douban 豆瓣信息录入",
+      "desc": "This is a plugin that can import movies/books/musics/notes/games info data from Douban for Obsidian .",
+      "group": "Auto",
+      "tags": [],
+      "enabled": true,
+      "delay": "default"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin",
+      "name": "Excalidraw 高级画板",
+      "desc": "An Obsidian plugin to edit and view Excalidraw drawings",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-export-image",
+      "name": "Export Image plugin 笔记导出图片",
+      "desc": "Easily convert your article to image.",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-icon-folder",
+      "name": "Iconize 文件夹添加图标",
+      "desc": "Add icons to anything you desire in Obsidian, including files, folders, and text.",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-image-toolkit",
+      "name": "Image Toolkit 查看图片大图",
+      "desc": "This plugin provides some image viewing toolkit.",
+      "group": "default",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-importer",
+      "name": "Importer 批量导入外部笔记",
+      "desc": "Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.",
+      "group": "Auto",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-language-learner",
+      "name": "Language Learner 英语学习卡",
+      "desc": "阅读、查词、复习、使用、统计全部合一的语言学习插件",
+      "group": "Auto",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "link-favicon",
+      "name": "Link Favicons 网站链接添加图标",
+      "desc": "See the favicon for a linked website. ",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-list-callouts",
+      "name": "List Callouts 添加列表颜色",
+      "desc": "Create simple callouts in lists.",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "number-headings-obsidian",
+      "name": "Number Headings 一键添加标题",
+      "desc": "Automatically number or re-number headings in an Obsidian document",
+      "group": "Decoration",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-projects",
+      "name": "Projects 项目集成",
+      "desc": "Plain text project planning.",
+      "group": "obsidian",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian42-brat",
+      "name": "BRAT 测试插件开启",
+      "desc": "Easily install a beta version of a plugin for testing.",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "outliner-md",
+      "name": "Outliner.md （不知道干什么的）",
+      "desc": "Powerful outliner (editor) view for Obsidian.",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "quickadd",
+      "name": "QuickAdd",
+      "desc": "Quickly add new pages or content to your vault.",
+      "group": "Auto",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "recent-files-obsidian",
+      "name": "Recent Files 历史文件记录",
+      "desc": "List files by most recently opened",
+      "group": "default",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "templater-obsidian",
+      "name": "Templater 高级模板插入",
+      "desc": "Create and use templates",
+      "group": "Auto",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    }
+  ],
+  "HIDES": []
+}

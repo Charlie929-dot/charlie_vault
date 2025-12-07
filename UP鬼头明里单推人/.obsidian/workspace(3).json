@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "a4f91a8a12e9d4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe132d51b375794d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76a922ee06770e3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "components-file-view",
+              "state": {
+                "file": "Home.components"
+              },
+              "pinned": true,
+              "icon": "gantt-chart",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "39b030b4da009626",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d03c92054d65d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2af6b2724ac36b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94316e4159891162",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c9693528be87c3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "716fb7de0c9acead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Anime/2025/5",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c92cd5c134819ca3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.00328826904297
+  },
+  "right": {
+    "id": "2ec824eb622817ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd0975d6538fc77",
+        "type": "tabs",
+        "dimension": 57.93939393939394,
+        "children": [
+          {
+            "id": "f3a6286384105a05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UEEC/Reflection Writing UEEC U9.md"
+              },
+              "icon": "lucide-list",
+              "title": "Reflection Writing UEEC U9 的大纲"
+            }
+          },
+          {
+            "id": "93d0fc276d6690f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "澳洲信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "澳洲信息 的反向链接列表"
+            }
+          },
+          {
+            "id": "0c958827c292186c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "番剧相关/Anime Database/败犬女主太多了！.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "败犬女主太多了！ 的出链列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0690d19e25f7158a",
+        "type": "tabs",
+        "dimension": 42.06060606060606,
+        "children": [
+          {
+            "id": "63834918800c5bc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "92ae5b759e575875",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "better-plugins-manager:插件管理器": false
+    }
+  },
+  "active": "39b030b4da009626",
+  "lastOpenFiles": [
+    "游戏相关/Game Database/这个座位有人坐吗？.md",
+    "Home.components",
+    "番剧相关/寓教于乐、文化输出类番剧.md",
+    "番剧相关/悬疑、推理类番剧.md",
+    "250521_1010077862@qq.com_components_license.md",
+    "美国物料生意/外卖代订餐厅文案一.md",
+    "美国物料生意/北美接单 主页.md",
+    "UNSW Commerce/COMM1120 A4 Reflection.md",
+    "UNSW Commerce/COMM1170 演讲稿.md",
+    "UNSW Commerce/COMM1120.md",
+    "UNSW Commerce/COMM1170.md",
+    "【密码本】.md",
+    "澳洲信息.md",
+    "（Template）/游戏模板.md",
+    "游戏相关/Game Database/超级忍 反攻的斩击.md",
+    "(Attachments)/Pasted image 20250810213602.png",
+    "美国物料生意/外卖代订餐厅文案二.md",
+    "美国物料生意/2025.6.29出料.md",
+    "美国物料生意/启动 2025.6.11.md",
+    "(Attachments)/~$non vbv bin.xlsx",
+    "美国物料生意/卡料教学 2025.6.12.md",
+    "para-sample-vault2/组件/导航栏.md",
+    "美国物料生意/2025.6.30出料.md",
+    "游戏相关/Game Database/拉塔坦 Ratatan Demo.md",
+    "音频学习 笔记/音效参考.md",
+    "UNSW Commerce/COMM1190_.md",
+    "Obsidian 相关/Dataview 语法实战.md",
+    "Excalidraw/Untitled.canvas",
+    "(Attachments)/Pasted image 20250723104943.png",
+    "(Attachments)/Pasted image 20250716094150.png",
+    "(Attachments)/Pasted image 20250716100708.png",
+    "(Attachments)/Pasted image 20250716091748.png",
+    "(Attachments)/Pasted image 20250716093301.png",
+    "(Attachments)/PixPin_2025-04-21_21-39-01.png",
+    "(Attachments)/PixPin_2025-06-17_02-08-56.png",
+    "(Attachments)/PixPin_2025-06-17_02-09-29.png",
+    "(Attachments)/PixPin_2025-06-17_02-10-08.png",
+    "Excalidraw/未命名.canvas",
+    "Excalidraw/未命名 1.canvas",
+    "寓教于乐",
+    "para-sample-vault2/组件/DVJS-多条件复合检索V2.components",
+    "(Attachments)/2025.6.24 小额 1.txt",
+    "(Attachments)/2025.6.25 小额.txt",
+    "(Attachments)/6.23 下午买.txt",
+    "(Attachments)/2025.6.24 小额.txt",
+    "(Attachments)/KW (6).txt",
+    "(Attachments)/6.13 准备用.txt",
+    "Excalidraw/Ave Mujica 画板.canvas"
+  ]
+}
