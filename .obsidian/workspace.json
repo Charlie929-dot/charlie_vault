@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/配置obsidian/同步.md",
-                "mode": "preview",
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "同步"
+              "title": "嵌入网页test（B站）"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/配置obsidian/同步.md",
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "同步 的大纲"
+              "title": "嵌入网页test（B站） 的大纲"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "2aeca9929d58bdee",
   "lastOpenFiles": [
-    "README.md",
     "obsidian/配置obsidian/同步.md",
+    "obsidian/配置obsidian/嵌入网页test（B站）.md",
+    "README.md",
     "obsidian/配置obsidian/插件.md",
     "LaTeX/数学公式test.md",
     "Git插件.md",
