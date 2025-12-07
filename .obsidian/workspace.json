@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/笔记工具库.md",
+                "file": "obsidian/配置obsidian/同步.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "笔记工具库"
+              "title": "同步"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "d40b9411c73c61d3",
   "lastOpenFiles": [
+    "obsidian/tool/笔记工具库.md",
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "conflict-files-obsidian-git.md",
     "Charlie",
@@ -241,7 +242,6 @@
     "LaTeX/数学公式test.md",
     "Git插件.md",
     "obsidian/code repository/笔记工具库.md",
-    "obsidian/tool/笔记工具库.md",
     "切换到D盘.md",
     "寻深足迹/寻深足迹.md",
     "寻深足迹/在追.md",
