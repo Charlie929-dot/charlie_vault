@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e06186f3f0a4ee5e",
+        "id": "e8582600d1bbd993",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ab858cbf6df41a",
+            "id": "2aeca9929d58bdee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/配置obsidian/插件.md",
+                "file": "obsidian/配置obsidian/同步.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -21,14 +21,14 @@
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": true,
+                  "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "插件"
+              "title": "同步"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/配置obsidian/插件.md",
+                "file": "obsidian/配置obsidian/同步.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "插件 的大纲"
+              "title": "同步 的大纲"
             }
           }
         ],
@@ -183,18 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ab858cbf6df41a",
+  "active": "2aeca9929d58bdee",
   "lastOpenFiles": [
-    "Git插件.md",
+    "README.md",
     "obsidian/配置obsidian/同步.md",
     "obsidian/配置obsidian/插件.md",
+    "LaTeX/数学公式test.md",
+    "Git插件.md",
     "obsidian/code repository/笔记工具库.md",
     "obsidian/tool/笔记工具库.md",
     "切换到D盘.md",
-    "README.md",
     "寻深足迹/寻深足迹.md",
     "寻深足迹/在追.md",
-    "LaTeX/数学公式test.md",
     "obsidian/py/pandas/知识点.md",
     "寻深足迹/未命名",
     "寻深足迹",
