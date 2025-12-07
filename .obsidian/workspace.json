@@ -13,8 +13,8 @@
             "state": {
               "type": "pkmer-downloader",
               "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "icon": "lucide-ghost",
+              "title": "pkmer-downloader"
             }
           },
           {
@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,8 +47,8 @@
             "state": {
               "type": "mx-welcome",
               "state": {},
-              "icon": "home",
-              "title": "Media Extended onboarding"
+              "icon": "lucide-ghost",
+              "title": "mx-welcome"
             }
           }
         ],
