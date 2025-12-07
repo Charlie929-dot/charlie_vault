@@ -32,8 +32,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "obsidian/配置obsidian": "LiSettings",
-  "obsidian/py": "LiComputer",
-  "obsidian/tool": "🧰"
+  }
 }

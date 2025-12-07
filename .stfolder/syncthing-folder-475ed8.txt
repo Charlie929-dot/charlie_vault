@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: charlie_vault(mobile)
-created: 2025-12-07T22:45:41+08:00

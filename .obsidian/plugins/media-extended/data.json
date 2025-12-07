@@ -1,5 +1,6 @@
 {
   "__VERSION__": 1,
+  "release.previous-version": "4.0.0",
   "release.show-release-notes": true,
   "playback.default-volume": 100,
   "playback.speed-step": 0.1,
@@ -19,6 +20,5 @@
   "note.template.screenshot": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
   "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|50",
   "note.template.insert-at": "after-cursor",
-  "media-lib.folder-path": "media-lib",
-  "release.previous-version": "4.0.0"
+  "media-lib.folder-path": "media-lib"
 }
