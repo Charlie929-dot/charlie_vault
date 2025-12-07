@@ -16,8 +16,33 @@
               "icon": "bookmark",
               "title": "Pkmer Market"
             }
+          },
+          {
+            "id": "1d443770a1aad8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入网页test（B站）"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "嵌入网页test（B站） 的大纲"
             }
           }
         ],
@@ -165,10 +191,11 @@
       "workspaces:管理工作区布局": false,
       "bases:创建新数据库": false,
       "pkmer:Open Pkmer Market": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "2aeca9929d58bdee",
+  "active": "1d443770a1aad8ec",
   "lastOpenFiles": [
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "obsidian/配置obsidian/同步.md",
