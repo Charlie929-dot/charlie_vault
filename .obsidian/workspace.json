@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -43,6 +43,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fb324866a7a7db23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f8e45aaec1ae7f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/配置obsidian/嵌入网页test（B站）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "嵌入网页test（B站） 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -195,7 +210,7 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "1d443770a1aad8ec",
+  "active": "97f8e45aaec1ae7f",
   "lastOpenFiles": [
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "obsidian/配置obsidian/同步.md",
