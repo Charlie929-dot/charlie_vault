@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/movie/你的名字。.md",
+                "file": "心得/鹤唳华亭.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "你的名字。"
+              "title": "鹤唳华亭"
             }
           }
         ]
@@ -187,7 +187,8 @@
       "bases:创建新数据库": false,
       "pkmer:Open Pkmer Market": false,
       "media-extended:Open external media": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -230,10 +231,16 @@
       }
     ]
   },
-  "active": "f85b85612d3a4d18",
+  "active": "0e67363f04eb5f55",
   "lastOpenFiles": [
-    "（Template）/movie/天气之子.md",
+    "2025-12-11.md",
+    "心得/鹤唳华亭.md",
+    "（Template）/音乐模板.md",
+    "（Template）/书籍模板.md",
+    "（Template）/日记模板.md",
+    "（Template）/番剧模板.md",
     "（Template）/movie/你的名字。.md",
+    "（Template）/movie/天气之子.md",
     "（Template）/movie/大鱼海棠.md",
     "daily/2025-12-10.md",
     "（Template）/book/_明朝那些事儿（1-9）_.md",
@@ -249,21 +256,15 @@
     "43bbf23f5984698fa7fddbf3f29059e8_MD5.jpg",
     "Pasted image 20251210232612.png",
     "obsidian/教程",
-    "（Template）/日记模板.md",
     "obsidian/配置obsidian/test.md",
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "（Template）/music/达拉崩吧.md",
-    "（Template）/番剧模板.md",
-    "（Template）/书籍模板.md",
-    "（Template）/音乐模板.md",
     "obsidian/tool/笔记工具库.md",
     "（Template）/book/明朝那些事儿.md",
     "（Template）/book/被讨厌的勇气.md",
     "daily/z.md",
     "daily/未命名 3.md",
     "（Template）/book/许三观卖血记.md",
-    "daily/s.md",
-    "(Attachments).md",
     "未命名 4.base",
     "未命名 2.base",
     "(Attachments)/s33828853.jpg",
