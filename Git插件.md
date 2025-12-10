@@ -1,0 +1,16 @@
+
+- 登陆Github（[[无法访问？]]）创建repository X	
+- 安装[Git客户端](https://desktop.github.com/download/)
+		- 安装
+		- clone X
+		- 创建 .gitignore
+			- 进入.git所在目录 `cd [/d][^切换到D盘] [path]`
+			- 创建文件`echo > .gitignore`
+		- 手动同步
+			- 输入summary
+			- commit
+			- push origin
+- 设置自动同步
+		- 安装Git插件
+		- 勾选commit&sync
+		- 勾选pull on startup

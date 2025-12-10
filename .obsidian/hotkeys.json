@@ -1,1 +1,11 @@
-{}
+{
+  "templater-obsidian:（Template）/日记模板.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}

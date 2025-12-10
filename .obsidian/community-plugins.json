@@ -4,7 +4,12 @@
   "obsidian-latex-suite",
   "pkmer",
   "editing-toolbar",
-  "obsidian-git",
   "mx-bili-plugin",
-  "media-extended"
+  "media-extended",
+  "obsidian-douban-plugin",
+  "obsidian-local-images-plus",
+  "highlightr-plugin",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-git"
 ]
