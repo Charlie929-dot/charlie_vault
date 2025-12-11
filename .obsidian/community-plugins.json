@@ -12,5 +12,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "better-export-pdf"
 ]
