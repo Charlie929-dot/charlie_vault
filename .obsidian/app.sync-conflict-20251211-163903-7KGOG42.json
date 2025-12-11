@@ -1,0 +1,29 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "highlightr-plugin:highlighter-plugin-menu",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "bookmarks:bookmark-current-section",
+    "bookmarks:bookmark-current-heading",
+    "editor:toggle-inline-math",
+    "insert-current-date",
+    "editor:attach-file",
+    "editor:insert-link",
+    "editor:set-heading",
+    "editor:toggle-strikethrough",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "editor:swap-line-up",
+    "editor:swap-line-down"
+  ]
+}

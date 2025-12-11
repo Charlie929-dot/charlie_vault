@@ -32,7 +32,8 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Enter"
+        "key": "Ctrl+Enter",
+        "hideHotkeyGuide": false
       }
     ],
     "select with custom alias": [],
