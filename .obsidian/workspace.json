@@ -15,7 +15,7 @@
               "state": {
                 "file": "daily/2025-12-12.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -200,10 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e617775c7aa2cf87",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
-    "test/DailyLog.md",
+    "daily/222.md",
     "daily/2025-12-12.md",
+    "test/DailyLog.md",
+    "test/111.md",
     "（Template）/音乐模板.md",
     "（Template）/日记模板.md",
     "西沣路(兴隆段) 23.m4a",
@@ -242,7 +244,6 @@
     "任务总览.md",
     "daily/2025-12-10.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "寻深足迹/寻深足迹.md",
     "2dc5c19b5079827de9e4eaaf2c52a859_MD5.jpg",
     "Pasted image 20251210232925.png",
     "43bbf23f5984698fa7fddbf3f29059e8_MD5.jpg",
