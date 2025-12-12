@@ -10,6 +10,7 @@
 
 ```dataview
 TABLE t as "时间", d as "做了什么"
+LIST
 WHERE file.name = "2025-12-12"
 FLATTEN rows
 WHERE t >= dateformat(file.day, "HH:mm")
