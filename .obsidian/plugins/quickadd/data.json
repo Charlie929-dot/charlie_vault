@@ -16,15 +16,15 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [t::<% moment().format('HH:mm') %>] [d::{{VALUE:做了什么？}}]"
+        "format": "- [t::<% moment().format('HH:mm') %>] [d::{{VALUE:做了什么？}}]\\n"
       },
       "insertAfter": {
         "enabled": true,
         "after": "<\\!-- 这里插入 -->",
-        "insertAtEnd": false,
+        "insertAtEnd": true,
         "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "cursor"
       },
       "newLineCapture": {
         "enabled": false,
