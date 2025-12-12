@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +202,9 @@
   },
   "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
+    "（Template）/日记模板.md",
+    "daily/2025-12-12.md",
     "西沣路(兴隆段) 23.m4a",
     "obsidian/配置obsidian/test.md",
     "IMG_20251212_140751.jpg",
@@ -223,16 +227,12 @@
     "~syncthing~西沣路(兴隆段) 23.m4a.tmp",
     "文摘/~syncthing~思辨.md.tmp",
     "~syncthing~J，P人格是否有优劣之分.md.tmp",
-    "~syncthing~未命名 1.md.tmp",
     "obsidian/配置obsidian/同步.md",
-    "daily/2025-12-12.md",
     "test/DailyLog.md",
     "未命名.md",
     "未命名看板.md",
     "（Template）/LogEntry.md",
-    "（Template）/日记模板.md",
     "刷B站20min.md",
-    "（Template）/音乐模板.md",
     "（Template）/番剧模板.md",
     "英语小组作业.md",
     "a.canvas",
