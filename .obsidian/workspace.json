@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/daily templater.md",
+                "file": "（Template）/LogEntry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "daily templater"
+              "title": "LogEntry"
             }
           }
         ]
@@ -202,6 +202,7 @@
   "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
     "（Template）/音乐模板.md",
+    "（Template）/daily template.md",
     "（Template）/番剧模板.md",
     "daily/2025-12-12.md",
     "英语小组作业.md",
@@ -229,7 +230,6 @@
     "obsidian/教程/未命名.md",
     "心得/鹤唳华亭.md",
     "（Template）/书籍模板.md",
-    "（Template）/daily templater.md",
     "（Template）/movie/你的名字。.md",
     "（Template）/movie/天气之子.md",
     "（Template）/movie/大鱼海棠.md",

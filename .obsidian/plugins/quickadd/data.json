@@ -71,7 +71,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "（Template）",
   "announceUpdates": "all",
   "version": "2.9.0",
   "globalVariables": {},
