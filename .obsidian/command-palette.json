@@ -1,5 +1,7 @@
 {
   "pinned": [
-    "number-headings-obsidian:number-headings"
+    "number-headings-obsidian:number-headings",
+    "quickadd:runQuickAdd",
+    "note-refactor-obsidian:app:extract-selection-content-only"
   ]
 }
