@@ -1,1 +1,0 @@
-- [t::<% moment().format('HH:mm') %>] [d::{{VALUE:做了什么？}}]

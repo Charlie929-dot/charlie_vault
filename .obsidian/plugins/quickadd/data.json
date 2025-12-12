@@ -7,7 +7,7 @@
       "command": false,
       "appendLink": false,
       "captureTo": "test/DailyLog.md",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -19,7 +19,7 @@
         "format": "- [t::<% moment().format('HH:mm') %>] [d::{{VALUE:做了什么？}}]\\n"
       },
       "insertAfter": {
-        "enabled": true,
+        "enabled": false,
         "after": "<\\!-- 这里插入 -->",
         "insertAtEnd": true,
         "considerSubsections": false,
@@ -39,34 +39,6 @@
         "mode": "default",
         "focus": true
       }
-    },
-    {
-      "id": "8b5fdb5e-177a-4131-953f-09051c1d040c",
-      "name": "行为日志模板",
-      "type": "Template",
-      "command": false,
-      "templatePath": "（Template）/LogEntry.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
