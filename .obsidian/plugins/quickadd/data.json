@@ -6,48 +6,8 @@
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "<\\!-- 这里插入 -->",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      }
-    },
-    {
-      "id": "06acfebe-3494-40cb-a22a-9f199904373e",
-      "name": "行为日志 (copy)",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
+      "captureTo": "test/DailyLog.md",
+      "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": false,

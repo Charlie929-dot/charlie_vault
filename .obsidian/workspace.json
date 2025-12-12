@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/LogEntry.md",
+                "file": "test/DailyLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LogEntry"
+              "title": "DailyLog"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
-    "test/DailyLog.md",
     "（Template）/LogEntry.md",
+    "test/DailyLog.md",
     "test",
     "（Template）/音乐模板.md",
     "（Template）/日记模板.md",
