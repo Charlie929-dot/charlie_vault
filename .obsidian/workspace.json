@@ -11,10 +11,15 @@
             "id": "e617775c7aa2cf87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/配置obsidian/test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ]
@@ -196,6 +201,8 @@
   },
   "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
+    "obsidian/配置obsidian/同步.md",
+    "obsidian/配置obsidian/test.md",
     "daily/2025-12-12.md",
     "test/DailyLog.md",
     "test",
@@ -220,7 +227,6 @@
     "文摘",
     "任务总览.md",
     "daily/2025-12-10.md",
-    "obsidian/配置obsidian/test.md",
     "obsidian/tool/Markdown+语法手册.md",
     "寻深足迹/寻深足迹.md",
     "obsidian/配置obsidian/嵌入网页test（B站）.md",

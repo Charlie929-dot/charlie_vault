@@ -9,7 +9,8 @@ sort file.name desc
 calendar file.mtime
 ```
 
-```timeline
+```mermaid
+timeline
     title Timeline of Industrial Revolution
     section 17th-20th century
         Industry 1.0 : Machinery, Water power, Steam <br>power
