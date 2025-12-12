@@ -10,7 +10,7 @@
 
 ```dataview
 TABLE t as "时间", d as "做了什么"
-WHERE file.name = "222"
+WHERE file.name = "111"
 FLATTEN rows
 WHERE t >= dateformat(file.day, "HH:mm")
 SORT t ASC

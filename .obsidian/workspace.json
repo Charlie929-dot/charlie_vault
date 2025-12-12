@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-12.md",
+                "file": "test/DailyLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "DailyLog"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1338ba4b2a781139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ae452eb99c4bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/111.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "111"
             }
           }
         ]
@@ -200,12 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9067ac6211037568",
+  "active": "83ae452eb99c4bee",
   "lastOpenFiles": [
-    "daily/222.md",
-    "daily/2025-12-12.md",
     "test/DailyLog.md",
     "test/111.md",
+    "daily/2025-12-12.md",
+    "daily/222.md",
     "（Template）/音乐模板.md",
     "（Template）/日记模板.md",
     "西沣路(兴隆段) 23.m4a",
