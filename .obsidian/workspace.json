@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/LogEntry.md",
+                "file": "test/DailyLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LogEntry"
+              "title": "DailyLog"
             }
           }
         ]
@@ -201,8 +201,11 @@
   },
   "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
+    "（Template）/LogEntry.md",
+    "test/DailyLog.md",
+    "test",
     "（Template）/音乐模板.md",
-    "（Template）/daily template.md",
+    "（Template）/日记模板.md",
     "（Template）/番剧模板.md",
     "daily/2025-12-12.md",
     "英语小组作业.md",
@@ -223,7 +226,6 @@
     "obsidian/配置obsidian/test.md",
     "obsidian/tool/Markdown+语法手册.md",
     "寻深足迹/寻深足迹.md",
-    "未命名",
     "obsidian/配置obsidian/嵌入网页test（B站）.md",
     "daily/未命名.md",
     "2025-12-11.md",
@@ -236,8 +238,6 @@
     "（Template）/book/_明朝那些事儿（1-9）_.md",
     "2dc5c19b5079827de9e4eaaf2c52a859_MD5.jpg",
     "Pasted image 20251210232925.png",
-    "syncthing.md",
-    "Git插件.md",
     "未命名.base",
     "43bbf23f5984698fa7fddbf3f29059e8_MD5.jpg",
     "Pasted image 20251210232612.png",
