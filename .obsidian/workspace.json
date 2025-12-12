@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/DailyLog.md",
+                "file": "daily/2025-12-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DailyLog"
+              "title": "2025-12-12"
             }
           }
         ]
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e617775c7aa2cf87",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
     "test/DailyLog.md",
     "daily/2025-12-12.md",
