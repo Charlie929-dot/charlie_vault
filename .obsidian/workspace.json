@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/Markdown+语法手册.md",
+                "file": "test/DailyLog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markdown+语法手册"
+              "title": "DailyLog"
             }
           },
           {
@@ -28,16 +28,15 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://forum-zh.obsidian.md/c/6-category/6",
-                "title": "最新疑问解答话题 - Obsidian 中文论坛",
+                "url": "https://forum-zh.obsidian.md/t/topic/45195",
+                "title": "【已解决】用dataview或dataviewjs筛选一周的日记 - 疑问解答 - Obsidian 中文论坛",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "最新疑问解答话题 - Obsidian 中文论坛"
+              "title": "【已解决】用dataview或dataviewjs筛选一周的日记 - 疑问解答 - Obsidian 中文论坛"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98e238845573318e",
+  "active": "e617775c7aa2cf87",
   "lastOpenFiles": [
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2025-12-12.md",
