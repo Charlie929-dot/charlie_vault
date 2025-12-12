@@ -10,9 +10,9 @@
   "obsidian-local-images-plus",
   "highlightr-plugin",
   "templater-obsidian",
-  "dataview",
   "obsidian-git",
   "obsidian-tasks-plugin",
   "better-export-pdf",
-  "quickadd"
+  "quickadd",
+  "dataview"
 ]
