@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/结构体作业.md",
-                "mode": "preview",
+                "file": "daily/2025-12-11.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "结构体作业"
+              "title": "2025-12-11"
             }
           }
         ],
@@ -172,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -186,7 +186,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,16 +197,18 @@
       "pkmer:Open Pkmer Market": false,
       "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian42-text-transporter:Text Transporter": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "obsidian/配置obsidian/test.md",
+    "obsidian/tool/疑难解答.md",
+    "test/结构体作业.md",
     "daily/2025-12-13.md",
     "Git插件.md",
     "obsidian/配置obsidian/同步.md",
-    "test/结构体作业.md",
     "test/DailyLog.md",
     "daily/~syncthing~2025-12-13.sync-conflict-20251213-185816-7KGOG42.md.tmp",
     "未命名.md",
@@ -217,7 +218,6 @@
     "寻深足迹/寻深足迹.md",
     "daily/2025-12-10.md",
     "daily/2025-12-12.md",
-    "obsidian/tool/疑难解答.md",
     "obsidian/配置obsidian/插件.md",
     "[[文摘]].md",
     "daily/2025-12-11.md",
@@ -232,7 +232,6 @@
     "（Template）/movie/你的名字。.md",
     "（Template）/movie/天气之子.md",
     "（Template）/movie/叶问.md",
-    "（Template）/book/许三观卖血记.md",
     "(Attachments)/s33828853.jpg",
     "(Attachments)/s33620095.jpg",
     "(Attachments)/s33516907.jpg",
