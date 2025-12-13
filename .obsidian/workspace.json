@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-13.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -214,9 +214,10 @@
   },
   "active": "8dbc982e87feb998",
   "lastOpenFiles": [
+    "[[文摘]].md",
+    "daily/2025-12-13.md",
     "obsidian/配置obsidian/同步.md",
     "daily/2025-12-11.md",
-    "daily/2025-12-13.md",
     "daily/2025-12-12.md",
     "new_note_title.md",
     "文摘/文摘.md",
@@ -245,7 +246,6 @@
     "（Template）/book/海底两万里.md",
     "（template）/book/许三观卖血记.md",
     "（template）/book/明朝那些事儿.md",
-    "（template）/book/_明朝那些事儿（1-9）_.md",
     "（template）/book",
     "(Attachments)/s1817666.jpg",
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
