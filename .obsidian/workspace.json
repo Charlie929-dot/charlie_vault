@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/疑难解答.md",
+                "file": "daily/2025-12-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "2025-12-13"
             }
           }
         ]
@@ -202,12 +202,12 @@
   },
   "active": "2c51d8ea870352cc",
   "lastOpenFiles": [
+    "obsidian/tool/疑难解答.md",
     "daily/2025-12-13.sync-conflict-20251213-135511-6GKZXX3.md",
     "文摘/~syncthing~文摘.md.tmp",
     "daily/~syncthing~2025-12-13.md.tmp",
     "py/pandas/知识点.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
