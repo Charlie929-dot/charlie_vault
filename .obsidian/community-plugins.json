@@ -19,5 +19,7 @@
   "better-export-pdf",
   "note-refactor-obsidian",
   "obsidian-plugin-toc",
-  "obsidian-memos"
+  "obsidian-memos",
+  "floating-toc",
+  "obsidian-admonition"
 ]
