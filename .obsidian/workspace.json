@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -214,13 +214,13 @@
   },
   "active": "8dbc982e87feb998",
   "lastOpenFiles": [
-    "[[文摘]].md",
+    "文摘/文摘.md",
     "daily/2025-12-13.md",
+    "[[文摘]].md",
     "obsidian/配置obsidian/同步.md",
     "daily/2025-12-11.md",
     "daily/2025-12-12.md",
     "new_note_title.md",
-    "文摘/文摘.md",
     "daily/2025-12-10.md",
     "obsidian/tool/疑难解答.md",
     "文摘/~syncthing~文摘.md.tmp",
