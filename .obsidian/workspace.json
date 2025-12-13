@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-14.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,12 +261,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://pkmer.cn/products/thino/",
-                    "title": "PKMer_社区众筹插件-Thino",
+                    "url": "https://pkmer.cn/products/widget/widgetMarket/",
+                    "title": "PKMer_挂件集市",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "PKMer_社区众筹插件-Thino"
+                  "title": "PKMer_挂件集市"
                 }
               }
             ]
@@ -282,7 +282,7 @@
       }
     ]
   },
-  "active": "19265d4b93e53d15",
+  "active": "103f4a0ae2039c81",
   "lastOpenFiles": [
     "C语言结构体.md",
     "daily/2025-12-14.md",
