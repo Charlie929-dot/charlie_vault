@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-13.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -202,9 +202,9 @@
   },
   "active": "2c51d8ea870352cc",
   "lastOpenFiles": [
-    "daily/2025-12-12.md",
-    "daily/2025-12-13.md",
     "（Template）/日记模板.md",
+    "daily/2025-12-13.md",
+    "daily/2025-12-12.md",
     "（Template）/2025-12-13.md",
     "test/DailyLog.md",
     "obsidian/tool/疑难解答.md",
