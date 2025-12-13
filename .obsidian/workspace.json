@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/日记模板.md",
+                "file": "daily/2025-12-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "日记模板"
+              "title": "2025-12-12"
             }
           }
         ]
@@ -203,6 +203,7 @@
   "active": "2c51d8ea870352cc",
   "lastOpenFiles": [
     "test/DailyLog.md",
+    "（Template）/2025-12-13.md",
     "daily/2025-12-13.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
@@ -221,7 +222,6 @@
     "(Attachments)/s1817666.jpg",
     "（Template）/番剧模板.md",
     "（Template）/音乐模板.md",
-    "（Template）/日记模板.md",
     "daily/2025-12-11.md",
     "daily/2025-12-12.md",
     "daily/2025-12-10.md",
