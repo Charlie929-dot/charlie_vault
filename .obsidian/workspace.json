@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/疑难解答.md",
+                "file": "daily/2025-12-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "2025-12-13"
             }
           }
         ],
@@ -194,12 +194,13 @@
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "daily/2025-12-12.md",
+    "daily/2025-12-13.md",
     "test/结构体作业.md",
+    "obsidian/tool/疑难解答.md",
     "test/DailyLog.md",
     "obsidian/配置obsidian/test.md",
     "daily/2025-12-11.md",
-    "obsidian/tool/疑难解答.md",
-    "daily/2025-12-13.md",
     "Git插件.md",
     "obsidian/配置obsidian/同步.md",
     "daily/~syncthing~2025-12-13.sync-conflict-20251213-185816-7KGOG42.md.tmp",
@@ -209,7 +210,6 @@
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
     "daily/2025-12-10.md",
-    "daily/2025-12-12.md",
     "obsidian/配置obsidian/插件.md",
     "[[文摘]].md",
     "new_note_title.md",
