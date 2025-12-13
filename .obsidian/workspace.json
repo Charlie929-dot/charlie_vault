@@ -204,8 +204,10 @@
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
-    "未命名.md",
     "daily/2025-12-13.md",
+    "daily/2025-12-13.md",
+    "daily/~syncthing~2025-12-13.sync-conflict-20251213-185816-7KGOG42.md.tmp",
+    "未命名.md",
     "文摘/文摘.md",
     "心得/鹤唳华亭.md",
     "寻深足迹/在追.md",
@@ -231,7 +233,6 @@
     "（Template）/book/许三观卖血记.md",
     "（Template）/日记模板.md",
     "（Template）/2025-12-13.md",
-    "test/DailyLog.md",
     "(Attachments)/s33828853.jpg",
     "(Attachments)/s33620095.jpg",
     "(Attachments)/s33516907.jpg",
@@ -249,7 +250,6 @@
     "IMG_20251212_144002.jpg",
     "IMG_20251212_153309.jpg",
     "~syncthing~IMG_20251212_141121.jpg.tmp",
-    "~syncthing~IMG_20251212_140751.jpg.tmp",
     "a.canvas"
   ]
 }
