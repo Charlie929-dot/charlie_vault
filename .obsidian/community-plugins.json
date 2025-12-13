@@ -3,19 +3,15 @@
   "number-headings-obsidian",
   "obsidian-latex-suite",
   "pkmer",
-  "editing-toolbar",
   "mx-bili-plugin",
   "media-extended",
-  "obsidian-douban-plugin",
   "obsidian-local-images-plus",
   "highlightr-plugin",
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-tasks-plugin",
-  "better-export-pdf",
   "quickadd",
-  "dataview",
   "obsidian42-text-transporter",
-  "reason",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-git",
+  "reason"
 ]
