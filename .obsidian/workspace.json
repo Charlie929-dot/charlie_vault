@@ -21,8 +21,38 @@
               "icon": "lucide-file",
               "title": "书籍模板"
             }
+          },
+          {
+            "id": "03575e043d384e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "（template）/book/海底两万里.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "海底两万里"
+            }
+          },
+          {
+            "id": "85f4545113fed56a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://book.douban.com/subject/1085470/",
+                "title": "海底两万里 (豆瓣)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "海底两万里 (豆瓣)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,11 +230,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c51d8ea870352cc",
+  "active": "85f4545113fed56a",
   "lastOpenFiles": [
+    "（template）/book/海底两万里.md",
+    "（Template）/book/海底两万里.md",
+    "（Template）/书籍模板.md",
+    "（template）/book/许三观卖血记.md",
+    "（template）/book/明朝那些事儿.md",
+    "（template）/book/_明朝那些事儿（1-9）_.md",
+    "（template）/book",
+    "(Attachments)/s1817666.jpg",
     "（Template）/番剧模板.md",
     "（Template）/音乐模板.md",
-    "（Template）/书籍模板.md",
     "（Template）/日记模板.md",
     "daily/2025-12-13.md",
     "daily/2025-12-11.md",
@@ -235,19 +272,12 @@
     "IMG_20251212_140744.jpg",
     "IMG_20251212_144002.jpg",
     "IMG_20251212_153309.jpg",
-    "文摘/思辨.md",
-    "委员会制.md",
-    "J，P人格是否有优劣之分.md",
-    "未命名 1.md",
     "~syncthing~IMG_20251212_141121.jpg.tmp",
     "~syncthing~IMG_20251212_140751.jpg.tmp",
-    "~syncthing~IMG_20251212_140744.jpg.tmp",
-    "社会主义发展史/未命名.md",
     "a.canvas",
     "2dc5c19b5079827de9e4eaaf2c52a859_MD5.jpg",
     "Pasted image 20251210232925.png",
     "43bbf23f5984698fa7fddbf3f29059e8_MD5.jpg",
-    "Pasted image 20251210232612.png",
-    "(Attachments)/s33828853.jpg"
+    "Pasted image 20251210232612.png"
   ]
 }
