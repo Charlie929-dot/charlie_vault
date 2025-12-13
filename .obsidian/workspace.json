@@ -212,47 +212,9 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "floating": {
-    "id": "bc4fdf0f6a1c07a1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c8ed928b0c27b4dc",
-        "type": "window",
-        "children": [
-          {
-            "id": "d87af12313a1edd7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2f041c8605c059dc",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://momentjs.com/docs/#/displaying/format/",
-                    "title": "Moment.js | Docs",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Moment.js | Docs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2f041c8605c059dc",
+  "active": "5c8d7454a069a9f3",
   "lastOpenFiles": [
+    "文摘/文摘.md",
     "daily/2025-12-13.md",
     "daily/2025-12-10.md",
     "obsidian/tool/疑难解答.md",
