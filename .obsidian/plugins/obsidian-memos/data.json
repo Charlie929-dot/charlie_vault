@@ -1,7 +1,7 @@
 {
   "FirstLoaded": false,
   "StartDate": "Sunday",
-  "InsertAfter": "",
+  "InsertAfter": "# diary",
   "UserName": "THINO 😉",
   "ProcessEntriesBelow": "",
   "Language": "en",
@@ -95,7 +95,7 @@
   "DifferentInsertTarget": false,
   "InsertAfterForTask": "",
   "ProcessContentTarget": "custom",
-  "InsertType": "end",
+  "InsertType": "custom",
   "ShareAppendType": "preset",
   "SharePrependType": "preset",
   "SetFileNameAfterCreate": false,
