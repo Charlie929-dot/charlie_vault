@@ -94,15 +94,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.quanxiaoha.com/tools/rgb-color-chart",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "在线 RGB 颜色对照表 - 犬小哈工具",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "在线 RGB 颜色对照表 - 犬小哈工具"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -311,7 +311,7 @@
       }
     ]
   },
-  "active": "368ecf2bceff7a4b",
+  "active": "19265d4b93e53d15",
   "lastOpenFiles": [
     "obsidian/tool/笔记工具库.md",
     "obsidian/tool/翻译工具.md",
