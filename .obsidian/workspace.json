@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "文摘/文摘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "8dbc982e87feb998",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
     "文摘/文摘.md",
     "daily/2025-12-13.md",
