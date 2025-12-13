@@ -43,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,11 @@
       }
     ]
   },
-  "active": "923fb306cb08cf6b",
+  "active": "600e273784fedf55",
   "lastOpenFiles": [
-    "C语言结构体.md",
     "daily/2025-12-13.md",
+    "daily/2025-12-14.md",
+    "C语言结构体.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "test/结构体作业.md",
@@ -282,7 +283,6 @@
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
     "（Template）/movie/你的名字。.md",
-    "（Template）/movie/天气之子.md",
     "(Attachments)/s33828853.jpg",
     "(Attachments)/s33620095.jpg",
     "(Attachments)/s33516907.jpg",
