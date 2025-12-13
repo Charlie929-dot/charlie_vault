@@ -76,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,13 +204,14 @@
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "未命名.md",
+    "daily/2025-12-13.md",
     "文摘/文摘.md",
     "心得/鹤唳华亭.md",
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
     "daily/2025-12-10.md",
     "daily/2025-12-12.md",
-    "daily/2025-12-13.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/配置obsidian/插件.md",
     "[[文摘]].md",
@@ -236,7 +236,6 @@
     "(Attachments)/s33620095.jpg",
     "(Attachments)/s33516907.jpg",
     "(Attachments)/s24575140.jpg",
-    "（Template）/书籍模板.md",
     "（template）/book",
     "(Attachments)/s1817666.jpg",
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
