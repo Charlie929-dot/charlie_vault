@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/Markdown+语法手册.md",
+                "file": "daily/2025-12-13.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markdown+语法手册"
+              "title": "2025-12-13"
             }
           }
         ],
@@ -194,6 +194,7 @@
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "daily/2025-12-13.md",
     "test/结构体作业.md",
@@ -216,7 +217,6 @@
     "文摘/~syncthing~文摘.md.tmp",
     "daily/~syncthing~2025-12-13.md.tmp",
     "py/pandas/知识点.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/临时笔记.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
