@@ -263,25 +263,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "6eb517aa242c9ae6",
+        "id": "dbce32a74e36d30d",
         "type": "window",
         "children": [
           {
-            "id": "ae19001ee9fbad92",
+            "id": "efc38b5d7532526a",
             "type": "tabs",
             "children": [
               {
-                "id": "103f4a0ae2039c81",
+                "id": "3f682e2e6d93d568",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://pkmer.cn/products/widget/widgetMarket/",
-                    "title": "PKMer_挂件集市",
+                    "url": "https://pkmer.cn/products/widget/QuoteDayEditor/",
+                    "title": "PKMer_QuoteDayEditor",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "PKMer_挂件集市"
+                  "title": "PKMer_QuoteDayEditor"
                 }
               }
             ]
@@ -297,7 +297,7 @@
       }
     ]
   },
-  "active": "103f4a0ae2039c81",
+  "active": "e601c027faa3b906",
   "lastOpenFiles": [
     "daily/2025-12-14.md",
     "C语言结构体.md",
