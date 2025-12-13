@@ -11,11 +11,13 @@
   "obsidian-tasks-plugin",
   "quickadd",
   "obsidian42-text-transporter",
-  "note-refactor-obsidian",
   "obsidian-git",
   "editing-toolbar",
   "obsidian-douban-plugin",
   "mermaid-popup",
   "dataview",
-  "better-export-pdf"
+  "better-export-pdf",
+  "note-refactor-obsidian",
+  "obsidian-plugin-toc",
+  "obsidian-memos"
 ]
