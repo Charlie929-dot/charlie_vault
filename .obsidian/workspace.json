@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-14.md",
+                "file": "obsidian/配置obsidian/插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-14"
+              "title": "插件"
             }
           }
         ],
@@ -154,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-14 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -243,12 +242,13 @@
       }
     ]
   },
-  "active": "75cc12de01a4872e",
+  "active": "3f682e2e6d93d568",
   "lastOpenFiles": [
-    "obsidian/tool/Markdown+语法手册.md",
-    "daily/2025-12-14.md",
-    "（Template）/日记模板.md",
+    "obsidian/配置obsidian/插件.md",
     "obsidian/tool/笔记工具库.md",
+    "daily/2025-12-14.md",
+    "obsidian/tool/Markdown+语法手册.md",
+    "（Template）/日记模板.md",
     "obsidian/tool/翻译工具.md",
     "C语言结构体.md",
     "daily/2025-12-13.md",
@@ -267,7 +267,6 @@
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
     "daily/2025-12-10.md",
-    "obsidian/配置obsidian/插件.md",
     "[[文摘]].md",
     "new_note_title.md",
     "文摘/~syncthing~文摘.md.tmp",
