@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,10 +267,10 @@
       }
     ]
   },
-  "active": "71049e6e5ac418e2",
+  "active": "600e273784fedf55",
   "lastOpenFiles": [
-    "C语言结构体.md",
     "daily/2025-12-13.md",
+    "C语言结构体.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "test/结构体作业.md",
