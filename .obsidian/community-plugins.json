@@ -14,5 +14,9 @@
   "obsidian-tasks-plugin",
   "better-export-pdf",
   "quickadd",
-  "dataview"
+  "dataview",
+  "obsidian42-text-transporter",
+  "simple-citations",
+  "reason",
+  "note-refactor-obsidian"
 ]
