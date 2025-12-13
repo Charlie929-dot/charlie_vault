@@ -135,11 +135,97 @@ tags:
 
 1. **书籍排序**  
     使用qsort对结构体数组按价格排序
-    
-2. **成绩排序**  
+```
+#include <stdio.h>
+#include <stdlib.h>
+typedef struct Book 
+{
+    char name[100];
+    int price;
+}BOOK;
+int cmp_by_price(const void* e1, const void* e2)  // psort()排序
+{
+    BOOK* s1 = (BOOK*)e1;          // 指针强制转换
+    BOOK* s2 = (BOOK*)e2;
+    return s1->price - s2->price;
+}
+int main()
+{
+    int n = 0;
+    scanf("%d", &n);
+    BOOK arr[50];
+    for (int i = 0; i < n; i++)
+    {
+        scanf("%s %d", &arr[i].name, &arr[i].price);
+    }
+    int sz = sizeof(arr) / sizeof(arr[0]);
+    qsort(arr, n, sizeof(arr[0]), cmp_by_price);//快排
+    for (int i = 0; i < n; i++)
+    {
+        printf("%s\n", arr[i].name);
+    }
+    return 0;
+}
+```
+1. **成绩排序**  
     多级排序：总分→语文→数学→姓名
-    
-
+```C    
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+typedef struct x
+{
+	char name[11]; //姓名
+	int x;      //语文
+	int y;      //数学
+	int z;      //英语
+	int score;   //总分
+}book;
+int cmp_char(const void* e1, const void* e2)
+{
+	book* s1 = (book*)e1;
+	book* s2 = (book*)e2;
+	if (s1->score != s2->score)  //按总成绩排序
+	{
+		return s2->score - s1->score;
+	}
+	else
+	{
+		if (s1->x != s2->x)  //按语文成绩排序
+		{
+			return s2->x - s1->x;
+		}
+		else
+		{
+			if (s1->y != s2->y) //按数学成绩排序
+			{
+				return s2->y - s1->y;
+			}
+			else
+			{
+				return strcmp(s1->name, s2->name);  // 按姓名的字典顺序排序
+			}
+		}
+	}
+}
+int main()
+{
+	int n;
+	scanf("%d", &n);
+	book arr[1001];
+	for (int i = 0; i < n; i++)
+	{
+		scanf("%s %d %d %d", &arr[i].name, &arr[i].x, &arr[i].y, &arr[i].z);
+		arr[i].score = arr[i].x + arr[i].y + arr[i].z;
+	}
+	qsort(arr, n, sizeof(arr[0]), cmp_char);
+	for (int i = 0; i < n; i++)
+	{
+		printf("%s %d %d %d\n", arr[i].name, arr[i].x, arr[i].y, arr[i].z);
+	}
+	return 0;
+}
+```
 ## 💡 关键点总结
 
 1. 结构体是自定义的复合数据类型，可以包含不同类型的成员
