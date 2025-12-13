@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "🇮🇴",
       "LiX",
       "🔢",
-      "🧰",
-      "LiComputer"
+      "🧰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
   },
   "obsidian/配置obsidian": "LiSettings",
   "obsidian/tool": "🧰",
-  "LaTeX": "🔢"
+  "LaTeX": "🔢",
+  "文摘": "LiNotebookPen"
 }
