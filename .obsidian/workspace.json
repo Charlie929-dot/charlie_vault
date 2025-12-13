@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"TQ_show_recurrence_rule\"]",
+                "query": "https://mall.csdn.net/vip?utm_source=inscode_iframe_copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "5d02abb01f352062",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
     "daily/2025-12-13.md",
     "C语言结构体.md",
