@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/结构体作业.md",
-                "mode": "preview",
+                "file": "obsidian/tool/疑难解答.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "结构体作业"
+              "title": "疑难解答"
             }
           }
         ],
@@ -194,11 +194,11 @@
   },
   "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "test/结构体作业.md",
     "test/DailyLog.md",
     "obsidian/配置obsidian/test.md",
     "daily/2025-12-11.md",
     "obsidian/tool/疑难解答.md",
-    "test/结构体作业.md",
     "daily/2025-12-13.md",
     "Git插件.md",
     "obsidian/配置obsidian/同步.md",
