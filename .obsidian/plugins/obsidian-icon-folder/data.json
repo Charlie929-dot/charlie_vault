@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiNotebookPen",
-      "🇮🇴",
-      "LiX",
-      "🔢",
-      "🧰"
+      "LiAlignJustify",
+      "LiComputer",
+      "LiTestTubeDiagonal",
+      "LiNotebook",
+      "LiCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,6 +36,16 @@
   },
   "obsidian/配置obsidian": "LiSettings",
   "obsidian/tool": "🧰",
-  "LaTeX": "🔢",
-  "文摘": "LiNotebookPen"
+  "LaTeX": "LiCalculator",
+  "文摘": "LiNotebookPen",
+  "daily": "LiCalendarDays",
+  "心得": "LiHeart",
+  "寻深足迹": "LiFootprints",
+  "（Template）": "LiBookTemplate",
+  "(Attachments)": "🖼",
+  "生涯规划": "LiTable",
+  "社会主义发展史": "LiNotebook",
+  "test": "LiTestTubeDiagonal",
+  "py": "LiComputer",
+  "obsidian": "LiAlignJustify"
 }

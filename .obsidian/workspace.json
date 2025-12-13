@@ -4,51 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "553a12cd4a1f63f9",
+        "id": "5ba450bc8ab93d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c51d8ea870352cc",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
-            }
-          },
-          {
-            "id": "8dbc982e87feb998",
+            "id": "5d02abb01f352062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/疑难解答.md",
+                "file": "daily/2025-12-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
-            }
-          },
-          {
-            "id": "c8db756e2d7c80a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
+              "title": "2025-12-13"
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -80,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#笔记  ",
+                "query": "[\"TQ_show_recurrence_rule\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +76,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,8 +203,9 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "c8db756e2d7c80a4",
+  "active": "5d02abb01f352062",
   "lastOpenFiles": [
+    "文摘/文摘.md",
     "心得/鹤唳华亭.md",
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
@@ -237,7 +214,6 @@
     "daily/2025-12-13.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/配置obsidian/插件.md",
-    "文摘/文摘.md",
     "[[文摘]].md",
     "obsidian/配置obsidian/同步.md",
     "daily/2025-12-11.md",
