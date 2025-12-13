@@ -9,9 +9,5 @@
 - [t::13:30] [d::配置行为日志]
 
 ```dataview
-TABLE t as "时间", d as "做了什么"
-WHERE file.name = "2025-12-12"
-FLATTEN file.list
-WHERE t >= dateformat(file.day, "HH:mm")
-SORT t ASC
+LIST
 ```

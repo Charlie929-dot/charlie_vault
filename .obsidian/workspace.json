@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/DailyLog.md",
+                "file": "（Template）/日记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DailyLog"
+              "title": "日记模板"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "2c51d8ea870352cc",
   "lastOpenFiles": [
-    "daily/2025-12-13.md",
     "test/DailyLog.md",
+    "daily/2025-12-13.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
     "obsidian/tool/Markdown+语法手册.md",
