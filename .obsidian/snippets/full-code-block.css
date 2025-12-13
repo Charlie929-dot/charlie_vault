@@ -1,14 +1,20 @@
-/* 取消默认主题代码块的最大高度限制，显示完整内容 */
-.markdown-preview-view pre,
-.cm-s-obsidian pre.HyperMD-codeblock {
-    max-height: none !important; /* 移除高度限制 */
-    height: auto !important; /* 高度随内容自适应 */
-    overflow: auto !important; /* 内容过长时显示滚动条，而非截断 */
+/* 全局解除代码块高度限制（编辑+预览模式全生效） */
+pre,
+.HyperMD-codeblock,
+.markdown-preview-view pre code,
+.cm-s-obsidian pre,
+.code-block,
+.HyperMD-codeblock-bg {
+    max-height: unset !important;
+    max-height: none !important;
+    height: auto !important;
+    overflow-y: visible !important;
+    white-space: pre !important;
+    display: block !important;
 }
-/* 取消移动端默认的代码块压缩（若需） */
-@media (max-width: 768px) {
-    .markdown-preview-view pre,
-    .cm-s-obsidian pre.HyperMD-codeblock {
-        max-height: none !important;
-    }
+/* 清除代码块容器的裁剪 */
+.markdown-preview-section,
+.cm-contentContainer,
+.cm-editor {
+    overflow: visible !important;
 }
