@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文摘/文摘.md",
+                "file": "obsidian/配置obsidian/插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "文摘"
+              "title": "插件"
             }
           }
         ],

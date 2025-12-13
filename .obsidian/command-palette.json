@@ -2,6 +2,7 @@
   "pinned": [
     "number-headings-obsidian:number-headings",
     "quickadd:runQuickAdd",
-    "note-refactor-obsidian:app:extract-selection-content-only"
+    "note-refactor-obsidian:app:extract-selection-content-only",
+    "obsidian42-text-transporter:CLF"
   ]
 }
