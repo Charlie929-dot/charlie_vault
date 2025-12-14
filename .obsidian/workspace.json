@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "类.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "类"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,9 +231,10 @@
   },
   "active": "5f6080ed135f272f",
   "lastOpenFiles": [
+    "未命名 2.md",
+    "类.md",
     "未命名.md",
     "daily/2025-12-14.md",
-    "未命名 2.md",
     "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
     "obsidian/tool/~syncthing~疑难解答.sync-conflict-20251214-141905-7KGOG42.md.tmp",
     "obsidian/tool/疑难解答.md",
@@ -260,7 +262,6 @@
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
     "daily/2025-12-10.md",
-    "[[文摘]].md",
     "文摘/~syncthing~文摘.md.tmp",
     "daily/~syncthing~2025-12-13.md.tmp",
     "(Attachments)/s33828853.jpg",
