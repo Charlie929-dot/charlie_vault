@@ -13,16 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "obsidian/tool/笔记工具库.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "笔记工具库"
+            }
+          },
+          {
+            "id": "7ad6c4d80466a0e6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://emoji6.com/emojiall/#google_vignette",
+                "title": "Emoji表情大全",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Emoji表情大全"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +216,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a178099e885369f",
+  "active": "7ad6c4d80466a0e6",
   "lastOpenFiles": [
     "daily/~syncthing~2025-12-14.md.tmp",
-    "daily/2025-12-14.md",
-    "obsidian/配置obsidian/插件.md",
+    "寻深足迹/~syncthing~寻深足迹.md.tmp",
     "obsidian/tool/笔记工具库.md",
+    "daily/2025-12-14.md",
+    "未命名.md",
+    "obsidian/配置obsidian/插件.md",
     "obsidian/tool/Markdown+语法手册.md",
     "（Template）/日记模板.md",
     "obsidian/tool/翻译工具.md",
@@ -221,7 +238,6 @@
     "Git插件.md",
     "obsidian/配置obsidian/同步.md",
     "daily/~syncthing~2025-12-13.sync-conflict-20251213-185816-7KGOG42.md.tmp",
-    "未命名.md",
     "文摘/文摘.md",
     "心得/鹤唳华亭.md",
     "寻深足迹/在追.md",
@@ -248,7 +264,6 @@
     "IMG_20251212_140744.jpg",
     "IMG_20251212_144002.jpg",
     "IMG_20251212_153309.jpg",
-    "~syncthing~IMG_20251212_141121.jpg.tmp",
     "a.canvas"
   ]
 }
