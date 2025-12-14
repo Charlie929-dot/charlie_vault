@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#----------",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,17 +230,17 @@
   },
   "active": "5f6080ed135f272f",
   "lastOpenFiles": [
-    "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
-    "obsidian/tool/~syncthing~疑难解答.sync-conflict-20251214-141905-7KGOG42.md.tmp",
+    "未命名.md",
     "daily/2025-12-14.md",
     "未命名 2.md",
+    "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
+    "obsidian/tool/~syncthing~疑难解答.sync-conflict-20251214-141905-7KGOG42.md.tmp",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
     "（Template）/音乐模板.md",
     "obsidian/tool/笔记工具库.md",
     "daily/~syncthing~2025-12-14.md.tmp",
     "寻深足迹/~syncthing~寻深足迹.md.tmp",
-    "未命名.md",
     "obsidian/配置obsidian/插件.md",
     "obsidian/tool/Markdown+语法手册.md",
     "（Template）/日记模板.md",
