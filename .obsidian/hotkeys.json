@@ -16,5 +16,77 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-heading-shifter:apply-heading0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad3"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "obsidian-heading-shifter:apply-heading6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "obsidian-heading-shifter:decrease-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-heading-shifter:increase-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "+"
+    }
   ]
 }
