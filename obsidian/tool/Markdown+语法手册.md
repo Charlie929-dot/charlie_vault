@@ -297,6 +297,6 @@ Markdown 对文字颜色、字体、高亮、下划线等样式的设置需要�
 甘特图、
 UML 类图、
 饼图、
-思维导图等 [Mermaid 图 29](https://mermaid.js.org/)。
+[[思维导图]]等 [Mermaid 图 29](https://mermaid.js.org/)。
 
 这些高阶语法可以参考[此文档 85](https://mermaid.js.org/config/Tutorials.html)，本文不再赘述。

@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++类.md",
+                "file": "obsidian/tool/笔记工具库.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C++类"
+              "title": "笔记工具库"
             }
           },
           {
@@ -38,17 +38,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++类.md",
+                "file": "思维导图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C++类"
+              "title": "思维导图"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7005f187a19c2a1f",
@@ -248,10 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f77f3a6a7f1473",
+  "active": "62d34b3a87068ad6",
   "lastOpenFiles": [
-    "obsidian/tool/Markdown+语法手册.md",
     "C++类.md",
+    "思维导图.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
     "C语言结构体.md",
@@ -280,7 +281,6 @@
     "心得/鹤唳华亭.md",
     "寻深足迹/在追.md",
     "寻深足迹/寻深足迹.md",
-    "daily/2025-12-10.md",
     "文摘/~syncthing~文摘.md.tmp",
     "daily/~syncthing~2025-12-13.md.tmp",
     "(Attachments)/s33828853.jpg",
