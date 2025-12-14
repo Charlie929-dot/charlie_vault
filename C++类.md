@@ -1,3 +1,4 @@
+#cpp #类
 ### Class Methods类方法
 
 > [!info] 
