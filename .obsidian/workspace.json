@@ -33,6 +33,16 @@
             }
           },
           {
+            "id": "e206fb77bd092f9c",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
             "id": "dd98f9d59812df97",
             "type": "leaf",
             "state": {
@@ -48,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6080ed135f272f",
+  "active": "e206fb77bd092f9c",
   "lastOpenFiles": [
+    "daily/2025-12-14.md",
     "LaTeX/数学公式test.md",
     "obsidian/教程/未命名.md",
     "obsidian/tool/笔记工具库.md",
@@ -240,7 +251,6 @@
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
     "C语言结构体.md",
-    "daily/2025-12-14.md",
     "未命名 2.md",
     "未命名.md",
     "obsidian/tool/~syncthing~疑难解答.sync-conflict-20251214-141905-7KGOG42.md.tmp",
