@@ -31,9 +31,19 @@
               "icon": "lucide-file",
               "title": "2025-12-14"
             }
+          },
+          {
+            "id": "cdd343827942e5a0",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#在线IDE",
+                "query": "tag:#thinking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +96,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6080ed135f272f",
+  "active": "cdd343827942e5a0",
   "lastOpenFiles": [
+    "daily/2025-12-14.md",
     "未命名 3.md",
     "Pasted image 20251214181500.png",
-    "daily/2025-12-14.md",
     "obsidian/tool/笔记工具库.md",
     "未命名 1.md",
     "未命名.md",
