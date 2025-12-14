@@ -78,17 +78,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/笔记工具库.md",
+                "file": "daily/2025-12-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "笔记工具库"
+              "title": "2025-12-14"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#在线IDE file:",
+                "query": "tag:#在线IDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +141,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,13 +268,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "e206fb77bd092f9c",
   "lastOpenFiles": [
+    "daily/2025-12-14.md",
     "obsidian/tool/笔记工具库.md",
     "未命名 3.md",
     "未命名 1.md",
     "未命名.md",
-    "daily/2025-12-14.md",
     "社会主义发展史/未命名.md",
     "(Attachments)/s33620095.jpg",
     "obsidian/配置obsidian/插件.md",
