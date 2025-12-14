@@ -60,12 +60,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://mermaid.js.org/",
-                "title": "Mermaid | Diagramming and charting tool",
+                "url": "https://mermaid.js.org/syntax/mindmap.html",
+                "title": "Mindmap | Mermaid",
                 "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Mermaid | Diagramming and charting tool"
+              "title": "Mindmap | Mermaid"
             }
           }
         ]
