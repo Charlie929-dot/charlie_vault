@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +101,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6080ed135f272f",
+  "active": "62d34b3a87068ad6",
   "lastOpenFiles": [
-    "未命名 2.md",
     "C++类.md",
+    "未命名 2.md",
     "未命名.md",
     "daily/2025-12-14.md",
     "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
