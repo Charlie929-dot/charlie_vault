@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-14.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -220,7 +220,9 @@
       "pkmer:Open Pkmer Market": false,
       "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "emoji-selector:打开表情选择器": false,
+      "tg-emoji-search:Emoji suggester": false
     }
   },
   "active": "5f6080ed135f272f",

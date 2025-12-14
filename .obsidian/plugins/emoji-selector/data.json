@@ -3,7 +3,7 @@
   "customCssClasses": "",
   "owoJsonUrls": "https://emoticons.hzchu.top/json/owo/capoo.json,https://emoticons.hzchu.top/json/owo/Blob.json",
   "rememberLastCollection": true,
-  "lastSelectedCollection": "咖波",
+  "lastSelectedCollection": "all",
   "addSpaceAfterEmoji": true,
   "addSpaceAfterEmojiInMultiSelect": false,
   "customEmojiTemplate": "",
@@ -15,5 +15,25 @@
   "quickInsertionTrigger": "::|：：",
   "enableRegexSearch": true,
   "enableFuzzySearch": false,
-  "debugLogLevel": 2
+  "debugLogLevel": 2,
+  "recentEmojis": {
+    "entries": {
+      "咖波_25": {
+        "emoji": {
+          "key": "咖波_25",
+          "icon": "https://emoticons.hzchu.top/emoticons/capoo/color.gif",
+          "text": "capoo_color",
+          "type": "image",
+          "category": "咖波",
+          "url": "https://emoticons.hzchu.top/emoticons/capoo/color.gif",
+          "originalPath": "https://emoticons.hzchu.top/emoticons/capoo/color.gif"
+        },
+        "lastUsed": 1765723634946,
+        "count": 1
+      }
+    },
+    "order": [
+      "咖波_25"
+    ]
+  }
 }
