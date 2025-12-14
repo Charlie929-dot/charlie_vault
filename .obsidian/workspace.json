@@ -31,19 +31,9 @@
               "icon": "lucide-file",
               "title": "2025-12-14"
             }
-          },
-          {
-            "id": "cdd343827942e5a0",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,8 +215,9 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "cdd343827942e5a0",
+  "active": "5f6080ed135f272f",
   "lastOpenFiles": [
+    "（Template）/日记模板.md",
     "daily/2025-12-14.md",
     "（Template）/音乐模板.md",
     "未命名 3.md",
@@ -251,7 +242,6 @@
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
     "daily/~syncthing~2025-12-14.md.tmp",
     "寻深足迹/~syncthing~寻深足迹.md.tmp",
-    "（Template）/日记模板.md",
     "obsidian/tool/翻译工具.md",
     "daily/2025-12-13.md",
     "test/结构体作业.md",
