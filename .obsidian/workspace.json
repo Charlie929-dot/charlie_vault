@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2025-12-14.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -43,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +225,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "5f6080ed135f272f",
+  "active": "cdd343827942e5a0",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2025-12-14.md",
+    "（Template）/音乐模板.md",
     "未命名 3.md",
     "Pasted image 20251214181500.png",
     "obsidian/tool/笔记工具库.md",
