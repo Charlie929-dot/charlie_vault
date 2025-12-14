@@ -1,0 +1,19 @@
+{
+  "emojiSize": "2rem",
+  "customCssClasses": "",
+  "owoJsonUrls": "https://emoticons.hzchu.top/json/owo/capoo.json,https://emoticons.hzchu.top/json/owo/Blob.json",
+  "rememberLastCollection": true,
+  "lastSelectedCollection": "咖波",
+  "addSpaceAfterEmoji": true,
+  "addSpaceAfterEmojiInMultiSelect": false,
+  "customEmojiTemplate": "",
+  "customLocalEmojiTemplate": "",
+  "maxRecentEmojis": 20,
+  "enableRecentEmojis": true,
+  "preferRecentOverRemembered": false,
+  "enableQuickInsertion": true,
+  "quickInsertionTrigger": "::|：：",
+  "enableRegexSearch": true,
+  "enableFuzzySearch": false,
+  "debugLogLevel": 2
+}

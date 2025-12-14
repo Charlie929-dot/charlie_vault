@@ -1,0 +1,531 @@
+/* Essential Emoji Picker Modal Styles */
+.emoji-picker-modal .modal-content {
+  max-width: 600px;
+  max-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.emoji-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.5rem;
+}
+
+.emoji-search-container {
+  margin-bottom: 1rem;
+}
+
+.emoji-search-input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.emoji-search-input:focus {
+  outline: none;
+  border-color: var(--interactive-accent);
+}
+
+.emoji-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  overflow-x: auto;
+  min-height: 2.5rem;
+}
+
+.emoji-tabs::-webkit-scrollbar {
+  height: 8px; /* 调整此数值来改变滚动条的粗细 */
+}
+
+.emoji-tab {
+  padding: 0.1rem 0.5rem;
+  border-radius: var(--radius-s);
+  cursor: pointer;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  white-space: nowrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1.7rem;
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+}
+
+.emoji-tab:hover {
+  background: var(--background-modifier-hover);
+}
+
+.emoji-tab.active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.emoji-scroll-container {
+  flex: 1;
+  overflow-y: auto;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  background: var(--background-primary);
+}
+
+.emoji-container {
+  padding: 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+  gap: 2px;
+  /* position: relative; */
+  background: transparent;
+  outline: none;
+}
+
+.emoji-container:focus {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 2px;
+}
+
+.emoji-item,
+.emoji-virtual-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding: 0.5rem; */
+  border-radius: var(--radius-s);
+  cursor: pointer;
+  margin: 0;
+  aspect-ratio: 1;
+  min-height: 40px;
+  min-width: 40px;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+}
+
+.emoji-item:hover,
+.emoji-virtual-item:hover,
+.emoji-item.emoji-clickable:hover {
+  background-color: var(--background-modifier-hover);
+  border-color: var(--background-modifier-border-hover);
+}
+
+.emoji-item.emoji-selected,
+.emoji-virtual-item.emoji-selected {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.emoji-item.emoji-clickable:active,
+.emoji-virtual-item.emoji-clickable:active {
+  background-color: var(--background-modifier-active-hover);
+  transform: scale(0.95);
+}
+
+.emoji-icon {
+  font-size: 1.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.emoji-icon img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.emoji-no-results,
+.emoji-loading {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 2rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Virtual scrolling support */
+.emoji-virtual-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.emoji-virtual-scroll {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.emoji-virtual-item {
+  position: absolute;
+}
+
+/* Essential Emoji Display Styles */
+.emoji-image,
+.emoji-text {
+  display: inline;
+  vertical-align: text-bottom;
+  line-height: 1;
+  margin: 0 0.05em;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+/* Image emoji specific styles */
+.emoji-image {
+  object-fit: contain;
+  border-radius: var(--radius-xs);
+  background: transparent;
+  border: none;
+  outline: none;
+  max-width: none;
+  width: auto;
+  height: 1.2em; /* Default size, can be overridden */
+  pointer-events: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+}
+
+/* Text emoji specific styles */
+.emoji-text {
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 1.2em; /* Default size, can be overridden */
+  font-family: var(--font-text), "Apple Color Emoji", "Segoe UI Emoji",
+    "Noto Color Emoji", sans-serif;
+}
+
+/* Ensure proper alignment in different contexts */
+.cm-editor .emoji-image,
+.cm-editor .emoji-text {
+  display: inline;
+  vertical-align: text-bottom;
+  position: relative;
+  top: 0;
+}
+
+.markdown-preview-view .emoji-image,
+.markdown-preview-view .emoji-text,
+.markdown-reading-view .emoji-image,
+.markdown-reading-view .emoji-text,
+.markdown-source-view.mod-cm6 .emoji-image,
+.markdown-source-view.mod-cm6 .emoji-text {
+  vertical-align: middle;
+}
+
+/* Fallback for broken images */
+.emoji-image[alt]:after {
+  content: attr(alt);
+  font-size: 0.8em;
+  color: var(--text-muted);
+  background: var(--background-secondary);
+  padding: 0.1em 0.3em;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--background-modifier-border);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.emoji-image {
+  color: transparent;
+  display: inline !important;
+}
+
+/* Essential Settings Styles */
+.setting-item button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.setting-item button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* multiselect checkbox */
+
+/* 让文字和开关在同一行，并垂直居中 */
+.emoji-multi-select-label {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* 文字和开关的间距 */
+  cursor: pointer; /* 显示可点击的手型光标 */
+}
+
+/* 隐藏原始的、不好看的复选框 */
+.emoji-multi-select-toggle {
+  display: none;
+}
+
+/* 开关的轨道（背景） */
+.emoji-toggle-slider {
+  position: relative; /* 用于定位内部的圆点 */
+  width: 40px;
+  height: 22px;
+  background-color: var(--background-modifier-border-hover); /* 关闭时的颜色 */
+  border-radius: 11px; /* 圆角 */
+  transition: background-color 0.2s; /* 背景色渐变动画 */
+}
+
+/* 开关的圆点 */
+.emoji-toggle-slider::before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 2px;
+  top: 2px;
+  background-color: var(--toggle-thumb-color); /* 圆点的颜色 */
+  border-radius: 50%; /* 让它变成圆形 */
+  transition: transform 0.1s; /* 位移动画 */
+}
+
+/* --- 当开关被打开时 --- */
+
+/* 改变轨道的背景色 */
+.emoji-multi-select-toggle:checked + .emoji-toggle-slider {
+  background-color: var(--interactive-accent); /* 打开时的颜色 */
+}
+
+/* 把圆点移动到右边 */
+.emoji-multi-select-toggle:checked + .emoji-toggle-slider::before {
+  transform: translateX(18px);
+}
+
+/* Made by section - simple and elegant */
+.emoji-made-by {
+  text-align: left;
+  margin: 0.5rem 0 0.5rem 0;
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  opacity: 0.8;
+}
+
+.emoji-made-by a {
+  color: var(--interactive-accent);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.emoji-made-by a:hover {
+  color: var(--interactive-accent-hover);
+  text-decoration: underline;
+}
+
+.emoji-settings .setting-item-control textarea {
+  width: 100%;
+  min-height: 80px;
+  /* margin-top: 0.5rem; */
+}
+
+/* Specific styling for multi-line input settings */
+.emoji-settings .emoji-setting-multiline .setting-item-info {
+  margin-bottom: 0.5rem;
+}
+
+.emoji-settings .emoji-setting-multiline .setting-item-control {
+  width: 100%;
+  /* margin-top: 0.5rem; */
+}
+
+/* Only add resize capability for multiline textareas (inherits base styles above) */
+.emoji-settings .emoji-setting-multiline .setting-item-control textarea {
+  resize: vertical;
+}
+
+/* Code formatting in settings descriptions */
+.setting-item-description code {
+  background: var(--background-modifier-border);
+  color: var(--text-accent);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+}
+
+/* Emoji Suggestion Styles */
+.emoji-suggest-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: var(--radius-s);
+  transition: background-color 0.1s ease;
+}
+
+.emoji-suggest-item:hover,
+.emoji-suggest-item.is-selected {
+  background-color: var(--background-modifier-hover);
+}
+
+.emoji-suggest-preview {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.emoji-suggest-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.emoji-suggest-text {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.emoji-suggest-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.emoji-suggest-key {
+  font-family: var(--font-monospace);
+  font-size: 0.9em;
+  margin-bottom: 2px;
+}
+
+.emoji-suggest-desc {
+  margin-bottom: 1px;
+}
+
+/* URL Preview List Styles */
+.emoji-url-preview-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 6px;
+  margin-bottom: 1rem;
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.emoji-url-thumb-wrap {
+  flex-shrink: 0;
+}
+
+.emoji-url-thumb {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  border-radius: var(--radius-s);
+  background: var(--background-primary);
+}
+
+.emoji-url-thumb-placeholder {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--background-modifier-border);
+  border-radius: var(--radius-s);
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.emoji-url-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.emoji-url-name {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: var(--font-ui-smaller);
+}
+
+.emoji-url-meta {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.emoji-url-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 6px;
+  background: var(--background-secondary);
+  border-radius: var(--radius-s);
+  border: 1px solid var(--background-modifier-border);
+  cursor: grab;
+}
+
+.emoji-url-row:active {
+  cursor: grabbing;
+}
+.emoji-url-row.dragging {
+  opacity: 0.5;
+}
+.emoji-url-row.drag-over {
+  border-color: var(--interactive-accent);
+  background: var(--background-modifier-hover);
+}
+
+.emoji-url-actions {
+  display: flex;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.emoji-url-btn {
+  padding: 2px 6px;
+  font-size: var(--font-ui-smaller);
+  border-radius: var(--radius-s);
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  cursor: pointer;
+  min-width: 22px;
+}
+
+.emoji-url-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.emoji-url-btn-danger {
+  color: var(--text-error);
+}
+
+.emoji-url-btn-danger:hover {
+  background: var(--background-modifier-error);
+  color: var(--text-on-accent);
+}
+
+.emoji-url-empty {
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 8px;
+}
+
+/* Raw editor toggle */
+
+.emoji-raw-editor.hidden {
+  display: none;
+}
+
+.emoji-duplicate-warning.mod-warning {
+  color: var(--text-warning);
+}
