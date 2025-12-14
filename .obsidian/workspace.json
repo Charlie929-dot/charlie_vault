@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +204,11 @@
   },
   "active": "9a178099e885369f",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
+    "daily/2025-12-14.md",
     "obsidian/tool/笔记工具库.md",
     "daily/~syncthing~2025-12-14.md.tmp",
     "寻深足迹/~syncthing~寻深足迹.md.tmp",
-    "daily/2025-12-14.md",
     "未命名.md",
     "obsidian/配置obsidian/插件.md",
     "obsidian/tool/Markdown+语法手册.md",
