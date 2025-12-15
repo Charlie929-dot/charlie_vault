@@ -36,14 +36,15 @@
             "id": "221c38c4ad7a9f57",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://forum-zh.obsidian.md/t/topic/25437/31",
-                "title": "obsidian 有打算开发鸿蒙版的计划吧 - 每日闲聊 - Obsidian 中文论坛",
-                "mode": "webview"
+                "file": "daily/2025-12-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "obsidian 有打算开发鸿蒙版的计划吧 - 每日闲聊 - Obsidian 中文论坛"
+              "icon": "lucide-file",
+              "title": "2025-12-15"
             }
           },
           {
