@@ -23,17 +23,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "（Template）/日记模板.md",
+                "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "日记模板"
+              "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "221c38c4ad7a9f57",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forum-zh.obsidian.md/t/topic/25437/31",
+                "title": "obsidian 有打算开发鸿蒙版的计划吧 - 每日闲聊 - Obsidian 中文论坛",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "obsidian 有打算开发鸿蒙版的计划吧 - 每日闲聊 - Obsidian 中文论坛"
+            }
+          },
+          {
+            "id": "e40a9e1207aeb170",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forum.obsidian.md/t/harmonising-indentation-after-bullets-numbers-tasks-lists-between-live-preview-and-read-layout/94209",
+                "title": "Harmonising indentation (after bullets, numbers, tasks lists) between live preview and read layout - Custom CSS & Theme Design - Obsidian Forum",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Harmonising indentation (after bullets, numbers, tasks lists) between live preview and read layout - Custom CSS & Theme Design - Obsidian Forum"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +243,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "5f6080ed135f272f",
+  "active": "221c38c4ad7a9f57",
   "lastOpenFiles": [
-    "（Template）/日记模板.sync-conflict-20251215-164427-JPTAE2A.md",
+    "daily/~syncthing~2025-12-15.md.tmp",
+    "obsidian/tool/Markdown+语法手册.md",
     "（Template）/日记模板.md",
+    "（Template）/日记模板.sync-conflict-20251215-164427-JPTAE2A.md",
     "daily/2025-12-15.md",
     "daily/2025-12-14.md",
     "daily/2025-12-14.sync-conflict-20251215-164429-7KGOG42.md",
@@ -231,7 +261,6 @@
     "~syncthing~C++积累.md.tmp",
     "（Template）/~syncthing~日记模板.md.tmp",
     "文摘/~syncthing~文摘.md.tmp",
-    "daily/~syncthing~2025-12-15.md.tmp",
     "~syncthing~未命名.base.tmp",
     "未命名 2.md",
     "obsidian/tool/临时笔记.md",
@@ -250,12 +279,10 @@
     "IMG_20251212_140744.jpg",
     "LaTeX/数学公式test.md",
     "obsidian/教程/未命名.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/疑难解答.sync-conflict-20251214-141905-7KGOG42.md",
     "obsidian/tool/~syncthing~疑难解答.sync-conflict-20251214-141905-7KGOG42.md.tmp",
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
-    "obsidian/tool/翻译工具.md",
     "(Attachments)/s33828853.jpg",
     "(Attachments)/s33516907.jpg",
     "(Attachments)/s24575140.jpg",
