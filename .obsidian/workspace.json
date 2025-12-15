@@ -8,31 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a178099e885369f",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
-            }
-          },
-          {
-            "id": "4062c2089dbfbfa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-15"
-            }
-          },
-          {
             "id": "09ced9d26789c3be",
             "type": "leaf",
             "state": {
@@ -43,37 +18,7 @@
             }
           },
           {
-            "id": "55033e0a2efb8ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "42e50fbf1550cf51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "ffd603c1b133e48e",
+            "id": "853ddf9742f05ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,11 +215,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "ffd603c1b133e48e",
+  "active": "853ddf9742f05ed1",
   "lastOpenFiles": [
-    "文摘/文摘.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-15.md",
+    "文摘/文摘.md",
     "daily/~syncthing~2025-12-15.md.tmp",
     "assets/2025-12-15-17-48-58.mp3",
     "logseq/config.edn",
