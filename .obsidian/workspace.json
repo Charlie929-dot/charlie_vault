@@ -56,9 +56,24 @@
               "icon": "lucide-file",
               "title": "文摘"
             }
+          },
+          {
+            "id": "42e50fbf1550cf51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,10 +255,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "09ced9d26789c3be",
+  "active": "42e50fbf1550cf51",
   "lastOpenFiles": [
-    "文摘/文摘.md",
     "（Template）/音乐模板.md",
+    "文摘/文摘.md",
     "daily/2025-12-15.md",
     "daily/~syncthing~2025-12-15.md.tmp",
     "assets/2025-12-15-17-48-58.mp3",
