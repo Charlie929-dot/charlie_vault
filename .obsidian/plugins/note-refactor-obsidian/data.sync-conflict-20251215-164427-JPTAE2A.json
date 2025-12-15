@@ -1,7 +1,7 @@
 {
   "includeFirstLineAsNoteHeading": false,
   "excludeFirstLineInNote": false,
-  "openNewNote": true,
+  "openNewNote": false,
   "headingFormat": "#",
   "newFileLocation": 2,
   "customFolder": "文摘",
