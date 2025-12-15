@@ -43,9 +43,23 @@
         },
         "lastUsed": 1765806854579,
         "count": 1
+      },
+      "咖波_16": {
+        "emoji": {
+          "key": "咖波_16",
+          "icon": "https://emoticons.hzchu.top/emoticons/capoo/love3.gif",
+          "text": "capoo_love3",
+          "type": "image",
+          "category": "咖波",
+          "url": "https://emoticons.hzchu.top/emoticons/capoo/love3.gif",
+          "originalPath": "https://emoticons.hzchu.top/emoticons/capoo/love3.gif"
+        },
+        "lastUsed": 1765808041081,
+        "count": 1
       }
     },
     "order": [
+      "咖波_16",
       "咖波_22",
       "咖波_25"
     ]
