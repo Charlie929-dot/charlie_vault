@@ -30,9 +30,23 @@
         },
         "lastUsed": 1765723634946,
         "count": 1
+      },
+      "咖波_22": {
+        "emoji": {
+          "key": "咖波_22",
+          "icon": "https://emoticons.hzchu.top/emoticons/capoo/cry.gif",
+          "text": "capoo_cry",
+          "type": "image",
+          "category": "咖波",
+          "url": "https://emoticons.hzchu.top/emoticons/capoo/cry.gif",
+          "originalPath": "https://emoticons.hzchu.top/emoticons/capoo/cry.gif"
+        },
+        "lastUsed": 1765806854579,
+        "count": 1
       }
     },
     "order": [
+      "咖波_22",
       "咖波_25"
     ]
   }
