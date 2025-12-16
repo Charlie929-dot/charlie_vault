@@ -152,10 +152,10 @@ Piont makePiont(int x,int y){
 	pt.y=y;
 }//使用专门的函数初始化
 int main(){
-	Piont pt;
+	Piont pt,pt1,pt2;
 	pt=makePiont(10,20);
 	printf("(%d,%d)",pt.x,pt.y);
 	return 0;
 }
-
 ```
+`shallow copy`:pt1=pt2
