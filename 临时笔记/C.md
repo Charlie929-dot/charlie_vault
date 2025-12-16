@@ -123,17 +123,31 @@ void nameFunction() {
 # 结构体作为参数`拷贝，结构体复杂时效率比较低`
 # 结构体指针作为参数`效率高`
 ```c
-{
+void init(STU *pw,int num){
 int i=0;
 char pw[10]={0};
 srand(time (NULL));
-for(;i<8;i++)
-pw[i]=rand()%(80)+'0';/／字母；特殊
-strcpy (ps->passwd, pw) ;
+while(num--){
+	for(int i=0;i<8;i++)//每次都要初始化
+		pw[i]=rand()%(80)+'0';//字母；特殊
+	strcpy (ps->passwd, pw);
+}
+
 }
 int main(){
-STU st[10];
-init(st, 10);
-printf("Password=%s\n", st. passwd) ;
+	STU st[10];
+	init(st, 10);
+	printf("Password=%s\n", st. passwd) ;
 }
+```
+
+```c
+typedef struct tagPiont{
+	int x;
+	int y;
+}Piont;
+Piont makePiont(int x,int y){
+	
+}
+
 ```
