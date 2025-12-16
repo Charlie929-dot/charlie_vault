@@ -43,7 +43,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGsxYEA5n3z9iDSZXxdyDAA7sYVZqQDc/fkwCeq8hQBmlMcRhNKTdhIAK9fE2D6mBWwA89Mz66Uhn4Avs50rn7hgZzsANbk0UwAFF6U3mhphgCU7v5JlKpMfrxMRfDeALy+HuWGlcH8IQD0zYD+8oAUroDIcoAXqYAhboC/ioAOpoC4SoDTmoBoyvxpsQTJuR4FRSVlTJWxCUnJSAAMaABMO9krquKuZsm8IMkApKRod9lXaOUZdccebEzELPiUO6EQCEgA=",
+                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGsxYEA5n3z9iDSZXxdyDAA7sYVZqQDc/fkwCeq8hQBmlMcRhNKTdhIAK9fE2D6mBWwA89Mz66Uhn4Avs50rn7hgZzsANbk0UwAFF6U3mhphgCU7v5JlKpMfrxMRfDeALy+HuWGlcH8lM1sTMQs+IXF/CEA9L2A/vKAFK6AyHKAF6mAIW6Av4qADqaAuEqA05qAaMr8abEEybkeBUUlZUyVsQlJyUgADGgATGfZe6rirmbJvCDJAKSkaB/ZL2jlGXVbh5Wu1OmdQiAQkA===",
                 "title": "在线 IDE - Hydro",
                 "mode": "webview"
               },
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ide",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,7 +249,9 @@
   },
   "active": "1372f09e939a65fd",
   "lastOpenFiles": [
+    "未命名 1.canvas",
     "临时笔记/C.md",
+    "未命名.canvas",
     "obsidian/tool/笔记工具库.md",
     "临时笔记/未命名 3.md",
     "临时笔记/未命名 1.md",
