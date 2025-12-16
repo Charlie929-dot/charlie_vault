@@ -3,7 +3,7 @@
   "customCssClasses": "",
   "owoJsonUrls": "https://emoticons.hzchu.top/json/owo/capoo.json,https://emoticons.hzchu.top/json/owo/Blob.json",
   "rememberLastCollection": true,
-  "lastSelectedCollection": "all",
+  "lastSelectedCollection": "blob",
   "addSpaceAfterEmoji": true,
   "addSpaceAfterEmojiInMultiSelect": false,
   "customEmojiTemplate": "",
@@ -56,9 +56,23 @@
         },
         "lastUsed": 1765808041081,
         "count": 1
+      },
+      "blob_11": {
+        "emoji": {
+          "key": "blob_11",
+          "icon": "https://emoticons.hzchu.top/emoticons/Blob/blobcatcomftears.png",
+          "text": "Blob_blobcatcomftears",
+          "type": "image",
+          "category": "Blob",
+          "url": "https://emoticons.hzchu.top/emoticons/Blob/blobcatcomftears.png",
+          "originalPath": "https://emoticons.hzchu.top/emoticons/Blob/blobcatcomftears.png"
+        },
+        "lastUsed": 1765862060539,
+        "count": 1
       }
     },
     "order": [
+      "blob_11",
       "咖波_16",
       "咖波_22",
       "咖波_25"
