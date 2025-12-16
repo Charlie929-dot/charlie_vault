@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "437432b18c577cce",
+            "id": "a8a5ad611d42b187",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -291,10 +291,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "437432b18c577cce",
+  "active": "5dce63a3eeab7a8e",
   "lastOpenFiles": [
-    "生涯规划/雨课堂.md",
     "文摘/文摘.md",
+    "生涯规划/雨课堂.md",
     "daily/2025-12-16.md",
     "（Template）/音乐模板.md",
     "logseq/~syncthing~config.edn.tmp",
