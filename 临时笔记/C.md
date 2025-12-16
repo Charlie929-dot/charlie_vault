@@ -122,6 +122,18 @@ void nameFunction() {
 
 # 结构体作为参数`拷贝，结构体复杂时效率比较低`
 # 结构体指针作为参数`效率高`
-```
-
+```c
+{
+int i=0;
+char pw[10]={0};
+srand(time (NULL));
+for(;i<8;i++)
+pw[i]=rand()%(80)+'0';/／字母；特殊
+strcpy (ps->passwd, pw) ;
+}
+int main(){
+STU st[10];
+init(st, 10);
+printf("Password=%s\n", st. passwd) ;
+}
 ```
