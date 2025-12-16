@@ -41,8 +41,8 @@
           "url": "https://emoticons.hzchu.top/emoticons/capoo/cry.gif",
           "originalPath": "https://emoticons.hzchu.top/emoticons/capoo/cry.gif"
         },
-        "lastUsed": 1765876464228,
-        "count": 2
+        "lastUsed": 1765883277524,
+        "count": 3
       },
       "咖波_16": {
         "emoji": {
@@ -67,8 +67,8 @@
           "url": "https://emoticons.hzchu.top/emoticons/Blob/blobcatcomftears.png",
           "originalPath": "https://emoticons.hzchu.top/emoticons/Blob/blobcatcomftears.png"
         },
-        "lastUsed": 1765862060539,
-        "count": 1
+        "lastUsed": 1765885204992,
+        "count": 2
       },
       "blob_31": {
         "emoji": {
@@ -85,9 +85,9 @@
       }
     },
     "order": [
-      "blob_31",
-      "咖波_22",
       "blob_11",
+      "咖波_22",
+      "blob_31",
       "咖波_16",
       "咖波_25"
     ]

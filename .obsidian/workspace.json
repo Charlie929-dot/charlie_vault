@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "d66b07a6dee7b2fd",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
             "id": "5f275e61add4ca19",
             "type": "leaf",
             "state": {
@@ -51,7 +61,8 @@
               "title": "在线 IDE - Hydro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-16.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-16 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -247,13 +257,14 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "902ba854ff5a89a7",
+  "active": "d66b07a6dee7b2fd",
   "lastOpenFiles": [
+    "daily/2025-12-16.md",
+    "daily/~syncthing~2025-12-16.md.tmp",
     "2025军事理论知识要点.docx",
     "军事理论复习资料.md",
     "~syncthing~2025军事理论知识要点.docx.tmp",
     "~syncthing~军事理论复习资料.md.tmp",
-    "daily/~syncthing~2025-12-16.md.tmp",
     "Pasted Image 20251216130126.jpeg",
     "临时笔记/SMB.md",
     "临时笔记/~syncthing~SMB.md.tmp",
@@ -277,10 +288,8 @@
     "未命名.base",
     "C++类.md",
     "daily/2025-12-13.md",
-    "daily/2025-12-16.md",
     "daily/2025-12-15.md",
     "daily/2025-12-16.sync-conflict-20251216-091512-7KGOG42.md",
-    "daily/~syncthing~2025-12-16.sync-conflict-20251216-091512-7KGOG42.md.tmp",
     "生涯规划/雨课堂.md",
     "文摘/文摘.md",
     "（Template）/日记模板.md",
