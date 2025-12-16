@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +165,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "tag"
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -206,14 +206,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ac80dbc6f7bec5b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,12 +249,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "fad61ba7fae600b0",
+  "active": "a465bfc9202f0b5a",
   "lastOpenFiles": [
+    "C语言结构体.md",
     "未命名 2.md",
     "obsidian/tool/笔记工具库.md",
     "（Template）/音乐模板.md",
-    "C语言结构体.md",
     "daily/2025-12-13.md",
     "daily/2025-12-16.md",
     "daily/~syncthing~2025-12-16.md.tmp",
