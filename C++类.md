@@ -1,4 +1,4 @@
-#cpp #类
+#cpp #类 
 
 > [!info] 类与结构体区别
 ```mermaid
@@ -23,7 +23,7 @@ mindmap
 			C++中struct与class功能一致，仅默认权限不同
 
 ```
-
+#结构体
 ### Class Methods类方法
 
 > [!info] 
