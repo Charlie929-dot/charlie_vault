@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "临时笔记/C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "C"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md",
+                "file": "临时笔记/C.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "C 的大纲"
             }
           },
           {
@@ -218,12 +218,14 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "9067ac6211037568",
+  "active": "902ba854ff5a89a7",
   "lastOpenFiles": [
+    "临时笔记/未命名 3.md",
+    "临时笔记/C.md",
+    "临时笔记/未命名 1.md",
+    "临时笔记",
     "（Template）/音乐模板.md",
-    "未命名 2.md",
     "obsidian/tool/笔记工具库.md",
-    "未命名 1.md",
     "未命名.md",
     "C语言结构体.md",
     "未命名.base",
@@ -244,16 +246,14 @@
     "assets/2025-12-15-17-49-27.mp3",
     "pages/contents.md",
     "logseq/metadata.edn",
-    "logseq/custom.css",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2025-12-14.md",
     "（Template）/日记模板.sync-conflict-20251215-164427-JPTAE2A.md",
     "daily/2025-12-14.sync-conflict-20251215-164429-7KGOG42.md",
     "文摘/文摘.sync-conflict-20251215-164427-JPTAE2A.md",
     "C++积累.md",
-    "未命名 4.md",
+    "临时笔记/未命名 4.md",
     "obsidian/tool/临时笔记.md",
-    "未命名 3.md",
     "Pasted image 20251214181500.png",
     "社会主义发展史/未命名.md",
     "(Attachments)/s33620095.jpg",
