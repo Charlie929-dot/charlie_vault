@@ -147,7 +147,15 @@ typedef struct tagPiont{
 	int y;
 }Piont;
 Piont makePiont(int x,int y){
-	
+	Piont pt;
+	pt.x=x;
+	pt.y=y;
+}//使用专门的函数初始化
+int main(){
+	Piont pt;
+	pt=makePiont(10,20);
+	printf("(%d,%d)",pt.x,pt.y);
+	return 0;
 }
 
 ```
