@@ -67,17 +67,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-17.md",
+                "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-17"
+              "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "7632a9030c0e27c2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://forum-zh.obsidian.md/search?q=%E5%8F%8C%E5%90%91%E9%93%BE%E6%8E%A5%20order%3Alikes",
+                "title": "'双向链接' 的搜索结果 - Obsidian 中文论坛",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "'双向链接' 的搜索结果 - Obsidian 中文论坛"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-17.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-17 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -273,10 +286,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "c63a6b95e23ced6d",
+  "active": "7632a9030c0e27c2",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "daily/2025-12-17.md",
+    "（Template）/音乐模板.md",
     "daily/2025-12-16.md",
     "daily/~syncthing~2025-12-16.md.tmp",
     "2025军事理论知识要点.docx",
@@ -311,7 +325,6 @@
     "文摘/文摘.md",
     "（Template）/日记模板.md",
     "pages/contents.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "daily/2025-12-14.md",
     "（Template）/日记模板.sync-conflict-20251215-164427-JPTAE2A.md",
     "Pasted image 20251214181500.png",
