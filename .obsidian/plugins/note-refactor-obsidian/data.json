@@ -8,6 +8,6 @@
   "fileNamePrefix": "",
   "transcludeByDefault": false,
   "noteLinkTemplate": "{{new_note_content}}",
-  "refactoredNoteTemplate": "",
+  "refactoredNoteTemplate": "{{new_note_content}}{{link}}",
   "normalizeHeaderLevels": false
 }
