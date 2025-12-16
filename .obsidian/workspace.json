@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "未命名 2"
             }
-          },
-          {
-            "id": "a4eb677e6ded678c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名 2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 2 的大纲"
             }
           },
           {
@@ -229,16 +218,16 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "未命名 2.md",
+    "obsidian/tool/笔记工具库.md",
     "未命名 1.md",
     "未命名.md",
     "C语言结构体.md",
     "未命名.base",
-    "obsidian/tool/笔记工具库.md",
     "C++类.md",
-    "（Template）/音乐模板.md",
     "daily/2025-12-13.md",
     "daily/2025-12-16.md",
     "daily/~syncthing~2025-12-16.md.tmp",
