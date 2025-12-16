@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09ced9d26789c3be",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "902ba854ff5a89a7",
             "type": "leaf",
             "state": {
@@ -62,7 +52,8 @@
               "title": "C语言结构体"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,15 +235,15 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "09ced9d26789c3be",
+  "active": "fad61ba7fae600b0",
   "lastOpenFiles": [
-    "C语言结构体.md",
-    "obsidian/tool/笔记工具库.md",
     "未命名 2.md",
+    "obsidian/tool/笔记工具库.md",
+    "（Template）/音乐模板.md",
+    "C语言结构体.md",
     "daily/2025-12-13.md",
     "daily/2025-12-16.md",
     "daily/~syncthing~2025-12-16.md.tmp",
-    "（Template）/音乐模板.md",
     "daily/2025-12-15.md",
     "daily/2025-12-16.sync-conflict-20251216-091512-7KGOG42.md",
     "daily/~syncthing~2025-12-16.sync-conflict-20251216-091512-7KGOG42.md.tmp",
