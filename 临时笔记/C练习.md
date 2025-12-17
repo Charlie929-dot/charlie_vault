@@ -1,6 +1,6 @@
 
 [[e2c1838245051502cc0ad8593a07d250_MD5.jpg|Open: Pasted image 20251217135753.png]]
-```c
+```c++
 #include <iostream>
 
 using namespace std;
@@ -29,7 +29,7 @@ int main(){
 ***
 [[c6097ffaaa1981bcc172436302e11f33_MD5.jpg|Open: Pasted image 20251217135909.png]]
 ![[c6097ffaaa1981bcc172436302e11f33_MD5.jpg]]
-```c
+```c++
 #include <iostream>
 
 using namespace std;
@@ -68,4 +68,49 @@ int main(){
     return 0;
 }
 */
+```
+
+***
+##  输出次数出现最多的数
+```c++
+//法一：计数相等次数过半
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int n,c=0;
+    long a[1000];
+    cin>>n;
+    for(int i=0;i<n;i++) cin>>a[i];
+    for(int i=0;i<n-1;i++)
+    {
+        for(int j=i+1;j<n;j++)
+        {
+            if(a[i]==a[j]) c++;
+        }
+        if(c>=2) {cout<<a[i]<<"\n";break;}
+    }
+    return 0;
+}
+//法二：排序后取中间的数
+#include<iostream>
+#include<iomanip>
+#include<algorithm>
+using namespace std;
+#define N 1005
+int main()
+{
+    int n;
+    cin>>n;
+    int a[N];
+    for(int i=1;i<=n;i++)
+    {
+        cin>>a[i];
+    }
+    sort(a+1,a+n);
+    if(n%2==0)cout<<a[n/2]<<endl;
+    else
+        cout<<a[n/2+1]<<endl;
+}
 ```
