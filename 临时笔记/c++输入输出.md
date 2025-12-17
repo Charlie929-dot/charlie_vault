@@ -1,4 +1,4 @@
-#cpp 
+#cpp #输入输出
 ## 📝 基本信息
 - 原文链接: [CSDN博客-C++的输入和输出](https://blog.csdn.net/qq_45491628/article/details/131335564?fromshare=blogdetail&sharetype=blogdetail&sharerId=131335564&sharerefer=PC&sharesource=weixin_49159748&sharefrom=from_link)
 - 分类标签: C++, 编程基础, 输入输出
