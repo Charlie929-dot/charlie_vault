@@ -47,5 +47,6 @@
   "社会主义发展史": "LiNotebook",
   "test": "LiTestTubeDiagonal",
   "py": "LiComputer",
-  "obsidian": "LiAlignJustify"
+  "obsidian": "LiAlignJustify",
+  "临时笔记": "LiNotebook"
 }
