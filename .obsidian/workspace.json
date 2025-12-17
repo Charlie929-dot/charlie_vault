@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/配置obsidian/插件.md",
+                "file": "daily/2025-12-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "插件"
+              "title": "2025-12-17"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/配置obsidian/插件.md",
+                "file": "daily/2025-12-17.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "插件 的大纲"
+              "title": "2025-12-17 的大纲"
             }
           },
           {
@@ -220,6 +220,7 @@
   },
   "active": "902ba854ff5a89a7",
   "lastOpenFiles": [
+    "obsidian/配置obsidian/插件.md",
     "daily/2025-12-17.md",
     "daily/2025-12-16.md",
     "临时笔记/未命名.md",
@@ -258,7 +259,6 @@
     "文摘/文摘.md",
     "（Template）/日记模板.md",
     "pages/contents.md",
-    "daily/2025-12-14.md",
     "Pasted image 20251214181500.png",
     "(Attachments)/s33620095.jpg",
     "IMG_20251212_140744.jpg",
