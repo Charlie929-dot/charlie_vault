@@ -17,8 +17,8 @@
 1. cout输出
 	- 基本用法：使用<<运算符链式输出
 	- 格式化控制：
-		- setf()设置输出格式
-		- precision()控制小数位数
+		- setf()设置输出格式`cout.setf(3.1400000)`
+		- precision()控制小数位数`cout.precision(3)`
 	- 控制符：endl(换行并刷新)、hex/oct(进制控制)
 2. cin输入
 	- **基础输入**：>>运算符自动类型转换
