@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "2025-12-17"
             }
+          },
+          {
+            "id": "38528c44a7e5d488",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +230,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "902ba854ff5a89a7",
+  "active": "38528c44a7e5d488",
   "lastOpenFiles": [
+    "daily/2025-12-17.md",
+    "（Template）/书籍模板.md",
     "obsidian/tool/笔记工具库.md",
     "obsidian/配置obsidian/test.md",
     "临时笔记/c++输入输出.md",
@@ -237,7 +250,6 @@
     "Pasted image 20251217135909.png",
     "e2c1838245051502cc0ad8593a07d250_MD5.jpg",
     "Pasted image 20251217135753.png",
-    "daily/2025-12-17.md",
     "obsidian/配置obsidian/插件.md",
     "daily/2025-12-16.md",
     "临时笔记/未命名.md",
@@ -265,7 +277,6 @@
     "未命名.base",
     "daily/2025-12-13.md",
     "daily/2025-12-15.md",
-    "daily/2025-12-16.sync-conflict-20251216-091512-7KGOG42.md",
     "Pasted image 20251214181500.png",
     "(Attachments)/s33620095.jpg",
     "IMG_20251212_140744.jpg",
