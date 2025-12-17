@@ -147,8 +147,7 @@ cin.clear( )方法可能清除EOF标记，使输入继续进行不过要记住�
 Cpp
 
 
-`
-cin.get (ch) ; // attempt to read a char while (cin.fail() == false) // test for EOF {     ... // do stuff     cin.get(ch) ; //attempt to read another char }  // 可改写为： while (!cin.fail())`
+`cin.get (ch) ; // attempt to read a char while (cin.fail() == false) // test for EOF {     ... // do stuff     cin.get(ch) ; //attempt to read another char }  // 可改写为： while (!cin.fail())`
 
 
 方法cin.get(char)的返回值是一个cin对象。然而，istream类提供了一个可以将istream对象（如cin）转换为bool值的函数；当cin出现在需要bool值的地方（如在while循环的测试条件中）时，该转换函数将被调用。另外，如果最后一次读取成功了，则转换得到的bool值为true；否则为false。这意味着可以将上述while测试改写为这样：
