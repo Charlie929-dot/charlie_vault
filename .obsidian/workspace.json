@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "输入输出.md",
+                "file": "临时笔记/test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "输入输出"
+              "title": "test"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "输入输出.md",
+                "file": "临时笔记/test.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "输入输出 的大纲"
+              "title": "test 的大纲"
             }
           },
           {
@@ -237,6 +237,9 @@
   "active": "cf1499b829494007",
   "lastOpenFiles": [
     "临时笔记/C.md",
+    "临时笔记/test.md",
+    "临时笔记/英语.md",
+    "临时笔记/未命名 1.md",
     "输入输出.md",
     "临时笔记/C练习.md",
     "c6097ffaaa1981bcc172436302e11f33_MD5.jpg",
@@ -250,7 +253,6 @@
     "obsidian/tool/笔记工具库.md",
     "（Template）/音乐模板.md",
     "委员会制.md",
-    "临时笔记/未命名 1.md",
     "未命名.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/~syncthing~2025-12-16.md.tmp",
@@ -264,7 +266,6 @@
     "obsidian/tool/~syncthing~疑难解答.md.tmp",
     "~syncthing~Pasted Image 20251216130126.jpeg.tmp",
     "临时笔记/未命名 3.md",
-    "临时笔记/未命名 4.md",
     "临时笔记",
     "未命名 1.canvas",
     "未命名.canvas",
