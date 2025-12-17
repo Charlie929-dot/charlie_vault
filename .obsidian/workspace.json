@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时笔记/c++输入输出.md",
+                "file": "临时笔记/test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "c++输入输出"
+              "title": "test"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "临时笔记/c++输入输出.md",
+                "file": "临时笔记/test.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "c++输入输出 的大纲"
+              "title": "test 的大纲"
             }
           },
           {
@@ -236,6 +236,7 @@
   },
   "active": "cf1499b829494007",
   "lastOpenFiles": [
+    "临时笔记/c++输入输出.md",
     "C++类.md",
     "C++积累.md",
     "临时笔记/C.md",
@@ -243,7 +244,6 @@
     "临时笔记/test.md",
     "临时笔记/英语.md",
     "临时笔记/未命名 1.md",
-    "临时笔记/c++输入输出.md",
     "c6097ffaaa1981bcc172436302e11f33_MD5.jpg",
     "Pasted image 20251217135909.png",
     "e2c1838245051502cc0ad8593a07d250_MD5.jpg",
