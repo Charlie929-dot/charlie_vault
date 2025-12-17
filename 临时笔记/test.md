@@ -148,8 +148,7 @@ Cpp
 
 
 ```c++
-cin.get (ch) ; // attempt to read a char while (cin.fail() == false) // test for EOF {     ... // do stuff     
-cin.get(ch) ; //attempt to read another char }  // 可改写为： while (!cin.fail())
+cin.get (ch) ; // attempt to read a char while (cin.fail() == false) // test for EOF {     ... // do stuff     cin.get(ch) ; //attempt to read another char }  // 可改写为： while (!cin.fail())
 ```
 
 
