@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临时笔记/C.md",
+                "file": "daily/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "2025-12-18"
             }
           },
           {
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -302,13 +302,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-text-transporter:Text Transporter": false,
+      "daily-notes:打开/创建今天的日记": false,
       "obsidian-memos:Thino": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "templater-obsidian:Templater": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
@@ -320,14 +320,14 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "38528c44a7e5d488",
+  "active": "de3a724f0aed9446",
   "lastOpenFiles": [
+    "临时笔记/C.md",
+    "（Template）/音乐模板.md",
     "daily/2025-12-18.md",
     "编程学习/C++ FilesC++文件.md",
-    "（Template）/音乐模板.md",
     "C语言结构体.md",
     "编程学习/学习工具.md",
-    "临时笔记/C.md",
     "daily/2025-12-17.md",
     "编程学习/C++类.md",
     "编程学习/C++积累.md",
