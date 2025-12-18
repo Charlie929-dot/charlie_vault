@@ -113,17 +113,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++ FilesC++文件.md",
+                "file": "daily/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C++ FilesC++文件"
+              "title": "2025-12-18"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -320,11 +320,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "98587caa05bed2d4",
+  "active": "38528c44a7e5d488",
   "lastOpenFiles": [
     "daily/2025-12-18.md",
-    "（Template）/音乐模板.md",
     "编程学习/C++ FilesC++文件.md",
+    "（Template）/音乐模板.md",
     "C语言结构体.md",
     "编程学习/学习工具.md",
     "临时笔记/C.md",
