@@ -11,10 +11,15 @@
             "id": "68f602dd5d4b8a2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-12-18"
             }
           }
         ]
@@ -216,7 +221,13 @@
   },
   "active": "68f602dd5d4b8a2c",
   "lastOpenFiles": [
+    "daily/2025-12-18.sync-conflict-20251218-184204-JPTAE2A.md",
     "daily/2025-12-18.md",
+    "IMG_20251218_142524.jpg",
+    "人工智能.md",
+    "~syncthing~IMG_20251218_142524.jpg.tmp",
+    "~syncthing~人工智能.md.tmp",
+    "daily/~syncthing~2025-12-18.md.tmp",
     "编程学习/学习工具.md",
     "临时笔记/C.md",
     "（Template）/音乐模板.md",
@@ -250,20 +261,13 @@
     "e2c1838245051502cc0ad8593a07d250_MD5.jpg",
     "Pasted image 20251217135753.png",
     "obsidian/配置obsidian/插件.md",
-    "daily/2025-12-16.md",
-    "委员会制.md",
-    "未命名.md",
     "daily/~syncthing~2025-12-16.md.tmp",
     "2025军事理论知识要点.docx",
     "~syncthing~2025军事理论知识要点.docx.tmp",
-    "~syncthing~军事理论复习资料.md.tmp",
     "Pasted Image 20251216130126.jpeg",
-    "临时笔记/~syncthing~SMB.md.tmp",
-    "obsidian/tool/~syncthing~疑难解答.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
     "Pasted image 20251214181500.png",
-    "(Attachments)/s33620095.jpg",
     "a.canvas"
   ]
 }
