@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-17.md",
+                "file": "daily/2025-12-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-17"
+              "title": "2025-12-18"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "2025-12-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,9 +244,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "38528c44a7e5d488",
+  "active": "902ba854ff5a89a7",
   "lastOpenFiles": [
     "daily/2025-12-17.md",
+    "daily/2025-12-18.md",
     "（Template）/书籍模板.md",
     "daily/2025-12-17.sync-conflict-20251217-233703-7KGOG42.md",
     "daily/~syncthing~2025-12-17.sync-conflict-20251217-233703-7KGOG42.md.tmp",
@@ -292,7 +292,6 @@
     "未命名.canvas",
     "临时笔记/未命名 3.md",
     "C语言结构体.md",
-    "daily/2025-12-13.md",
     "Pasted image 20251214181500.png",
     "(Attachments)/s33620095.jpg",
     "a.canvas"
