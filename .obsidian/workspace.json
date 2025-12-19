@@ -73,9 +73,19 @@
               "icon": "lucide-file",
               "title": "2025-12-19"
             }
+          },
+          {
+            "id": "b0381d0e4eaf33ca",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,8 +282,9 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "2cba680859bf1b27",
+  "active": "b0381d0e4eaf33ca",
   "lastOpenFiles": [
+    "daily/2025-12-19.md",
     "screenshot_20251219_202426.jpg",
     "英语/小组PPT展示.md",
     "~syncthing~screenshot_20251219_202426.jpg.tmp",
@@ -283,7 +294,6 @@
     "编程学习/C++积累.md",
     "编程学习/学习工具.md",
     "临时笔记/C练习.md",
-    "daily/2025-12-19.md",
     "编程学习/错误集锦.md",
     "（Template）/音乐模板.md",
     "obsidian/tool/疑难解答.md",
@@ -319,7 +329,6 @@
     "a9fe4c84ffcf16d7696a59c2d7e8e5de_MD5.png",
     "c6097ffaaa1981bcc172436302e11f33_MD5.jpg",
     "Pasted image 20251217135909.png",
-    "e2c1838245051502cc0ad8593a07d250_MD5.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
