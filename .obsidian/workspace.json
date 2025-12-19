@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-19.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-19"
+              "title": "C++积累"
             }
           },
           {
@@ -32,8 +32,7 @@
               "title": "Thino"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,9 +229,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1cbb90ab95ec51de",
+  "active": "59b949d851e86f43",
   "lastOpenFiles": [
     "daily/2025-12-19.md",
+    "编程学习/错误集锦.md",
     "（Template）/音乐模板.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/Markdown+语法手册.md",
@@ -244,7 +244,6 @@
     "临时笔记/C练习.md",
     "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "Pasted image 20251219135923.png",
-    "编程学习/错误集锦.md",
     "编程学习/C++ FilesC++文件.md",
     "编程学习/c++输入输出.md",
     "daily/2025-12-18.md",
