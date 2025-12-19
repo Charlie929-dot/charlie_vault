@@ -32,7 +32,8 @@
               "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +230,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "59b949d851e86f43",
+  "active": "1cbb90ab95ec51de",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2025-12-19.md",
+    "（Template）/音乐模板.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/Markdown+语法手册.md",
     "编程学习/C++积累.md",
