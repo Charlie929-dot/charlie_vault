@@ -7,7 +7,7 @@
   "customFolder": "文摘",
   "fileNamePrefix": "",
   "transcludeByDefault": false,
-  "noteLinkTemplate": "{{new_note_content}}({{new_note_link}})",
-  "refactoredNoteTemplate": "{{new_note_content}}({{link}})",
+  "noteLinkTemplate": "{{new_note_content}}",
+  "refactoredNoteTemplate": "{{new_note_content}}",
   "normalizeHeaderLevels": false
 }

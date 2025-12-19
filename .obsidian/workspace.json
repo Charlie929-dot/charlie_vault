@@ -38,6 +38,66 @@
             }
           },
           {
+            "id": "a0d98064c68177c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
+          },
+          {
+            "id": "6a887c35fa3422d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-20"
+            }
+          },
+          {
+            "id": "4bfbef3c04d8be84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
+          },
+          {
+            "id": "676b91ebe1470690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
+          },
+          {
             "id": "06bc9c085bc6f445",
             "type": "leaf",
             "state": {
@@ -48,28 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "f7787966f36d89a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2cba680859bf1b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "寻深足迹/在追.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "在追"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,14 +305,15 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "06bc9c085bc6f445",
+  "active": "6a887c35fa3422d4",
   "lastOpenFiles": [
+    "文摘/文摘.md",
     "daily/2025-12-20.md",
-    "daily/2025-12-19.md",
     "英语/小组PPT展示.md",
+    "寻深足迹/在追.md",
+    "daily/2025-12-19.md",
     "daily/2025-12-18.md",
     "（Template）/日记模板.md",
-    "寻深足迹/在追.md",
     "screenshot_20251219_202426.jpg",
     "~syncthing~screenshot_20251219_202426.jpg.tmp",
     "daily/~syncthing~2025-12-19.md.tmp",
@@ -308,7 +348,6 @@
     "编程学习/C++类.md",
     "编程学习",
     "临时笔记/未命名 1.md",
-    "临时笔记/未命名.md",
     "IMG_20251217_171955.jpg",
     "937f8e8e44f9757ccc63878fbcac3dcc_MD5.png",
     "a9fe4c84ffcf16d7696a59c2d7e8e5de_MD5.png",
