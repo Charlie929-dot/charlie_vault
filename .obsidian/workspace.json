@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/疑难解答.md",
+                "file": "daily/2025-12-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "2025-12-19"
             }
           },
           {
@@ -35,6 +35,21 @@
               },
               "icon": "lucide-file",
               "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "54570486a9c44252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程学习/C++积累.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "C++积累"
             }
           }
         ]
@@ -69,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDE",
+                "query": "tag:#课堂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,10 +251,10 @@
   },
   "active": "59b949d851e86f43",
   "lastOpenFiles": [
-    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
-    "daily/2025-12-19.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "编程学习/C++积累.md",
+    "daily/2025-12-19.md",
     "obsidian/tool/笔记工具库.md",
     "优秀代码.md",
     "编程学习/学习工具.md",
