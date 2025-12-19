@@ -136,7 +136,7 @@ bool is_prime(int n)
 }
 ```
 
-
+### 数组初始化`a[N]={0}`
 ```c++
 #include <iostream>
 
