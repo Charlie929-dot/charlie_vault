@@ -76,3 +76,110 @@ int main(){
 # 输入单行内容含空格
 `getline(cin,a)`
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
+
+# [[优秀代码]]
+
+### 工程思维
+```c++
+#include <iostream>
+#include <cmath>
+
+#define N 1000001
+
+bool is_prime(int n);//工程思维:先搭框架,再填内容.先声明函数,最后再补全,保持思维连贯性
+
+using namespace std;
+
+int main()
+{
+    int T, n;
+    int a[N];
+
+    a[0] = 0;
+    for(int i = 1; i < N; i++)
+    {
+        a[i] = a[i - 1];
+        if(is_prime(i))
+        {
+            a[i]++;
+        }
+    }
+
+    cin >> T;
+    while(T > 0)
+    {
+        cin >> n;
+        cout << a[n] << endl;
+        T--;
+    }
+
+    return 0;
+}
+
+bool is_prime(int n)
+{
+    bool res = true;
+    if(n < 2)
+    {
+        return false;
+    }
+    for(int i = 2; i <= sqrt(n); i++)
+    {
+        if(n % i == 0)
+        {
+            res = false;
+            break;
+        }
+    }
+    return res;
+}
+```
+
+
+```c++
+#include <iostream>
+
+#define N 1000001
+#define NSQRT 1000
+
+using namespace std;
+
+int main()
+{
+    int T, n;
+    int a[N]={0};                             /*注意初始化，不然结果每次运行都会不同*/
+
+    for(int i = 2; i <= NSQRT; i++)
+    {
+        if(a[i] == 0)
+        {
+            for(int j = i*i; j <= N; j += i)
+            {
+                a[j] = 1;
+            }
+        }
+    }
+
+    for(int i = 2; i < N; i++)
+    {
+        if(a[i] == 0)
+        {
+            a[i] = a[i - 1] + 1;
+        }
+        else
+        {
+            a[i] = a[i - 1];
+        }
+    }
+
+    cin >> T;
+    while(T > 0)
+    {
+        cin >> n;
+        cout << a[n] << endl;
+        T--;
+    }
+
+    return 0;
+}
+```

@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "59b949d851e86f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程学习/C++积累.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "C++积累"
             }
           }
         ]
@@ -221,12 +236,18 @@
   },
   "active": "584ecbe4b1947d20",
   "lastOpenFiles": [
+    "obsidian/tool/笔记工具库.md",
+    "daily/2025-12-19.md",
     "编程学习/C++积累.md",
+    "优秀代码.md",
+    "编程学习/学习工具.md",
+    "Pasted image 20251219135949.png",
+    "临时笔记/C练习.md",
+    "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
+    "Pasted image 20251219135923.png",
     "编程学习/错误集锦.md",
     "编程学习/C++ FilesC++文件.md",
-    "编程学习/学习工具.md",
     "编程学习/c++输入输出.md",
-    "daily/2025-12-19.md",
     "daily/2025-12-18.md",
     "（Template）/音乐模板.md",
     "daily/~syncthing~2025-12-19.sync-conflict-20251219-125008-7KGOG42.md.tmp",
@@ -242,13 +263,11 @@
     "C语言结构体.md",
     "daily/2025-12-17.md",
     "编程学习/C++类.md",
-    "obsidian/tool/笔记工具库.md",
     "编程学习",
     "临时笔记/未命名 1.md",
     "临时笔记/未命名.md",
     "临时笔记/未命名 3.md",
     "临时笔记/英语.md",
-    "临时笔记/C练习.md",
     "临时笔记/SMB.md",
     "（Template）/日记模板.md",
     "（Template）/书籍模板.md",
@@ -257,18 +276,14 @@
     "IMG_20251217_171955.jpg",
     "~syncthing~IMG_20251217_171955.jpg.tmp",
     "文摘/~syncthing~文摘.md.tmp",
-    "obsidian/配置obsidian/test.md",
     "937f8e8e44f9757ccc63878fbcac3dcc_MD5.png",
     "a9fe4c84ffcf16d7696a59c2d7e8e5de_MD5.png",
     "c6097ffaaa1981bcc172436302e11f33_MD5.jpg",
     "Pasted image 20251217135909.png",
     "e2c1838245051502cc0ad8593a07d250_MD5.jpg",
-    "Pasted image 20251217135753.png",
     "daily/~syncthing~2025-12-16.md.tmp",
-    "Pasted Image 20251216130126.jpeg",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Pasted image 20251214181500.png",
     "a.canvas"
   ]
 }

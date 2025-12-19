@@ -114,3 +114,53 @@ int main()
         cout<<a[n/2+1]<<endl;
 }
 ```
+
+[[98340f21e664b07eb0bdc213a2773793_MD5.jpg|Open: Pasted image 20251219135923.png]]
+![[98340f21e664b07eb0bdc213a2773793_MD5.jpg]]
+```c++
+#include <iostream>
+
+#define N 1000001
+#define NSQRT 1000
+
+using namespace std;
+
+int main()
+{
+    int T, n;
+    int a[N]={0};                             /*注意初始化，不然结果每次运行都会不同*/
+
+    for(int i = 2; i <= NSQRT; i++)
+    {
+        if(a[i] == 0)
+        {
+            for(int j = i*i; j <= N; j += i)
+            {
+                a[j] = 1;
+            }
+        }
+    }
+
+    for(int i = 2; i < N; i++)
+    {
+        if(a[i] == 0)
+        {
+            a[i] = a[i - 1] + 1;
+        }
+        else
+        {
+            a[i] = a[i - 1];
+        }
+    }
+
+    cin >> T;
+    while(T > 0)
+    {
+        cin >> n;
+        cout << a[n] << endl;
+        T--;
+    }
+
+    return 0;
+}
+```
