@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "（Template）/日记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "日记模板"
             }
           }
         ],
@@ -123,8 +123,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,11 +267,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "58a9cd2ab00d91d1",
+  "active": "7789f766d15ac4e0",
   "lastOpenFiles": [
+    "daily/2025-12-19.md",
     "寻深足迹/在追.md",
     "英语/小组PPT展示.md",
-    "daily/2025-12-19.md",
     "screenshot_20251219_202426.jpg",
     "~syncthing~screenshot_20251219_202426.jpg.tmp",
     "daily/~syncthing~2025-12-19.md.tmp",
