@@ -77,7 +77,7 @@ int main(){
 `getline(cin,a)`
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
 
-# [[优秀代码]]
+# 优秀代码
 
 ### 工程思维
 ```c++
