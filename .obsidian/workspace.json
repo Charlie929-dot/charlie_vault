@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "2025-12-19"
             }
+          },
+          {
+            "id": "1cbb90ab95ec51de",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ]
       }
@@ -221,10 +231,11 @@
   },
   "active": "59b949d851e86f43",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
+    "daily/2025-12-19.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/Markdown+语法手册.md",
     "编程学习/C++积累.md",
-    "daily/2025-12-19.md",
     "obsidian/tool/笔记工具库.md",
     "优秀代码.md",
     "编程学习/学习工具.md",
@@ -236,7 +247,6 @@
     "编程学习/C++ FilesC++文件.md",
     "编程学习/c++输入输出.md",
     "daily/2025-12-18.md",
-    "（Template）/音乐模板.md",
     "daily/~syncthing~2025-12-19.sync-conflict-20251219-125008-7KGOG42.md.tmp",
     "发展史.md",
     "~syncthing~发展史.md.tmp",
