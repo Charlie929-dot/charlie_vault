@@ -80,6 +80,7 @@ int main(){
 # 优秀代码
 
 ### 工程思维
+### 前缀和
 ```c++
 #include <iostream>
 #include <cmath>
