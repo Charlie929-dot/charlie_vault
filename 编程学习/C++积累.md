@@ -78,9 +78,7 @@ int main(){
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
 
 # 优秀代码
-
-### 工程思维
-### 前缀和
+## 1
 ```c++
 #include <iostream>
 #include <cmath>
@@ -104,7 +102,7 @@ int main()
         {
             a[i]++;
         }
-    }
+    }//前缀和
 
     cin >> T;
     while(T > 0)
@@ -135,8 +133,43 @@ bool is_prime(int n)
     return res;
 }
 ```
+### 工程思维
+### 前缀和
+```c++
+for(int i = 1; i < N; i++)
+    {
+        a[i] = a[i - 1];
+        if(is_prime(i))
+        {
+            a[i]++;
+        }
+    }
+```
+### 优化
+```c++
+bool is_prime(int n)
+{
+    bool res = true;
+    if(n < 2)
+    {
+        return false;
+    }
+    for(int i = 2; i <= sqrt(n); i++)
+    {
+        if(n % i == 0)
+        {
+            res = false;
+            break;
+        }
+    }
+    return res;
+}
+```
 
-### 数组初始化`a[N]={0}`
+
+---
+
+## 2
 ```c++
 #include <iostream>
 
@@ -184,3 +217,4 @@ int main()
     return 0;
 }
 ```
+### 数组初始化`a[N]={0}`
