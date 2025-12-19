@@ -1,3 +1,5 @@
+# 核心目标
+比较<mark style="background: #FFF3A3A6;">完整且合格</mark>的<mark style="background: #FFF3A3A6;">展示呈现</mark>，稿子可以依靠AI完成
 # 内容材料
 ![[screenshot_20251219_202426.jpg]]
 
