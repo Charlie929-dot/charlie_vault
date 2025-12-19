@@ -133,6 +133,60 @@ bool is_prime(int n)
     return res;
 }
 ```
+
+> mine优化版
+```c++
+#include<iostream>
+
+using namespace std;
+
+#define N 10000001
+
+bool is_prime(int a);
+
+int main()
+
+{
+
+    int a[N]={0};
+
+    for(int i=1;i<N;i++)
+
+    {
+        a[i]=a[i-1];
+        if(is_prime(i)) a[i]++;
+    }
+
+    int T,n;
+    cin>>T;
+    while(T--)
+    {
+        cin>>n;
+        cout<<a[n]<<endl;
+    }
+    return 0;
+}
+
+bool is_prime(int a)
+
+{
+
+    if(a<2) return false;
+
+    else{
+
+        for(int i=2;i*i<=a;i++){
+
+            if(a%i==0) return false;
+
+        }
+
+        return true;
+
+    }
+
+}
+ ```
 ### 工程思维
 ### 前缀和
 ```c++
