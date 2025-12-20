@@ -5,10 +5,12 @@
 
 
 # 任务
-- [ ] 拆分
-- [ ] 是否英文，多少英文
+- [x] 拆分
+- [ ] 是否英文，多少英文 `用简单的英文,专有名词用中文解释`
 - [ ] 熟悉内容
-- [ ] 完整流程
+	- [ ] 熟悉稿子
+	- [ ] 熟悉和PPT的联系
+- [ ] 完整流程-模拟
 - [ ] 优化细节（字的读音，语气，神态，<mark style="background: #FF5582A6;">动作</mark>）
 
 # 展示拆分
@@ -17,7 +19,7 @@
 
 Just now, Xu Jian showed us the current state of contemporary love and clarified the core controversies over whether love is necessary and whether it can be customized. In fact, these confusions have long been answered in the relationship of a literary couple. Next, I will share the story of Yang Jiang and Qian Zhongshu, and also analyze the key traits that make it easier for ordinary people to encounter love.
 
-### 案例
+### PART4案例
 
 Let me ask you a quick question first: What do you think is the most precious thing in a long-lasting love? Is it passionate promises, expensive gifts, or something else? For,the answer is in the story of Yang Jiang and Qian Zhongshu—two great writers whose love is the most touching I’ve ever known, because it’s built on <mark style="background: #FF5582A6;">true understanding</mark>, <mark style="background: #FF5582A6;">mutual help</mark>, and <mark style="background: #FF5582A6;">never leaving each other</mark>.
  
@@ -27,7 +29,7 @@ Their love wasn’t just sweet when life was easy; it was stronger when times we
  
 Why do they still matter today? Because in a world where love is sometimes about <mark style="background: #FF5582A6;">“matching conditions” </mark>or <mark style="background: #FF5582A6;">“being useful to each other,”</mark> their story reminds us: The best love is when two people grow together, help each other, and choose each other again and again, no matter what happens. They didn’t care about fame or money; they just wanted to “stay with each other, simply and sincerely.” That’s the kind of love that lasts a lifetime—and that’s why they’re my most admired couple.
  
-### 特质
+### PART5特质
  
 Now, after hearing this beautiful love story, you might wonder: How can we find such a deep connection? Let’s be honest—love isn’t about luck, and it’s not about being perfect. It’s about having simple traits that make love come to you. From our discussions, we’ve found 3 special qualities that make people easy to love—they’re simple, real, and powerful.
  
@@ -42,6 +44,8 @@ Let me wrap this up: Love isn’t about being the most handsome/beautiful or the
 That’s all for my part. Thank you!
 
 ### 结束话语
+
+To sum up, whether it’s the spiritual resonance between Yang Jiang and Qian Zhongshu, or the three core traits we just discussed—emotional competence, personal charm, and a good attitude toward relationships—they all tell us one thing: Love isn’t about luck or perfect conditions. It’s about being sincere, understanding, and kind to others. I hope these stories and ideas can bring you some inspiration about love. That’s all for my part of the presentation.
 
 ### 分工介绍
 
