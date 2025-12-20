@@ -15,7 +15,9 @@
 
 ### 衔接
 刚才徐键带我们看清了当代爱情的现状，也理清了爱情是否必要、能否定制的核心争议。其实这些困惑，早已在一对文坛眷侣的感情里有了答案。接下来我来分享杨绛与钱钟书的故事，也拆解普通人更容易遇见爱情的关键特质。
+
 ### 案例
+
 Good morning/afternoon everyone! Let me ask you a quick question first: What do you think is the most precious thing in a long-lasting love? Is it passionate promises, expensive gifts, or something else? For me, the answer is in the story of Yang Jiang and Qian Zhongshu—two great writers whose love is the most touching I’ve ever known, because it’s built on true understanding, mutual help, and never leaving each other.
  
 You might have read their books, but let me tell you what their daily life was like. Qian Zhongshu was a genius writer, but he was really bad at daily chores—he couldn’t even boil an egg well! But Yang Jiang, who was also a talented writer, said to him: “I’ll take care of life, so you can focus on writing.” And she did. When Qian Zhongshu wrote Fortress Besieged, Yang Jiang did all the cooking and cleaning. She also sorted out his messy notes and gave useful advice to make the book better. Later, when Yang Jiang wrote We Three, a book about their family, Qian Zhongshu sat with her every night, read her drafts, and said, “This is the most beautiful writing I’ve ever read.” That’s not just being partners—they were each other’s safest place, both in mind and heart.
@@ -24,7 +26,7 @@ Their love wasn’t just sweet when life was easy; it was stronger when times we
  
 Why do they still matter today? Because in a world where love is sometimes about “matching conditions” or “being useful to each other,” their story reminds us: The best love is when two people grow together, help each other, and choose each other again and again, no matter what happens. They didn’t care about fame or money; they just wanted to “stay with each other, simply and sincerely.” That’s the kind of love that lasts a lifetime—and that’s why they’re my most admired couple.
  
-Part 5 简化版脚本（恋爱特质）
+### 特质
  
 Now, after hearing this beautiful love story, you might wonder: How can we find such a deep connection? Let’s be honest—love isn’t about luck, and it’s not about being perfect. It’s about having simple traits that make love come to you. From our discussions, we’ve found 3 special qualities that make people easy to love—they’re simple, real, and powerful.
  
@@ -37,9 +39,9 @@ Third special quality: Warmth—being kind, not just polite. Kindness isn’t ju
 Let me wrap this up: Love isn’t about being the most handsome/beautiful or the most successful. It’s about being someone who can understand others, be real, and show kindness. These traits don’t just help you find love—they help you keep it. And isn’t that what we all want? A love that’s deep, real, and lasts?
  
 That’s all for my part. Thank you!
-### 特质
+
+### 结束话语
 
 ### 分工介绍
 
-### 结束话语
 
