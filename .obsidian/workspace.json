@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b722a5dc228fb54",
+        "id": "ae2bff63e5a7d274",
         "type": "tabs",
         "children": [
           {
-            "id": "977736a5c584439d",
+            "id": "496a83cbdd4570f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,20 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "大一上期末复习计划"
-            }
-          },
-          {
-            "id": "9320eb45d867a2d5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mooc1.chaoxing.com/mycourse/studentcourse?courseId=257861051&clazzid=133675069&cpi=482267394&enc=c592842bf30f2641098265ce8202cbdf",
-                "title": "ZXK大学英语（初阶）自习课 【大学英语I考前辅导】-首页",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ZXK大学英语（初阶）自习课 【大学英语I考前辅导】-首页"
             }
           }
         ]
@@ -233,8 +219,9 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "977736a5c584439d",
+  "active": "496a83cbdd4570f0",
   "lastOpenFiles": [
+    "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "大一上期末复习计划.md",
     "daily/2025-12-20.md",
     "obsidian/tool/疑难解答.md",
@@ -275,12 +262,10 @@
     "daily/~syncthing~2025-12-18.md.tmp",
     "临时笔记/C.md",
     "C语言结构体.md",
-    "daily/2025-12-17.md",
     "IMG_20251217_171955.jpg",
     "937f8e8e44f9757ccc63878fbcac3dcc_MD5.png",
     "a9fe4c84ffcf16d7696a59c2d7e8e5de_MD5.png",
     "c6097ffaaa1981bcc172436302e11f33_MD5.jpg",
-    "Pasted image 20251217135909.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
