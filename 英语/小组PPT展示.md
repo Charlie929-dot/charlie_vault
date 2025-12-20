@@ -40,8 +40,6 @@ Second special quality: **Authenticity—being truly yourself, not pretending**.
 Third special quality: **Warmth—being kind, not just polite.** Kindness isn’t just saying “please” and “thank you.” It’s remembering your partner’s favorite drink, asking them “Are you okay?” when they’re stressed, or even laughing at their silly jokes. Warmth is like sunshine—it makes people feel safe and happy to be with you. No one falls for someone cold or too critical, but everyone likes being around someone who cares.
  
 Let me wrap this up: Love isn’t about being the most handsome/beautiful or the most successful. It’s about being someone who can understand others, be real, and show kindness. These traits don’t just help you find love—they help you keep it. And isn’t that what we all want? A love that’s deep, real, and lasts?
- 
-That’s all for my part. Thank you!
 
 ### 结束话语
 
