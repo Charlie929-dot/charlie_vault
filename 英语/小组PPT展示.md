@@ -45,4 +45,14 @@ That’s all for my part. Thank you!
 
 ### 分工介绍
 
+Finally, I’d like to introduce the division of labor for our group’s report:
+ 
+- For the PPT production and data collection, we have Wang Jiahe, who helped us organize all the materials and design the slides.
+​
+- For the content planning and discussion guidance, all group members worked together to polish every part of the report.
+​
+- And for the presentation, my partners Xu Jian and Yan Jiangnan shared the first three parts with you earlier, and I’m responsible for Parts 4 and 5.
+ 
+Thank you all for listening! If you have any questions, feel free to ask us.
+
 
