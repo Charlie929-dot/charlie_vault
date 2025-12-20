@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "2025-12-21"
             }
+          },
+          {
+            "id": "ddd6f6701e1e4973",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-21.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-21 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -220,10 +230,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "496a83cbdd4570f0",
+  "active": "ddd6f6701e1e4973",
   "lastOpenFiles": [
-    "daily/2025-12-20.md",
     "daily/2025-12-21.md",
+    "daily/2025-12-20.md",
     "人工智能/测试题.md",
     "临时笔记/AI.md",
     "人工智能",
