@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "2025-12-20"
             }
+          },
+          {
+            "id": "18aafb7ca33f7912",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-20.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-20 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -235,12 +244,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "038b5138daa25c86",
+  "active": "18aafb7ca33f7912",
   "lastOpenFiles": [
+    "daily/2025-12-20.md",
     "daily/2025-12-20.sync-conflict-20251220-120755-JPTAE2A.md",
     "daily/~syncthing~2025-12-20.md.tmp",
     "大一上期末复习计划.md",
-    "daily/2025-12-20.md",
     "大一上期末考试时间安排.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "obsidian/tool/疑难解答.md",
