@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/测试题.md",
+                "file": "daily/2025-12-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "测试题"
+              "title": "2025-12-20"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/测试题.md",
+                "file": "daily/2025-12-20.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试题 的大纲"
+              "title": "2025-12-20 的大纲"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "496a83cbdd4570f0",
   "lastOpenFiles": [
-    "daily/2025-12-20.md",
     "人工智能/测试题.md",
+    "daily/2025-12-20.md",
     "人工智能",
     "大一上期末复习计划.md",
     "（Template）/音乐模板.md",
