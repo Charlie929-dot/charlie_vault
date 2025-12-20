@@ -57,7 +57,8 @@
               "title": "2025-12-20"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大一上期末复习计划.md",
+                "file": "（Template）/音乐模板.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大一上期末复习计划 的大纲"
+              "title": "音乐模板 的大纲"
             }
           },
           {
@@ -255,12 +256,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "496a83cbdd4570f0",
+  "active": "18aafb7ca33f7912",
   "lastOpenFiles": [
     "daily/2025-12-20.md",
-    "大一上期末考试时间安排.md",
     "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
+    "大一上期末考试时间安排.md",
     "爱自己是什么.md",
     "文摘/文摘.md",
     "文摘/思辨.md",
