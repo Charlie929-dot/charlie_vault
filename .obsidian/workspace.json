@@ -21,6 +21,20 @@
               "icon": "lucide-file",
               "title": "大一上期末复习计划"
             }
+          },
+          {
+            "id": "9320eb45d867a2d5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mooc1.chaoxing.com/mycourse/studentcourse?courseId=257861051&clazzid=133675069&cpi=482267394&enc=c592842bf30f2641098265ce8202cbdf",
+                "title": "ZXK大学英语（初阶）自习课 【大学英语I考前辅导】-首页",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ZXK大学英语（初阶）自习课 【大学英语I考前辅导】-首页"
+            }
           }
         ]
       }
@@ -221,8 +235,8 @@
   },
   "active": "977736a5c584439d",
   "lastOpenFiles": [
-    "daily/2025-12-20.md",
     "大一上期末复习计划.md",
+    "daily/2025-12-20.md",
     "obsidian/tool/疑难解答.md",
     "daily/2025-12-19.md",
     "daily/2025-12-19.sync-conflict-20251219-190320-7KGOG42.md",
