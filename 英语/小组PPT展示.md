@@ -14,11 +14,12 @@
 # 展示拆分
 
 ### 衔接
-刚才徐键带我们看清了当代爱情的现状，也理清了爱情是否必要、能否定制的核心争议。其实这些困惑，早已在一对文坛眷侣的感情里有了答案。接下来我来分享杨绛与钱钟书的故事，也拆解普通人更容易遇见爱情的关键特质。
+
+Just now, Xu Jian showed us the current state of contemporary love and clarified the core controversies over whether love is necessary and whether it can be customized. In fact, these confusions have long been answered in the relationship of a literary couple. Next, I will share the story of Yang Jiang and Qian Zhongshu, and also analyze the key traits that make it easier for ordinary people to encounter love.
 
 ### 案例
 
-Good morning/afternoon everyone! Let me ask you a quick question first: What do you think is the most precious thing in a long-lasting love? Is it passionate promises, expensive gifts, or something else? For me, the answer is in the story of Yang Jiang and Qian Zhongshu—two great writers whose love is the most touching I’ve ever known, because it’s built on true understanding, mutual help, and never leaving each other.
+Let me ask you a quick question first: What do you think is the most precious thing in a long-lasting love? Is it passionate promises, expensive gifts, or something else? The answer might lie in the story of Yang Jiang and Qian Zhongshu—two great writers whose love is the most touching I’ve ever known, because it’s built on true understanding, mutual help, and never leaving each other.
  
 You might have read their books, but let me tell you what their daily life was like. Qian Zhongshu was a genius writer, but he was really bad at daily chores—he couldn’t even boil an egg well! But Yang Jiang, who was also a talented writer, said to him: “I’ll take care of life, so you can focus on writing.” And she did. When Qian Zhongshu wrote Fortress Besieged, Yang Jiang did all the cooking and cleaning. She also sorted out his messy notes and gave useful advice to make the book better. Later, when Yang Jiang wrote We Three, a book about their family, Qian Zhongshu sat with her every night, read her drafts, and said, “This is the most beautiful writing I’ve ever read.” That’s not just being partners—they were each other’s safest place, both in mind and heart.
  
