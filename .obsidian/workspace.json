@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-21.md",
+                "file": "临时笔记/AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-21"
+              "title": "AI"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-21.md",
+                "file": "临时笔记/AI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-21 的大纲"
+              "title": "AI 的大纲"
             }
           },
           {
@@ -222,8 +222,9 @@
   },
   "active": "496a83cbdd4570f0",
   "lastOpenFiles": [
-    "daily/2025-12-20.md",
     "daily/2025-12-21.md",
+    "临时笔记/AI.md",
+    "daily/2025-12-20.md",
     "人工智能/测试题.md",
     "人工智能",
     "大一上期末复习计划.md",
@@ -259,7 +260,6 @@
     "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "Pasted image 20251219135923.png",
     "编程学习/C++ FilesC++文件.md",
-    "编程学习/c++输入输出.md",
     "daily/~syncthing~2025-12-19.sync-conflict-20251219-125008-7KGOG42.md.tmp",
     "~syncthing~发展史.md.tmp",
     "IMG_20251218_142524.jpg",
