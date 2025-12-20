@@ -58,37 +58,7 @@
             }
           },
           {
-            "id": "7c91161b09fe8536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "afc21d498c123c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "06c01ae4645684b1",
+            "id": "0dbbfd5d7ae1a753",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "爱自己是什么.md",
+                "file": "文摘/文摘.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "爱自己是什么 的大纲"
+              "title": "文摘 的大纲"
             }
           },
           {
@@ -300,10 +270,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "3f3396f0a9ca20e6",
+  "active": "0dbbfd5d7ae1a753",
   "lastOpenFiles": [
-    "文摘/文摘.md",
     "爱自己是什么.md",
+    "文摘/文摘.md",
     "daily/2025-12-20.md",
     "大一上期末考试时间安排.md",
     "文摘/思辨.md",
