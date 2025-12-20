@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "爱自己是什么.md",
+                "file": "daily/2025-12-20.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "爱自己是什么 的大纲"
+              "title": "2025-12-20 的大纲"
             }
           },
           {
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
