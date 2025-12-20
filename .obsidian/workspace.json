@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "391265340515fcea",
+        "id": "5b722a5dc228fb54",
         "type": "tabs",
         "children": [
           {
-            "id": "1d564c868ce48dfc",
+            "id": "977736a5c584439d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-20.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-20"
+              "title": "大一上期末复习计划"
             }
           }
         ]
@@ -219,10 +219,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1d564c868ce48dfc",
+  "active": "977736a5c584439d",
   "lastOpenFiles": [
-    "daily/2025-12-19.md",
     "daily/2025-12-20.md",
+    "大一上期末复习计划.md",
+    "obsidian/tool/疑难解答.md",
+    "daily/2025-12-19.md",
     "daily/2025-12-19.sync-conflict-20251219-190320-7KGOG42.md",
     "daily/~syncthing~2025-12-20.sync-conflict-20251220-093744-7KGOG42.md.tmp",
     "编程学习/C++积累.md",
@@ -240,7 +242,6 @@
     "临时笔记/C练习.md",
     "编程学习/错误集锦.md",
     "（Template）/音乐模板.md",
-    "obsidian/tool/疑难解答.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/笔记工具库.md",
     "优秀代码.md",
