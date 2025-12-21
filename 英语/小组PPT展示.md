@@ -37,7 +37,7 @@ First special quality: **Empathy—being able to understand how others feel.** F
  
 Second special quality: **Authenticity—being truly yourself, not pretending**. Think about it: Would you want someone to love you for who you’re not? If you hate hiking but pretend to love it to impress a date, or hide your funny side, that’s not real love—that’s a lie. Yang Jiang loved Qian Zhongshu even though he was bad at chores, and he loved her for being straightforward. <mark style="background: #FF5582A6;">They didn’t change for each other; they accepted each other.</mark> Real people attract real love—because trust is the base of any good relationship.
  
-Third special quality: **Warmth—being kind, not just polite.** Kindness isn’t just saying “please” and “thank you.” It’s remembering your partner’s favorite drink, asking them “Are you okay?” when they’re stressed, or even laughing at their silly jokes. Warmth is like sunshine—it makes people feel safe and happy to be with you. No one falls for someone cold or too critical, but everyone likes being around someone who cares.
+Third special quality: **Warmth—being kind, not just polite.** Kindness isn’t just saying “please” and “thank you.”🌸 It’s remembering your partner’s <mark style="background: #FF5582A6;">favorite drink</mark>, asking them <mark style="background: #FF5582A6;">“Are you okay?”</mark> when they’re stressed, or even laughing at their <mark style="background: #FF5582A6;">silly jokes</mark>. 🌸Warmth is like sunshine—it makes people feel safe and happy to be with you.🌸 No one falls for someone cold or too critical, but everyone likes being around someone who cares.
 
 ### 结束话语
 
