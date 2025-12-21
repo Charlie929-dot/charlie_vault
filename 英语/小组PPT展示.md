@@ -44,7 +44,6 @@ Third special quality: **Warmth—being kind, not just polite.** Kindness isn’
 
 To sum up, whether it’s the spiritual resonance between Yang Jiang and Qian Zhongshu, or the three core traits we just discussed—emotional competence, personal charm, and a good attitude toward relationships—they all tell us one thing: Love isn’t about luck or perfect conditions. It’s about being sincere, understanding, and kind to others. I hope these stories and ideas can bring you some inspiration about love. That’s all for my part of the presentation.
  
-That's all.
-Thank you all for listening!
+ Thank you all for listening!
 
 
