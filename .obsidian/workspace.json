@@ -21,8 +21,34 @@
               "icon": "lucide-file",
               "title": "文摘"
             }
+          },
+          {
+            "id": "424ab7be39186f5b",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "74b913c407aa8215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-21"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,13 +244,13 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "72021c07ba548a21",
+  "active": "424ab7be39186f5b",
   "lastOpenFiles": [
-    "文摘/思辨.md",
     "daily/2025-12-21.md",
-    "文摘/文摘.md",
-    "今日冬至.md",
     "（Template）/音乐模板.md",
+    "文摘/文摘.md",
+    "文摘/思辨.md",
+    "今日冬至.md",
     "1fbbeebf58907a07f63e214a4d30abc5_MD5.jpg",
     "98567d844295b64fb332db4e1b54c758_MD5.jpg",
     "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
