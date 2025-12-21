@@ -55,8 +55,7 @@
               "title": "2025-12-21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,11 +252,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "d874119cb9fc5f7e",
+  "active": "74b913c407aa8215",
   "lastOpenFiles": [
+    "daily/2025-12-21.md",
     "~syncthing~军事理论复习资料.md.tmp",
     "英语/小组PPT展示.md",
-    "daily/2025-12-21.md",
     "今日冬至.md",
     "大一上期末复习计划.md",
     "obsidian/tool/疑难解答.md",
