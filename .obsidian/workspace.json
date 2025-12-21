@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "编程学习/vector用法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "vector用法"
             }
           }
         ],
@@ -280,6 +280,8 @@
   },
   "active": "7ed8dc80de3076d6",
   "lastOpenFiles": [
+    "编程学习/C++积累.md",
+    "编程学习/vector用法.md",
     "obsidian/tool/笔记工具库.md",
     "daily/2025-12-21.md",
     "英语/小组PPT展示.md",
@@ -311,7 +313,6 @@
     "daily/2025-12-19.md",
     "daily/2025-12-19.sync-conflict-20251219-190320-7KGOG42.md",
     "daily/~syncthing~2025-12-20.sync-conflict-20251220-093744-7KGOG42.md.tmp",
-    "编程学习/C++积累.md",
     "寻深足迹/在追.md",
     "daily/2025-12-18.md",
     "（Template）/日记模板.md",

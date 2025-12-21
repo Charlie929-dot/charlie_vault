@@ -275,5 +275,5 @@ int main()
 
 > 法一:定长数组
 > `const int N;a[N]={0}`
-> 法二:使用vector
-> ``
+> 法二:使用[[vector用法]]
+> `vector<int> v(n,0)`
