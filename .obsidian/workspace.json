@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-12-21"
             }
-          },
-          {
-            "id": "5e0a6ad717c5c367",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#思辨",
+                "query": "tag:#thinking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,13 +230,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "5e0a6ad717c5c367",
+  "active": "74b913c407aa8215",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
     "daily/2025-12-21.md",
+    "国产AI引擎在网络安全Web仿真实验领域的应用分析报告.md",
     "daily/~syncthing~2025-12-21.md.tmp",
     "英语/~syncthing~小组PPT展示.md.tmp",
     "英语/小组PPT展示.md",
-    "国产AI引擎在网络安全Web仿真实验领域的应用分析报告.md",
     "成熟亲密关系的标志——允许对方接不住你.md",
     "未命名 1.md",
     "Pasted image 20251221155757.png",
@@ -261,7 +252,6 @@
     "obsidian/tool/笔记工具库.md",
     "~syncthing~军事理论复习资料.md.tmp",
     "今日冬至.md",
-    "大一上期末复习计划.md",
     "obsidian/tool/Markdown+语法手册.md",
     "（Template）/音乐模板.md",
     "Pasted image 20251221092959.png",
