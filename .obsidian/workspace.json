@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "小组PPT展示"
             }
+          },
+          {
+            "id": "d874119cb9fc5f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-21"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +253,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "74b913c407aa8215",
+  "active": "d874119cb9fc5f7e",
   "lastOpenFiles": [
+    "英语/小组PPT展示.md",
     "daily/2025-12-21.md",
     "今日冬至.md",
     "大一上期末复习计划.md",
-    "英语/小组PPT展示.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/Markdown+语法手册.md",
     "（Template）/音乐模板.md",
