@@ -17,7 +17,7 @@
 
 ### 衔接
 
-Just now, Xu Jian showed us the current state of contemporary love and clarified the core controversies over whether love is necessary and whether it can be customized. In fact, these confusions have long been answered in the relationship of a literary couple. Next, I will share the story of Yang Jiang and Qian Zhongshu, and also analyze the key traits that make it easier for ordinary people to encounter love.
+Just now, my partner Yan Jiangnan showed us the current state of contemporary love and clarified the core controversies over whether love is necessary and whether it can be customized. In fact, these confusions have long been answered in the relationship of a literary couple. Next, I will share the story of Yang Jiang and Qian Zhongshu, and also analyze the key traits that make it easier for ordinary people to encounter love.
 
 ### PART4案例
 

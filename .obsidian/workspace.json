@@ -8,47 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72021c07ba548a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "424ab7be39186f5b",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "74b913c407aa8215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-21.md",
+                "file": "英语/小组PPT展示.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-21"
+              "title": "小组PPT展示"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,10 +218,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "424ab7be39186f5b",
+  "active": "74b913c407aa8215",
   "lastOpenFiles": [
     "daily/2025-12-21.md",
     "（Template）/音乐模板.md",
+    "Pasted image 20251221092959.png",
     "文摘/文摘.md",
     "文摘/思辨.md",
     "今日冬至.md",
@@ -289,7 +264,6 @@
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/笔记工具库.md",
     "Pasted image 20251219135949.png",
-    "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "daily/~syncthing~2025-12-19.sync-conflict-20251219-125008-7KGOG42.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
