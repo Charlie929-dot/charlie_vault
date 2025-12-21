@@ -39,19 +39,10 @@ Second special quality: **Authenticity—being truly yourself, not pretending**.
  
 Third special quality: **Warmth—being kind, not just polite.** Kindness isn’t just saying “please” and “thank you.”🌸❗️ It’s remembering your partner’s <mark style="background: #FF5582A6;">favorite drink</mark>, asking them <mark style="background: #FF5582A6;">“Are you okay?”</mark> when they’re stressed, or even laughing at their <mark style="background: #FF5582A6;">silly jokes</mark>. ❗️🌸Warmth is like sunshine—it makes people feel safe and happy to be with you.🌸 No one falls for someone <mark style="background: #FF5582A6;">cold or too critica</mark>l, but everyone likes being around someone <mark style="background: #FF5582A6;">who cares</mark>.
 
+
 ### 结束话语
 
 To sum up, whether it’s the spiritual resonance between Yang Jiang and Qian Zhongshu, or the three core traits we just discussed—emotional competence, personal charm, and a good attitude toward relationships—they all tell us one thing: Love isn’t about luck or perfect conditions. It’s about being sincere, understanding, and kind to others. I hope these stories and ideas can bring you some inspiration about love. That’s all for my part of the presentation.
-
-### 分工介绍
-
-Finally, I’d like to introduce the division of labor for our group’s report:
- 
-- For the PPT production and data collection, we have Wang Jiahe, who helped us organize all the materials and design the slides.
-​
-- For the content planning and discussion guidance, all group members worked together to polish every part of the report.
-​
-- And for the presentation, my partner Yan Jiangnan shared the first three parts with you earlier, and I’m responsible for Parts 4 and 5.
  
 That's all.
 Thank you all for listening!
