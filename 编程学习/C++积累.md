@@ -280,7 +280,7 @@ int main()
 
 ### 筛选
 ```c++
-//a[i]=0为素数,=1为合数,i为素数则减速其倍数(int j)
+//a[i]=0为素数,=1为合数,i为素数则检索其倍数(int j=i*i;j<=NSQRT;j+=i)
     for(int i = 2; i <= NSQRT; i++)
     {
         if(a[i] == 0)
