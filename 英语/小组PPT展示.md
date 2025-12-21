@@ -31,9 +31,9 @@ Why do they still matter today? Because in a world where love is sometimes about
  
 ### PART5特质
  
-Now, after hearing this beautiful love story, you might wonder: How can we find such a deep connection? Let’s be honest—love isn’t about luck, and it’s not about being perfect. It’s about having simple traits that make love come to you. From our discussions, we’ve found 3 special qualities that make people easy to love—they’re simple, real, and powerful.
+Now, after hearing this beautiful love story, you might wonder: How can we find such a deep connection? Let’s be honest—love isn’t about good luck, and it’s not about being perfect. It’s about having simple traits that make love come to you. ❗From our discussions, we’ve found 3 special qualities that make people easy to love—they’re simple, real, and powerful.❗
  
-First special quality: **Empathy—being able to understand how others feel.** For example, if your date talks about a bad day at work, don’t cut them off to talk about your own problems. Instead, say, “That sounds really frustrating—how did you feel then?” Empathy isn’t just listening; it’s putting yourself in their shoes. People fall for those who make them feel “I’m being understood,” not just “I’m being heard.” When someone knows you truly get them, you’ll get closer emotionally.
+First special quality: **Empathy—being able to understand how others feel.** For example, if your date talks about a bad day at class, don’t cut them off to talk about your own problems. Instead, say, “That sounds really frustrating—how did you feel then?” Empathy isn’t just listening; it’s putting yourself in their shoes. People fall for those who make them feel “I’m being understood,” not just “I’m being heard.” When someone knows you truly get them, you’ll get closer emotionally.
  
 Second special quality: **Authenticity—being truly yourself, not pretending**. Think about it: Would you want someone to love you for who you’re not? If you hate hiking but pretend to love it to impress a date, or hide your funny side, that’s not real love—that’s a lie. Yang Jiang loved Qian Zhongshu even though he was bad at chores, and he loved her for being straightforward. <mark style="background: #FF5582A6;">They didn’t change for each other; they accepted each other.</mark> Real people attract real love—because trust is the base of any good relationship.
  
