@@ -78,7 +78,7 @@ int main(){
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
 
 # 优秀代码
-## 1
+## 1质数个数
 ```c++
 #include <iostream>
 #include <cmath>
@@ -221,10 +221,7 @@ bool is_prime(int n)
 }
 ```
 
-
----
-
-## 2
+> 范例
 ```c++
 #include <iostream>
 
@@ -280,7 +277,8 @@ int main()
 
 ### 筛选
 ```c++
-//a[i]=0为素数,=1为合数,i为素数则检索其倍数(int j=i*i;j<=NSQRT;j+=i)
+//a[i]=0为素数,=1为合数
+//i为素数则检索其倍数(int j=i*i;j<=NSQRT;j+=i),进行合数标记||i为合数则直接标记
     for(int i = 2; i <= NSQRT; i++)
     {
         if(a[i] == 0)
@@ -293,8 +291,9 @@ int main()
     }
 ```
 
+---
 
-# 3
+## 2约瑟夫环
 ```c++
 #include <iostream>
 #include <vector>  // 必须包含
@@ -337,3 +336,5 @@ int main() {
     return 0;
 }
 ```
+[[db41960f7829bd852a479e8560fcd2cb_MD5.jpg|Open: Pasted image 20251221144042.png]]
+![[db41960f7829bd852a479e8560fcd2cb_MD5.jpg]]
