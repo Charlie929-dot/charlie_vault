@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/小组PPT展示.md",
+                "file": "daily/2025-12-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "小组PPT展示"
+              "title": "2025-12-21"
+            }
+          },
+          {
+            "id": "5c651a1f9009d9b6",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,18 +241,18 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "74b913c407aa8215",
+  "active": "5c651a1f9009d9b6",
   "lastOpenFiles": [
-    "英语/小组PPT展示原版.md",
-    "daily/2025-12-22.md",
+    "daily/2025-12-21.md",
     "英语小组汇报经验.md",
+    "daily/2025-12-22.md",
     "英语/小组PPT展示.md",
+    "英语/小组PPT展示原版.md",
     "英语/~syncthing~小组PPT展示.md.tmp",
     "daily/~syncthing~2025-12-22.md.tmp",
     "~syncthing~英语小组汇报经验.md.tmp",
     "编程学习/~syncthing~C++积累.md.tmp",
     "screenshot_20251219_202426.jpg",
-    "daily/2025-12-21.md",
     "大一上期末复习计划.md",
     "国产AI引擎在网络安全Web仿真实验领域的应用分析报告.md",
     "daily/~syncthing~2025-12-21.md.tmp",
