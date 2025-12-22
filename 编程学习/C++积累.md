@@ -296,50 +296,47 @@ int main()
 ## 2约瑟夫环
 ```c++
 #include <iostream>
-#include <vector>  // 必须包含
+
+#include <vector>
+
 using namespace std;
 
-int main() {
-    // 步骤1：输入参数
-    int n, k, m;
-    cout << "请输入总人数n、起始位置k、报数m：" << endl;
-    cin >> n >> k >> m;
-
-    // 步骤2：初始化vector，存储1~n的编号（直接对应人的编号）
-    vector<int> people; // 空vector
-    for (int i = 1; i <= n; ++i) {
-        people.push_back(i); // 尾部添加1,2,...,n
-    }
-    
-    // 步骤3：调整起始索引（k是第k人，转换为0开始的索引）
-    int current_idx = (k - 1) % people.size(); // 防止k超过n
-
-    // 步骤4：循环淘汰，直到只剩1人
-    cout << "淘汰顺序：";
-    while (people.size() > 1) {
-        // 计算要淘汰的人的索引：从current_idx数m步（包含当前）
-        current_idx = (current_idx + m - 1) % people.size();
-        
-        // 输出被淘汰的人（可选，方便理解过程）
-        cout << people[current_idx] << " ";
-        
-        // 删除被淘汰的元素（vector自动收缩）
-        people.erase(people.begin() + current_idx);
-        
-        // 注：删除后，current_idx自动指向“下一个人”（因为后面元素前移）
-    }
-    cout << endl;
-
-    // 步骤5：输出最后剩下的大王
-    cout << "大王的编号是：" << people[0] << endl;
-
-    return 0;
+int main(){
+    //输入参数
+    int n,k,m;
+    cin>>n>>k>>m;
+    //初始化vector,储存编号
+    vector<int> people;
+    for(int i=0;i<n;i++) {
+        people.push_back(i);
+    }
+    int current_idx = k;
+    //循环淘汰
+    while (people.size() > 1) {
+        //计算要淘汰的索引
+        current_idx = (current_idx + m) % people.size();
+        //删去被淘汰的人
+        people.erase(people.begin() + current_idx);
+        //*删除之后自动指向下一个人因为后面元素前移）
+    }
+    cout<< people[0] << endl;
+    return 0;
 }
 ```
 [[db41960f7829bd852a479e8560fcd2cb_MD5.jpg|Open: Pasted image 20251221144042.png]]
 ![[db41960f7829bd852a479e8560fcd2cb_MD5.jpg]]
 
 ### [[vector用法|动态数组]]
+```c++
+vector<int> people;
+    for(int i=0;i<n;i++) {
+        people.push_back(i);
+    }//初始化
+```
+### 循环标记
+```c++
+current_idx = (current_idx + m) % people.size();
+```
 
 # a.bf
 `1.5f`是一位整数，五位小数
