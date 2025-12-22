@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,11 +289,13 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "154a4a42739c8108",
+  "active": "e99edcb643d776bd",
   "lastOpenFiles": [
+    "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
+    "大一上期末考试时间安排.md",
     "大一上期末复习计划.md",
-    "daily/2025-12-22.md",
     "（Template）/音乐模板.md",
+    "daily/2025-12-22.md",
     "obsidian/tool/笔记工具库.md",
     "编程学习/C++积累.md",
     "编程学习/错误集锦.md",
@@ -332,9 +334,7 @@
     "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
     "ae8c787fb93e2ba2488f646853f6adf0_MD5.jpg",
     "人工智能/测试题.md",
-    "临时笔记/AI.md",
     "人工智能",
-    "大一上期末考试时间安排.md",
     "daily/~syncthing~2025-12-20.md.tmp",
     "daily/~syncthing~2025-12-20.sync-conflict-20251220-093744-7KGOG42.md.tmp",
     "未命名 1.canvas",
