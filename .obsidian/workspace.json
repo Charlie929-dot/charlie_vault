@@ -88,6 +88,20 @@
               "icon": "lucide-file",
               "title": "大一上期末复习计划"
             }
+          },
+          {
+            "id": "0cb5add40e66355c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://pkmer.cn/products/widget/SimpleCountdownEditor/",
+                "title": "PKMer_SimpleCountdownEditor",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "PKMer_SimpleCountdownEditor"
+            }
           }
         ],
         "currentTab": 3
@@ -143,8 +157,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,12 +304,13 @@
   },
   "active": "e99edcb643d776bd",
   "lastOpenFiles": [
+    "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
+    "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
+    "obsidian/tool/笔记工具库.md",
+    "daily/2025-12-22.md",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
     "大一上期末考试时间安排.md",
-    "大一上期末复习计划.md",
-    "（Template）/音乐模板.md",
-    "daily/2025-12-22.md",
-    "obsidian/tool/笔记工具库.md",
     "编程学习/C++积累.md",
     "编程学习/错误集锦.md",
     "编程学习/C、C++版本介绍.md",
@@ -331,8 +345,6 @@
     "文摘/文摘.md",
     "1fbbeebf58907a07f63e214a4d30abc5_MD5.jpg",
     "98567d844295b64fb332db4e1b54c758_MD5.jpg",
-    "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
-    "ae8c787fb93e2ba2488f646853f6adf0_MD5.jpg",
     "人工智能/测试题.md",
     "人工智能",
     "daily/~syncthing~2025-12-20.md.tmp",
