@@ -310,7 +310,7 @@ int main() {
     for (int i = 1; i <= n; ++i) {
         people.push_back(i); // 尾部添加1,2,...,n
     }
-
+    
     // 步骤3：调整起始索引（k是第k人，转换为0开始的索引）
     int current_idx = (k - 1) % people.size(); // 防止k超过n
 
