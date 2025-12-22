@@ -339,6 +339,8 @@ int main() {
 [[db41960f7829bd852a479e8560fcd2cb_MD5.jpg|Open: Pasted image 20251221144042.png]]
 ![[db41960f7829bd852a479e8560fcd2cb_MD5.jpg]]
 
+### [[vector用法|动态数组]]
+
 # a.bf
 `1.5f`是一位整数，五位小数
 
