@@ -90,6 +90,30 @@
             }
           },
           {
+            "id": "4b6af8fcfab3e036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "期末作业安排.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "期末作业安排"
+            }
+          },
+          {
             "id": "0cb5add40e66355c",
             "type": "leaf",
             "state": {
@@ -304,8 +328,9 @@
   },
   "active": "e99edcb643d776bd",
   "lastOpenFiles": [
-    "大一上期末考试时间安排.md",
+    "期末作业安排.md",
     "大一上期末复习计划.md",
+    "大一上期末考试时间安排.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "（Template）/音乐模板.md",
     "obsidian/tool/笔记工具库.md",
