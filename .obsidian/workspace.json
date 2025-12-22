@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,8 +289,9 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "e99edcb643d776bd",
+  "active": "154a4a42739c8108",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
     "daily/2025-12-22.md",
     "（Template）/音乐模板.md",
     "obsidian/tool/笔记工具库.md",
@@ -302,7 +303,6 @@
     "编程学习/C",
     "daily/2025-12-21.md",
     "英语小组汇报经验.md",
-    "大一上期末复习计划.md",
     "daily/2025-12-20.md",
     "英语/小组PPT展示.md",
     "英语/小组PPT展示原版.md",
