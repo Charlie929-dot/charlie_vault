@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C、C++版本介绍.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "C、C++版本介绍"
+              "title": "C++积累"
             }
           }
         ]
@@ -49,7 +58,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGgDdyMJnRZ98/YgwIBzSvi7kGAB3YwqzUgG5+/Ak0qd2BABQBKYP0qPKAemeBk+MCmioCHlQA6mDp6aqaADWaJxG+E6UMATc3PhxwXHhxpFOroC4SoDTmoBoyuKS0miAFQqAGtqAaP6A78r+jvlSLLT4TNyUmuR0mmDkEVEAZtJWgbgAvAAMBrjU+OMA1NM2lPZpUY6t7Z3wmgoAFgD6AEY6wQM23U4AvqlR1ZTXbEzELJFj/GcgZ0A",
+                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGgDdyMJnRZ98/YgwIBzSvi7kGAB3YwqzUgG5+/Ak0qd2BABQBKYP0qPKAemeBk+MCmioCHlQA6mDp6aqaADWaJxG+E6UMATc3PhxwXHhxpFOroC4SoDTmoBoyuKS0miAFQqAGtqAaP6A78r+jvlSLLT4TNyUmuR0mmDkEVEAZtJWgbgAvAAMBrjU+OMA1NM2lPZpUY6t7Z3wmgoAFgD6AEY6wQM23U4AvtWUqVGXl2xMxCyRY/xnIGdAA==",
                 "title": "在线 IDE - Hydro",
                 "mode": "webview"
               },
@@ -258,9 +267,9 @@
   },
   "active": "59b949d851e86f43",
   "lastOpenFiles": [
-    "编程学习/C/C++版本.md",
-    "编程学习/C、C++版本介绍.md",
     "编程学习/错误集锦.md",
+    "编程学习/C、C++版本介绍.md",
+    "编程学习/C/C++版本.md",
     "编程学习/vector用法.md",
     "编程学习/C",
     "编程学习/C++积累.md",
