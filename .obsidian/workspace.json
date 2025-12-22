@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "daily/2025-12-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "2025-12-22"
+            }
+          },
+          {
+            "id": "34d93b39ebb9b242",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,9 +221,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pkmer:Open Pkmer Market": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-memos:Thino": false,
+      "pkmer:Open Pkmer Market": false,
       "switcher:打开快速切换": false,
       "obsidian42-text-transporter:Text Transporter": false,
       "templater-obsidian:Templater": false,
@@ -229,15 +240,15 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "59b949d851e86f43",
+  "active": "34d93b39ebb9b242",
   "lastOpenFiles": [
+    "daily/2025-12-22.md",
     "编程学习/C++积累.md",
     "编程学习/错误集锦.md",
     "编程学习/C、C++版本介绍.md",
     "编程学习/C/C++版本.md",
     "编程学习/vector用法.md",
     "编程学习/C",
-    "daily/2025-12-22.md",
     "daily/2025-12-21.md",
     "英语小组汇报经验.md",
     "大一上期末复习计划.md",
