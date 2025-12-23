@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-12-23"
             }
-          },
-          {
-            "id": "75ceb1d453d141ff",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +229,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "75ceb1d453d141ff",
+  "active": "1d86f159e586682a",
   "lastOpenFiles": [
-    "daily/2025-12-23.md",
     "（Template）/movie/天气之子.md",
+    "daily/2025-12-23.md",
     "daily/2025-12-22.md",
     "大一上期末复习计划.md",
     "期末作业安排.md",
