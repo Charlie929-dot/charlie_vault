@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
+            }
+          },
+          {
+            "id": "ecb93aff2d367fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily/2025-12-23.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "2025-12-23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +254,12 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1d86f159e586682a",
+  "active": "ecb93aff2d367fcf",
   "lastOpenFiles": [
-    "（Template）/movie/天气之子.md",
+    "大一上期末复习计划.md",
     "daily/2025-12-23.md",
     "daily/2025-12-22.md",
-    "大一上期末复习计划.md",
+    "（Template）/movie/天气之子.md",
     "期末作业安排.md",
     "大一上期末考试时间安排.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
