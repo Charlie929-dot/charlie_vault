@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-12-23"
             }
+          },
+          {
+            "id": "75ceb1d453d141ff",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,9 +240,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1d86f159e586682a",
+  "active": "75ceb1d453d141ff",
   "lastOpenFiles": [
     "daily/2025-12-23.md",
+    "（Template）/movie/天气之子.md",
     "daily/2025-12-22.md",
     "大一上期末复习计划.md",
     "期末作业安排.md",
@@ -271,7 +283,6 @@
     "今日冬至.md",
     "obsidian/tool/Markdown+语法手册.md",
     "Pasted image 20251221092959.png",
-    "文摘/文摘.md",
     "1fbbeebf58907a07f63e214a4d30abc5_MD5.jpg",
     "98567d844295b64fb332db4e1b54c758_MD5.jpg",
     "人工智能",
