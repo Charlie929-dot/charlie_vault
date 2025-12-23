@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "2025-12-23"
             }
+          },
+          {
+            "id": "11e56b122876c823",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,10 +265,10 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "7e5ca486f974c6fd",
+  "active": "11e56b122876c823",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
     "daily/2025-12-23.md",
+    "大一上期末复习计划.md",
     "健美操练习.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
     "daily/~syncthing~2025-12-23.sync-conflict-20251223-214706-7KGOG42.md.tmp",
