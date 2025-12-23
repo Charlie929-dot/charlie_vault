@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "daily/2025-12-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "2025-12-23"
             }
           }
         ],
@@ -291,6 +291,7 @@
   },
   "active": "699ec45befaf1317",
   "lastOpenFiles": [
+    "编程学习/错误集锦.md",
     "临时笔记/C练习.md",
     "编程学习/vector用法.md",
     "daily/2025-12-23.md",
@@ -304,7 +305,6 @@
     "obsidian/tool/笔记工具库.md",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
     "编程学习/C++积累.md",
-    "编程学习/错误集锦.md",
     "编程学习/C、C++版本介绍.md",
     "编程学习/C/C++版本.md",
     "编程学习/C",
