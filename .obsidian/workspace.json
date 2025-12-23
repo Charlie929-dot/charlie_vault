@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ecb93aff2d367fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健美操练习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "健美操练习"
-            }
-          },
-          {
             "id": "7e5ca486f974c6fd",
             "type": "leaf",
             "state": {
@@ -79,7 +55,8 @@
               "title": "2025-12-23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,8 +255,9 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1d86f159e586682a",
+  "active": "7e5ca486f974c6fd",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
     "daily/2025-12-23.md",
     "健美操练习.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
@@ -296,7 +274,6 @@
     "临时笔记/C练习.md",
     "编程学习/vector用法.md",
     "（Template）/音乐模板.md",
-    "大一上期末复习计划.md",
     "daily/2025-12-22.md",
     "（Template）/movie/天气之子.md",
     "期末作业安排.md",
