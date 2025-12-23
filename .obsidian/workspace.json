@@ -40,9 +40,33 @@
               "icon": "lucide-file",
               "title": "2025-12-23"
             }
+          },
+          {
+            "id": "9b239c2c1f76a74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-24"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +263,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "418590d31dd6c7c2",
+  "active": "9b239c2c1f76a74e",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "英语小组汇报经验.md",
+    "daily/2025-12-24.md",
     "daily/2025-12-23.md",
+    "（Template）/音乐模板.md",
     "（Template）/番剧模板.md",
     "大一上期末复习计划.md",
     "健美操练习.md",
@@ -271,7 +297,6 @@
     "编程学习/C/C++版本.md",
     "编程学习/C",
     "daily/2025-12-21.md",
-    "英语小组汇报经验.md",
     "daily/2025-12-20.md",
     "英语/小组PPT展示.md",
     "英语/小组PPT展示原版.md",
@@ -281,7 +306,6 @@
     "编程学习/~syncthing~C++积累.md.tmp",
     "screenshot_20251219_202426.jpg",
     "国产AI引擎在网络安全Web仿真实验领域的应用分析报告.md",
-    "成熟亲密关系的标志——允许对方接不住你.md",
     "Pasted image 20251221155757.png",
     "db41960f7829bd852a479e8560fcd2cb_MD5.jpg",
     "Pasted image 20251221144042.png",
