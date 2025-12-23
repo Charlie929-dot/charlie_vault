@@ -2,8 +2,6 @@
   "obsidian-icon-folder",
   "number-headings-obsidian",
   "obsidian-latex-suite",
-  "mx-bili-plugin",
-  "media-extended",
   "obsidian-local-images-plus",
   "highlightr-plugin",
   "templater-obsidian",
@@ -12,10 +10,8 @@
   "obsidian42-text-transporter",
   "obsidian-git",
   "editing-toolbar",
-  "obsidian-douban-plugin",
   "mermaid-popup",
   "dataview",
-  "better-export-pdf",
   "note-refactor-obsidian",
   "obsidian-plugin-toc",
   "obsidian-memos",
@@ -23,7 +19,6 @@
   "obsidian-admonition",
   "obsidian-heading-shifter",
   "obsidian-emoji-toolbar",
-  "emoji-selector",
-  "tg-emoji-search",
-  "pkmer"
+  "pkmer",
+  "emoji-selector"
 ]

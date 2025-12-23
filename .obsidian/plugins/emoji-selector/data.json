@@ -108,9 +108,23 @@
         },
         "lastUsed": 1766022143588,
         "count": 1
+      },
+      "咖波_1": {
+        "emoji": {
+          "key": "咖波_1",
+          "icon": "https://emoticons.hzchu.top/emoticons/capoo/spare.gif",
+          "text": "capoo_spare",
+          "type": "image",
+          "category": "咖波",
+          "url": "https://emoticons.hzchu.top/emoticons/capoo/spare.gif",
+          "originalPath": "https://emoticons.hzchu.top/emoticons/capoo/spare.gif"
+        },
+        "lastUsed": 1766504950598,
+        "count": 1
       }
     },
     "order": [
+      "咖波_1",
       "blob_29",
       "blob_11",
       "blob_23",
