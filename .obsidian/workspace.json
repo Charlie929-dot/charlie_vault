@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,10 +262,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f91ba7dacd7e27ea",
+  "active": "11d3b2c52bf4ba4f",
   "lastOpenFiles": [
-    "daily/2025-12-24.md",
     "daily/2025-12-25.md",
+    "daily/2025-12-24.md",
     "（Template）/音乐模板.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
