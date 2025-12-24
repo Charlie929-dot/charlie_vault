@@ -40,8 +40,33 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
+          },
+          {
+            "id": "0e2492a7c42668c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "寻深足迹/寻深足迹.md",
+                "file": "daily/2025-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +149,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-ghost",
-              "title": "backlink"
+              "icon": "links-coming-in",
+              "title": "2025-12-24 的反向链接列表"
             }
           },
           {
@@ -134,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "寻深足迹/寻深足迹.md",
+                "file": "daily/2025-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "寻深足迹 的出链列表"
+              "title": "2025-12-24 的出链列表"
             }
           },
           {
@@ -163,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-12-17.md",
+                "file": "daily/2025-12-24.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-17 的大纲"
+              "title": "2025-12-24 的大纲"
             }
           },
           {
@@ -212,12 +237,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,12 +262,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "11e56b122876c823",
+  "active": "0e2492a7c42668c4",
   "lastOpenFiles": [
-    "daily/2025-12-24.md",
-    "英语小组汇报经验.md",
-    "daily/2025-12-23.md",
     "（Template）/音乐模板.md",
+    "英语小组汇报经验.md",
+    "daily/2025-12-24.md",
+    "daily/2025-12-23.md",
     "（Template）/番剧模板.md",
     "大一上期末复习计划.md",
     "健美操练习.md",
