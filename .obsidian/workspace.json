@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-24.md",
+                "file": "daily/2025-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "2025-12-25"
             }
           }
         ],
@@ -264,8 +264,9 @@
   },
   "active": "f91ba7dacd7e27ea",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2025-12-24.md",
+    "daily/2025-12-25.md",
+    "（Template）/音乐模板.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
     "临时笔记/未命名 3.md",
@@ -299,7 +300,6 @@
     "编程学习/C、C++版本介绍.md",
     "编程学习/C/C++版本.md",
     "编程学习/C",
-    "daily/2025-12-21.md",
     "英语/~syncthing~小组PPT展示.md.tmp",
     "daily/~syncthing~2025-12-22.md.tmp",
     "~syncthing~英语小组汇报经验.md.tmp",
