@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11e56b122876c823",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "0dcd41616c035c14",
             "type": "leaf",
             "state": {
@@ -63,20 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "未命名 3"
-            }
-          },
-          {
-            "id": "3482a0b4caac28f1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHX37EGBAOaV8XcgwAO7GFWakA3P34EmlTuwIAKAJTB+lY5QD0pwMnxgU0UB+E5XXiVdkzALdu+Z/fOAYuUAvfoAOpoAjfoAVCoAa2kYm5qaAWdqAknJRxjB0+MwO+BoAcgC8AEwADN4mjuwA2lkAuhWVOcAFAL7FxjERSRkaANY5XuaAyvqAskrBgCFugO6xgNOagFRyge2OYDlISuaASAmAG8qAnaaAiCrt5oDKRoAOyoAAcoCd8bOZlNILaACOOQVoAGYLzZQA7gAWuGDkOp3cBXp2oYXPZjNcANQ5MAvewPOgsHTXJTXag5TrI8HggztUElB6InI9AC0nQAPqTbmjwUg9JQAEZsdjo8yAeetAFLKwUAy36AfXNAIbmgDe5HG4yjlaTVa61B4w4UPTHS3G4fFgamEgGUa5E/JLUyANE1AJZGpkAbKaASn8eYA4FUAL2aAI2M1lshcYGvaLpDoU64QjpEppKj0dJMdiQcLjIqdJdiWTSWHOtTaQyOMzTOyuXzBYGg6LxZL5aDZeDs/YQ8qkKradJNXltfqjabuZabRttmmTI6m8ZOkSidmwAAqHJExbtFv2HaWQBfiu13TpHLhnrhUV5cP7gUHJ44AFbPNfzpRrpdO+wpYhMajUcq4apryon3ggSg37ND4WH4/Ucj4UiuwOP4ztNhMYgsHYRT8A0IANEAA===",
-                "title": "在线 IDE - Hydro",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "在线 IDE - Hydro"
             }
           }
         ],
@@ -277,13 +253,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0dcd41616c035c14",
+  "active": "0e2492a7c42668c4",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
     "临时笔记/未命名 3.md",
     "daily/2025-12-24.md",
-    "daily/2025-12-20.md",
     "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
+    "daily/2025-12-20.md",
     "daily/2025-12-23.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
     "英语小组汇报经验.md",
