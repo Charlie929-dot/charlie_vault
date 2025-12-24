@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
-          },
-          {
-            "id": "88c34adab805589b",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,11 +227,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "88c34adab805589b",
+  "active": "0dcd41616c035c14",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2025-12-24.md",
     "临时笔记/未命名 3.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "daily/2025-12-20.md",
     "daily/2025-12-23.md",
