@@ -64,33 +64,9 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
-          },
-          {
-            "id": "870483c687de75c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-24"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,16 +263,16 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0dcd41616c035c14",
+  "active": "0e2492a7c42668c4",
   "lastOpenFiles": [
-    "daily/2025-12-20.md",
+    "大一上期末复习计划.md",
     "daily/2025-12-24.md",
+    "daily/2025-12-20.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-23.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
     "英语小组汇报经验.md",
     "（Template）/番剧模板.md",
-    "大一上期末复习计划.md",
     "健美操练习.md",
     "daily/~syncthing~2025-12-23.sync-conflict-20251223-214706-7KGOG42.md.tmp",
     "IMG_20251223_193052.jpg",
