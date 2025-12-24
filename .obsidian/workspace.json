@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-24.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "大一上期末复习计划"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plan",
+                "query": "期末",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -287,8 +288,9 @@
   },
   "active": "0dcd41616c035c14",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "daily/2025-12-20.md",
     "daily/2025-12-24.md",
+    "（Template）/音乐模板.md",
     "daily/2025-12-23.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
     "英语小组汇报经验.md",
@@ -319,7 +321,6 @@
     "编程学习/C/C++版本.md",
     "编程学习/C",
     "daily/2025-12-21.md",
-    "daily/2025-12-20.md",
     "英语/小组PPT展示.md",
     "英语/小组PPT展示原版.md",
     "英语/~syncthing~小组PPT展示.md.tmp",
