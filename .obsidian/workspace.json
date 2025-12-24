@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65462f8def1f005c",
+        "id": "dd6055e2128d0de2",
         "type": "tabs",
         "children": [
           {
-            "id": "0dcd41616c035c14",
+            "id": "b83a70044a5992da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-24.md",
+                "file": "daily/2025-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,69 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
-            }
-          },
-          {
-            "id": "f91ba7dacd7e27ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-24"
-            }
-          },
-          {
-            "id": "f76b00166ca1167e",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "2501673705c4362e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末复习计划"
+              "title": "2025-12-25"
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -288,11 +229,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f76b00166ca1167e",
+  "active": "b83a70044a5992da",
   "lastOpenFiles": [
     "daily/2025-12-24.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
+    "（Template）/音乐模板.md",
     "daily/2025-12-25.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
