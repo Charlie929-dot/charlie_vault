@@ -23,30 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末复习计划"
-            }
-          },
-          {
-            "id": "0e2492a7c42668c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "daily/2025-12-24.md",
                 "mode": "source",
                 "source": false,
@@ -64,9 +40,47 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
+          },
+          {
+            "id": "0e2492a7c42668c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "临时笔记/未命名 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 3"
+            }
+          },
+          {
+            "id": "3482a0b4caac28f1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHX37EGBAOaV8XcgwAO7GFWakA3P34EmlTuwIAKAJTB+lY5QD0pwMnxgU0UB+E5XXiVdkzALdu+Z/fOAYuUAvfoAOpoAjfoAVCoAa2kYm5qaAWdqAknJRxjB0+MwO+BoAcgC8AEwADN4mjuwA2lkAuhWVOcAFAL7FxjERSRkaANY5XuaAyvqAskrBgCFugO6xgNOagFRyge2OYDlISuaASAmAG8qAnaaAiCrt5oDKRoAOyoAAcoCd8bOZlNILaACOOQVoAGYLzZQA7gAWuGDkOp3cBXp2oYXPZjNcANQ5MAvewPOgsHTXJTXag5TrI8HggztUElB6InI9AC0nQAPqTbmjwUg9JQAEZsdjo8yAeetAFLKwUAy36AfXNAIbmgDe5HG4yjlaTVa61B4w4UPTHS3G4fFgamEgGUa5E/JLUyANE1AJZGpkAbKaASn8eYA4FUAL2aAI2M1lshcYGvaLpDoU64QjpEppKj0dJMdiQcLjIqdJdiWTSWHOtTaQyOMzTOyuXzBYGg6LxZL5aDZeDs/YQ8qkKradJNXltfqjabuZabRttmmTI6m8ZOkSidmwAAqHJExbtFv2HaWQBfiu13TpHLhnrhUV5cP7gUHJ44AFbPNfzpRrpdO+wpYhMajUcq4apryon3ggSg37ND4WH4/Ucj4UiuwOP4ztNhMYgsHYRT8A0IANEAA===",
+                "title": "在线 IDE - Hydro",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "在线 IDE - Hydro"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "期末",
+                "query": "IDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,9 +277,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0e2492a7c42668c4",
+  "active": "0dcd41616c035c14",
   "lastOpenFiles": [
     "大一上期末复习计划.md",
+    "临时笔记/未命名 3.md",
     "daily/2025-12-24.md",
     "daily/2025-12-20.md",
     "（Template）/音乐模板.md",
