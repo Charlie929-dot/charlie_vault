@@ -85,8 +85,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b83a70044a5992da",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
     "daily/2025-12-24.md",
     "大一上期末复习计划.md",
