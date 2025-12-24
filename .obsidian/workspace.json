@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-25.md",
+                "file": "daily/2025-12-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-25"
+              "title": "2025-12-24"
             }
           }
         ],
@@ -264,8 +264,8 @@
   },
   "active": "11d3b2c52bf4ba4f",
   "lastOpenFiles": [
-    "daily/2025-12-25.md",
     "daily/2025-12-24.md",
+    "daily/2025-12-25.md",
     "（Template）/音乐模板.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
