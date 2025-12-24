@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
+          },
+          {
+            "id": "11d3b2c52bf4ba4f",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +238,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0dcd41616c035c14",
+  "active": "11d3b2c52bf4ba4f",
   "lastOpenFiles": [
-    "英语/大一上英语单词复习.md",
     "daily/2025-12-24.md",
+    "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
     "（Template）/音乐模板.md",
     "临时笔记/未命名 3.md",
