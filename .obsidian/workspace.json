@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "11d3b2c52bf4ba4f",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "f91ba7dacd7e27ea",
             "type": "leaf",
             "state": {
@@ -64,9 +54,44 @@
               "icon": "lucide-file",
               "title": "2025-12-24"
             }
+          },
+          {
+            "id": "f76b00166ca1167e",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "2501673705c4362e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feeling",
+                "query": "期末复习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +144,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,15 +288,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "11d3b2c52bf4ba4f",
+  "active": "f76b00166ca1167e",
   "lastOpenFiles": [
     "daily/2025-12-24.md",
     "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
     "daily/2025-12-25.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
     "临时笔记/未命名 3.md",
-    "大一上期末复习计划.md",
     "daily/2025-12-20.md",
     "daily/2025-12-23.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
