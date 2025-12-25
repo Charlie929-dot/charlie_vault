@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-12-26"
             }
+          },
+          {
+            "id": "c96f76cc36cac49c",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +238,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a08c2577e362e1fc",
+  "active": "c96f76cc36cac49c",
   "lastOpenFiles": [
-    "daily/2025-12-25.md",
     "daily/2025-12-26.md",
+    "daily/2025-12-25.md",
     "obsidian/tool/Markdown+语法手册.md",
     "英语大一上期末考点.md",
     "B站英语阅读题技巧.md",
