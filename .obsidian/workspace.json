@@ -79,8 +79,7 @@
               "title": "Markdown+语法手册"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,11 +275,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b081017f3676ec07",
+  "active": "b83a70044a5992da",
   "lastOpenFiles": [
+    "daily/2025-12-25.md",
     "大一上期末复习计划.md",
     "www.baidu.com.md",
-    "daily/2025-12-25.md",
     "obsidian/tool/Markdown+语法手册.md",
     "baidu.com.md",
     "（Template）/音乐模板.md",
