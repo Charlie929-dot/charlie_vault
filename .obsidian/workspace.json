@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b83a70044a5992da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末复习计划"
-            }
-          },
-          {
-            "id": "b081017f3676ec07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/大一上英语单词复习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上英语单词复习"
-            }
-          },
-          {
             "id": "37bcefde93b213e0",
             "type": "leaf",
             "state": {
@@ -77,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "5c41572b4b058ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
             }
           }
         ],
@@ -276,12 +252,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b081017f3676ec07",
+  "active": "5c41572b4b058ccf",
   "lastOpenFiles": [
     "daily/2025-12-25.md",
+    "obsidian/tool/Markdown+语法手册.md",
+    "英语/大一上英语单词复习.md",
     "大一上期末复习计划.md",
     "www.baidu.com.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "baidu.com.md",
     "（Template）/音乐模板.md",
     "编程学习/C++积累.md",
@@ -290,7 +267,6 @@
     "编程学习/错误集锦.md",
     "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
     "daily/2025-12-24.md",
-    "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
     "临时笔记/未命名 3.md",
     "daily/2025-12-20.md",
