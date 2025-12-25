@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上期末复习计划.md",
+                "file": "编程学习/错误集锦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一上期末复习计划"
+              "title": "错误集锦"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "期末复习",
+                "query": "错误",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,10 +230,10 @@
   },
   "active": "b83a70044a5992da",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
     "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
     "daily/2025-12-25.md",
     "（Template）/音乐模板.md",
-    "大一上期末复习计划.md",
     "daily/2025-12-24.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
