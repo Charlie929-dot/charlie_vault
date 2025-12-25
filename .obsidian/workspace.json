@@ -4,69 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e21ae13e683decb5",
+        "id": "c178a1666132b259",
         "type": "tabs",
         "children": [
           {
-            "id": "a08c2577e362e1fc",
+            "id": "9ca956263ee953fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-26"
-            }
-          },
-          {
-            "id": "c96f76cc36cac49c",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "3a777451b3cbdfcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
               "icon": "lucide-file",
-              "title": "大一上期末复习计划"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,11 +214,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c96f76cc36cac49c",
+  "active": "9ca956263ee953fc",
   "lastOpenFiles": [
     "daily/2025-12-26.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
+    "（Template）/音乐模板.md",
     "daily/2025-12-25.md",
     "obsidian/tool/Markdown+语法手册.md",
     "英语大一上期末考点.md",
