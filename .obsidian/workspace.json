@@ -32,17 +32,30 @@
             }
           },
           {
-            "id": "576603f0b55abc24",
+            "id": "b081017f3676ec07",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,16 +251,16 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "576603f0b55abc24",
+  "active": "b83a70044a5992da",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
     "daily/2025-12-25.md",
+    "大一上期末复习计划.md",
+    "（Template）/音乐模板.md",
     "编程学习/C++积累.md",
     "a589fe538c54d85cb294f7f8751819b7_MD5.jpg",
     "Pasted image 20251225131734.png",
     "编程学习/错误集锦.md",
     "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
-    "（Template）/音乐模板.md",
     "daily/2025-12-24.md",
     "英语/大一上英语单词复习.md",
     "2025-12-24大一上期末英语.md",
