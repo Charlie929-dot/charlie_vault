@@ -338,6 +338,52 @@ vector<int> people;
 current_idx = (current_idx + m) % people.size();
 ```
 
+## 3回型数组
+```c++
+#include <stdio.h>
+int main() {
+    int arr[20][20], n;
+    scanf("%d", &n);
+    int up = 0, left = 0, right = n - 1, down = n - 1;
+    int x = 1;
+    while (x <= n * n)
+    {
+        for (int i = left; i <= right; i++)
+        {
+            arr[up][i] = x++;
+        }
+        up++;
+        for (int i = up; i <= down; i++) 
+        {
+            arr[i][right] = x++;
+        }
+        right--;
+        for(int i = right;i>=left;i--)
+        {
+           arr[down][i] = x++; 
+        }
+        down--;
+        for(int i = down;i>=up;i--)
+        {
+            arr[i][left] = x++;
+        }
+        left++;
+    }
+    for(int i = 0;i < n;i++)
+    {
+        for(int j = 0;j<n;j++)
+        {
+            printf("%d ",arr[i][j]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
+```
+[[a589fe538c54d85cb294f7f8751819b7_MD5.jpg|Open: Pasted image 20251225131734.png]]
+![[a589fe538c54d85cb294f7f8751819b7_MD5.jpg]]
+
+
 # a.bf
 `1.5f`是一位整数，五位小数
 

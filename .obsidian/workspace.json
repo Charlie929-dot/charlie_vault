@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "C++积累"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "错误",
+                "query": "优秀代码",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,6 +230,9 @@
   },
   "active": "b83a70044a5992da",
   "lastOpenFiles": [
+    "a589fe538c54d85cb294f7f8751819b7_MD5.jpg",
+    "Pasted image 20251225131734.png",
+    "编程学习/错误集锦.md",
     "大一上期末复习计划.md",
     "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
     "daily/2025-12-25.md",
@@ -253,7 +256,6 @@
     "~syncthing~健美操练习.md.tmp",
     "未命名 2.md",
     "军事理论复习资料.md",
-    "编程学习/错误集锦.md",
     "临时笔记/C练习.md",
     "编程学习/vector用法.md",
     "daily/2025-12-22.md",
@@ -264,7 +266,6 @@
     "obsidian/tool/笔记工具库.md",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
     "编程学习/C++积累.md",
-    "编程学习/C、C++版本介绍.md",
     "编程学习/C",
     "英语/~syncthing~小组PPT展示.md.tmp",
     "daily/~syncthing~2025-12-22.md.tmp",
@@ -275,7 +276,6 @@
     "db41960f7829bd852a479e8560fcd2cb_MD5.jpg",
     "Pasted image 20251221144042.png",
     "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
-    "Pasted image 20251221092959.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
