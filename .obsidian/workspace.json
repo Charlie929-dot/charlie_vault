@@ -65,7 +65,8 @@
               "title": "大一上期末复习计划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,10 +263,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a08c2577e362e1fc",
+  "active": "c96f76cc36cac49c",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
     "daily/2025-12-26.md",
+    "大一上期末复习计划.md",
     "daily/2025-12-25.md",
     "（Template）/音乐模板.md",
     "obsidian/tool/Markdown+语法手册.md",
