@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-25.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-25"
+              "title": "大一上期末复习计划"
+            }
+          },
+          {
+            "id": "576603f0b55abc24",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,15 +238,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b83a70044a5992da",
+  "active": "576603f0b55abc24",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
+    "daily/2025-12-25.md",
     "编程学习/C++积累.md",
     "a589fe538c54d85cb294f7f8751819b7_MD5.jpg",
     "Pasted image 20251225131734.png",
     "编程学习/错误集锦.md",
-    "大一上期末复习计划.md",
     "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
-    "daily/2025-12-25.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-24.md",
     "英语/大一上英语单词复习.md",
