@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "daily/2025-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "2025-12-25"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "优秀代码",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,6 +229,7 @@
   },
   "active": "b83a70044a5992da",
   "lastOpenFiles": [
+    "编程学习/C++积累.md",
     "a589fe538c54d85cb294f7f8751819b7_MD5.jpg",
     "Pasted image 20251225131734.png",
     "编程学习/错误集锦.md",
@@ -265,7 +265,6 @@
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "obsidian/tool/笔记工具库.md",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
-    "编程学习/C++积累.md",
     "编程学习/C",
     "英语/~syncthing~小组PPT展示.md.tmp",
     "daily/~syncthing~2025-12-22.md.tmp",
@@ -275,7 +274,6 @@
     "Pasted image 20251221155757.png",
     "db41960f7829bd852a479e8560fcd2cb_MD5.jpg",
     "Pasted image 20251221144042.png",
-    "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
