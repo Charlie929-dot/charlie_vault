@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6055e2128d0de2",
+        "id": "e21ae13e683decb5",
         "type": "tabs",
         "children": [
           {
-            "id": "37bcefde93b213e0",
+            "id": "a08c2577e362e1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/Markdown+语法手册.md",
+                "file": "daily/2025-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,73 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Markdown+语法手册"
-            }
-          },
-          {
-            "id": "5c41572b4b058ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语大一上期末考点.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "英语大一上期末考点"
-            }
-          },
-          {
-            "id": "d3a2d888ffd48bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B站英语阅读题技巧.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B站英语阅读题技巧"
-            }
-          },
-          {
-            "id": "d6da17fd7d2be139",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mooc1.chaoxing.com/mycourse/studentcourse?courseId=257861051&clazzid=133675069&cpi=482267394&enc=c592842bf30f2641098265ce8202cbdf",
-                "title": "ZXK大学英语（I）考前辅导-首页",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ZXK大学英语（I）考前辅导-首页"
+              "title": "2025-12-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,13 +227,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d3a2d888ffd48bd6",
+  "active": "a08c2577e362e1fc",
   "lastOpenFiles": [
-    "daily/2025-12-25.md",
-    "B站英语阅读题技巧.md",
-    "英语大一上期末考点.md",
-    "大一上期末复习计划.md",
     "obsidian/tool/Markdown+语法手册.md",
+    "英语大一上期末考点.md",
+    "B站英语阅读题技巧.md",
+    "daily/2025-12-25.md",
+    "大一上期末复习计划.md",
     "英语/大一上英语单词复习.md",
     "www.baidu.com.md",
     "baidu.com.md",
