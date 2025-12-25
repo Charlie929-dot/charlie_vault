@@ -40,6 +40,30 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "3a777451b3cbdfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
+            }
           }
         ]
       }
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "期末复习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +118,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,13 +264,13 @@
   },
   "active": "a08c2577e362e1fc",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
+    "daily/2025-12-26.md",
     "daily/2025-12-25.md",
     "（Template）/音乐模板.md",
-    "daily/2025-12-26.md",
     "obsidian/tool/Markdown+语法手册.md",
     "英语大一上期末考点.md",
     "B站英语阅读题技巧.md",
-    "大一上期末复习计划.md",
     "英语/大一上英语单词复习.md",
     "www.baidu.com.md",
     "baidu.com.md",
