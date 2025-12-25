@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上期末复习计划.md",
+                "file": "英语大一上期末考点.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一上期末复习计划"
+              "title": "英语大一上期末考点"
+            }
+          },
+          {
+            "id": "d3a2d888ffd48bd6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mooc1.chaoxing.com/mooc-ans/mycourse/studentstudy?chapterId=1087012386&courseId=257861051&clazzid=133675069&enc=c592842bf30f2641098265ce8202cbdf",
+                "title": "学生学习页面",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "学生学习页面"
+            }
+          },
+          {
+            "id": "d6da17fd7d2be139",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mooc1.chaoxing.com/mycourse/studentcourse?courseId=257861051&clazzid=133675069&cpi=482267394&enc=c592842bf30f2641098265ce8202cbdf",
+                "title": "ZXK大学英语（I）考前辅导-首页",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ZXK大学英语（I）考前辅导-首页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,12 +280,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "5c41572b4b058ccf",
+  "active": "d3a2d888ffd48bd6",
   "lastOpenFiles": [
+    "英语大一上期末考点.md",
+    "大一上期末复习计划.md",
     "daily/2025-12-25.md",
     "obsidian/tool/Markdown+语法手册.md",
     "英语/大一上英语单词复习.md",
-    "大一上期末复习计划.md",
     "www.baidu.com.md",
     "baidu.com.md",
     "（Template）/音乐模板.md",
@@ -288,7 +317,6 @@
     "编程学习/vector用法.md",
     "daily/2025-12-22.md",
     "（Template）/movie/天气之子.md",
-    "期末作业安排.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
     "编程学习/C",
