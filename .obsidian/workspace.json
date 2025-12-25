@@ -59,14 +59,24 @@
             "id": "d3a2d888ffd48bd6",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://mooc1.chaoxing.com/mooc-ans/mycourse/studentstudy?chapterId=1087012386&courseId=257861051&clazzid=133675069&enc=c592842bf30f2641098265ce8202cbdf",
-                "title": "学生学习页面",
-                "mode": "webview"
+                "file": "daily/2025-12-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "学生学习页面"
+              "icon": "lucide-file",
+              "title": "2025-12-25"
             }
           },
           {
