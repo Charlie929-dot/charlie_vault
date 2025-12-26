@@ -382,7 +382,7 @@ int main() {
 ```
 [[a589fe538c54d85cb294f7f8751819b7_MD5.jpg|Open: Pasted image 20251225131734.png]]
 ![[a589fe538c54d85cb294f7f8751819b7_MD5.jpg]]
-
+### 
 
 # a.bf
 `1.5f`是一位整数，五位小数
