@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,8 @@
   },
   "active": "9ca956263ee953fc",
   "lastOpenFiles": [
-    "daily/2025-12-26.sync-conflict-20251226-213453-7KGOG42.md",
+    "daily/2025-12-26.md",
+    "daily/2025-12-26.md",
     "daily/~syncthing~2025-12-26.sync-conflict-20251226-213453-7KGOG42.md.tmp",
     "IMG_20251226_142900.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5_1.png",
@@ -241,7 +241,6 @@
     "~syncthing~大一上期末复习计划.md.tmp",
     "~syncthing~军事理论复习资料.md.tmp",
     "编程学习/C++积累.md",
-    "daily/2025-12-26.md",
     "大一上期末复习计划.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-25.md",
