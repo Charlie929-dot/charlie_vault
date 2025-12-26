@@ -78,7 +78,7 @@ int main(){
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
 
 # 优秀代码
-## 1质数个数
+## 1 质数个数
 ```c++
 #include <iostream>
 #include <cmath>
@@ -293,7 +293,7 @@ int main()
 
 ---
 
-## 2约瑟夫环
+## 2 约瑟夫环
 ```c++
 #include <iostream>
 
@@ -338,7 +338,7 @@ vector<int> people;
 current_idx = (current_idx + m) % people.size();
 ```
 
-## 3回型数组
+## 3 回型数组
 ```c++
 #include <stdio.h>
 int main() {
