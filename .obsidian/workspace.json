@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-27.md",
+                "file": "daily/2025-12-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-27"
+              "title": "2025-12-28"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "2025-12-27"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,10 +285,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "467f164a27a3a3ae",
+  "active": "9ca956263ee953fc",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2025-12-27.md",
+    "daily/2025-12-28.md",
+    "（Template）/音乐模板.md",
     "daily/~syncthing~2025-12-27.sync-conflict-20251227-184057-7KGOG42.md.tmp",
     "大一上期末复习计划.md",
     "编程学习/C++积累.md",
