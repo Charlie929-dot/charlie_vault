@@ -65,8 +65,7 @@
               "title": "C++积累"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,10 +261,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "dc235bee6ccc838d",
+  "active": "9ca956263ee953fc",
   "lastOpenFiles": [
-    "daily/2025-12-27.md",
     "（Template）/音乐模板.md",
+    "daily/2025-12-27.md",
     "daily/~syncthing~2025-12-27.sync-conflict-20251227-184057-7KGOG42.md.tmp",
     "大一上期末复习计划.md",
     "编程学习/C++积累.md",
