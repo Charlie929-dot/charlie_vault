@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "dc235bee6ccc838d",
+            "id": "776c7cfb55234f21",
             "type": "leaf",
             "state": {
               "type": "thino_view",
@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "b55f18bcdf6f0d8e",
+            "id": "3f591345642451dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "寻深足迹/寻深足迹.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,34 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
-            }
-          },
-          {
-            "id": "467f164a27a3a3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-27"
+              "title": "寻深足迹"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,10 +262,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9ca956263ee953fc",
+  "active": "776c7cfb55234f21",
   "lastOpenFiles": [
-    "daily/2025-12-27.md",
     "daily/2025-12-28.md",
+    "寻深足迹/寻深足迹.md",
+    "寻深足迹/在追.md",
+    "文摘/文摘.md",
+    "daily/2025-12-27.md",
     "（Template）/音乐模板.md",
     "daily/~syncthing~2025-12-27.sync-conflict-20251227-184057-7KGOG42.md.tmp",
     "大一上期末复习计划.md",
@@ -322,13 +302,10 @@
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
     "英语小组汇报经验.md",
     "（Template）/番剧模板.md",
-    "健美操练习.md",
     "daily/~syncthing~2025-12-23.sync-conflict-20251223-214706-7KGOG42.md.tmp",
     "IMG_20251223_193052.jpg",
     "IMG_20251223_193528.jpg",
     "~syncthing~IMG_20251223_193052.jpg.tmp",
-    "未命名 2.md",
-    "军事理论复习资料.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
     "screenshot_20251219_202426.jpg",
