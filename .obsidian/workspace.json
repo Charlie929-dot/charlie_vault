@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-27.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-27"
+              "title": "C++积累"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,8 @@
   },
   "active": "b55f18bcdf6f0d8e",
   "lastOpenFiles": [
-    "daily/2025-12-26.md",
     "daily/2025-12-27.md",
+    "daily/2025-12-26.md",
     "大一上期末复习计划.md",
     "B站英语阅读题技巧.md",
     "（Template）/音乐模板.md",

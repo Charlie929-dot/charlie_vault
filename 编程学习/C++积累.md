@@ -383,6 +383,65 @@ int main() {
 [[a589fe538c54d85cb294f7f8751819b7_MD5.jpg|Open: Pasted image 20251225131734.png]]
 ![[a589fe538c54d85cb294f7f8751819b7_MD5.jpg]]
 ### 
+## 4 括号匹配
+```c++
+#include<iostream>
+#include<string>
+#include<stack> // 引入栈容器头文件
+
+using namespace std;
+
+// 判断括号是否匹配的核心函数
+bool isBracketMatched(string s) {
+    stack<char> st; // 定义栈，用于存储左括号
+
+    for (char ch : s) { // 范围for循环遍历表达式中的每个字符
+        // 第一步：遇到左括号，直接入栈
+        if (ch == '(' || ch == '[' || ch == '{') {
+            st.push(ch);
+        }
+        // 第二步：遇到右括号，进行匹配校验
+        else if (ch == ')' || ch == ']' || ch == '}') {
+            // 情况1：栈为空（当前右括号无对应左括号，直接不匹配）
+            if (st.empty()) {
+                return false;
+            }
+
+            // 情况2：取出栈顶左括号，判断是否与当前右括号类型匹配
+            char topLeft = st.top();
+            st.pop(); // 取出栈顶元素后，弹出栈顶
+
+            // 类型不匹配则返回false
+            if ((ch == ')' && topLeft != '(') ||
+                (ch == ']' && topLeft != '[') ||
+                (ch == '}' && topLeft != '{')) {
+                return false;
+            }
+        }
+        // 第三步：非括号字符（如字母、数字、运算符），直接跳过
+        else {
+            continue;
+        }
+    }
+
+    // 第四步：遍历结束后，栈为空则所有括号匹配成功；否则存在未匹配的左括号
+    return st.empty();
+}
+
+int main() {
+    string expression;
+    cin >> expression; // 输入表达式字符串（长度不超过50）
+
+    // 根据函数返回结果输出对应信息
+    if (isBracketMatched(expression)) {
+        cout << "yes" << endl;
+    } else {
+        cout << "no" << endl;
+    }
+
+    return 0;
+}
+```
 
 # a.bf
 `1.5f`是一位整数，五位小数
