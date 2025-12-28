@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ca956263ee953fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-28"
-            }
-          },
-          {
             "id": "776c7cfb55234f21",
             "type": "leaf",
             "state": {
@@ -90,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,12 +264,12 @@
   },
   "active": "4615278630831076",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
-    "daily/2025-12-28.md",
     "寻深足迹/寻深足迹.md",
+    "daily/2025-12-28.md",
+    "daily/2025-12-27.md",
+    "（Template）/音乐模板.md",
     "寻深足迹/在追.md",
     "文摘/文摘.md",
-    "daily/2025-12-27.md",
     "daily/~syncthing~2025-12-27.sync-conflict-20251227-184057-7KGOG42.md.tmp",
     "大一上期末复习计划.md",
     "编程学习/C++积累.md",
