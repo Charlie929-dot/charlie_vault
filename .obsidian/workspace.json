@@ -66,30 +66,6 @@
             }
           },
           {
-            "id": "0ab3ec8045b6abd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末复习计划"
-            }
-          },
-          {
             "id": "49e3324d7896c57e",
             "type": "leaf",
             "state": {
@@ -312,10 +288,15 @@
   },
   "active": "4615278630831076",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
-    "daily/2025-12-28.md",
-    "daily/~syncthing~2025-12-28.md.tmp",
+    "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
+    "937f8e8e44f9757ccc63878fbcac3dcc_MD5.png",
+    "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
+    "4949380eb3f4d03414f7f9f1df4cdb88_MD5.jpg",
     "大一上期末复习计划.md",
+    "daily/2025-12-28.md",
+    "a330405e1576aa208f872c52d0c3a3d7_MD5.png.md",
+    "（Template）/音乐模板.md",
+    "daily/~syncthing~2025-12-28.md.tmp",
     "寻深足迹/寻深足迹.md",
     "ad2dffabbea2b72a5f774b2bdc7de128_MD5.jpg",
     "daily/2025-12-27.md",
@@ -350,13 +331,9 @@
     "daily/2025-12-20.md",
     "daily/2025-12-23.md",
     "daily/2025-12-23.sync-conflict-20251223-214706-7KGOG42.md",
-    "英语小组汇报经验.md",
     "daily/~syncthing~2025-12-23.sync-conflict-20251223-214706-7KGOG42.md.tmp",
     "IMG_20251223_193052.jpg",
     "IMG_20251223_193528.jpg",
-    "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
-    "a330405e1576aa208f872c52d0c3a3d7_MD5.png",
-    "screenshot_20251219_202426.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
