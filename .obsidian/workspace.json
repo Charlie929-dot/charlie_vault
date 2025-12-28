@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "2025-12-28"
             }
+          },
+          {
+            "id": "2ddf2c0a2d8a291f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-29"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,8 +310,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "4615278630831076",
+  "active": "2ddf2c0a2d8a291f",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
+    "daily/2025-12-29.md",
+    "文摘/文摘.md",
     "daily/2025-12-28.md",
     "大一上期末复习计划.md",
     "寻深足迹/寻深足迹.md",
@@ -296,12 +323,10 @@
     "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "4949380eb3f4d03414f7f9f1df4cdb88_MD5.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png.md",
-    "（Template）/音乐模板.md",
     "daily/~syncthing~2025-12-28.md.tmp",
     "ad2dffabbea2b72a5f774b2bdc7de128_MD5.jpg",
     "daily/2025-12-27.md",
     "寻深足迹/在追.md",
-    "文摘/文摘.md",
     "daily/~syncthing~2025-12-27.sync-conflict-20251227-184057-7KGOG42.md.tmp",
     "编程学习/C++积累.md",
     "daily/2025-12-26.md",
