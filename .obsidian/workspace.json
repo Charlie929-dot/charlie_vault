@@ -113,7 +113,8 @@
               "title": "2025-12-28"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,10 +310,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "776c7cfb55234f21",
+  "active": "4615278630831076",
   "lastOpenFiles": [
-    "daily/2025-12-28.md",
     "（Template）/音乐模板.md",
+    "daily/2025-12-28.md",
     "daily/~syncthing~2025-12-28.md.tmp",
     "大一上期末复习计划.md",
     "寻深足迹/寻深足迹.md",
