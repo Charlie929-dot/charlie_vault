@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "C++积累"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,12 +276,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f8efb5db0bfd0e8e",
+  "active": "f5822dc42c22ef2b",
   "lastOpenFiles": [
+    "编程学习/C++类.md",
     "编程学习/错误集锦.md",
-    "编程学习/C++积累.md",
-    "俄语复习资料.md",
     "大一上期末复习计划.md",
+    "俄语复习资料.md",
+    "编程学习/C++积累.md",
     "编程学习/学习工具.md",
     "daily/2025-12-29.md",
     "（Template）/音乐模板.md",
@@ -320,7 +322,6 @@
     "daily/2025-12-24.md",
     "2025-12-24大一上期末英语.md",
     "临时笔记/未命名 3.md",
-    "daily/2025-12-20.md",
     "daily/~syncthing~2025-12-23.sync-conflict-20251223-214706-7KGOG42.md.tmp",
     "IMG_20251223_193052.jpg",
     "未命名 1.canvas",
