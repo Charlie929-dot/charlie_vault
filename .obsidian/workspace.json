@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "daily/2025-12-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "2025-12-29"
+            }
+          },
+          {
+            "id": "14737c86fbbb047e",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,15 +286,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f5822dc42c22ef2b",
+  "active": "14737c86fbbb047e",
   "lastOpenFiles": [
+    "daily/2025-12-29.md",
+    "编程学习/C++积累.md",
     "编程学习/C++类.md",
     "编程学习/错误集锦.md",
     "大一上期末复习计划.md",
     "俄语复习资料.md",
-    "编程学习/C++积累.md",
     "编程学习/学习工具.md",
-    "daily/2025-12-29.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-28.md",
     "文摘/文摘.md",
