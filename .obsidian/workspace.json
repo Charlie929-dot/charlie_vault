@@ -8,64 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eda96530ede5ebe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-29"
-            }
-          },
-          {
-            "id": "2df3936d01b7ef5c",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "c658c0b9eefe66c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-29"
-            }
-          },
-          {
             "id": "f8efb5db0bfd0e8e",
             "type": "leaf",
             "state": {
@@ -89,8 +31,7 @@
               "title": "2025-12-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,14 +228,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "2df3936d01b7ef5c",
+  "active": "f8efb5db0bfd0e8e",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2025-12-29.md",
     "编程学习/C++积累.md",
     "daily/2025-12-28.md",
     "文摘/文摘.md",
     "寻深足迹/寻深足迹.md",
-    "（Template）/音乐模板.md",
     "编程学习/错误集锦.md",
     "大一上期末复习计划.md",
     "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
