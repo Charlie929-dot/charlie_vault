@@ -577,6 +577,8 @@ for(int k=0;k<8;k++){
 		if(ch[i+x[k]][j+y[k]]=='*') c++;
 	}
 ```
+### 边判断边输出
+> 省去了ti'huan'shu'zu'yuan'su'de
 
 
 # a.bf
