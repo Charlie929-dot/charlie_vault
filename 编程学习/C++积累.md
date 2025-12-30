@@ -443,7 +443,7 @@ int main() {
 }
 ```
 
-# 5 扫雷
+## 5 扫雷
 ```c++
 #include <iostream>
 
