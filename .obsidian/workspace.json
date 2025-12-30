@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "14737c86fbbb047e",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "12e1f0bdef51b511",
             "type": "leaf",
             "state": {
@@ -71,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "职业发展规划-学长分享.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "职业发展规划-学长分享"
+              "title": "C++积累"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,13 +277,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "14737c86fbbb047e",
+  "active": "b6cf6a810769e017",
   "lastOpenFiles": [
     "职业发展规划-学长分享.md",
+    "daily/2025-12-30.md",
+    "（Template）/音乐模板.md",
     "编程学习/C++积累.md",
     "大一上期末复习计划.md",
-    "（Template）/音乐模板.md",
-    "daily/2025-12-30.md",
     "高数/Kira小练习/微分中值定理.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
     "Pasted image 20251230095659.png",

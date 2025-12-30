@@ -398,7 +398,7 @@ bool isBracketMatched(string s) {
     for (char ch : s) { // 范围for循环遍历表达式中的每个字符
         // 第一步：遇到左括号，直接入栈
         if (ch == '(' || ch == '[' || ch == '{') {
-            st.push(ch);
+			st.push(ch);
         }
         // 第二步：遇到右括号，进行匹配校验
         else if (ch == ')' || ch == ']' || ch == '}') {
