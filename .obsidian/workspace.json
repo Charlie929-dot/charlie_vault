@@ -40,33 +40,9 @@
               "icon": "Memos",
               "title": "Thino"
             }
-          },
-          {
-            "id": "55410dbf0acd77f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-30"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,11 +238,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "55410dbf0acd77f1",
+  "active": "14737c86fbbb047e",
   "lastOpenFiles": [
+    "daily/2025-12-30.md",
     "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
-    "daily/2025-12-30.md",
     "daily/2025-12-29.md",
     "daily/2025-12-29.sync-conflict-20251229-234733-7KGOG42.md",
     "大一上期末复习计划.sync-conflict-20251229-234732-7KGOG42.md",
