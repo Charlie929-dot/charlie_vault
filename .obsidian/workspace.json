@@ -40,9 +40,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "12e1f0bdef51b511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-30"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +262,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "14737c86fbbb047e",
+  "active": "12e1f0bdef51b511",
   "lastOpenFiles": [
-    "daily/2025-12-30.md",
+    "高数/Kira小练习/微分中值定理.md",
+    "0210f656255de2881341657bcae868c4_MD5.jpg",
+    "Pasted image 20251230095659.png",
+    "高数/Kira小练习",
+    "高数",
     "（Template）/音乐模板.md",
+    "daily/2025-12-30.md",
     "大一上期末复习计划.md",
     "daily/2025-12-29.md",
     "daily/2025-12-29.sync-conflict-20251229-234733-7KGOG42.md",
@@ -275,17 +304,11 @@
     "IMG_20251226_142900.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5_1.png",
     "编程学习/~syncthing~C++积累.md.tmp",
-    "~syncthing~IMG_20251226_142900.jpg.tmp",
-    "~syncthing~职业发展规划-学长分享.md.tmp",
     "daily/2025-12-25.md",
     "obsidian/tool/Markdown+语法手册.md",
     "英语大一上期末考点.md",
     "英语/大一上英语单词复习.md",
     "www.baidu.com.md",
-    "baidu.com.md",
-    "a589fe538c54d85cb294f7f8751819b7_MD5.jpg",
-    "Pasted image 20251225131734.png",
-    "大一上期末复习计划.sync-conflict-20251225-124012-JPTAE2A.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
