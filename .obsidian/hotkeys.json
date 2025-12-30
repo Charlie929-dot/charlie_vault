@@ -121,5 +121,13 @@
       ],
       "key": "E"
     }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
   ]
 }
