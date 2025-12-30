@@ -122,7 +122,7 @@
       "key": "E"
     }
   ],
-  "highlightr-plugin:Yellow": [
+  "editor:toggle-highlight": [
     {
       "modifiers": [
         "Alt"
