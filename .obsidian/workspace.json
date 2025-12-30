@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "2025-12-30"
             }
+          },
+          {
+            "id": "a0babdfb804592ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-30"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conflict",
+                "query": "tag:#feeling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +143,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,7 +287,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9e1780e842e5f1ea",
+  "active": "a0babdfb804592ce",
   "lastOpenFiles": [
     "（Template）/音乐模板.md",
     "daily/2025-12-30.md",
