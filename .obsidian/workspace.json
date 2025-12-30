@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上期末复习计划.md",
+                "file": "daily/2025-12-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一上期末复习计划"
+              "title": "2025-12-30"
+            }
+          },
+          {
+            "id": "3271156401e81920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feeling",
+                "query": "tag:#期末作业",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,11 +253,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "6c677dc565187497",
+  "active": "3271156401e81920",
   "lastOpenFiles": [
+    "daily/2025-12-31.md",
     "daily/2025-12-30.md",
-    "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "大一上期末复习计划.md",
+    "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "（Template）/音乐模板.md",
     "编程学习/C++积累.md",
     "daily/2025-12-30.sync-conflict-20251230-182919-7KGOG42.md",
