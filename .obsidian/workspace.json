@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/笔记工具库.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "笔记工具库"
+              "title": "大一上期末复习计划"
+            }
+          },
+          {
+            "id": "4d9660989e16650a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mermaid.js.org/",
+                "title": "Mermaid | Diagramming and charting tool",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mermaid | Diagramming and charting tool"
             }
           },
           {
@@ -265,6 +279,8 @@
   "lastOpenFiles": [
     "俄语复习资料.md",
     "obsidian/tool/Markdown+语法手册.md",
+    "思维导图.md",
+    "obsidian/tool/笔记工具库.md",
     "7feca9660e84ebdecaf846b20c62fe21_MD5.jpg",
     "daily/2025-12-30.md",
     "exported_image.png",
@@ -307,7 +323,6 @@
     "编程学习/~syncthing~C++积累.md.tmp",
     "daily/2025-12-25.md",
     "英语大一上期末考点.md",
-    "英语/大一上英语单词复习.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
