@@ -79,7 +79,8 @@
               "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,11 +276,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f5822dc42c22ef2b",
+  "active": "b6cf6a810769e017",
   "lastOpenFiles": [
+    "俄语复习资料.md",
     "大一上期末复习计划.md",
     "daily/2025-12-30.md",
-    "俄语复习资料.md",
     "obsidian/tool/Markdown+语法手册.md",
     "思维导图.md",
     "obsidian/tool/笔记工具库.md",
