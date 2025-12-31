@@ -40,9 +40,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "bb24ce4968d9389d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +262,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "18bdd21f272246f8",
+  "active": "bb24ce4968d9389d",
   "lastOpenFiles": [
-    "daily/2025-12-31.md",
     "（Template）/音乐模板.md",
+    "daily/2025-12-31.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
     "编程学习/OJ刷题.md",
     "编程学习/C++积累.md",
