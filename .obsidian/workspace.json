@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "2025-12-31"
             }
+          },
+          {
+            "id": "d24bb4dc3cd9a3c8",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "3271156401e81920",
+  "active": "d24bb4dc3cd9a3c8",
   "lastOpenFiles": [
     "daily/2025-12-31.md",
     "daily/2025-12-30.md",
