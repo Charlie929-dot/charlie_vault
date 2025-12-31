@@ -32,30 +32,17 @@
             }
           },
           {
-            "id": "bb24ce4968d9389d",
+            "id": "b24710276fffafdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末考试时间安排.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末考试时间安排"
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,17 +238,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0d54a241e946c08a",
+  "active": "b24710276fffafdc",
   "lastOpenFiles": [
+    "daily/2025-12-31.md",
     "大一上期末考试时间安排.md",
+    "（Template）/音乐模板.md",
     "编程学习/OJ刷题.md",
     "大一上期末复习计划.md",
-    "daily/2025-12-31.md",
     "3697b51524bb9352b0371043158e738c_MD5.jpg",
     "Pasted image 20251231125435.png",
     "编程学习/错误集锦.md",
     "编程学习/C++积累.md",
-    "（Template）/音乐模板.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
     "5ddb9978f7da44871127d0f2367b5dda_MD5.jpg",
     "66bd1e7339f3dd6805eb9a868409adc8_MD5.jpg",
