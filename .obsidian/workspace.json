@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,11 +250,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "3271156401e81920",
+  "active": "d24bb4dc3cd9a3c8",
   "lastOpenFiles": [
     "daily/2025-12-31.md",
-    "daily/2025-12-30.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
+    "daily/2025-12-30.md",
     "高数/Kira小练习/微分中值定理.md",
     "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
