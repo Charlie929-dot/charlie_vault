@@ -38,25 +38,49 @@
               "type": "webviewer",
               "state": {
                 "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
-                "title": "微信公众平台",
+                "title": "c语言1-50【带题目】",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "微信公众平台"
+              "title": "c语言1-50【带题目】"
             }
           },
           {
             "id": "cabb2771289e71ad",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程学习/OJ刷题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OJ刷题"
+            }
+          },
+          {
+            "id": "ab04fed4e87576de",
+            "type": "leaf",
+            "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
-                "title": "c语言1-50【带题目】",
+                "url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nTTtegtE61fktCmMRtbGpLWI4vlcibeEu8FVj1c1VpTgibEFS4ATzxH6fbNibKiaLbaaK2pASUqvdQMDJgNc7t5qAQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3![[640wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3.webp",
+                "title": "640 (627×554)",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "c语言1-50【带题目】"
+              "title": "640 (627×554)"
             }
           },
           {
@@ -82,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +125,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -278,8 +302,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "cabb2771289e71ad",
+  "active": "0fa6906c57f71415",
   "lastOpenFiles": [
+    "编程学习/OJ刷题.md",
+    "66bd1e7339f3dd6805eb9a868409adc8_MD5.jpg",
+    "640wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3.webp",
     "daily/2025-12-31.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
     "（Template）/音乐模板.md",
@@ -320,11 +347,8 @@
     "文摘/文摘.md",
     "寻深足迹/寻深足迹.md",
     "54136f25d3cd9784c8533765e85b74e5_MD5.jpg",
-    "937f8e8e44f9757ccc63878fbcac3dcc_MD5.png",
-    "98340f21e664b07eb0bdc213a2773793_MD5.jpg",
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png.md",
     "daily/~syncthing~2025-12-28.md.tmp",
-    "daily/2025-12-27.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
