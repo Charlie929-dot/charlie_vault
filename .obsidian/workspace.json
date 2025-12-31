@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07c01a3656135f2f",
+        "id": "14091e0ed5b351a6",
         "type": "tabs",
         "children": [
           {
-            "id": "0d54a241e946c08a",
+            "id": "920c6a817b489a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-31.md",
+                "file": "daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,45 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
-            }
-          },
-          {
-            "id": "cffaee87939a27d5",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "e976d26024443a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-31.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "2026-01-01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +228,20 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e976d26024443a43",
+  "active": "920c6a817b489a15",
   "lastOpenFiles": [
+    "daily/2026-01-01.md",
+    "【夜读】还在烦恼跨年朋友圈怎么发？我们帮你准备好了.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-31.md",
+    "435443e6bb8fb2befa763a836e1f0184_MD5.png",
+    "fa5cd455f2a78560dc17239f5f4230a2_MD5.jpg",
+    "c111f558a1a2a8307088071472e67caa_MD5.webp",
+    "08ab02de64246b2686e43cae9a96ae5d_MD5.webp",
+    "c63ffc2bf2e34fd77b14b7b0b66e2d3d_MD5.svg",
+    "0aace1618740ccc866af90f255d112bb_MD5.png",
+    "29e4c83f530227a4fd8bba4efa58d4bd_MD5.png",
+    "e14e90d205221eb350fb2a44ede27b62_MD5.png",
     "编程学习/C++积累.md",
     "编程学习/C++类.md",
     "C语言结构体.md",
@@ -277,10 +252,6 @@
     "3697b51524bb9352b0371043158e738c_MD5.jpg",
     "Pasted image 20251231125435.png",
     "编程学习/错误集锦.md",
-    "0210f656255de2881341657bcae868c4_MD5.jpg",
-    "5ddb9978f7da44871127d0f2367b5dda_MD5.jpg",
-    "66bd1e7339f3dd6805eb9a868409adc8_MD5.jpg",
-    "640wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3.webp",
     "daily/2025-12-30.md",
     "高数/Kira小练习/微分中值定理.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
@@ -292,10 +263,6 @@
     "obsidian/tool/Markdown+语法手册.md",
     "思维导图.md",
     "obsidian/tool/笔记工具库.md",
-    "7feca9660e84ebdecaf846b20c62fe21_MD5.jpg",
-    "exported_image.png",
-    "Pasted image 20251230141813.png",
-    "ad2dffabbea2b72a5f774b2bdc7de128_MD5.jpg",
     "职业发展规划-学长分享.md",
     "高数/Kira小练习",
     "高数",
@@ -308,8 +275,6 @@
     "~syncthing~image_1766968517325.jpg.tmp",
     "编程学习/学习工具.md",
     "daily/2025-12-28.md",
-    "文摘/文摘.md",
-    "寻深足迹/寻深足迹.md",
     "daily/~syncthing~2025-12-28.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
