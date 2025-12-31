@@ -94,10 +94,19 @@ int main(){
 
 # 分割字符串
 ### 法一
-> 二维数组储存,每行一个单词,词尾加上0
-> ```c++
-> 
-> ```
+> 二维数组储存,每行一个单词,词尾加上0 
+```c++
+// 遍历原始字符串
+    for (int i = 0; str[i] != '\0'; i++) {
+        if (str[i] != ' ') { // 非空格字符，存入当前单词
+            words[wordIdx][charIdx++] = str[i];
+        } else if (charIdx > 0) { // 遇到空格且当前已有字符（避免连续空格）
+            words[wordIdx][charIdx] = '\0'; // 词尾加0（字符串结束符）
+            wordIdx++; // 切换到下一个单词
+            charIdx = 0; // 重置字符索引
+        }
+    }
+```
 
 ### 法二
 > 记下空格后面字符的索引,并把空格替换为0
@@ -115,6 +124,12 @@ int main(){
 
 ### 法三
 > 利用strtok函数分割
-> ```c++
-> 
-> ```
+```c++
+	token = strtok(str, delim);
+    int wordNum = 1;
+    // 循环分割，直到token为NULL
+    while (token != NULL) {
+        cout << "单词" << wordNum++ << "：" << token << endl;
+        // 后续调用：传入NULL，继续分割剩余字符串
+        token = strtok(NULL, delim);
+```
