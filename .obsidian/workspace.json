@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-30"
-            }
-          },
-          {
-            "id": "3271156401e81920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "daily/2025-12-31.md",
                 "mode": "source",
                 "source": false,
@@ -53,6 +29,18 @@
               },
               "icon": "lucide-file",
               "title": "2025-12-31"
+            }
+          },
+          {
+            "id": "3271156401e81920",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0210f656255de2881341657bcae868c4_MD5.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "0210f656255de2881341657bcae868c4_MD5"
             }
           },
           {
@@ -98,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#期末作业",
+                "query": "kira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +107,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,9 +252,11 @@
   },
   "active": "3271156401e81920",
   "lastOpenFiles": [
-    "daily/2025-12-30.md",
-    "（Template）/音乐模板.md",
     "daily/2025-12-31.md",
+    "daily/2025-12-30.md",
+    "0210f656255de2881341657bcae868c4_MD5.jpg",
+    "高数/Kira小练习/微分中值定理.md",
+    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "编程学习/C++积累.md",
@@ -285,8 +274,6 @@
     "Pasted image 20251230141813.png",
     "ad2dffabbea2b72a5f774b2bdc7de128_MD5.jpg",
     "职业发展规划-学长分享.md",
-    "高数/Kira小练习/微分中值定理.md",
-    "0210f656255de2881341657bcae868c4_MD5.jpg",
     "Pasted image 20251230095659.png",
     "高数/Kira小练习",
     "高数",
@@ -310,7 +297,6 @@
     "a330405e1576aa208f872c52d0c3a3d7_MD5.png.md",
     "daily/~syncthing~2025-12-28.md.tmp",
     "daily/2025-12-27.md",
-    "寻深足迹/在追.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
