@@ -669,3 +669,50 @@ int main(){
 > 1. 跳过0
 > 2. 只检测右边和下边,检测后记录,用于跳过重复
 > 3. 用x[],y[]记录重复坐标,如果竖直或水平检测重复>=3,替换
+
+## 蛇形矩阵
+[[3697b51524bb9352b0371043158e738c_MD5.jpg
+![[3697b51524bb9352b0371043158e738c_MD5.jpg]]
+
+```c++
+#include<stdio.h>
+
+int main() {
+    int n, c = 1;
+    scanf("%d", &n);
+    int b[n][n];
+
+    for (int k = 0; k <= 2 * n - 2; k++) {
+        if (k % 2 == 1) {
+            for (int i = 0; i < n; i++) {
+                int j = k - i;
+                if (j >= 0 && j < n) {
+                    b[i][j] = c++;
+                }
+            }
+        } else {
+            for (int i = n - 1; i >= 0; i--) {
+                int j = k - i;
+                if (j >= 0 && j < n) {
+                    b[i][j] = c++;
+                }
+            }
+        }
+    }
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (j == 0) {
+                printf("%d", b[i][j]);
+            } else {
+                printf(" %d", b[i][j]);
+            }
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+```
+### yi'yuan
