@@ -32,6 +32,34 @@
             }
           },
           {
+            "id": "0fa6906c57f71415",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "微信公众平台",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "微信公众平台"
+            }
+          },
+          {
+            "id": "cabb2771289e71ad",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "c语言1-50【带题目】",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "c语言1-50【带题目】"
+            }
+          },
+          {
             "id": "3271156401e81920",
             "type": "leaf",
             "state": {
@@ -250,13 +278,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d24bb4dc3cd9a3c8",
+  "active": "cabb2771289e71ad",
   "lastOpenFiles": [
     "daily/2025-12-31.md",
     "0210f656255de2881341657bcae868c4_MD5.jpg",
+    "（Template）/音乐模板.md",
     "daily/2025-12-30.md",
     "高数/Kira小练习/微分中值定理.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "编程学习/C++积累.md",
