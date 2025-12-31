@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "2025-12-31"
             }
+          },
+          {
+            "id": "d8b399d4cdf17e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +286,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "bb24ce4968d9389d",
+  "active": "d8b399d4cdf17e27",
   "lastOpenFiles": [
     "（Template）/音乐模板.md",
     "daily/2025-12-31.md",
