@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-31.md",
+                "file": "编程学习/C++类.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "C++类"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kira",
+                "query": "line:(结构体)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,8 +230,10 @@
   },
   "active": "0d54a241e946c08a",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "C语言结构体.md",
+    "临时笔记/C.md",
     "daily/2025-12-31.md",
+    "（Template）/音乐模板.md",
     "大一上期末考试时间安排.md",
     "编程学习/OJ刷题.md",
     "大一上期末复习计划.md",
@@ -272,7 +275,6 @@
     "daily/2025-12-28.md",
     "文摘/文摘.md",
     "寻深足迹/寻深足迹.md",
-    "a330405e1576aa208f872c52d0c3a3d7_MD5.png.md",
     "daily/~syncthing~2025-12-28.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",

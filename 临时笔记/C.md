@@ -1,4 +1,4 @@
-#inout #C语言 
+#input #C语言 
 ```c
 #include<bits/stdc++.h>
 using namespace std;
