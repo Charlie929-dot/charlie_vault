@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++类.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++类"
+              "title": "C++积累"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(结构体)",
+                "query": "课堂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,6 +230,7 @@
   },
   "active": "0d54a241e946c08a",
   "lastOpenFiles": [
+    "编程学习/C++类.md",
     "C语言结构体.md",
     "临时笔记/C.md",
     "daily/2025-12-31.md",
@@ -270,7 +271,6 @@
     "~syncthing~大一上期末复习计划.sync-conflict-20251229-234732-7KGOG42.md.tmp",
     "~syncthing~英语小组汇报经验.md.tmp",
     "~syncthing~image_1766968517325.jpg.tmp",
-    "编程学习/C++类.md",
     "编程学习/学习工具.md",
     "daily/2025-12-28.md",
     "文摘/文摘.md",
