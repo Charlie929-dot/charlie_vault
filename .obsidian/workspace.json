@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-12-31"
             }
+          },
+          {
+            "id": "cffaee87939a27d5",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,13 +239,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0d54a241e946c08a",
+  "active": "cffaee87939a27d5",
   "lastOpenFiles": [
+    "daily/2025-12-31.md",
     "编程学习/C++积累.md",
     "编程学习/C++类.md",
     "C语言结构体.md",
     "临时笔记/C.md",
-    "daily/2025-12-31.md",
     "（Template）/音乐模板.md",
     "大一上期末考试时间安排.md",
     "编程学习/OJ刷题.md",
