@@ -40,9 +40,37 @@
               "icon": "lucide-file",
               "title": "2026-01-01"
             }
+          },
+          {
+            "id": "51a3a245731bc7ac",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "c语言1-50【带题目】",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "c语言1-50【带题目】"
+            }
+          },
+          {
+            "id": "8737c9cfacd26d97",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "c语言1-50【带题目】",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "c语言1-50【带题目】"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,11 +267,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "6a939cf28d578b45",
+  "active": "51a3a245731bc7ac",
   "lastOpenFiles": [
+    "daily/2026-01-01.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-31.md",
-    "daily/2026-01-01.md",
     "大一上期末复习计划.md",
     "高数/Kira小练习/微分中值定理.md",
     "Pasted image 20260101104140.png",
