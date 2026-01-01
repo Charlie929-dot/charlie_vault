@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "社会主义",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +287,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "9b9e4fb4e3b56617",
   "lastOpenFiles": [
     "daily/2026-01-01.md",
     "大一上期末复习计划.md",
