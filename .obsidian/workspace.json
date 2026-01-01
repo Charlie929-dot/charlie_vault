@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-01-01"
             }
+          },
+          {
+            "id": "da538325b915482e",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +239,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "920c6a817b489a15",
+  "active": "da538325b915482e",
   "lastOpenFiles": [
     "daily/2026-01-01.md",
     "【夜读】还在烦恼跨年朋友圈怎么发？我们帮你准备好了.md",
