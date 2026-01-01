@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "2026-01-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7787966f36d89a5",
@@ -264,7 +265,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "88563ca9bd41b6aa",
+  "active": "d1c5968c21c7e5a5",
   "lastOpenFiles": [
     "编程学习/C++积累.md",
     "daily/2026-01-01.md",
