@@ -40,8 +40,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "661def8438e95fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-01"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +263,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d1c5968c21c7e5a5",
+  "active": "661def8438e95fe2",
   "lastOpenFiles": [
     "（Template）/音乐模板.md",
     "daily/2026-01-01.md",
