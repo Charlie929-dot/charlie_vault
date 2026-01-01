@@ -55,7 +55,8 @@
               "title": "2026-01-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +253,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d1c5968c21c7e5a5",
+  "active": "f45aa4e8b70eb802",
   "lastOpenFiles": [
-    "daily/2026-01-01.md",
     "军事理论复习资料.md",
+    "daily/2026-01-01.md",
     "大一上期末复习计划.md",
     "~$25军事理论知识要点.docx",
     "（Template）/音乐模板.md",
