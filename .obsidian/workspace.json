@@ -6,22 +6,7 @@
       {
         "id": "c0f6114ab680f606",
         "type": "tabs",
-        "dimension": 55.033557046979865,
         "children": [
-          {
-            "id": "c6aab27644297fa7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
-                "title": "c语言1-50【带题目】",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "c语言1-50【带题目】"
-            }
-          },
           {
             "id": "d1c5968c21c7e5a5",
             "type": "leaf",
@@ -44,28 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-01-01"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f7787966f36d89a5",
-        "type": "tabs",
-        "dimension": 44.966442953020135,
-        "children": [
-          {
-            "id": "88563ca9bd41b6aa",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHX37EGBAOaV8XcgwAO7GFWakA3P34EmlTuwIAKAJTB+lY5XWUAnmk4r8JyjALdu5p9aMmGAd1xMYACx1OA3c7Yxh2BiokSBDQ8MjKAGYY21CwiKoAVhS09ISAdhzc+KoADiK0ksokAAYKuIzqgCZIGDpiJmpqRKQbXPtGltj+3AAzHR1zAFIAFgBeOZq9ADJlyanamoWlgB8d9Zmape29e3bO6iaATj7+k3IwBLaOrqbS27vKACM2dgBrD6hCijdjEMBMVrnLqJGqAgC+sTYTGILFssP4cJAcKAA==",
-                "title": "在线 IDE - Hydro",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "在线 IDE - Hydro"
             }
           }
         ]
@@ -267,8 +230,8 @@
   },
   "active": "d1c5968c21c7e5a5",
   "lastOpenFiles": [
-    "编程学习/C++积累.md",
     "daily/2026-01-01.md",
+    "编程学习/C++积累.md",
     "（Template）/音乐模板.md",
     "daily/2025-12-31.md",
     "大一上期末复习计划.md",
