@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "e16737b8ccda65ef",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
             "id": "9a82de621e6f7281",
             "type": "leaf",
             "state": {
@@ -253,11 +263,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9a82de621e6f7281",
+  "active": "e16737b8ccda65ef",
   "lastOpenFiles": [
     "大一上期末复习计划.md",
-    "人工智能.md",
     "daily/2026-01-01.md",
+    "人工智能.md",
     "军事理论复习资料.md",
     "~$25军事理论知识要点.docx",
     "（Template）/音乐模板.md",
