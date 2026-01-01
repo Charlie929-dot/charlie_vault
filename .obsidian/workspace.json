@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-01-01"
             }
+          },
+          {
+            "id": "187464644dbcac33",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +239,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d1c5968c21c7e5a5",
+  "active": "187464644dbcac33",
   "lastOpenFiles": [
     "daily/2026-01-01.md",
     "编程学习/C++积累.md",
