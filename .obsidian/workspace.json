@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "2026-01-01"
             }
+          },
+          {
+            "id": "db8e020280a4dd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-01"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,15 +311,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "da538325b915482e",
+  "active": "db8e020280a4dd76",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2026-01-01.md",
     "大一上期末复习计划.md",
     "daily/2025-12-31.md",
     "高数/Kira小练习/微分中值定理.md",
     "Pasted image 20260101104140.png",
     "【夜读】还在烦恼跨年朋友圈怎么发？我们帮你准备好了.md",
-    "（Template）/音乐模板.md",
     "435443e6bb8fb2befa763a836e1f0184_MD5.png",
     "fa5cd455f2a78560dc17239f5f4230a2_MD5.jpg",
     "c111f558a1a2a8307088071472e67caa_MD5.webp",
