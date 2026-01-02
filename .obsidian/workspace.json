@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "2026-01-02"
             }
+          },
+          {
+            "id": "b1fae03e21853083",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,10 +262,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "bfd032529464aaed",
+  "active": "b1fae03e21853083",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
     "daily/2026-01-02.md",
+    "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
     "编程学习/OJ刷题.md",
     "34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg",
     "编程学习/C++积累.md",
@@ -263,7 +274,6 @@
     "编程学习/错误集锦.md",
     "obsidian/tool/笔记工具库.md",
     "人工智能.md",
-    "（Template）/音乐模板.md",
     "人工智能期末复习.md",
     "20260102-0422-41.8394144.mp4",
     "军事理论复习资料.md",
