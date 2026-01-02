@@ -23,6 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
+            }
+          },
+          {
+            "id": "e645a7ede425b63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily/2026-01-02.md",
                 "mode": "source",
                 "source": false,
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,8 +119,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,11 +262,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "aa36aa5858c13e71",
+  "active": "e645a7ede425b63c",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
-    "daily/2026-01-02.md",
     "大一上期末复习计划.md",
+    "daily/2026-01-02.md",
+    "（Template）/音乐模板.md",
     "《社会主义发展史》课堂笔记.md",
     "74d256fd70148ab5717c53461f89d747_MD5.jpg",
     "Pasted image 20260102204903.png",
