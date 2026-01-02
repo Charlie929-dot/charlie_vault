@@ -1,3 +1,13 @@
 {
-  "queries": []
+  "queries": [
+    {
+      "createdAt": "2026/01/02 20:51:08",
+      "id": "202601022051080",
+      "pinnedAt": "",
+      "querystring": "[{\"type\":\"TEXT\",\"value\":{\"operator\":\"CONTAIN\",\"value\":\"- [ ]\"},\"relation\":\"AND\"}]",
+      "title": "任务",
+      "updatedAt": "2026/01/02 20:51:08",
+      "userId": "Thino"
+    }
+  ]
 }

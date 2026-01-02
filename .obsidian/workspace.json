@@ -16,6 +16,30 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "aa36aa5858c13e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一上期末复习计划"
+            }
           }
         ]
       }
@@ -216,22 +240,22 @@
   },
   "active": "66d63f568beb4beb",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
+    "《社会主义发展史》课堂笔记.md",
+    "daily/2026-01-02.md",
+    "（Template）/音乐模板.md",
     "74d256fd70148ab5717c53461f89d747_MD5.jpg",
     "Pasted image 20260102204903.png",
-    "daily/2026-01-02.md",
     "人工智能期末复习.md",
     "人工智能.md",
     "四类问题.md",
-    "大一上期末复习计划.md",
     "线性代数测试.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
     "1a33fff36e8ecd92f0725e67de3eb2fa_MD5.mp4",
     "Pasted image 20260102174528.png",
-    "《社会主义发展史》课堂笔记.md",
     "社会主义发展史/未命名.md",
     "未命名 3.md",
     "《社会主义发展史》课堂笔记 1.md",
-    "（Template）/音乐模板.md",
     "编程学习/OJ刷题.md",
     "34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg",
     "编程学习/C++积累.md",
@@ -253,7 +277,6 @@
     "c111f558a1a2a8307088071472e67caa_MD5.webp",
     "08ab02de64246b2686e43cae9a96ae5d_MD5.webp",
     "c63ffc2bf2e34fd77b14b7b0b66e2d3d_MD5.svg",
-    "0aace1618740ccc866af90f255d112bb_MD5.png",
     "编程学习/C++类.md",
     "C语言结构体.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
