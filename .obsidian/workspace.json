@@ -54,6 +54,16 @@
               "icon": "lucide-file",
               "title": "2026-01-02"
             }
+          },
+          {
+            "id": "66d63f568beb4beb",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
         "currentTab": 1
