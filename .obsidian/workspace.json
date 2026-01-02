@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2026-01-02"
             }
+          },
+          {
+            "id": "561ce312fe13b92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数第二章测试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "线性代数第二章测试"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,8 +133,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,11 +276,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e0b2f6905d9e12d7",
+  "active": "561ce312fe13b92e",
   "lastOpenFiles": [
+    "daily/2026-01-02.md",
+    "线性代数第二章测试.md",
     "大一上期末复习计划.md",
     "人工智能期末复习.md",
-    "daily/2026-01-02.md",
     "《社会主义发展史》课堂笔记.md",
     "社会主义发展史/未命名.md",
     "未命名 3.md",
@@ -292,7 +316,6 @@
     "C语言结构体.md",
     "临时笔记/C.md",
     "大一上期末考试时间安排.md",
-    "daily/2025-12-30.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "daily/~syncthing~2025-12-30.sync-conflict-20251230-182919-7KGOG42.md.tmp",
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",
