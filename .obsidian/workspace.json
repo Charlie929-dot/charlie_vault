@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-02.md",
+                "file": "人工智能期末复习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "人工智能期末复习"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDE",
+                "query": "人工",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,10 +255,10 @@
   },
   "active": "43cefe89a36e7d8c",
   "lastOpenFiles": [
+    "daily/2026-01-02.md",
     "《社会主义发展史》课堂笔记.md",
     "大一上期末复习计划.md",
     "社会主义发展史/未命名.md",
-    "daily/2026-01-02.md",
     "未命名 3.md",
     "《社会主义发展史》课堂笔记 1.md",
     "（Template）/音乐模板.md",
