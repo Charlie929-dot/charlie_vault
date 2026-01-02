@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "大一上期末复习计划"
             }
+          },
+          {
+            "id": "bfd032529464aaed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-02"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +252,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c6efd4a2f1a171f4",
+  "active": "bfd032529464aaed",
   "lastOpenFiles": [
     "大一上期末复习计划.md",
     "daily/2026-01-02.md",
