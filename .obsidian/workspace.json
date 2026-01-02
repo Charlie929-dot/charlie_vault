@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "编程学习/学习工具.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
+              "title": "学习工具"
+            }
+          },
+          {
+            "id": "c985462fe6b526e2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGp3ZMAFvAl98/YgwIBzSvi7kGAB3YwqzUgG5+/AEZ06YSrgYAFFrk7kAFASaqAlMH6UfV/G4AzAF4kI3xfSgC6Fhd/KyCAJgNcACpcaiD8ZIBqbM9vCN9cAKd8AFJcIKCABndImrCIgF8Cn2KnALq2JmIWcNZickbfcjAGKm7e8ID2MaH+Frl8V0oxAid88N8wOnwVHb2/N3YAbScD/d2VV3ckcgAOAF0g4GqmtCzWyhgCbm5PrZtOIAawaXyiMRWlQAzMlqFlcNlEptCkUStY7A5nLh3CjUYVTsDnrhhvjfMDcqTCotmuDorE3JVqskUgkMsCcnkvIDChCGZQAFZBYEAWlCAtZ3A5ApFIrxZLaJVOuEe2VOAuemXlCoiMDoxCY1GoyseRt4IEo5qN6tN1HI+FIYCpOp8kz6lGZXzJTUtPNpPJpvjd4VCCxATSAA===",
+                "title": "在线 IDE - Hydro",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "在线 IDE - Hydro"
             }
           },
           {
@@ -75,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "daily/2026-01-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,11 +104,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "2026-01-02"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,12 +304,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "360697fa524327b3",
+  "active": "477f6aa246bfae8d",
   "lastOpenFiles": [
-    "编程学习/错误集锦.md",
+    "编程学习/OJ刷题.md",
+    "34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg",
     "编程学习/C++积累.md",
-    "obsidian/tool/笔记工具库.md",
     "编程学习/学习工具.md",
+    "编程学习/错误集锦.md",
+    "obsidian/tool/笔记工具库.md",
     "daily/2026-01-02.md",
     "人工智能.md",
     "（Template）/音乐模板.md",
@@ -323,8 +339,6 @@
     "C语言结构体.md",
     "临时笔记/C.md",
     "大一上期末考试时间安排.md",
-    "编程学习/OJ刷题.md",
-    "3697b51524bb9352b0371043158e738c_MD5.jpg",
     "daily/2025-12-30.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "daily/2025-12-30.sync-conflict-20251230-182919-7KGOG42.md",
@@ -332,7 +346,6 @@
     "daily/~syncthing~2025-12-30.sync-conflict-20251230-182919-7KGOG42.md.tmp",
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",
     "俄语复习资料.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "高数/Kira小练习",
     "高数",
     "daily/~syncthing~2025-12-29.sync-conflict-20251229-234733-7KGOG42.md.tmp",

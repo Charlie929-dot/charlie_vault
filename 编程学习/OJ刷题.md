@@ -718,3 +718,77 @@ int main() {
 ### 利用数学函数关系
 > 与对角线上平行的点的坐标值之和是定值
 > `举一反三` : x+2y,3x+y分别是斜率为-1/2,-3的线上的点
+
+
+## 哥德巴赫猜想
+[[34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg|Open: 39572161-76b9-47a4-bfad-c21eb13e65f2.jpg]]
+![[34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg]]
+```c++
+#include <iostream>
+
+#include <math.h>
+
+  
+
+using namespace std;
+
+  
+
+bool isPrime(int n){
+
+    int f=1;
+
+    for(int i=2;i*i<=n;i++){
+
+        if(n%i==0) f=0;
+
+    }
+
+    if(f) return true;
+
+    else return false;
+
+}
+
+  
+
+int main(){
+
+    long long int a[(long long int)1e8]={0},n;
+
+    cin>>n;
+
+    int k=0;
+
+    for(int i=3;i<n;i+=2){
+
+        if(isPrime(i)){
+
+            a[k]=i;
+
+            k++;
+
+        }
+
+    }
+
+    for(int i=0;i*2<=k;i++){
+
+        for(int j=k-1;j*2>k;j--){
+
+            if(a[i]+a[j]==n){
+
+                cout<<a[i]<<" "<<a[j]<<endl;
+
+                return 0;
+
+            }
+
+        }
+
+    }
+
+    return 1;
+
+}
+```
