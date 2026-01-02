@@ -64,6 +64,30 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "42a976265a84b52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "人工智能"
+            }
           }
         ],
         "currentTab": 1
@@ -265,9 +289,10 @@
   },
   "active": "e0b2f6905d9e12d7",
   "lastOpenFiles": [
+    "人工智能.md",
+    "人工智能期末复习.md",
     "四类问题.md",
     "大一上期末复习计划.md",
-    "人工智能期末复习.md",
     "daily/2026-01-02.md",
     "线性代数测试.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
@@ -284,7 +309,6 @@
     "编程学习/学习工具.md",
     "编程学习/错误集锦.md",
     "obsidian/tool/笔记工具库.md",
-    "人工智能.md",
     "20260102-0422-41.8394144.mp4",
     "军事理论复习资料.md",
     "daily/2026-01-01.md",
