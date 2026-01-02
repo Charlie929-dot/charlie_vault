@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "561ce312fe13b92e",
+  "active": "e0b2f6905d9e12d7",
   "lastOpenFiles": [
     "线性代数第二章测试.md",
     "daily/2026-01-02.md",
