@@ -201,3 +201,19 @@ int main()
 > [!note] 执行逻辑
 > 1. 寻找并执行匹配的case,直到遇到break(无break会把==之后==的所有case都执行)
 > 2. 若无匹配的case,则执行default(无default则跳过switch-case)
+
+# 最大公约数
+### 法一
+```c++
+int gcd(int a, int b){
+    if(a==abs(a-b)) return a;
+    else return gcd(b,abs(a-b));
+}
+```
+### 法二
+```c++
+int gcd(int a, int b){
+		if(a==b) return a;
+		return gcd(b,a%b);
+}
+```

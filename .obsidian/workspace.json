@@ -35,14 +35,24 @@
             "id": "06abb861edb63e45",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
-                "title": "c语言1-50【带题目】",
-                "mode": "webview"
+                "file": "编程学习/错误集锦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "c语言1-50【带题目】"
+              "icon": "lucide-file",
+              "title": "错误集锦"
             }
           },
           {
@@ -65,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/错误集锦.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,25 +90,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "错误集锦"
-            }
-          },
-          {
-            "id": "d3ae4eb1fe31b16b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFSv37EGBAOaV8XcgwAO7GFWakA3GPwEmlKTFIAKXZXZpKpgEYBKYGKa4AZkfYBeNwAYblNk2Is+JRWWvi8TORgDFTORlYe3r7k/oFmoeGR0fZhTOGx7m62SSlB7Om5rMkBQQbGVmjsAKS25QC+/O1hOvh6nOwERnb8lCOUMHTETNTUtUZIAExIaCg2oaPF1ZSeoa0grUA===",
-                "title": "在线 IDE - Hydro",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "在线 IDE - Hydro"
+              "title": "C++积累"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,9 +290,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d3ae4eb1fe31b16b",
+  "active": "360697fa524327b3",
   "lastOpenFiles": [
     "编程学习/错误集锦.md",
+    "编程学习/C++积累.md",
     "obsidian/tool/笔记工具库.md",
     "编程学习/学习工具.md",
     "daily/2026-01-02.md",
@@ -310,7 +307,6 @@
     "寻深足迹/寻深足迹.md",
     "寻深足迹/在追.md",
     "~$25军事理论知识要点.docx",
-    "编程学习/C++积累.md",
     "daily/2025-12-31.md",
     "高数/Kira小练习/微分中值定理.md",
     "Pasted image 20260101104140.png",
