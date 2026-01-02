@@ -8,64 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed525b8c61399609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大一上期末复习计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "大一上期末复习计划"
-            }
-          },
-          {
-            "id": "e16737b8ccda65ef",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "9a82de621e6f7281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "人工智能"
-            }
-          },
-          {
             "id": "c6efd4a2f1a171f4",
             "type": "leaf",
             "state": {
@@ -88,9 +30,75 @@
               "icon": "lucide-file",
               "title": "2026-01-02"
             }
+          },
+          {
+            "id": "06abb861edb63e45",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "c语言1-50【带题目】",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "c语言1-50【带题目】"
+            }
+          },
+          {
+            "id": "360697fa524327b3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
+                "title": "c语言1-50【带题目】",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "c语言1-50【带题目】"
+            }
+          },
+          {
+            "id": "477f6aa246bfae8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程学习/错误集锦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "错误集锦"
+            }
+          },
+          {
+            "id": "d3ae4eb1fe31b16b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFSv37EGBAOaV8XcgwAO7GFWakA3GPwEmlKTFIAKXZXZpKpgEYBKYGKa4AZkfYBeNwAYblNk2Is+JRWWvi8TORgDFTORlYe3r7k/oFmoeGR0fZhTOGx7m62SSlB7Om5rMkBQQbGVmjsAKS25QC+/O1hOvh6nOwERnb8lCOUMHTETNTUtUZIAExIaCg2oaPF1ZSeoa0grUA===",
+                "title": "在线 IDE - Hydro",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "在线 IDE - Hydro"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人工智能",
+                "query": "IDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,15 +294,18 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c6efd4a2f1a171f4",
+  "active": "d3ae4eb1fe31b16b",
   "lastOpenFiles": [
+    "编程学习/错误集锦.md",
+    "obsidian/tool/笔记工具库.md",
+    "编程学习/学习工具.md",
+    "daily/2026-01-02.md",
+    "人工智能.md",
+    "（Template）/音乐模板.md",
     "人工智能期末复习.md",
     "20260102-0422-41.8394144.mp4",
-    "人工智能.md",
-    "daily/2026-01-02.md",
     "军事理论复习资料.md",
     "大一上期末复习计划.md",
-    "（Template）/音乐模板.md",
     "daily/2026-01-01.md",
     "寻深足迹/寻深足迹.md",
     "寻深足迹/在追.md",
@@ -318,7 +329,6 @@
     "大一上期末考试时间安排.md",
     "编程学习/OJ刷题.md",
     "3697b51524bb9352b0371043158e738c_MD5.jpg",
-    "编程学习/错误集锦.md",
     "daily/2025-12-30.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "daily/2025-12-30.sync-conflict-20251230-182919-7KGOG42.md",
@@ -327,7 +337,6 @@
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",
     "俄语复习资料.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "思维导图.md",
     "高数/Kira小练习",
     "高数",
     "daily/~syncthing~2025-12-29.sync-conflict-20251229-234733-7KGOG42.md.tmp",
