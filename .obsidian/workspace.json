@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-02.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,87 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
-            }
-          },
-          {
-            "id": "06abb861edb63e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程学习/学习工具.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习工具"
-            }
-          },
-          {
-            "id": "c985462fe6b526e2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://hydro.ac/ide#N4IgNiBcIMYwdHAjEkAaWUQGICWA7GMAVwBMBTAAgB5cB7AZwBcAncgQwFsA+AHXzyESFGp3ZMAFvAl98/YgwIBzSvi7kGAB3YwqzUgG5+/AEZ06YSrgYAFFrk7kAFASaqAlMH6UfV/G4AzAF4kI3xfSgC6Fhd/KyCAJgNcACpcaiD8ZIBqbM9vCN9cAKd8AFJcIKCABndImrCIgF8Cn2KnALq2JmIWcNZickbfcjAGKm7e8ID2MaH+Frl8V0oxAid88N8wOnwVHb2/N3YAbScD/d2VV3ckcgAOAF0g4GqmtCzWyhgCbm5PrZtOIAawaXyiMRWlQAzMlqFlcNlEptCkUStY7A5nLh3CjUYVTsDnrhhvjfMDcqTCotmuDorE3JVqskUgkMsCcnkvIDChCGZQAFZBYEAWlCAtZ3A5ApFIrxZLaJVOuEe2VOAuemXlCoiMDoxCY1GoyseRt4IEo5qN6tN1HI+FIYCpOp8kz6lGZXzJTUtPNpPJpvjd4VCCxATSAA===",
-                "title": "在线 IDE - Hydro",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "在线 IDE - Hydro"
-            }
-          },
-          {
-            "id": "360697fa524327b3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mp.weixin.qq.com/s?__biz=MzU3MTkwMzgxNA==&mid=2247534283&idx=1&sn=140e45085913d3dea25ef9c32665bb34&chksm=fcdb1ce2cbac95f41d216398e581b45c8750d6dcf22efc1a454bc136f774c149bd3e9e0e043a&scene=21#wechat_redirect",
-                "title": "c语言1-50【带题目】",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "c语言1-50【带题目】"
-            }
-          },
-          {
-            "id": "477f6aa246bfae8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "大一上期末复习计划"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -304,7 +227,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "477f6aa246bfae8d",
+  "active": "c6efd4a2f1a171f4",
   "lastOpenFiles": [
     "daily/2026-01-02.md",
     "编程学习/OJ刷题.md",
