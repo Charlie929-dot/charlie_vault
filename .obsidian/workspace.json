@@ -65,7 +65,8 @@
               "title": "2026-01-02"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,10 +262,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ed525b8c61399609",
+  "active": "9a82de621e6f7281",
   "lastOpenFiles": [
-    "daily/2026-01-02.md",
     "大一上期末复习计划.md",
+    "daily/2026-01-02.md",
     "daily/2026-01-01.md",
     "寻深足迹/寻深足迹.md",
     "寻深足迹/在追.md",
