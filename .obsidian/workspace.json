@@ -78,6 +78,16 @@
               "icon": "lucide-file",
               "title": "线性代数第二章测试"
             }
+          },
+          {
+            "id": "03024d0b31fe9057",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
+            }
           }
         ],
         "currentTab": 2
@@ -278,8 +288,8 @@
   },
   "active": "561ce312fe13b92e",
   "lastOpenFiles": [
-    "daily/2026-01-02.md",
     "线性代数第二章测试.md",
+    "daily/2026-01-02.md",
     "大一上期末复习计划.md",
     "人工智能期末复习.md",
     "《社会主义发展史》课堂笔记.md",
