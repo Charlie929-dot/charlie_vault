@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "bfd032529464aaed",
+            "id": "43cefe89a36e7d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "2026-01-02"
             }
-          },
-          {
-            "id": "d5d1473eb09b653b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名 3"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,14 +252,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d5d1473eb09b653b",
+  "active": "43cefe89a36e7d8c",
   "lastOpenFiles": [
-    "《社会主义发展史》课堂笔记 1.md",
-    "未命名 3.md",
-    "daily/2026-01-02.md",
     "《社会主义发展史》课堂笔记.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
+    "社会主义发展史/未命名.md",
+    "daily/2026-01-02.md",
+    "未命名 3.md",
+    "《社会主义发展史》课堂笔记 1.md",
+    "（Template）/音乐模板.md",
     "编程学习/OJ刷题.md",
     "34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg",
     "编程学习/C++积累.md",
@@ -316,7 +293,6 @@
     "大一上期末考试时间安排.md",
     "daily/2025-12-30.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
-    "daily/2025-12-30.sync-conflict-20251230-182919-7KGOG42.md",
     "daily/~syncthing~2025-12-30.sync-conflict-20251230-182919-7KGOG42.md.tmp",
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",
     "高数/Kira小练习",
