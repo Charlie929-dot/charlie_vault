@@ -278,14 +278,18 @@ int main()
 ```c++
     char c;
     int count = 0;
+    int in_word = 0; // 0=不在单词中，1=在单词中
     while ((c = getchar()) != '\n') {
         if (c != ' ') {
             if (!in_word) {
                 count++;
+                in_word = 1;
             }
+        } else {
+            in_word = 0;
         }
     }
-    cout<<count<<endl;
+    cout<<cout<<endl;
 ```
 
 # 17 未知大小储存
