@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人工",
+                "query": "巧妙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,6 +229,8 @@
   },
   "active": "a2355b32d524158d",
   "lastOpenFiles": [
+    "巧妙代码.md",
+    "编程学习/C++积累.md",
     "人工智能期末复习.md",
     "《社会主义发展史》课堂笔记.md",
     "daily/2026-01-03.md",
@@ -250,7 +252,6 @@
     "《社会主义发展史》课堂笔记 1.md",
     "编程学习/OJ刷题.md",
     "34749636cc1eb0e9c912dfbf3a1e7f0e_MD5.jpg",
-    "编程学习/C++积累.md",
     "编程学习/学习工具.md",
     "编程学习/错误集锦.md",
     "obsidian/tool/笔记工具库.md",
@@ -268,7 +269,6 @@
     "c111f558a1a2a8307088071472e67caa_MD5.webp",
     "08ab02de64246b2686e43cae9a96ae5d_MD5.webp",
     "c63ffc2bf2e34fd77b14b7b0b66e2d3d_MD5.svg",
-    "编程学习/C++类.md",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
     "daily/~syncthing~2025-12-30.sync-conflict-20251230-182919-7KGOG42.md.tmp",
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",

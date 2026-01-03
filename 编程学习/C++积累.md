@@ -217,3 +217,148 @@ int gcd(int a, int b){
 		return gcd(b,a%b);
 }
 ```
+
+# 一、16转10进制
+```
+or (char c : hexStr) {
+        int digitValue = hexCharToValue(c);
+        decimalValue = decimalValue * 16 + digitValue;
+    }
+```
+> 1.遍历or (char c : hexStr)
+> 2.嵌套decimalValue = decimalValue * 16 + digitValue
+
+# 二、输入字符串
+```
+string a;
+cin>>a;
+```
+> scan需要规定内存大小防止溢出
+cin可自动分配内存
+
+# 三、凯撒密码
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n;
+    string s;
+    cin>>n>>s;
+    or(int i=0;i<s.size();i++){
+        cout<<char((s[i])-97+n)%26+97);
+    }
+    return 0;
+
+}
+```
+
+> # 凯撒解密
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n;
+    string s;
+    cin>>n>>s;
+    or(int i=0;i<s.size();i++){
+        cout<<char(-(((-s[i])-(-90)+n)%26+(-90)));
+    }
+    return 0;
+
+}
+```
+# 计算单词个数
+```
+    char c;
+    int count = 0;
+    int in_word = 0; // 0=不在单词中，1=在单词中
+    while ((c = getchar()) != '\n') {
+        i (c != ' ') {
+            i (!in_word) {
+                count++;
+                in_word = 1;
+            }
+        } else {
+            in_word = 0;
+        }
+    }
+    print("There are %d words in this line.\n", count);
+```
+
+# 未知大小储存
+```
+    int a = 0x12F; // 即303
+    int actors[100]; // 存储因子
+    int count = 0;
+    // 遍历找因子
+    or (int i = 1; i <= a; i++) {
+        i (a % i == 0) {
+            actors[count] = i;
+            sum += i;
+            count++;
+            }
+    print("升序因子：");
+    or (int i = 0; i < count; i++) {
+        print("%d ", actors[i])
+```
+> 确定大小：int count = 0;
+
+# 判断奇偶
+```
+a%2==0//取模
+a&0==1//按位与
+```
+
+# 浮点除法
+```
+print("%", 5.0 / 2); // 输出2.500000
+
+int a = 5, b = 2;
+print("%", (double)a / b); // 输出2.500000
+
+int res = (5 * 10) / 2;
+print("%", res / 10.0); // 输出2.500000
+
+#include <iomanip>
+cout<<ixed[<<setprecision(19)]<<1.0;
+
+cout<<(double)1.0;
+
+```
+> cout未接收按浮点数打印指令会直接简化为整型打印
+
+# 取十进制整数n的第k位
+```
+(n / (int)pow(10, k-1)) % 10//pow返回浮点数
+
+//无库函数实现（避免pow精度问题）
+int getDigit(int n, int k) {
+    int base = 1;
+    or (int i = 1; i < k; i++) {
+        base *= 10; // 循环k-1次，得到10^(k-1)
+    }
+    return (n / base) % 10;
+}
+
+```
+
+# 向上向下取整
+```
+ //法一：无库代码
+    double a;
+    cin>>a;
+    i(a==(int)a) cout<<a<<endl<<a;
+    else cout<<(int)a<<endl<<(int)a+1<<endl;
+ //法二：数学库
+ #include <math.h>
+    x1=(int)floor(x);
+    x2=(int)ceil(x);
+```
+
+
