@@ -275,21 +275,17 @@ int main()
 ```
 
 # 16 计算单词个数
-```
+```c++
     char c;
     int count = 0;
-    int in_word = 0; // 0=不在单词中，1=在单词中
     while ((c = getchar()) != '\n') {
-        i (c != ' ') {
-            i (!in_word) {
+        if (c != ' ') {
+            if (!in_word) {
                 count++;
-                in_word = 1;
             }
-        } else {
-            in_word = 0;
         }
     }
-    print("There are %d words in this line.\n", count);
+    cout<<count<<endl;
 ```
 
 # 17 未知大小储存
