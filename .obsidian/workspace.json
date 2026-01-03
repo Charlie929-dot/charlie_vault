@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66d63f568beb4beb",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
             "id": "aa36aa5858c13e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-03.md",
+                "file": "人工智能期末复习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,45 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
-            }
-          },
-          {
-            "id": "b3e199f642bb3e62",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mooc1.chaoxing.com/mooc-ans/mooc2/work/dowork?courseId=254609798&classId=125797395&cpi=482267394&workId=49322523&answerId=54321745&standardEnc=dbd20ed4f580a73222d1192f02711f5f&enc=d039d2415689b6245360b9502a90003b",
-                "title": "作业作答",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "作业作答"
-            }
-          },
-          {
-            "id": "190221ee25eacf95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《社会主义发展史》课堂笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "《社会主义发展史》课堂笔记"
+              "title": "人工智能期末复习"
             }
           }
         ]
@@ -111,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "社会",
+                "query": "人工",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,15 +228,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "66d63f568beb4beb",
+  "active": "aa36aa5858c13e71",
   "lastOpenFiles": [
     "daily/2026-01-03.md",
     "《社会主义发展史》课堂笔记.md",
+    "（Template）/音乐模板.md",
     "期末作业安排.md",
     "军事理论复习资料.md",
     "大一上期末复习计划.md",
     "daily/2026-01-02.md",
-    "（Template）/音乐模板.md",
     "74d256fd70148ab5717c53461f89d747_MD5.jpg",
     "Pasted image 20260102204903.png",
     "人工智能期末复习.md",
