@@ -65,8 +65,7 @@
               "title": "2026-01-04"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +262,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b81964f98d65ff2c",
+  "active": "ff5e32b33e0a7af3",
   "lastOpenFiles": [
     "daily/2026-01-04.md",
     "daily/2026-01-03.md",
