@@ -42,54 +42,6 @@
             }
           },
           {
-            "id": "b4a2e705bed2ce29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能期末复习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "人工智能期末复习"
-            }
-          },
-          {
-            "id": "159b88ea19e8c0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "听力技巧.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "听力技巧"
-            }
-          },
-          {
             "id": "eab77c4d467ec174",
             "type": "leaf",
             "state": {
@@ -114,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,11 +265,11 @@
   },
   "active": "eab77c4d467ec174",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
     "daily/2026-01-03.md",
+    "（Template）/音乐模板.md",
     "听力技巧.md",
     "人工智能期末复习.md",
-    "大一上期末复习计划.md",
     "daily/~syncthing~2026-01-03.md.tmp",
     "编程学习/C++积累.md",
     "巧妙代码.md",
