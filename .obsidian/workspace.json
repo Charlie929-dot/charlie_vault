@@ -113,7 +113,8 @@
               "title": "2026-01-03"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -310,10 +311,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ff5e32b33e0a7af3",
+  "active": "eab77c4d467ec174",
   "lastOpenFiles": [
-    "daily/2026-01-03.md",
     "（Template）/音乐模板.md",
+    "daily/2026-01-03.md",
     "听力技巧.md",
     "人工智能期末复习.md",
     "大一上期末复习计划.md",
