@@ -1,5 +1,5 @@
 #cpp #课堂 
-# 递归函数
+# 1 递归函数
 `递归深度过大引发堆栈溢出`
 每次<mark style="background: #FF5582A6;">递归</mark>调用都会在内存栈中保存局部变量、返回地址等信息，如果递归层数过深（例如处理大规模数据），会<mark style="background: #FFF3A3A6;">超出栈的容量限制</mark>，导致“堆栈溢出”错误。<mark style="background: #FF5582A6;">循环</mark>则不会产生额外的函数调用开销，仅在<mark style="background: #FFF3A3A6;">同一栈帧内迭代</mark>，因此能处理更深层次的计算而不易崩溃。
 > [!Note] 解决方法
@@ -7,10 +7,10 @@
 >    `更相减损-->辗转相除`
 > 2. 利用循环结构平替
 
-# i--和--i
-### 后置递减（i--）
+# 2 i--和--i
+### 2.1.1 后置递减（i--）
 先返回当前值再递减
-### 前置递减（--i）
+### 2.1.2 前置递减（--i）
 先递减再返回当前值
 > [!Warning]
 > for(int i=n;i>=0；i--)
@@ -23,7 +23,7 @@
 > 2. 检查条件 → 如果为真 → 执行循环体 → 执行迭代表达式
 > 3. 重复步骤2
 
-# while(n--)
+# 3 while(n--)
 ```c++
 #include<stdio.h>
 int main()
@@ -73,27 +73,27 @@ int main(){
 > 1. 直接利用要求的次数T递减
 > 2. while(h--)先返回h本身给while判断，然后再递减,而不是在循环之后递减，事实上在这个语句之后就立马递减，需要区分的是for循环它的固定执行顺序，让他在循环之后再递减
 
-# 输入单行内容含空格
+# 4 输入单行内容含空格
 `getline(cin,a)`
 > 输入多行内容`while(getline(cin,str))` `while(scanf("%c",&arr))` `while(cin.get(arr))`
 
-# 优秀代码[[OJ刷题]]
+# 5 优秀代码[[OJ刷题]]
 
-# a.bf
+# 6 a.bf
 `1.5f`是一位整数，五位小数
 
-# aEb
+# 7 aEb
 `1E-10=1*10^-10`
 `2E-10=2*10^-10`
 
-# [[#类型转换]]
+# 8 [[#类型转换]]
 
-# 使用习惯的数组索引
+# 9 使用习惯的数组索引
 `for(int i=1;i<=n;i++) cin>>a[i];`
 
 
-# 分割字符串
-### 法一
+# 10 分割字符串
+### 10.1.1 法一
 > 二维数组储存,每行一个单词,词尾加上0 
 ```c++
 // 遍历原始字符串
@@ -108,7 +108,7 @@ int main(){
     }
 ```
 
-### 法二
+### 10.1.2 法二
 > 记下空格后面字符的索引,并把空格替换为0
 ```c++
 // 遍历字符串，记录空格后字符的索引，并将空格替换为0
@@ -122,7 +122,7 @@ int main(){
         }
 ```
 
-### 法三
+### 10.1.3 法三
 > 利用strtok函数分割
 ```c++
 	token = strtok(str, delim);
@@ -135,8 +135,8 @@ int main(){
 ```
 
 
-# switch-case语句
-### 示例
+# 11 switch-case语句
+### 11.1.1 示例
 > **某学校毕业设计成绩评定等级的规则如下：**
 > 
 > **成绩 >= 90分，为优秀**
@@ -202,15 +202,15 @@ int main()
 > 1. 寻找并执行匹配的case,直到遇到break(无break会把==之后==的所有case都执行)
 > 2. 若无匹配的case,则执行default(无default则跳过switch-case)
 
-# 最大公约数
-### 法一/更相减损
+# 12 最大公约数
+### 12.1.1 法一/更相减损
 ```c++
 int gcd(int a, int b){
     if(a==abs(a-b)) return a;
     else return gcd(b,abs(a-b));
 }
 ```
-### 法二/辗转相除（收敛更快）
+### 12.1.2 法二/辗转相除（收敛更快）
 ```c++
 int gcd(int a, int b){
 		if(a==b) return a;
@@ -218,7 +218,7 @@ int gcd(int a, int b){
 }
 ```
 
-# 一、16转10进制
+# 13 16转10进制
 ```
 or (char c : hexStr) {
         int digitValue = hexCharToValue(c);
@@ -228,7 +228,7 @@ or (char c : hexStr) {
 > 1.遍历or (char c : hexStr)
 > 2.嵌套decimalValue = decimalValue * 16 + digitValue
 
-# 二、输入字符串
+# 14 输入字符串
 ```
 string a;
 cin>>a;
@@ -236,7 +236,8 @@ cin>>a;
 > scan需要规定内存大小防止溢出
 cin可自动分配内存
 
-# 三、凯撒密码
+# 15 凯撒密码
+> 凯撒加密
 ```
 #include <iostream>
 
@@ -254,8 +255,7 @@ int main()
 
 }
 ```
-
-> # 凯撒解密
+> 凯撒解密
 ```
 #include <iostream>
 
@@ -273,7 +273,8 @@ int main()
 
 }
 ```
-# 计算单词个数
+
+# 16 计算单词个数
 ```
     char c;
     int count = 0;
@@ -291,31 +292,31 @@ int main()
     print("There are %d words in this line.\n", count);
 ```
 
-# 未知大小储存
+# 17 未知大小储存
 ```
     int a = 0x12F; // 即303
     int actors[100]; // 存储因子
     int count = 0;
     // 遍历找因子
-    or (int i = 1; i <= a; i++) {
+    for (int i = 1; i <= a; i++) {
         i (a % i == 0) {
             actors[count] = i;
             sum += i;
             count++;
             }
     print("升序因子：");
-    or (int i = 0; i < count; i++) {
+    for (int i = 0; i < count; i++) {
         print("%d ", actors[i])
 ```
 > 确定大小：int count = 0;
 
-# 判断奇偶
+# 18 判断奇偶
 ```
 a%2==0//取模
 a&0==1//按位与
 ```
 
-# 浮点除法
+# 19 浮点除法
 ```
 print("%", 5.0 / 2); // 输出2.500000
 
@@ -333,7 +334,7 @@ cout<<(double)1.0;
 ```
 > cout未接收按浮点数打印指令会直接简化为整型打印
 
-# 取十进制整数n的第k位
+# 20 取十进制整数n的第k位
 ```
 (n / (int)pow(10, k-1)) % 10//pow返回浮点数
 
@@ -348,7 +349,7 @@ int getDigit(int n, int k) {
 
 ```
 
-# 向上向下取整
+# 21 向上向下取整
 ```
  //法一：无库代码
     double a;
