@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2355b32d524158d",
+            "id": "ff5e32b33e0a7af3",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "55ff64f13d042c33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,18 +40,9 @@
               "icon": "lucide-file",
               "title": "2026-01-03"
             }
-          },
-          {
-            "id": "ff5e32b33e0a7af3",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,15 +238,16 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a2355b32d524158d",
+  "active": "55ff64f13d042c33",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
+    "大一上期末复习计划.md",
     "daily/2026-01-03.md",
+    "（Template）/音乐模板.md",
+    "daily/~syncthing~2026-01-03.md.tmp",
     "编程学习/C++积累.md",
     "巧妙代码.md",
     "人工智能期末复习.md",
     "《社会主义发展史》课堂笔记.md",
-    "大一上期末复习计划.md",
     "期末作业安排.md",
     "军事理论复习资料.md",
     "daily/2026-01-02.md",
@@ -273,7 +275,6 @@
     "daily/2025-12-31.md",
     "高数/Kira小练习/微分中值定理.md",
     "Pasted image 20260101104140.png",
-    "【夜读】还在烦恼跨年朋友圈怎么发？我们帮你准备好了.md",
     "435443e6bb8fb2befa763a836e1f0184_MD5.png",
     "fa5cd455f2a78560dc17239f5f4230a2_MD5.jpg",
     "c111f558a1a2a8307088071472e67caa_MD5.webp",
@@ -284,7 +285,6 @@
     "~syncthing~大一上期末复习计划.sync-conflict-20251230-182918-7KGOG42.md.tmp",
     "高数/Kira小练习",
     "高数",
-    "daily/~syncthing~2025-12-29.sync-conflict-20251229-234733-7KGOG42.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
