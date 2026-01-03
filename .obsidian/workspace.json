@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-03.md",
+                "file": "大一上期末复习计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "大一上期末复习计划"
             }
           },
           {
@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "人工智能期末复习"
             }
+          },
+          {
+            "id": "159b88ea19e8c0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-03"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,12 +287,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "55ff64f13d042c33",
+  "active": "159b88ea19e8c0d2",
   "lastOpenFiles": [
     "（Template）/音乐模板.md",
-    "daily/2026-01-03.md",
     "人工智能期末复习.md",
     "大一上期末复习计划.md",
+    "daily/2026-01-03.md",
     "daily/~syncthing~2026-01-03.md.tmp",
     "编程学习/C++积累.md",
     "巧妙代码.md",
