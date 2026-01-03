@@ -203,14 +203,14 @@ int main()
 > 2. 若无匹配的case,则执行default(无default则跳过switch-case)
 
 # 最大公约数
-### 法一
+### 法一/更相减损
 ```c++
 int gcd(int a, int b){
     if(a==abs(a-b)) return a;
     else return gcd(b,abs(a-b));
 }
 ```
-### 法二
+### 法二/辗转相除（收敛更快）
 ```c++
 int gcd(int a, int b){
 		if(a==b) return a;

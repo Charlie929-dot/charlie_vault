@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa36aa5858c13e71",
+            "id": "a2355b32d524158d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能期末复习.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "人工智能期末复习"
-            }
-          },
-          {
-            "id": "f1161f29ca54e8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "C++积累"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,12 +227,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f1161f29ca54e8c0",
+  "active": "a2355b32d524158d",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
-    "daily/2026-01-03.md",
     "人工智能期末复习.md",
     "《社会主义发展史》课堂笔记.md",
+    "daily/2026-01-03.md",
+    "大一上期末复习计划.md",
     "（Template）/音乐模板.md",
     "期末作业安排.md",
     "军事理论复习资料.md",
