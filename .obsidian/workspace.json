@@ -65,7 +65,8 @@
               "title": "人工智能期末复习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,10 +263,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ff5e32b33e0a7af3",
+  "active": "55ff64f13d042c33",
   "lastOpenFiles": [
-    "daily/2026-01-03.md",
     "（Template）/音乐模板.md",
+    "daily/2026-01-03.md",
     "人工智能期末复习.md",
     "大一上期末复习计划.md",
     "daily/~syncthing~2026-01-03.md.tmp",
