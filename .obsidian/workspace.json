@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-01-04"
             }
+          },
+          {
+            "id": "67abe5ea0f09900c",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +239,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c85a4f9d07bb5fdb",
+  "active": "67abe5ea0f09900c",
   "lastOpenFiles": [
-    "社会主义发展史PPT稿子.md",
     "daily/2026-01-04.md",
+    "社会主义发展史PPT稿子.md",
     "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "daily/2026-01-03.md",
