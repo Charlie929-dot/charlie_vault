@@ -89,7 +89,8 @@
               "title": "2026-01-04"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,8 +286,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9067ac6211037568",
+  "active": "2d0913b16927169f",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
+    "大一上期末考试时间安排.md",
     "daily/2026-01-04.md",
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
@@ -296,7 +299,6 @@
     "Pasted image 20260104153437.png",
     "ab93b13c36ac08bba659eac586ef79b3_MD5.jpg",
     "Pasted image 20260104153355.png",
-    "大一上期末复习计划.md",
     "军事理论复习资料.md",
     "2025军事理论知识要点~16C96.tmp",
     "~$25军事理论知识要点.docx",
@@ -327,7 +329,6 @@
     "obsidian/tool/笔记工具库.md",
     "20260102-0422-41.8394144.mp4",
     "daily/2026-01-01.md",
-    "寻深足迹/寻深足迹.md",
     "Pasted image 20260101104140.png",
     "435443e6bb8fb2befa763a836e1f0184_MD5.png",
     "7972e6100a26fd47238ee9b2d5e70926_MD5.mp4",
