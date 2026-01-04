@@ -143,8 +143,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -287,11 +286,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b42c30ef7e53f2f1",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
-    "~$25军事理论知识要点.docx",
     "daily/2026-01-04.md",
     "军事理论复习资料.md",
+    "~$25军事理论知识要点.docx",
     "社会主义发展史PPT稿子.md",
     "大一上期末复习计划.md",
     "人工智能期末复习.md",
