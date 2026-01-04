@@ -64,9 +64,32 @@
               "icon": "lucide-file",
               "title": "2026-01-04"
             }
+          },
+          {
+            "id": "2d0913b16927169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-04"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +142,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,8 +285,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "629a6e9bb20d22da",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
+    "daily/2026-01-04.md",
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
     "社会主义发展史PPT稿子.md",
@@ -273,7 +296,6 @@
     "Pasted image 20260104153437.png",
     "ab93b13c36ac08bba659eac586ef79b3_MD5.jpg",
     "Pasted image 20260104153355.png",
-    "daily/2026-01-04.md",
     "大一上期末复习计划.md",
     "军事理论复习资料.md",
     "2025军事理论知识要点~16C96.tmp",
