@@ -42,16 +42,31 @@
             }
           },
           {
-            "id": "c62e9c7811825687",
+            "id": "b42c30ef7e53f2f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "军事理论复习资料.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "军事理论复习资料"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,13 +263,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c85a4f9d07bb5fdb",
+  "active": "b42c30ef7e53f2f1",
   "lastOpenFiles": [
     "daily/2026-01-04.md",
     "社会主义发展史PPT稿子.md",
+    "大一上期末复习计划.md",
     "人工智能期末复习.md",
     "（Template）/音乐模板.md",
-    "大一上期末复习计划.md",
     "daily/2026-01-03.md",
     "听力技巧.md",
     "daily/~syncthing~2026-01-03.md.tmp",
