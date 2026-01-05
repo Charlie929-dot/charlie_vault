@@ -65,7 +65,8 @@
               "title": "2026-01-05"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,14 +262,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c85a4f9d07bb5fdb",
+  "active": "b4a5e85942eb2401",
   "lastOpenFiles": [
+    "大一上期末考试时间安排.md",
     "大一上期末复习计划.md",
     "daily/2026-01-05.md",
     "人工智能开卷考试目录.md",
     "人工智能期末复习.md",
     "daily/2026-01-04.md",
-    "大一上期末考试时间安排.md",
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
     "社会主义发展史PPT稿子.md",
