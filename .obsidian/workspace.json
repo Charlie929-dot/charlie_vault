@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一上期末考试时间安排.md",
+                "file": "daily/2026-01-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一上期末考试时间安排"
-            }
-          },
-          {
-            "id": "e3368e7914035c9b",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "4af9aafd83619a58",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/obsidian%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/",
-                "title": "PKMer_Obsidian 基本使用",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "PKMer_Obsidian 基本使用"
+              "title": "2026-01-05"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,10 +228,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "4af9aafd83619a58",
+  "active": "c85a4f9d07bb5fdb",
   "lastOpenFiles": [
-    "daily/2025-12-27.md",
+    "大一上期末复习计划.md",
     "大一上期末考试时间安排.md",
+    "daily/2025-12-27.md",
     "obsidian/tool/Markdown+语法手册.md",
     "人工智能开卷考试目录.md",
     "daily/2026-01-05.md",
@@ -265,7 +242,6 @@
     "军事理论复习资料.md",
     "~$25军事理论知识要点.docx",
     "文摘/~syncthing~文摘.md.tmp",
-    "大一上期末复习计划.md",
     "人工智能期末复习.md",
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
