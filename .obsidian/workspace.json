@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "活动",
+                "query": "短视频",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,14 +239,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9bfdddec50d8e562",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
+    "人工智能开卷考试目录.md",
     "daily/2026-01-05.md",
     "大一上期末复习计划.md",
     "大一上期末考试时间安排.md",
     "daily/2025-12-27.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "人工智能开卷考试目录.md",
     "Pasted image 20260105185900.png",
     "daily/2026-01-04.md",
     "daily/2026-01-01.md",
