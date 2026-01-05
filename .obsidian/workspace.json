@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 4.md",
+                "file": "人工智能开卷考试目录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -92,11 +92,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "人工智能开卷考试目录"
+            }
+          },
+          {
+            "id": "829e651dbbcc2b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能开卷考试目录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "人工智能开卷考试目录"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,17 +316,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "2d0913b16927169f",
+  "active": "829e651dbbcc2b49",
   "lastOpenFiles": [
+    "人工智能期末复习.md",
+    "人工智能开卷考试目录.md",
     "daily/2026-01-05.md",
-    "未命名 4.md",
     "daily/2026-01-04.md",
     "大一上期末复习计划.md",
     "大一上期末考试时间安排.md",
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
     "社会主义发展史PPT稿子.md",
-    "人工智能期末复习.md",
     "3f551a4bf098717ba40dd3079252e450_MD5.jpg",
     "Pasted image 20260104153437.png",
     "ab93b13c36ac08bba659eac586ef79b3_MD5.jpg",
