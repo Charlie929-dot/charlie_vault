@@ -41,7 +41,8 @@
               "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,10 +239,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c85a4f9d07bb5fdb",
+  "active": "9bfdddec50d8e562",
   "lastOpenFiles": [
-    "人工智能开卷考试目录.md",
     "daily/2026-01-05.md",
+    "人工智能开卷考试目录.md",
     "大一上期末复习计划.md",
     "大一上期末考试时间安排.md",
     "daily/2025-12-27.md",
