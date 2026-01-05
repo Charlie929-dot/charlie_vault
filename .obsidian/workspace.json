@@ -32,22 +32,12 @@
             }
           },
           {
-            "id": "9bfdddec50d8e562",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "f45788eada76d7d3",
+            "id": "746d42fe43f2d47d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
+                "file": "daily/2026-01-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一《思想道德与法治》核心简答题（精准对标对应页码）"
+              "title": "2026-01-06"
+            }
+          },
+          {
+            "id": "9bfdddec50d8e562",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           },
           {
@@ -288,12 +288,13 @@
   },
   "active": "c85a4f9d07bb5fdb",
   "lastOpenFiles": [
+    "daily/2026-01-06.md",
+    "daily/2026-01-05.md",
     "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
     "大一上期末复习计划.md",
     "88.md",
     "大一上英语翻译答案.md",
     "（Template）/日记模板.md",
-    "daily/2026-01-05.md",
     "听力技巧.md",
     "军事理论复习资料.md",
     "大一上期末考试时间安排.md",
@@ -327,7 +328,6 @@
     "74d256fd70148ab5717c53461f89d747_MD5.jpg",
     "Pasted image 20260102204903.png",
     "人工智能.md",
-    "四类问题.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
     "1a33fff36e8ecd92f0725e67de3eb2fa_MD5.mp4",
     "Pasted image 20260102174528.png",
