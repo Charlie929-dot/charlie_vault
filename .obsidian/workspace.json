@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,11 +262,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b4a5e85942eb2401",
+  "active": "67abe5ea0f09900c",
   "lastOpenFiles": [
+    "daily/2026-01-05.md",
     "大一上期末考试时间安排.md",
     "大一上期末复习计划.md",
-    "daily/2026-01-05.md",
     "人工智能开卷考试目录.md",
     "人工智能期末复习.md",
     "daily/2026-01-04.md",
