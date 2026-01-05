@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "91f93e80aec3a204",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d0913b16927169f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能期末复习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "人工智能期末复习"
-            }
-          }
-        ]
-      },
-      {
         "id": "874ba180facdbae5",
         "type": "tabs",
         "children": [
@@ -72,12 +42,12 @@
             }
           },
           {
-            "id": "bd94f883c0395f34",
+            "id": "b4a5e85942eb2401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能开卷考试目录.md",
+                "file": "daily/2026-01-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -92,35 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "人工智能开卷考试目录"
-            }
-          },
-          {
-            "id": "829e651dbbcc2b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能开卷考试目录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "人工智能开卷考试目录"
+              "title": "2026-01-05"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,10 +262,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "829e651dbbcc2b49",
+  "active": "b4a5e85942eb2401",
   "lastOpenFiles": [
-    "人工智能期末复习.md",
     "人工智能开卷考试目录.md",
+    "人工智能期末复习.md",
     "daily/2026-01-05.md",
     "daily/2026-01-04.md",
     "大一上期末复习计划.md",
