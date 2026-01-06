@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "军事理论复习资料.md",
+                "file": "daily/2026-01-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "军事理论复习资料"
+              "title": "2026-01-06"
+            }
+          },
+          {
+            "id": "e07d10507d554031",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,10 +251,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "b41096bc3d69659b",
+  "active": "e07d10507d554031",
   "lastOpenFiles": [
-    "~$25军事理论知识要点.docx",
     "daily/2026-01-06.md",
+    "军事理论复习资料.md",
+    "~$25军事理论知识要点.docx",
     "听力技巧.md",
     "f5498e518b0123b6a875c0e1fcfe31af_MD5.jpg",
     "Pasted image 20260106224420.png",
@@ -263,7 +275,6 @@
     "88.md",
     "大一上英语翻译答案.md",
     "（Template）/日记模板.md",
-    "军事理论复习资料.md",
     "大一上期末考试时间安排.md",
     "31bbad04c6bc89f1dc67a28436156c03_MD5.jpg",
     "~syncthing~31bbad04c6bc89f1dc67a28436156c03_MD5.jpg.tmp",
