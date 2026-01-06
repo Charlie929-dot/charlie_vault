@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "2026-01-06"
             }
-          },
-          {
-            "id": "36702624bdc62826",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,11 +228,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "36702624bdc62826",
+  "active": "a575c399eb29a067",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2026-01-06.md",
     "daily/2026-01-05.md",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "image_1766968517325.jpg",
     "~syncthing~image_1766968517325.jpg.tmp",
