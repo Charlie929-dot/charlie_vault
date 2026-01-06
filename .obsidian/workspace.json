@@ -35,14 +35,27 @@
             "id": "268c9697724b9715",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "大一上期末复习计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "大一上期末复习计划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "期末",
+                "query": "安排",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,12 +264,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "b41096bc3d69659b",
   "lastOpenFiles": [
+    "大一上期末复习计划.md",
     "daily/2026-01-07.md",
     "daily/2026-01-06.md",
     "（Template）/音乐模板.md",
-    "大一上期末复习计划.md",
     "军事理论复习资料.md",
     "~$25军事理论知识要点.docx",
     "听力技巧.md",
