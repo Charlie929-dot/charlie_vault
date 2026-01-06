@@ -200,9 +200,21 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "ed28baee7438e78a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "daily/2026-01-06.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-01-06的笔记属性"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
