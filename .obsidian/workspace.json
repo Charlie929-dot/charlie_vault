@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8601a66baf72d98",
+        "id": "0d10f178dca09748",
         "type": "tabs",
         "children": [
           {
-            "id": "a575c399eb29a067",
+            "id": "b41096bc3d69659b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "听力技巧.md",
+                "file": "daily/2026-01-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "听力技巧"
-            }
-          },
-          {
-            "id": "258015f5343d1e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "听力技巧.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "听力技巧"
+              "title": "2026-01-06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,10 +240,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "258015f5343d1e4e",
+  "active": "b41096bc3d69659b",
   "lastOpenFiles": [
-    "daily/2026-01-06.md",
     "听力技巧.md",
+    "daily/2026-01-06.md",
     "f5498e518b0123b6a875c0e1fcfe31af_MD5.jpg",
     "Pasted image 20260106224420.png",
     "13cbaabb05c77f8282ad7988958c9714_MD5.jpg",
