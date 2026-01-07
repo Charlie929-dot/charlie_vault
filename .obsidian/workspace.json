@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-07.md",
+                "file": "听力技巧.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "听力技巧"
             }
           }
         ]
@@ -242,8 +242,11 @@
   },
   "active": "8e1725064f20557c",
   "lastOpenFiles": [
-    "大一《思想道德与法治》材料分析题背诵提纲.md",
+    "Pasted image 20260107224835.png",
+    "3a63cf958e08ac0c84f6aea23fc1b312_MD5.jpg",
+    "Pasted image 20260107224817.png",
     "daily/2026-01-07.md",
+    "大一《思想道德与法治》材料分析题背诵提纲.md",
     "文摘/文摘.md",
     "高数/Kira小练习/微分中值定理.md",
     "大一上期末复习计划.md",
@@ -261,8 +264,6 @@
     "f5498e518b0123b6a875c0e1fcfe31af_MD5.jpg",
     "Pasted image 20260106224420.png",
     "13cbaabb05c77f8282ad7988958c9714_MD5.jpg",
-    "Pasted image 20260106223724.png",
-    "67bb504411c098ad4ef1aa8c1dc55288_MD5.jpg",
     "daily/2026-01-06.sync-conflict-20260106-165248-7KGOG42.md",
     "daily/~syncthing~2026-01-06.sync-conflict-20260106-165248-7KGOG42.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
@@ -286,7 +287,6 @@
     "2025军事理论知识要点~16C96.tmp",
     "daily/2026-01-03.md",
     "daily/~syncthing~2026-01-03.md.tmp",
-    "编程学习/C++积累.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
     "未命名 1.canvas",
     "未命名.canvas",
