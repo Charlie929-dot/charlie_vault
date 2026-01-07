@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-07.md",
+                "file": "听力技巧.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "听力技巧"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,8 +299,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0093e8820f51d95b",
+  "active": "268c9697724b9715",
   "lastOpenFiles": [
+    "f8f89de9d73d8d5e6ef45cef6997d727_MD5.jpg",
+    "Pasted image 20260107195236.png",
     "daily/2026-01-07.md",
     "高数/Kira小练习/微分中值定理.md",
     "文摘/文摘.md",
@@ -340,12 +342,10 @@
     "德法背诵梳理.md",
     "~syncthing~德法背诵梳理.md.tmp",
     "社会主义发展史PPT稿子.md",
-    "3f551a4bf098717ba40dd3079252e450_MD5.jpg",
     "2025军事理论知识要点~16C96.tmp",
     "daily/2026-01-03.md",
     "daily/~syncthing~2026-01-03.md.tmp",
     "编程学习/C++积累.md",
-    "巧妙代码.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
     "未命名 1.canvas",
     "未命名.canvas",
