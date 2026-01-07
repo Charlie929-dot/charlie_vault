@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55427017bce1658b",
+            "id": "8e1725064f20557c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一《思想道德与法治》材料分析题背诵提纲.md",
+                "file": "daily/2026-01-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一《思想道德与法治》材料分析题背诵提纲"
+              "title": "2026-01-07"
             }
           }
         ]
@@ -240,11 +240,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "55427017bce1658b",
+  "active": "8e1725064f20557c",
   "lastOpenFiles": [
+    "大一《思想道德与法治》材料分析题背诵提纲.md",
     "daily/2026-01-07.md",
     "文摘/文摘.md",
-    "大一《思想道德与法治》材料分析题背诵提纲.md",
     "高数/Kira小练习/微分中值定理.md",
     "大一上期末复习计划.md",
     "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
