@@ -112,6 +112,30 @@
               "icon": "lucide-file",
               "title": "大一《思想道德与法治》材料分析题背诵提纲"
             }
+          },
+          {
+            "id": "55427017bce1658b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-07"
+            }
           }
         ],
         "currentTab": 4
@@ -325,12 +349,12 @@
   },
   "active": "5716bfa69f0cfb0e",
   "lastOpenFiles": [
-    "大一上期末复习计划.md",
-    "大一《思想道德与法治》材料分析题背诵提纲.md",
-    "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
-    "文摘/文摘.md",
     "daily/2026-01-07.md",
     "高数/Kira小练习/微分中值定理.md",
+    "文摘/文摘.md",
+    "大一《思想道德与法治》材料分析题背诵提纲.md",
+    "大一上期末复习计划.md",
+    "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
     "听力技巧.md",
     "4468b5c1ec0603bb0474ae35a98e4736_MD5.jpg",
     "Pasted image 20260107200120.png",
