@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文摘/文摘.md",
+                "file": "daily/2026-01-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +86,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "文摘"
+              "title": "2026-01-07"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,8 +299,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "268c9697724b9715",
+  "active": "5716bfa69f0cfb0e",
   "lastOpenFiles": [
+    "文摘/文摘.md",
+    "听力技巧.md",
     "4468b5c1ec0603bb0474ae35a98e4736_MD5.jpg",
     "Pasted image 20260107200120.png",
     "Pasted image 20260107200106.png",
@@ -308,19 +310,16 @@
     "Pasted image 20260107195236.png",
     "daily/2026-01-07.md",
     "高数/Kira小练习/微分中值定理.md",
-    "文摘/文摘.md",
     "大一上期末复习计划.md",
     "军事理论复习资料.md",
     "daily/2026-01-06.md",
     "（Template）/音乐模板.md",
     "~$25军事理论知识要点.docx",
-    "听力技巧.md",
     "f5498e518b0123b6a875c0e1fcfe31af_MD5.jpg",
     "Pasted image 20260106224420.png",
     "13cbaabb05c77f8282ad7988958c9714_MD5.jpg",
     "Pasted image 20260106223724.png",
     "67bb504411c098ad4ef1aa8c1dc55288_MD5.jpg",
-    "Pasted image 20260106215516.png",
     "daily/2026-01-06.sync-conflict-20260106-165248-7KGOG42.md",
     "daily/~syncthing~2026-01-06.sync-conflict-20260106-165248-7KGOG42.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
