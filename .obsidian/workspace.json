@@ -54,9 +54,43 @@
               "icon": "lucide-file",
               "title": "2026-01-07"
             }
+          },
+          {
+            "id": "0093e8820f51d95b",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "5716bfa69f0cfb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,11 +299,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "268c9697724b9715",
+  "active": "0093e8820f51d95b",
   "lastOpenFiles": [
+    "daily/2026-01-07.md",
+    "高数/Kira小练习/微分中值定理.md",
+    "文摘/文摘.md",
     "大一上期末复习计划.md",
     "军事理论复习资料.md",
-    "daily/2026-01-07.md",
     "daily/2026-01-06.md",
     "（Template）/音乐模板.md",
     "~$25军事理论知识要点.docx",
@@ -310,8 +346,6 @@
     "daily/~syncthing~2026-01-03.md.tmp",
     "编程学习/C++积累.md",
     "巧妙代码.md",
-    "《社会主义发展史》课堂笔记.md",
-    "期末作业安排.md",
     "f9040e28389ce68ee65eccbde98739d9_MD5.mp4",
     "未命名 1.canvas",
     "未命名.canvas",
