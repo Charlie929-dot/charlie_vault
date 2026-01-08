@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d10f178dca09748",
+        "id": "8d77ce034d5b66f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1725064f20557c",
+            "id": "f19eabe2be23e5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "追剧/想看.md",
+                "file": "daily/2026-01-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,69 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "想看"
-            }
-          },
-          {
-            "id": "5843040d12351978",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "11a5d64ea66d6b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "追剧/想看.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "想看"
-            }
-          },
-          {
-            "id": "021ece39ec86bc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "听力技巧.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "听力技巧"
+              "title": "2026-01-08"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,8 +239,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "021ece39ec86bc9d",
+  "active": "f19eabe2be23e5da",
   "lastOpenFiles": [
+    "daily/2026-01-09.md",
+    "daily/2026-01-08.md",
+    "追剧/想看.md",
+    "听力技巧.md",
     "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
     "Pasted image 20260108235022.png",
     "e86984adcf03a0f552df713a0de4b426_MD5.jpg",
@@ -308,15 +253,11 @@
     "Pasted image 20260108215117.png",
     "0cee145bfee421c5335746781eda73c9_MD5.jpg",
     "Pasted image 20260108215105.png",
-    "daily/2026-01-08.md",
     "daily/2026-01-07.md",
-    "追剧/想看.md",
     "追剧/在追.md",
     "追剧/寻深足迹.md",
-    "听力技巧.md",
     "adf110a53c37c17f2f1fafd1905549cb_MD5.jpg",
     "Pasted image 20260107225445.png",
-    "Pasted image 20260107224835.png",
     "大一《思想道德与法治》材料分析题背诵提纲.md",
     "文摘/文摘.md",
     "高数/Kira小练习/微分中值定理.md",
