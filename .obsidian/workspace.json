@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "想看"
             }
+          },
+          {
+            "id": "5843040d12351978",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ]
       }
@@ -241,8 +251,8 @@
   },
   "active": "8e1725064f20557c",
   "lastOpenFiles": [
-    "追剧/寻深足迹.md",
     "追剧/想看.md",
+    "追剧/寻深足迹.md",
     "追剧/在追.md",
     "daily/2026-01-08.md",
     "daily/2026-01-07.md",
