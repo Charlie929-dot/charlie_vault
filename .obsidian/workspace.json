@@ -40,8 +40,57 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "11a5d64ea66d6b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "追剧/想看.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "想看"
+            }
+          },
+          {
+            "id": "021ece39ec86bc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,13 +298,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "8e1725064f20557c",
+  "active": "021ece39ec86bc9d",
   "lastOpenFiles": [
-    "追剧/想看.md",
-    "追剧/寻深足迹.md",
-    "追剧/在追.md",
-    "daily/2026-01-08.md",
     "daily/2026-01-07.md",
+    "daily/2026-01-08.md",
+    "追剧/想看.md",
+    "追剧/在追.md",
+    "追剧/寻深足迹.md",
     "听力技巧.md",
     "adf110a53c37c17f2f1fafd1905549cb_MD5.jpg",
     "Pasted image 20260107225445.png",
