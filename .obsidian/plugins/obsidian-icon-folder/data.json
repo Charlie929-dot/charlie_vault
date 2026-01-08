@@ -40,7 +40,6 @@
   "文摘": "LiNotebookPen",
   "daily": "LiCalendarDays",
   "心得": "LiHeart",
-  "寻深足迹": "LiFootprints",
   "（Template）": "LiBookTemplate",
   "(Attachments)": "🖼",
   "生涯规划": "LiTable",
@@ -48,5 +47,6 @@
   "test": "LiTestTubeDiagonal",
   "py": "LiComputer",
   "obsidian": "LiAlignJustify",
-  "临时笔记": "LiNotebook"
+  "临时笔记": "LiNotebook",
+  "追剧": "LiFootprints"
 }
