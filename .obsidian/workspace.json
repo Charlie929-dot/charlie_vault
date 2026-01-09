@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-01-09"
             }
+          },
+          {
+            "id": "9a070f0523c6c07e",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +250,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f19eabe2be23e5da",
+  "active": "9a070f0523c6c07e",
   "lastOpenFiles": [
-    "daily/2026-01-08.md",
     "daily/2026-01-09.md",
+    "daily/2026-01-08.md",
     "追剧/想看.md",
     "听力技巧.md",
     "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
