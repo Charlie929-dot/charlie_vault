@@ -32,6 +32,40 @@
             }
           },
           {
+            "id": "61037dea8244c516",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "39529a2ffeba2e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文摘/文摘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "文摘"
+            }
+          },
+          {
             "id": "43e6a137f2faddce",
             "type": "leaf",
             "state": {
@@ -264,12 +298,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "43e6a137f2faddce",
+  "active": "61037dea8244c516",
   "lastOpenFiles": [
+    "文摘/文摘.md",
+    "未命名 4.md",
+    "daily/2026-01-09.md",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
-    "daily/2026-01-09.md",
-    "未命名 4.md",
     "听力技巧.md",
     "大一上期末复习计划.md",
     "大一上期末考试时间安排.md",
@@ -284,12 +319,10 @@
     "Pasted image 20260108235022.png",
     "e86984adcf03a0f552df713a0de4b426_MD5.jpg",
     "Pasted image 20260108235009.png",
-    "cbd4e0115b49a112d931fe7774b9c141_MD5.jpg",
     "daily/2026-01-07.md",
     "追剧/在追.md",
     "追剧/寻深足迹.md",
     "大一《思想道德与法治》材料分析题背诵提纲.md",
-    "文摘/文摘.md",
     "高数/Kira小练习/微分中值定理.md",
     "大一《思想道德与法治》核心简答题（精准对标对应页码）.md",
     "军事理论复习资料.md",
