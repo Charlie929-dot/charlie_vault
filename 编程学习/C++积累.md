@@ -394,4 +394,8 @@ if(is_huiwen) cout<<"yes";
 else cout<<"no";
 ```
 
+# 25 长度
+- 整型 `l = log10(a)`
+- 字符串 `str.length()`
+
 
