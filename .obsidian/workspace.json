@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "编程学习/头文件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "头文件"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vector",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,6 +242,8 @@
   },
   "active": "f19eabe2be23e5da",
   "lastOpenFiles": [
+    "编程学习/C++积累.md",
+    "编程学习/头文件.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "daily/2026-01-10.md",
@@ -262,7 +265,6 @@
     "daily/2026-01-08.md",
     "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
     "Pasted image 20260108235022.png",
-    "e86984adcf03a0f552df713a0de4b426_MD5.jpg",
     "daily/2026-01-07.md",
     "追剧/在追.md",
     "追剧/寻深足迹.md",
@@ -281,7 +283,6 @@
     "大一上英语翻译答案.md",
     "（Template）/日记模板.md",
     "~syncthing~31bbad04c6bc89f1dc67a28436156c03_MD5.jpg.tmp",
-    "人工智能开卷考试目录.md",
     "文摘/~syncthing~文摘.md.tmp",
     "~syncthing~德法背诵梳理.md.tmp",
     "2025军事理论知识要点~16C96.tmp",
