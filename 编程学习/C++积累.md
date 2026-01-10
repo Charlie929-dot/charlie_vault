@@ -378,8 +378,20 @@ int **p2 = a;   // 错误：int**是“指向int指针的指针”，和int(*)[2
 int p3[2][2];p3=a; // 仅初始化合法，赋值时非法
 ```
 # 23 指针数组的意义
-> 1. 储存字符串首地址，不需要把字符串都复制一次
-> 2. 方便修改
-> 3. 不需要声明大小
+> 1. 储存字符串首地址，不需用二维数组
+> 2. 方便修改 `p[1]=str`
+
+# 24 回文字符串判断
+```c++
+string str="abccba";
+int is_huiwen=1;
+for(int i=0,j=str.length()-1;i<j;i++,j++){
+	if(str[i]!=str[j])
+		is_huiwen=0;
+		break;
+}
+if(is_huiwen) cout<<"yes";
+else cout<<"no";
+```
 
 
