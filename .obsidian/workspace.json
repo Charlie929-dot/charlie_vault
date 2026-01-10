@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-10.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,89 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-10"
-            }
-          },
-          {
-            "id": "61037dea8244c516",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "39529a2ffeba2e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文摘/文摘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "文摘"
-            }
-          },
-          {
-            "id": "43e6a137f2faddce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名 4"
-            }
-          },
-          {
-            "id": "ef162017ceed8936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "追剧/想看.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "想看"
+              "title": "C++积累"
             }
           }
         ]
@@ -145,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "安排",
+                "query": "vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -323,11 +241,15 @@
   },
   "active": "f19eabe2be23e5da",
   "lastOpenFiles": [
-    "文摘/文摘.md",
-    "未命名 4.md",
+    "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
+    "Pasted image 20260110174417.png",
     "daily/2026-01-10.md",
-    "daily/2026-01-09.md",
+    "编程学习/vector用法.md",
+    "（Template）/音乐模板.md",
     "追剧/想看.md",
+    "未命名 4.md",
+    "文摘/文摘.md",
+    "daily/2026-01-09.md",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
     "听力技巧.md",
@@ -337,12 +259,10 @@
     "476a74c2f521894a077c3808663930c3_MD5.jpg",
     "Pasted image 20260109103916.png",
     "Pasted image 20260109103907.png",
-    "（Template）/音乐模板.md",
     "daily/2026-01-08.md",
     "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
     "Pasted image 20260108235022.png",
     "e86984adcf03a0f552df713a0de4b426_MD5.jpg",
-    "Pasted image 20260108235009.png",
     "daily/2026-01-07.md",
     "追剧/在追.md",
     "追剧/寻深足迹.md",
@@ -362,8 +282,6 @@
     "（Template）/日记模板.md",
     "~syncthing~31bbad04c6bc89f1dc67a28436156c03_MD5.jpg.tmp",
     "人工智能开卷考试目录.md",
-    "daily/2025-12-27.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "文摘/~syncthing~文摘.md.tmp",
     "~syncthing~德法背诵梳理.md.tmp",
     "2025军事理论知识要点~16C96.tmp",
