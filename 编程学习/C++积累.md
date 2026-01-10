@@ -395,7 +395,11 @@ else cout<<"no";
 ```
 
 # 25 长度
-- 整型 `l = log10(a)`
+- 整型 `l = log10(a)+1`
 - 字符串 `str.length()`
-
+# 26 整数转字符串
+```c++
+char str;int a;
+sprintf(str,"%d",a);//或 snprintf(str,sizeof(str),"%d",a) 更安全
+```
 
