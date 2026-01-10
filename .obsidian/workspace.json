@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-01-11"
             }
+          },
+          {
+            "id": "9e5340a7054f7b65",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +250,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "f19eabe2be23e5da",
+  "active": "9e5340a7054f7b65",
   "lastOpenFiles": [
-    "编程学习/头文件.md",
     "daily/2026-01-11.md",
+    "编程学习/头文件.md",
     "编程学习/学习工具.md",
     "编程学习/C++积累.md",
     "编程学习/C++ FilesC++文件.md",
