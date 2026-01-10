@@ -362,6 +362,11 @@ int getDigit(int n, int k) {
     x1=(int)floor(x);
     x2=(int)ceil(x);
 ```
-# 22 
+# 22 字符串/字符数组拷贝
+> 只需把地址赋值给一个新的变量
+```c++
+int a[10];
+int p=a;
+```
 
 
