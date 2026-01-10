@@ -365,8 +365,9 @@ int getDigit(int n, int k) {
 # 22 字符串/字符数组拷贝
 > 只需把地址赋值给一个新的变量
 ```c++
-int a[10];
-int p=a;
+int a[10],b[2][2];
+int *p=a;
+int (*p)[2]=b;
 ```
 
 
