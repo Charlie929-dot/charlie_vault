@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/C++积累.md",
+                "file": "编程学习/头文件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++积累"
+              "title": "头文件"
             }
           }
         ]
@@ -241,13 +241,13 @@
   },
   "active": "f19eabe2be23e5da",
   "lastOpenFiles": [
+    "编程学习/学习工具.md",
+    "编程学习/C++积累.md",
     "编程学习/C++ FilesC++文件.md",
     "编程学习/C、C++版本介绍.md",
     "编程学习/头文件.md",
     "daily/2026-01-10.md",
     "编程学习/错误集锦.md",
-    "编程学习/学习工具.md",
-    "编程学习/C++积累.md",
     "编程学习/OJ刷题.md",
     "编程学习/C++类.md",
     "大一《思想道德与法治》材料分析题背诵提纲.md",
