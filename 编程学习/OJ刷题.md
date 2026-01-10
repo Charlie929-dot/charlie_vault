@@ -792,3 +792,24 @@ int main(){
 
 }
 ```
+## 汉诺塔
+```c++
+void hanoi (int n,char from,char to, char by) {
+	if (n==1){
+		printf ("%c->%c\n", from, to);
+		return;
+	}
+	hanoi (n - 1, from,by,to);
+	printf ("%c->%c\n", from, to);
+	hanoi (n - 1,by,to,from);
+}
+
+int main (){
+	int n;
+	scanf ("%d", &n);
+	hanoi (n, 'a', 'b', 'c');
+	return 0;
+}
+```
+[[bbecba06502736f025c7ce436229ac8c_MD5.jpg|Open: Pasted image 20260110174417.png]]
+![[bbecba06502736f025c7ce436229ac8c_MD5.jpg]]

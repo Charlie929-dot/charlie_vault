@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-10.md",
+                "file": "编程学习/C++积累.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-10"
+              "title": "C++积累"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,10 +241,14 @@
   },
   "active": "f19eabe2be23e5da",
   "lastOpenFiles": [
-    "大一《思想道德与法治》材料分析题背诵提纲.md",
-    "daily/2026-01-10.md",
-    "编程学习/头文件.md",
+    "编程学习/OJ刷题.md",
     "编程学习/C++积累.md",
+    "编程学习/C++类.md",
+    "编程学习/C、C++版本介绍.md",
+    "编程学习/错误集锦.md",
+    "daily/2026-01-10.md",
+    "大一《思想道德与法治》材料分析题背诵提纲.md",
+    "编程学习/头文件.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "编程学习/vector用法.md",
@@ -277,11 +280,7 @@
     "daily/2026-01-06.sync-conflict-20260106-165248-7KGOG42.md",
     "daily/~syncthing~2026-01-06.sync-conflict-20260106-165248-7KGOG42.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
-    "daily/2026-01-05.md",
     "~syncthing~image_1766968517325.jpg.tmp",
-    "88.md",
-    "大一上英语翻译答案.md",
-    "（Template）/日记模板.md",
     "~syncthing~31bbad04c6bc89f1dc67a28436156c03_MD5.jpg.tmp",
     "文摘/~syncthing~文摘.md.tmp",
     "~syncthing~德法背诵梳理.md.tmp",
