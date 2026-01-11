@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "2026-01-11"
             }
+          },
+          {
+            "id": "c233129505bf6067",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
+            "id": "40d5dcdec827217b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-11"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,12 +275,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "73535726dfec6c39",
+  "active": "40d5dcdec827217b",
   "lastOpenFiles": [
-    "daily/2026-01-10.md",
-    "daily/2026-01-11.md",
-    "大一上期末考试时间安排.md",
     "（Template）/音乐模板.md",
+    "daily/2026-01-11.md",
+    "daily/2026-01-10.md",
+    "大一上期末考试时间安排.md",
     "职业发展规划-学长分享.md",
     "编程学习/头文件.md",
     "编程学习/学习工具.md",
