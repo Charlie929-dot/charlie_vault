@@ -1,6 +1,6 @@
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+(?d).obsidian/workspace.json
+(?d).obsidian/workspace-mobile.json
 .trash
-.obsidian/community-plugins.json
-.obsidian/app.json
+(?d).obsidian/community-plugins.json
+(?d).obsidian/app.json
 .git
