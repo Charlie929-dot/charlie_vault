@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-12.md",
+                "file": "obsidian/tool/疑难解答.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-12"
+              "title": "疑难解答"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,9 +241,9 @@
   },
   "active": "73535726dfec6c39",
   "lastOpenFiles": [
+    "daily/2026-01-12.md",
     "vyzcba3d.4ft~",
     "daily/2026-01-11.md",
-    "daily/2026-01-12.md",
     "daily/~syncthing~2026-01-12.md.tmp",
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
@@ -287,7 +286,6 @@
     "Pasted image 20260108235022.png",
     "~$25军事理论知识要点.docx",
     "daily/~syncthing~2026-01-06.sync-conflict-20260106-165248-7KGOG42.md.tmp",
-    "~syncthing~image_1766968517325.jpg.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
