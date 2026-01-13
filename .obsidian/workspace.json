@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "疑难解答"
             }
+          },
+          {
+            "id": "50ba1e5d157a3037",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,6 +235,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "pkmer:Open Pkmer Market": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-memos:Thino": false,
@@ -233,13 +247,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-git:Open Git source control": false,
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "73535726dfec6c39",
+  "active": "50ba1e5d157a3037",
   "lastOpenFiles": [
     "y0lpmsrk.rnr~",
     "daily/2026-01-12.md",
