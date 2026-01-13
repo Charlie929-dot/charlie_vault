@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-13.md",
+                "file": "文摘/文摘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "文摘"
             }
           }
         ]
@@ -242,10 +242,10 @@
   },
   "active": "73535726dfec6c39",
   "lastOpenFiles": [
+    "daily/2026-01-13.md",
     "daily/2026-01-11.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-12.md",
-    "daily/2026-01-13.md",
     "线性代数测试.md",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
