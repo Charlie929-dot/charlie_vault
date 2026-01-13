@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/疑难解答.md",
+                "file": "daily/2026-01-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
-            }
-          },
-          {
-            "id": "50ba1e5d157a3037",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
+              "title": "2026-01-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,8 +239,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "50ba1e5d157a3037",
+  "active": "73535726dfec6c39",
   "lastOpenFiles": [
+    "obsidian/tool/疑难解答.md",
+    "daily/2026-01-13.md",
     "y0lpmsrk.rnr~",
     "daily/2026-01-12.md",
     "vyzcba3d.4ft~",
@@ -289,7 +278,6 @@
     "追剧/想看.md",
     "未命名 4.md",
     "文摘/文摘.md",
-    "daily/2026-01-09.md",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
     "64bce4f6c388131849f3bef7ef552d7e_MD5.jpg",
@@ -299,7 +287,6 @@
     "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
     "Pasted image 20260108235022.png",
     "~$25军事理论知识要点.docx",
-    "daily/~syncthing~2026-01-06.sync-conflict-20260106-165248-7KGOG42.md.tmp",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
