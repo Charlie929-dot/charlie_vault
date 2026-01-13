@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "文摘"
             }
+          },
+          {
+            "id": "7e3a16a3f8506e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "周深收入教材歌曲.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "周深收入教材歌曲"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +109,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,8 +264,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "73535726dfec6c39",
+  "active": "7e3a16a3f8506e97",
   "lastOpenFiles": [
+    "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
+    "文摘/文摘.md",
+    "周深收入教材歌曲.md",
     "daily/2026-01-13.md",
     "daily/2026-01-11.md",
     "（Template）/音乐模板.md",
@@ -278,9 +305,6 @@
     "大一《思想道德与法治》材料分析题背诵提纲.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
-    "编程学习/vector用法.md",
-    "追剧/想看.md",
-    "未命名 4.md",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
     "64bce4f6c388131849f3bef7ef552d7e_MD5.jpg",
