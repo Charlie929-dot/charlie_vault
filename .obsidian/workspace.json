@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-11.md",
+                "file": "daily/2026-01-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-11"
-            }
-          },
-          {
-            "id": "41323dd05a992665",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "title": "2026-01-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,9 +240,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "41323dd05a992665",
+  "active": "73535726dfec6c39",
   "lastOpenFiles": [
     "daily/2026-01-11.md",
+    "（Template）/音乐模板.md",
     "daily/2026-01-12.md",
     "daily/2026-01-13.md",
     "线性代数测试.md",
@@ -273,7 +263,6 @@
     "daily/~syncthing~2026-01-11.sync-conflict-20260112-075311-7KGOG42.md.tmp",
     "daily/2026-01-07.sync-conflict-20260112-075259-7KGOG42.md",
     "daily/~syncthing~2026-01-07.sync-conflict-20260112-075259-7KGOG42.md.tmp",
-    "（Template）/音乐模板.md",
     "大一上期末复习计划.md",
     "daily/2026-01-10.md",
     "大一上期末考试时间安排.md",
