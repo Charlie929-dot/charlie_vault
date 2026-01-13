@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-13.md",
+                "file": "daily/2026-01-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "2026-01-11"
+            }
+          },
+          {
+            "id": "41323dd05a992665",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "线性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +95,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,14 +251,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "73535726dfec6c39",
+  "active": "41323dd05a992665",
   "lastOpenFiles": [
-    "obsidian/tool/疑难解答.md",
-    "daily/2026-01-13.md",
-    "y0lpmsrk.rnr~",
-    "daily/2026-01-12.md",
-    "vyzcba3d.4ft~",
     "daily/2026-01-11.md",
+    "daily/2026-01-12.md",
+    "daily/2026-01-13.md",
+    "线性代数测试.md",
+    "475008fb4982aa89708e695db0db3184_MD5.jpg",
+    "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
+    "obsidian/tool/疑难解答.md",
+    "y0lpmsrk.rnr~",
+    "vyzcba3d.4ft~",
     "daily/~syncthing~2026-01-12.md.tmp",
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
@@ -277,15 +292,12 @@
     "编程学习/vector用法.md",
     "追剧/想看.md",
     "未命名 4.md",
-    "文摘/文摘.md",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
     "64bce4f6c388131849f3bef7ef552d7e_MD5.jpg",
     "476a74c2f521894a077c3808663930c3_MD5.jpg",
     "Pasted image 20260109103916.png",
     "Pasted image 20260109103907.png",
-    "bf7bb5b6f86d77c5122c80ba13b7f124_MD5.jpg",
-    "Pasted image 20260108235022.png",
     "~$25军事理论知识要点.docx",
     "未命名 1.canvas",
     "未命名.canvas",
