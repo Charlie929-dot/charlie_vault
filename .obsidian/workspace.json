@@ -54,6 +54,16 @@
               "icon": "lucide-file",
               "title": "2026-01-15"
             }
+          },
+          {
+            "id": "21fdb6d3f9233a12",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
         ],
         "currentTab": 1
@@ -266,14 +276,14 @@
   },
   "active": "7e3a16a3f8506e97",
   "lastOpenFiles": [
-    "daily/2026-01-14.md",
+    "（Template）/音乐模板.md",
     "daily/2026-01-15.md",
+    "daily/2026-01-14.md",
     "daily/2026-01-13.md",
     "周深收入教材歌曲.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "文摘/文摘.md",
     "daily/2026-01-11.md",
-    "（Template）/音乐模板.md",
     "daily/2026-01-12.md",
     "线性代数测试.md",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
