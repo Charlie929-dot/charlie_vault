@@ -54,16 +54,6 @@
               "icon": "lucide-file",
               "title": "2026-01-16"
             }
-          },
-          {
-            "id": "21fdb6d3f9233a12",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
           }
         ]
       }
@@ -276,13 +266,14 @@
   "active": "73535726dfec6c39",
   "lastOpenFiles": [
     "daily/2026-01-16.md",
+    "（Template）/番剧模板.md",
+    "文摘/文摘.md",
     "daily/2026-01-15.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-14.md",
     "daily/2026-01-13.md",
     "周深收入教材歌曲.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
-    "文摘/文摘.md",
     "daily/2026-01-11.md",
     "daily/2026-01-12.md",
     "线性代数测试.md",
@@ -312,7 +303,6 @@
     "编程学习/C++ FilesC++文件.md",
     "编程学习/C、C++版本介绍.md",
     "编程学习/错误集锦.md",
-    "编程学习/OJ刷题.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
