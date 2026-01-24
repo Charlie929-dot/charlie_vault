@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文摘/文摘.md",
+                "file": "daily/2026-01-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "文摘"
+              "title": "2026-01-24"
+            }
+          },
+          {
+            "id": "cfcb1e3e480c2385",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
             }
           },
           {
@@ -55,7 +67,8 @@
               "title": "2026-01-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +260,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:新建数据库": false,
-      "pkmer:Open Pkmer Market": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-memos:Thino": false,
       "switcher:打开快速切换": false,
@@ -263,11 +275,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "73535726dfec6c39",
+  "active": "cfcb1e3e480c2385",
   "lastOpenFiles": [
+    "文摘/文摘.md",
+    "daily/2026-01-24.md",
     "daily/2026-01-16.md",
     "（Template）/番剧模板.md",
-    "文摘/文摘.md",
     "daily/2026-01-15.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-14.md",
@@ -302,7 +315,6 @@
     "编程学习/C++积累.md",
     "编程学习/C++ FilesC++文件.md",
     "编程学习/C、C++版本介绍.md",
-    "编程学习/错误集锦.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
