@@ -32,37 +32,13 @@
             }
           },
           {
-            "id": "319b213feda9ea3e",
+            "id": "891de185f77db885",
             "type": "leaf",
             "state": {
               "type": "thino_view",
               "state": {},
               "icon": "Memos",
               "title": "Thino"
-            }
-          },
-          {
-            "id": "64dac2cc921e948c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "追剧/想看.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "想看"
             }
           }
         ],
@@ -273,10 +249,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "319b213feda9ea3e",
+  "active": "891de185f77db885",
   "lastOpenFiles": [
-    "追剧/想看.md",
     "daily/2026-01-24.md",
+    "追剧/想看.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-16.md",
     "文摘/文摘.md",
