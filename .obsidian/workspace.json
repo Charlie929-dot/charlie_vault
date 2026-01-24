@@ -40,9 +40,32 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "302a2e6d59f8414f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-16"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线性",
+                "query": "tag:#schedule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +118,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,12 +273,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "891de185f77db885",
+  "active": "73535726dfec6c39",
   "lastOpenFiles": [
-    "daily/2026-01-24.md",
-    "追剧/想看.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-16.md",
+    "daily/2026-01-24.md",
+    "追剧/想看.md",
     "文摘/文摘.md",
     "（Template）/番剧模板.md",
     "daily/2026-01-15.md",
