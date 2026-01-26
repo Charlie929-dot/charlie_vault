@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-24.md",
+                "file": "daily/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-24"
+              "title": "2026-01-26"
             }
           },
           {
@@ -275,9 +275,10 @@
   },
   "active": "73535726dfec6c39",
   "lastOpenFiles": [
+    "daily/2026-01-24.md",
+    "daily/2026-01-26.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-16.md",
-    "daily/2026-01-24.md",
     "追剧/想看.md",
     "文摘/文摘.md",
     "（Template）/番剧模板.md",
@@ -312,7 +313,6 @@
     "编程学习/头文件.md",
     "编程学习/学习工具.md",
     "编程学习/C++积累.md",
-    "编程学习/C++ FilesC++文件.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
