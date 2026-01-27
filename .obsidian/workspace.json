@@ -40,9 +40,47 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "e97d2616456df90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "寒假计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "寒假计划"
+            }
+          },
+          {
+            "id": "44eff8bf98957e2b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.qianwen.com/quarkchat/download",
+                "title": "千问",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "千问"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#schedule",
+                "query": "寒假",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +133,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,17 +288,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "6673b583930ed409",
+  "active": "e97d2616456df90d",
   "lastOpenFiles": [
-    "daily/2026-01-27.md",
     "寒假计划.md",
+    "daily/2026-01-27.md",
+    "（Template）/番剧模板.md",
     "daily/2026-01-24.md",
     "daily/2026-01-26.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-16.md",
     "追剧/想看.md",
     "文摘/文摘.md",
-    "（Template）/番剧模板.md",
     "daily/2026-01-15.md",
     "daily/2026-01-14.md",
     "daily/2026-01-13.md",
