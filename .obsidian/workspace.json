@@ -65,7 +65,8 @@
               "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,10 +274,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e4628898ef441eca",
+  "active": "f60479062c22858f",
   "lastOpenFiles": [
-    "daily/2026-01-29.md",
     "编程爬虫计划.md",
+    "daily/2026-01-29.md",
     "daily/2026-01-28.md",
     "寒假计划.md",
     "计划.md",
