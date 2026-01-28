@@ -42,7 +42,21 @@
             }
           },
           {
-            "id": "e97d2616456df90d",
+            "id": "44eff8bf98957e2b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.qianwen.com/quarkchat/download",
+                "title": "千问",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "千问"
+            }
+          },
+          {
+            "id": "f60479062c22858f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,23 +78,9 @@
               "icon": "lucide-file",
               "title": "2026-01-28"
             }
-          },
-          {
-            "id": "44eff8bf98957e2b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.qianwen.com/quarkchat/download",
-                "title": "千问",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "千问"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,10 +288,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e97d2616456df90d",
+  "active": "f60479062c22858f",
   "lastOpenFiles": [
-    "寒假计划.md",
     "daily/2026-01-28.md",
+    "寒假计划.md",
     "daily/2026-01-27.md",
     "（Template）/番剧模板.md",
     "daily/2026-01-24.md",
