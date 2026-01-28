@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-27.md",
+                "file": "编程爬虫计划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
-            }
-          },
-          {
-            "id": "6673b583930ed409",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "44eff8bf98957e2b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.qianwen.com/quarkchat/download",
-                "title": "千问",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "千问"
+              "title": "编程爬虫计划"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-28.md",
+                "file": "daily/2026-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "2026-01-29"
+            }
+          },
+          {
+            "id": "76f17edda8ed3816",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,12 +276,16 @@
   },
   "active": "f60479062c22858f",
   "lastOpenFiles": [
+    "编程爬虫计划.md",
+    "daily/2026-01-29.md",
     "daily/2026-01-28.md",
     "寒假计划.md",
+    "计划.md",
+    "daily/2026-01-11.md",
+    "daily/2026-01-26.md",
     "daily/2026-01-27.md",
     "（Template）/番剧模板.md",
     "daily/2026-01-24.md",
-    "daily/2026-01-26.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-16.md",
     "追剧/想看.md",
@@ -305,7 +295,6 @@
     "daily/2026-01-13.md",
     "周深收入教材歌曲.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
-    "daily/2026-01-11.md",
     "daily/2026-01-12.md",
     "线性代数测试.md",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
@@ -325,9 +314,6 @@
     "daily/2026-01-07.sync-conflict-20260112-075259-7KGOG42.md",
     "daily/~syncthing~2026-01-07.sync-conflict-20260112-075259-7KGOG42.md.tmp",
     "大一上期末复习计划.md",
-    "daily/2026-01-10.md",
-    "大一上期末考试时间安排.md",
-    "职业发展规划-学长分享.md",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
