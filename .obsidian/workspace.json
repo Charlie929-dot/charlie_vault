@@ -114,15 +114,27 @@
             }
           },
           {
-            "id": "df042e625828dfbb",
+            "id": "977b3d5ffd8fd8ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "部署ollama.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "部署ollama"
             }
           }
         ],
@@ -179,8 +191,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,9 +345,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "df042e625828dfbb",
+  "active": "977b3d5ffd8fd8ad",
   "lastOpenFiles": [
     "daily/2026-02-12.md",
+    "部署ollama.md",
     "计划.md",
     "daily/2026-02-10.md",
     "daily/2026-02-03.md",
@@ -369,7 +381,6 @@
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
     "daily/2026-01-11.sync-conflict-20260112-075311-7KGOG42.md",
-    "daily/2026-01-09.sync-conflict-20260112-075321-7KGOG42.md",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.sync-conflict-20260112-075322-7KGOG42.md.tmp",
     "daily/~syncthing~2026-01-09.sync-conflict-20260112-075321-7KGOG42.md.tmp",
     "daily/~syncthing~2026-01-11.sync-conflict-20260112-075311-7KGOG42.md.tmp",
