@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 5.md",
+                "file": "python环境创建.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 5"
+              "title": "python环境创建"
             }
           }
         ],
@@ -372,7 +372,7 @@
   "active": "6d000201e4cc741a",
   "lastOpenFiles": [
     "daily/2026-02-18.md",
-    "未命名 5.md",
+    "python环境创建.md",
     "未命名",
     "部署ollama.md",
     "daily/2026-02-12.md",
