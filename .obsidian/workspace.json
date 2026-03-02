@@ -8,88 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4628898ef441eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程爬虫计划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "编程爬虫计划"
-            }
-          },
-          {
-            "id": "f60479062c22858f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-29"
-            }
-          },
-          {
-            "id": "76f17edda8ed3816",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "ece21eb559c9e5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-02-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-10"
-            }
-          },
-          {
             "id": "af9315c49d7919ba",
             "type": "leaf",
             "state": {
@@ -167,6 +85,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "未命名 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 5"
+            }
+          },
+          {
+            "id": "a518fc6b7ebd7516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
@@ -184,9 +126,37 @@
               "icon": "lucide-file",
               "title": "Markdown+语法手册"
             }
+          },
+          {
+            "id": "212e51b38924169a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mermaid.js.org/syntax/mindmap.html",
+                "title": "Mindmap | Mermaid",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Mindmap | Mermaid"
+            }
+          },
+          {
+            "id": "c906bd3969c01ccd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mermaid.live/edit#pako:eNpVkT1vgzAQhv-KdVMrkQiM84GHSg1ps6Rqh0yBDFa4YJRgI2OUpsB_ryGq2nry6Xne94Zr4agzBA6ni74epTCW7NapIu49J7E0RW1LUR_IZPLUbdCSUiu8dWT1sNGklrqqCpU_3v3VIJG43Q4aEisLde7vKB7z7wo7sk62orK6Ovwlu6vuyEtSfEhX_59Igy71mpwEP4nJURgSCzMq4EFuigy4NQ16UKIpxTBCO9AUrMQSU-DumwlzTiFVvctUQu21Ln9iRje5BNd9qd3UVJmwuC5EbsSvgipDE-tGWeDh2AC8hU_gMzaly2g2p1G0DAM_ijy4AQ-oPw19P6CMzRb-gtLeg69xpT9dMMYonQeOMBZS5gFmhdXm7X6F8Rj9Nxz2e74",
+                "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -393,22 +363,23 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "dfaac6b47072ba71",
+  "active": "212e51b38924169a",
   "lastOpenFiles": [
-    "obsidian/tool/疑难解答.md",
-    "obsidian/tool/笔记工具库.md",
-    "obsidian/tool/翻译工具.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "未命名 5.md",
+    "obsidian/tool/翻译工具.md",
+    "obsidian/tool/笔记工具库.md",
+    "obsidian/tool/疑难解答.md",
     "daily/2026-03-02.md",
     "网络安全/学习资料.md",
+    "daily/2026-02-12.md",
+    "daily/2026-02-10.md",
     "daily/2026-02-21.md",
     "网络安全",
     "python环境创建.md",
     "daily/2026-02-18.md",
     "部署ollama.md",
-    "daily/2026-02-12.md",
     "计划.md",
-    "daily/2026-02-10.md",
     "daily/2026-02-03.md",
     "（Template）/音乐模板.md",
     "daily/2026-01-29.md",
@@ -421,7 +392,6 @@
     "（Template）/番剧模板.md",
     "daily/2026-01-24.md",
     "daily/2026-01-16.md",
-    "追剧/想看.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
