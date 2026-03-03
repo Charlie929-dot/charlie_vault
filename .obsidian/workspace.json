@@ -128,35 +128,81 @@
             }
           },
           {
+            "id": "91efb79c8da6d7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-03-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-03"
+            }
+          },
+          {
+            "id": "d5f0af05bdd940c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
+          },
+          {
+            "id": "69663c9fb9222b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思维导图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "思维导图"
+            }
+          },
+          {
             "id": "212e51b38924169a",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://mermaid.js.org/syntax/mindmap.html",
-                "title": "Mindmap | Mermaid",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Mindmap | Mermaid"
-            }
-          },
-          {
-            "id": "c906bd3969c01ccd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mermaid.live/edit#pako:eNpVkc1OwzAQhF_F2hNIaZW47k98QKIp9FIEB04kPVjNNrba2JHjqJQk746TCgF72tE3M3vYFg4mR-BwPJvLQQrryPsm08TPY5pIq2pXinpPJpOHbouOlEbjtSPru60htTRVpXRxf_OvBxNJ2t1gQ-Kk0qf-hpIx_6qxI5t0Jypnqv1f8n4xHXlK1Zv09f-JtOhTz-lR8KOYHIQlibCjBQIorMqBO9tgACXaUgwS2oFm4CSWmAH3ay7sKYNM9z5TCf1hTPkTs6YpJPjuc-1VU-XC4UaJwopfC-ocbWIa7YDPxwbgLXx6waZ0Fc8XNI5XsyiM4wCuwCMaTmdhGFHG5stwSWkfwNd4MpwuGWOULiJPGJtRFgDmyhn7cvvC-Iz-Gx2-e8A",
-                "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor",
+                "url": "https://mermaid.js.org/",
+                "title": "Mermaid | Diagramming and charting tool",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Online FlowChart & Diagrams Editor - Mermaid Live Editor"
+              "title": "Mermaid | Diagramming and charting tool"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "寒假",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,11 +409,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "212e51b38924169a",
+  "active": "d5f0af05bdd940c2",
   "lastOpenFiles": [
-    "英语第一次作业.md",
-    "daily/2026-03-02.md",
+    "daily/2026-03-03.md",
     "obsidian/tool/Markdown+语法手册.md",
+    "思维导图.md",
+    "英语第一次作业.md",
+    "daily/2025-12-14.md",
+    "daily/2026-03-02.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
     "obsidian/tool/疑难解答.md",
@@ -389,9 +438,6 @@
     "daily/2026-01-11.md",
     "daily/2026-01-26.md",
     "daily/2026-01-27.md",
-    "（Template）/番剧模板.md",
-    "daily/2026-01-24.md",
-    "daily/2026-01-16.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
