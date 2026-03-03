@@ -246,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "英语",
+                "query": "tag:#大一下",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -422,7 +422,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d5f0af05bdd940c2",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
     "英语第一次作业.md",
     "思维导图.md",
