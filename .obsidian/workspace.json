@@ -155,12 +155,24 @@
             "id": "d5f0af05bdd940c2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "英语第一次作业.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "英语第一次作业"
             }
           },
           {
@@ -202,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "英语",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +267,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -409,12 +422,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d5f0af05bdd940c2",
+  "active": "69663c9fb9222b29",
   "lastOpenFiles": [
+    "英语第一次作业.md",
     "daily/2026-03-03.md",
     "obsidian/tool/Markdown+语法手册.md",
     "思维导图.md",
-    "英语第一次作业.md",
     "daily/2025-12-14.md",
     "daily/2026-03-02.md",
     "obsidian/tool/翻译工具.md",
