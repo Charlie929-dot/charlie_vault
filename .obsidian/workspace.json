@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -422,11 +422,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d5f0af05bdd940c2",
+  "active": "dfaac6b47072ba71",
   "lastOpenFiles": [
-    "英语第一次作业.md",
     "思维导图.md",
     "daily/2026-03-03.md",
+    "英语第一次作业.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2025-12-14.md",
     "daily/2026-03-02.md",
