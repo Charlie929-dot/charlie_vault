@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-03-10"
             }
+          },
+          {
+            "id": "e80a2c5bc4e2ff6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "团员教育评议.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "团员教育评议"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +109,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,13 +263,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "19c0cca397d785cd",
+  "active": "e80a2c5bc4e2ff6c",
   "lastOpenFiles": [
+    "daily/2026-03-10.md",
+    "团员教育评议.md",
     "思维导图.md",
     "daily/2026-03-03.md",
     "obsidian/tool/Markdown+语法手册.md",
     "高数/Kira小练习/微分中值定理.md",
-    "daily/2026-03-10.md",
     "daily/2026-03-02.md",
     "daily/2026-02-18.md",
     "英语第一次作业.md",
@@ -267,7 +292,6 @@
     "daily/2026-01-29.md",
     "编程爬虫计划.md",
     "daily/2026-01-28.md",
-    "寒假计划.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
