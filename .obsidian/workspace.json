@@ -8,223 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af9315c49d7919ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-02-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-12"
-            }
-          },
-          {
-            "id": "977b3d5ffd8fd8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-02-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-18"
-            }
-          },
-          {
-            "id": "6d000201e4cc741a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-02"
-            }
-          },
-          {
-            "id": "dfaac6b47072ba71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-10"
-            }
-          },
-          {
-            "id": "b5e53ac43739568d",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "a518fc6b7ebd7516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/tool/Markdown+语法手册.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markdown+语法手册"
-            }
-          },
-          {
-            "id": "91efb79c8da6d7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-03"
-            }
-          },
-          {
-            "id": "d5f0af05bdd940c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-03"
-            }
-          },
-          {
-            "id": "69663c9fb9222b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思维导图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "思维导图"
-            }
-          },
-          {
-            "id": "212e51b38924169a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://mermaid.js.org/",
-                "title": "Mermaid | Diagramming and charting tool",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mermaid | Diagramming and charting tool"
-            }
-          },
-          {
-            "id": "e7e81ef26e3d8532",
+            "id": "19c0cca397d785cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,8 +31,7 @@
               "title": "2026-03-10"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -456,16 +239,18 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e7e81ef26e3d8532",
+  "active": "19c0cca397d785cd",
   "lastOpenFiles": [
-    "daily/2026-03-10.md",
-    "英语第一次作业.md",
-    "daily/2026-03-05.md",
     "思维导图.md",
     "daily/2026-03-03.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "daily/2025-12-14.md",
+    "高数/Kira小练习/微分中值定理.md",
+    "daily/2026-03-10.md",
     "daily/2026-03-02.md",
+    "daily/2026-02-18.md",
+    "英语第一次作业.md",
+    "daily/2026-03-05.md",
+    "daily/2025-12-14.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
     "obsidian/tool/疑难解答.md",
@@ -475,7 +260,6 @@
     "daily/2026-02-21.md",
     "网络安全",
     "python环境创建.md",
-    "daily/2026-02-18.md",
     "部署ollama.md",
     "计划.md",
     "daily/2026-02-03.md",
@@ -484,7 +268,6 @@
     "编程爬虫计划.md",
     "daily/2026-01-28.md",
     "寒假计划.md",
-    "daily/2026-01-11.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
