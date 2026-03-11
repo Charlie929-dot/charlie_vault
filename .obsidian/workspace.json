@@ -65,8 +65,7 @@
               "title": "团员教育专题组织生活会个人发言提纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,10 +272,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "cbaaa0f047b95cf8",
+  "active": "19c0cca397d785cd",
   "lastOpenFiles": [
-    "daily/2026-03-11.md",
     "daily/2026-03-12.md",
+    "daily/2026-03-11.md",
+    "（Template）/音乐模板.md",
     "daily/2026-03-10.md",
     "团员教育专题组织生活会个人发言提纲.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
@@ -302,7 +302,6 @@
     "部署ollama.md",
     "计划.md",
     "daily/2026-02-03.md",
-    "（Template）/音乐模板.md",
     "daily/2026-01-29.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
