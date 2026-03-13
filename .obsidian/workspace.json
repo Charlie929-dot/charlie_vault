@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-11.md",
+                "file": "daily/2026-03-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "2026-03-13"
+            }
+          },
+          {
+            "id": "a6da5f4465d58aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 5"
             }
           },
           {
@@ -65,7 +89,8 @@
               "title": "团员教育专题组织生活会个人发言提纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,10 +297,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "19c0cca397d785cd",
+  "active": "a6da5f4465d58aaf",
   "lastOpenFiles": [
-    "daily/2026-03-12.md",
+    "daily/2026-03-13.md",
+    "未命名 5.md",
     "daily/2026-03-11.md",
+    "daily/2026-03-12.md",
     "（Template）/音乐模板.md",
     "daily/2026-03-10.md",
     "团员教育专题组织生活会个人发言提纲.md",
@@ -301,8 +328,6 @@
     "python环境创建.md",
     "部署ollama.md",
     "计划.md",
-    "daily/2026-02-03.md",
-    "daily/2026-01-29.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
