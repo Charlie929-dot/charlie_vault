@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GITHUB项目使用.md",
+                "file": "daily/2026-03-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GITHUB项目使用"
+              "title": "2026-03-15"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,10 +297,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a6da5f4465d58aaf",
+  "active": "cbaaa0f047b95cf8",
   "lastOpenFiles": [
-    "daily/2026-03-13.md",
+    "daily/2026-03-15.md",
     "GITHUB项目使用.md",
+    "daily/2026-03-13.md",
     "daily/2026-03-11.md",
     "daily/2026-03-12.md",
     "（Template）/音乐模板.md",
@@ -327,7 +328,6 @@
     "网络安全",
     "python环境创建.md",
     "部署ollama.md",
-    "计划.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",

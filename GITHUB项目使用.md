@@ -4,3 +4,8 @@
 `cd ketcher`
 `npm install`
 `npm run build`
+
+
+
+
+> 直接摘取里面的函数定义
