@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "团员教育专题组织生活会个人发言提纲"
             }
+          },
+          {
+            "id": "6a07a9668d0661fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-03-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-19"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +167,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -297,8 +322,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "cbaaa0f047b95cf8",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
+    "高数/Kira小练习/微分中值定理.md",
+    "daily/2026-03-19.md",
     "daily/2026-03-15.md",
     "GITHUB项目使用.md",
     "daily/2026-03-13.md",
@@ -312,7 +339,6 @@
     "思维导图.md",
     "daily/2026-03-03.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-03-02.md",
     "daily/2026-02-18.md",
     "英语第一次作业.md",
@@ -327,7 +353,6 @@
     "daily/2026-02-21.md",
     "网络安全",
     "python环境创建.md",
-    "部署ollama.md",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "7ed568ae2b3be42751b4463ff0e878f4_MD5.jpg",
