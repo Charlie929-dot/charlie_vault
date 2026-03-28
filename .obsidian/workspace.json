@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -359,10 +359,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "538c067476a6d3af",
+  "active": "0ab9e1a39ac838af",
   "lastOpenFiles": [
-    "daily/2026-03-28.md",
     "AIGC竞赛.md",
+    "daily/2026-03-28.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-03-19.md",
     "高数/Kira小练习/微分中值定理.md",
