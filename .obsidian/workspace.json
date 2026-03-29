@@ -138,6 +138,20 @@
             }
           },
           {
+            "id": "47377b28b5a8ee93",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://aigc.vivo.com.cn/#/home",
+                "title": "中国高校计算机大赛·AIGC创新赛",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "中国高校计算机大赛·AIGC创新赛"
+            }
+          },
+          {
             "id": "9c9e5ff6f45840da",
             "type": "leaf",
             "state": {
@@ -397,9 +411,9 @@
   },
   "active": "538c067476a6d3af",
   "lastOpenFiles": [
+    "AIGC竞赛.md",
     "daily/2026-03-29.md",
     "安装包.md",
-    "AIGC竞赛.md",
     "daily/2026-03-28.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-03-19.md",
