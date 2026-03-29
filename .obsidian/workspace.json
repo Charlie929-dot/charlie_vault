@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装包.md",
+                "file": "daily/2026-03-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "安装包"
+              "title": "2026-03-29"
+            }
+          },
+          {
+            "id": "a66a8171dae3ab6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
             }
           },
           {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -383,10 +395,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9c9e5ff6f45840da",
+  "active": "538c067476a6d3af",
   "lastOpenFiles": [
-    "AIGC竞赛.md",
+    "daily/2026-03-29.md",
     "安装包.md",
+    "AIGC竞赛.md",
     "daily/2026-03-28.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-03-19.md",
@@ -412,7 +425,6 @@
     "obsidian/tool/笔记工具库.md",
     "obsidian/tool/疑难解答.md",
     "网络安全/学习资料.md",
-    "daily/2026-02-12.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
