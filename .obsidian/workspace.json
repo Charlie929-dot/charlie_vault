@@ -138,6 +138,30 @@
             }
           },
           {
+            "id": "9c9e5ff6f45840da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "安装包.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "安装包"
+            }
+          },
+          {
             "id": "0ab9e1a39ac838af",
             "type": "leaf",
             "state": {
@@ -359,9 +383,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0ab9e1a39ac838af",
+  "active": "9c9e5ff6f45840da",
   "lastOpenFiles": [
     "AIGC竞赛.md",
+    "安装包.md",
     "daily/2026-03-28.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-03-19.md",
@@ -388,7 +413,6 @@
     "obsidian/tool/疑难解答.md",
     "网络安全/学习资料.md",
     "daily/2026-02-12.md",
-    "daily/2026-02-10.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
