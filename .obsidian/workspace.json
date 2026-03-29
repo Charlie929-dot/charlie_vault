@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-29.md",
+                "file": "AIGC竞赛.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,11 +206,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-29"
+              "title": "AIGC竞赛"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -417,7 +417,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9c9e5ff6f45840da",
+  "active": "a66a8171dae3ab6c",
   "lastOpenFiles": [
     "daily/2026-03-29.md",
     "AIGC竞赛.md",
