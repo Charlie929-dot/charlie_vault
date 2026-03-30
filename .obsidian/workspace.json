@@ -141,24 +141,10 @@
             "id": "47377b28b5a8ee93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIGC竞赛.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AIGC竞赛"
+              "title": "新标签页"
             }
           },
           {
@@ -167,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC竞赛.md",
+                "file": "daily/2026-03-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,35 +168,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AIGC竞赛"
-            }
-          },
-          {
-            "id": "a66a8171dae3ab6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIGC竞赛.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AIGC竞赛"
+              "title": "2026-03-30"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,6 +213,30 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
+            }
+          },
+          {
+            "id": "a66a8171dae3ab6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIGC/AIGC竞赛1.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AIGC竞赛1.0"
             }
           },
           {
@@ -417,10 +403,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a66a8171dae3ab6c",
+  "active": "47377b28b5a8ee93",
   "lastOpenFiles": [
+    "daily/2026-03-30.md",
+    "AIGC/AIGC竞赛2.0.md",
+    "AIGC/AIGC竞赛1.0.md",
+    "AIGC",
     "daily/2026-03-29.md",
-    "AIGC竞赛.md",
     "安装包.md",
     "daily/2026-03-28.md",
     "obsidian/tool/Markdown+语法手册.md",
@@ -445,8 +434,6 @@
     "daily/2025-12-14.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
-    "obsidian/tool/疑难解答.md",
-    "网络安全/学习资料.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
@@ -457,7 +444,6 @@
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.sync-conflict-20260112-075322-7KGOG42.md.tmp",
-    "daily/~syncthing~2026-01-09.sync-conflict-20260112-075321-7KGOG42.md.tmp",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
