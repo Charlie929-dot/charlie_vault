@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC/AIGC竞赛2.0.md",
+                "file": "daily/2026-03-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,11 +134,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AIGC竞赛2.0"
+              "title": "2026-03-30"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9c9e5ff6f45840da",
+  "active": "cbaaa0f047b95cf8",
   "lastOpenFiles": [
     "daily/2026-03-30.md",
     "AIGC/AIGC竞赛2.0.md",
