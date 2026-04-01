@@ -160,9 +160,33 @@
               "icon": "lucide-file",
               "title": "2026-04-01"
             }
+          },
+          {
+            "id": "66b594af1ffbf868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-01"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -393,7 +417,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "cbaaa0f047b95cf8",
+  "active": "66b594af1ffbf868",
   "lastOpenFiles": [
     "daily/2026-04-01.md",
     "团员教育专题组织生活会个人发言提纲.md",
