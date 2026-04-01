@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-31.md",
+                "file": "daily/2026-04-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,11 +158,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-31"
+              "title": "2026-04-01"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -393,11 +393,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "af0e57a3e1a484cc",
+  "active": "cbaaa0f047b95cf8",
   "lastOpenFiles": [
-    "（Template）/番剧模板.md",
-    "daily/2026-03-31.md",
+    "daily/2026-04-01.md",
+    "团员教育专题组织生活会个人发言提纲.md",
     "daily/2026-03-30.md",
+    "daily/2026-03-31.md",
+    "（Template）/番剧模板.md",
     "AIGC/AIGC竞赛2.0.md",
     "AIGC/AIGC竞赛1.0.md",
     "AIGC",
@@ -414,7 +416,6 @@
     "daily/2026-03-12.md",
     "（Template）/音乐模板.md",
     "daily/2026-03-10.md",
-    "团员教育专题组织生活会个人发言提纲.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "思维导图.md",
@@ -423,7 +424,6 @@
     "daily/2026-02-18.md",
     "英语第一次作业.md",
     "daily/2026-03-05.md",
-    "daily/2025-12-14.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
