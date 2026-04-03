@@ -184,9 +184,33 @@
               "icon": "lucide-file",
               "title": "2026-04-03"
             }
+          },
+          {
+            "id": "4e695e6c123984fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绘图软件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "绘图软件"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -417,10 +441,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "66b594af1ffbf868",
+  "active": "4e695e6c123984fa",
   "lastOpenFiles": [
-    "daily/2026-04-01.md",
     "daily/2026-04-03.md",
+    "绘图软件.md",
+    "daily/2026-04-01.md",
     "团员教育专题组织生活会个人发言提纲.md",
     "daily/2026-03-30.md",
     "daily/2026-03-31.md",
@@ -447,7 +472,6 @@
     "daily/2026-03-03.md",
     "daily/2026-03-02.md",
     "daily/2026-02-18.md",
-    "英语第一次作业.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
