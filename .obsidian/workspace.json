@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC/AIGC竞赛2.0.md",
+                "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AIGC竞赛2.0"
+              "title": "Markdown+语法手册"
             }
           }
         ],
@@ -443,6 +443,7 @@
   },
   "active": "4e695e6c123984fa",
   "lastOpenFiles": [
+    "AIGC/AIGC竞赛2.0.md",
     "daily/2026-04-06.md",
     "绘图软件.md",
     "daily/2026-04-03.md",
@@ -451,7 +452,6 @@
     "daily/2026-03-30.md",
     "daily/2026-03-31.md",
     "（Template）/番剧模板.md",
-    "AIGC/AIGC竞赛2.0.md",
     "AIGC/AIGC竞赛1.0.md",
     "AIGC",
     "daily/2026-03-29.md",
