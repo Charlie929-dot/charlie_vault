@@ -32,160 +32,6 @@
             }
           },
           {
-            "id": "a6da5f4465d58aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-15"
-            }
-          },
-          {
-            "id": "cbaaa0f047b95cf8",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "e80a2c5bc4e2ff6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "团员教育专题组织生活会个人发言提纲.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "团员教育专题组织生活会个人发言提纲"
-            }
-          },
-          {
-            "id": "6a07a9668d0661fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-28"
-            }
-          },
-          {
-            "id": "9c9e5ff6f45840da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-03-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-30"
-            }
-          },
-          {
-            "id": "af0e57a3e1a484cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-04-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-01"
-            }
-          },
-          {
-            "id": "66b594af1ffbf868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-04-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-03"
-            }
-          },
-          {
             "id": "4e695e6c123984fa",
             "type": "leaf",
             "state": {
@@ -210,7 +56,7 @@
             }
           },
           {
-            "id": "ac78c52c3b76cb4e",
+            "id": "fe0134d10d06c941",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -222,9 +68,33 @@
               "icon": "globe-2",
               "title": "Flowcharts Syntax | Mermaid"
             }
+          },
+          {
+            "id": "ac78c52c3b76cb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIGC/AIGC竞赛2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AIGC竞赛2.0"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -455,14 +325,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ac78c52c3b76cb4e",
+  "active": "fe0134d10d06c941",
   "lastOpenFiles": [
     "obsidian/tool/Markdown+语法手册.md",
+    "daily/2026-04-03.md",
+    "daily/2026-04-01.md",
     "AIGC/AIGC竞赛2.0.md",
     "daily/2026-04-06.md",
     "绘图软件.md",
-    "daily/2026-04-03.md",
-    "daily/2026-04-01.md",
     "团员教育专题组织生活会个人发言提纲.md",
     "daily/2026-03-30.md",
     "daily/2026-03-31.md",
