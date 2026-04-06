@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -325,7 +325,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "fe0134d10d06c941",
+  "active": "ac78c52c3b76cb4e",
   "lastOpenFiles": [
     "AIGC/AIGC竞赛2.0.md",
     "obsidian/tool/Markdown+语法手册.md",
