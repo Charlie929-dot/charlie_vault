@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC/AIGC竞赛2.0.md",
+                "file": "daily/2026-04-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,11 +90,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AIGC竞赛2.0"
+              "title": "2026-04-12"
+            }
+          },
+          {
+            "id": "7df6007eeb23ddf8",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -325,9 +335,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ac78c52c3b76cb4e",
+  "active": "7df6007eeb23ddf8",
   "lastOpenFiles": [
+    "daily/2026-04-12.md",
     "AIGC/AIGC竞赛2.0.md",
+    "未命名 5.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-04-03.md",
     "daily/2026-04-01.md",
@@ -354,8 +366,6 @@
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "思维导图.md",
-    "daily/2026-03-03.md",
-    "daily/2026-03-02.md",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "475008fb4982aa89708e695db0db3184_MD5.jpg",
