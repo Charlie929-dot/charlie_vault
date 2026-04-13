@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-13.md",
+                "file": "daily/2026-04-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-13"
+              "title": "2026-04-14"
             }
           },
           {
@@ -39,6 +39,20 @@
               "state": {},
               "icon": "Memos",
               "title": "Thino"
+            }
+          },
+          {
+            "id": "2107445dece10fbd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
+                "title": "咕噜嘟嘟~ - 小红书",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "咕噜嘟嘟~ - 小红书"
             }
           },
           {
@@ -64,9 +78,32 @@
               "icon": "lucide-file",
               "title": "大一下期中复习"
             }
+          },
+          {
+            "id": "80c317b1a59fe02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一下期中复习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一下期中复习"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,11 +334,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "d3177e88ca7860ab",
   "lastOpenFiles": [
+    "高数/Kira小练习/微分中值定理.md",
+    "daily/2026-04-14.md",
     "daily/2026-04-13.md",
     "大一下期中复习.md",
-    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-03-13.md",
     "daily/2026-04-12.md",
     "AIGC/AIGC竞赛2.0.md",
@@ -325,7 +363,6 @@
     "daily/2026-03-11.md",
     "daily/2026-03-12.md",
     "（Template）/音乐模板.md",
-    "daily/2026-03-10.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
