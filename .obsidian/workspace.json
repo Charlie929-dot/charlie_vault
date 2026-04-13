@@ -103,7 +103,8 @@
               "title": "大一下期中复习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -334,12 +335,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "d3177e88ca7860ab",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "高数/Kira小练习/微分中值定理.md",
-    "daily/2026-04-14.md",
-    "daily/2026-04-13.md",
     "大一下期中复习.md",
+    "daily/2026-04-14.md",
+    "高数/Kira小练习/微分中值定理.md",
+    "daily/2026-04-13.md",
     "daily/2026-03-13.md",
     "daily/2026-04-12.md",
     "AIGC/AIGC竞赛2.0.md",
