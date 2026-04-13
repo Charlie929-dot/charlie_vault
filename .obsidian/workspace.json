@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -359,10 +359,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c62ecfa8ec4e71ae",
+  "active": "7df6007eeb23ddf8",
   "lastOpenFiles": [
-    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-04-13.md",
+    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-04-12.md",
     "AIGC/AIGC竞赛2.0.md",
     "未命名 5.md",
