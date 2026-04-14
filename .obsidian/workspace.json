@@ -65,8 +65,7 @@
               "title": "在追"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,8 +296,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9516c1049c8ab0c5",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
+    "daily/2026-04-14.md",
     "数据结构与算法分析第一次上机.md",
     "~$755.docx",
     "755.docx",
@@ -310,7 +310,6 @@
     "未命名.base",
     "追剧/想看.md",
     "（Template）/music/愿得一心人.md",
-    "daily/2026-04-14.md",
     "大一下期中复习.md",
     "daily/2026-04-13.md",
     "daily/2026-03-13.md",
