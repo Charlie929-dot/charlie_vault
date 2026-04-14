@@ -16,8 +16,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "01bbe1c5d1300592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,11 +273,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "01bbe1c5d1300592",
   "lastOpenFiles": [
+    "daily/2026-04-14.md",
     "高数/Kira小练习/微分中值定理.md",
     "大一下期中复习.md",
-    "daily/2026-04-14.md",
     "daily/2026-04-13.md",
     "daily/2026-03-13.md",
     "daily/2026-04-12.md",
