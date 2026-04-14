@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-14.md",
+                "file": "追剧/在追.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +38,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "在追"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "鹤唳华亭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +118,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,10 +273,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "01bbe1c5d1300592",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "daily/2026-04-14.md",
+    "追剧/在追.md",
+    "未命名.base",
     "高数/Kira小练习/微分中值定理.md",
+    "追剧/想看.md",
+    "（Template）/music/愿得一心人.md",
+    "daily/2026-04-14.md",
     "大一下期中复习.md",
     "daily/2026-04-13.md",
     "daily/2026-03-13.md",
@@ -298,10 +302,6 @@
     "daily/2026-03-28.md",
     "daily/2026-03-19.md",
     "daily/2026-03-15.md",
-    "GITHUB项目使用.md",
-    "daily/2026-03-11.md",
-    "daily/2026-03-12.md",
-    "（Template）/音乐模板.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
@@ -313,7 +313,6 @@
     "daily/~syncthing~2026-01-12.md.tmp",
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
     "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
-    "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.sync-conflict-20260112-075322-7KGOG42.md.tmp",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
