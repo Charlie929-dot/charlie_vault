@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "9516c1049c8ab0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法分析第一次上机.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "数据结构与算法分析第一次上机"
+            }
+          },
+          {
             "id": "01bbe1c5d1300592",
             "type": "leaf",
             "state": {
@@ -41,7 +65,8 @@
               "title": "在追"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +143,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,14 +297,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "9516c1049c8ab0c5",
   "lastOpenFiles": [
+    "~$755.docx",
+    "755.docx",
+    "追剧/在追.md",
+    "数据结构与算法分析第一次上机.md",
+    "高数/Kira小练习/微分中值定理.md",
     "cde442f86dd01145540ce67b4959361a_MD5.jpg",
     "Pasted image 20260414165520.png",
     "Pasted image 20260414165303.png",
-    "追剧/在追.md",
     "未命名.base",
-    "高数/Kira小练习/微分中值定理.md",
     "追剧/想看.md",
     "（Template）/music/愿得一心人.md",
     "daily/2026-04-14.md",
@@ -304,7 +331,6 @@
     "安装包.md",
     "daily/2026-03-28.md",
     "daily/2026-03-19.md",
-    "daily/2026-03-15.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
@@ -315,12 +341,10 @@
     "vyzcba3d.4ft~",
     "daily/~syncthing~2026-01-12.md.tmp",
     "~syncthing~大一《思想道德与法治》材料分析题背诵提纲.md.tmp",
-    "~syncthing~大一《思想道德与法治》核心简答题（精准对标对应页码）.md.tmp",
     "bbecba06502736f025c7ce436229ac8c_MD5.jpg",
     "Pasted image 20260110174417.png",
     "813318e4d8d4b867399107eb6a9fb2d6_MD5.jpg",
     "Pasted image 20260109204330.png",
-    "64bce4f6c388131849f3bef7ef552d7e_MD5.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
