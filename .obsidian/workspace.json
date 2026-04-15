@@ -64,8 +64,47 @@
               "icon": "lucide-file",
               "title": "在追"
             }
+          },
+          {
+            "id": "3fd4c984b295da4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-15"
+            }
+          },
+          {
+            "id": "68b99ac56b477aed",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
+                "title": "咕噜嘟嘟~ - 小红书",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "咕噜嘟嘟~ - 小红书"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,8 +335,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "68b99ac56b477aed",
   "lastOpenFiles": [
+    "daily/2026-04-15.md",
     "daily/2026-04-14.md",
     "高数/Kira小练习/微分中值定理.md",
     "数据结构与算法分析第一次上机.md",
