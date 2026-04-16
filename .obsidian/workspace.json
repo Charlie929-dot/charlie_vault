@@ -103,7 +103,8 @@
               "title": "咕噜嘟嘟~ - 小红书"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,10 +336,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "ed665252d5bce3bd",
   "lastOpenFiles": [
-    "daily/2026-04-16.md",
     "部署ollama.md",
+    "daily/2026-04-16.md",
     "daily/2026-04-15.md",
     "数据结构与算法分析第一次上机.md",
     "高数/Kira小练习/微分中值定理.md",
