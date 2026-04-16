@@ -64,8 +64,33 @@
               "icon": "lucide-file",
               "title": "数据结构与算法分析第一次上机"
             }
+          },
+          {
+            "id": "ed665252d5bce3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-16"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,8 +322,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "ed665252d5bce3bd",
   "lastOpenFiles": [
+    "部署ollama.md",
+    "daily/2026-04-16.md",
     "数据结构与算法分析第一次上机.md",
     "daily/2026-04-15.md",
     "高数/Kira小练习/微分中值定理.md",
@@ -333,7 +360,6 @@
     "AIGC/AIGC竞赛1.0.md",
     "AIGC",
     "daily/2026-03-29.md",
-    "安装包.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
