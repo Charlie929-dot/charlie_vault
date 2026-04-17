@@ -152,6 +152,20 @@
             }
           },
           {
+            "id": "ab394ff6e0d44661",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
+                "title": "咕噜嘟嘟~ - 小红书",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "咕噜嘟嘟~ - 小红书"
+            }
+          },
+          {
             "id": "9dc629c43af62d34",
             "type": "leaf",
             "state": {
@@ -407,8 +421,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9dc629c43af62d34",
+  "active": "ab394ff6e0d44661",
   "lastOpenFiles": [
+    "daily/2026-04-17.md",
+    "金牌选手.md",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
     "3d434cdbe7a6a5ba406f3b4d840491c5_MD5.jpg",
@@ -416,10 +432,8 @@
     "11bcb492cba2734dd2eb4ea4dc600ee4_MD5.jpg",
     "71ac1619e5c59ea28f3e07efec562d22_MD5.jpg",
     "追剧/在追.md",
-    "金牌选手.md",
     "追剧/想看.md",
     "未命名 5.md",
-    "daily/2026-04-17.md",
     "daily/2026-04-16.md",
     "（Template）/音乐模板.md",
     "部署ollama.md",
@@ -454,7 +468,6 @@
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
-    "475008fb4982aa89708e695db0db3184_MD5.jpg",
     "未命名 1.canvas",
     "未命名.canvas",
     "a.canvas"
