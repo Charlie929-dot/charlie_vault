@@ -126,8 +126,33 @@
               "icon": "lucide-file",
               "title": "2026-04-16"
             }
+          },
+          {
+            "id": "63d58431e26efb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -359,8 +384,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "5513b79de368e5e0",
   "lastOpenFiles": [
+    "daily/2026-04-17.md",
+    "（Template）/音乐模板.md",
     "daily/2026-04-16.md",
     "部署ollama.md",
     "daily/2026-04-15.md",
@@ -394,9 +421,7 @@
     "daily/2026-03-30.md",
     "daily/2026-03-31.md",
     "（Template）/番剧模板.md",
-    "AIGC/AIGC竞赛1.0.md",
     "AIGC",
-    "daily/2026-03-29.md",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
     "网络安全",
