@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -384,11 +384,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "5513b79de368e5e0",
+  "active": "63d58431e26efb26",
   "lastOpenFiles": [
+    "daily/2026-04-16.md",
     "daily/2026-04-17.md",
     "（Template）/音乐模板.md",
-    "daily/2026-04-16.md",
     "部署ollama.md",
     "daily/2026-04-15.md",
     "数据结构与算法分析第一次上机.md",
