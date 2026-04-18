@@ -152,26 +152,12 @@
             }
           },
           {
-            "id": "ab394ff6e0d44661",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
-                "title": "咕噜嘟嘟~ - 小红书",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "咕噜嘟嘟~ - 小红书"
-            }
-          },
-          {
             "id": "9dc629c43af62d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金牌选手.md",
+                "file": "daily/2026-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -186,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "金牌选手"
+              "title": "2026-04-18"
             }
           }
         ],
@@ -421,10 +407,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "ab394ff6e0d44661",
+  "active": "9dc629c43af62d34",
   "lastOpenFiles": [
-    "daily/2026-04-17.md",
     "金牌选手.md",
+    "daily/2026-04-18.md",
+    "daily/2026-04-17.md",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
     "3d434cdbe7a6a5ba406f3b4d840491c5_MD5.jpg",
