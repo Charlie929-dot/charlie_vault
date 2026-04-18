@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:数据",
+                "query": "tag:#anniversary下午做完物理的一章练习，突然感到非常空虚无聊，一股想要跑步的欲望油然而生，这是我大学第一次在假期周六跑步，很值得纪念啊😋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -385,6 +386,7 @@
   },
   "active": "63d58431e26efb26",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2026-04-18.md",
     "daily/2026-04-17.md",
     "金牌选手.md",
@@ -398,7 +400,6 @@
     "追剧/想看.md",
     "未命名 5.md",
     "daily/2026-04-16.md",
-    "（Template）/音乐模板.md",
     "部署ollama.md",
     "daily/2026-04-15.md",
     "数据结构与算法分析第一次上机.md",
