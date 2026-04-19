@@ -175,7 +175,8 @@
               "title": "数据结构与算法分析第一次上机"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -407,8 +408,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "ed665252d5bce3bd",
   "lastOpenFiles": [
+    "英语小组汇报经验.md",
     "daily/2026-04-19.md",
     "数据结构与算法分析第一次上机.md",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
