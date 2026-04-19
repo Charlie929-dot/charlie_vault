@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-16.md",
+                "file": "daily/2026-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-16"
+              "title": "2026-04-19"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-18.md",
+                "file": "数据结构与算法分析第一次上机.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-18"
+              "title": "数据结构与算法分析第一次上机"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anniversary下午做完物理的一章练习，突然感到非常空虚无聊，一股想要跑步的欲望油然而生，这是我大学第一次在假期周六跑步，很值得纪念啊😋",
+                "query": "数据结构",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,12 +229,12 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2138de943ac1028",
@@ -384,10 +384,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "63d58431e26efb26",
+  "active": "ed665252d5bce3bd",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2026-04-18.md",
+    "daily/2026-04-19.md",
+    "daily/2026-04-16.md",
+    "daily/2026-04-15.md",
+    "数据结构与算法分析第一次上机.md",
+    "（Template）/音乐模板.md",
     "daily/2026-04-17.md",
     "金牌选手.md",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
@@ -399,10 +403,7 @@
     "追剧/在追.md",
     "追剧/想看.md",
     "未命名 5.md",
-    "daily/2026-04-16.md",
     "部署ollama.md",
-    "daily/2026-04-15.md",
-    "数据结构与算法分析第一次上机.md",
     "高数/Kira小练习/微分中值定理.md",
     "756.docx",
     "~$b2659183ffaff0182de81840b6963d_MD5.docx",
@@ -426,7 +427,6 @@
     "daily/2026-04-06.md",
     "绘图软件.md",
     "团员教育专题组织生活会个人发言提纲.md",
-    "daily/2026-03-30.md",
     "AIGC",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
