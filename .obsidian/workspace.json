@@ -93,14 +93,24 @@
             "id": "e29e3aa526537b93",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
-                "title": "咕噜嘟嘟~ - 小红书",
-                "mode": "webview"
+                "file": "daily/2026-04-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "咕噜嘟嘟~ - 小红书"
+              "icon": "lucide-file",
+              "title": "2026-04-20"
             }
           },
           {
