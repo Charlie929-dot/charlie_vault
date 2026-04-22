@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-20.md",
+                "file": "daily/2026-04-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-20"
+              "title": "2026-04-22"
             }
           },
           {
@@ -435,6 +435,7 @@
   "active": "e29e3aa526537b93",
   "lastOpenFiles": [
     "daily/2026-04-20.md",
+    "daily/2026-04-22.md",
     "daily/2026-04-19.md",
     "英语小组汇报经验.md",
     "数据结构与算法分析第一次上机.md",
@@ -475,7 +476,6 @@
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-04-03.md",
     "daily/2026-04-01.md",
-    "daily/2026-04-06.md",
     "AIGC",
     "~syncthing~a330405e1576aa208f872c52d0c3a3d7_MD5.png.tmp",
     "daily/~syncthing~2026-01-16.md.tmp",
