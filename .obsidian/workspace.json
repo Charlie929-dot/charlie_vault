@@ -141,14 +141,24 @@
             "id": "05c5f7b6b8914944",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.xiaohongshu.com/user/profile/64ab731a000000002503608e?xsec_token=ABfNdhIr_CJQPtTHf_A_JXO6jTIZ5FxkeCsF6cxYojnew=&xsec_source=pc_collect",
-                "title": "咕噜嘟嘟~ - 小红书",
-                "mode": "webview"
+                "file": "daily/2026-04-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "咕噜嘟嘟~ - 小红书"
+              "icon": "lucide-file",
+              "title": "2026-04-23"
             }
           },
           {
@@ -200,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -432,10 +442,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e29e3aa526537b93",
+  "active": "05c5f7b6b8914944",
   "lastOpenFiles": [
-    "daily/2026-04-22.md",
     "daily/2026-04-23.md",
+    "daily/2026-04-22.md",
     "daily/2026-04-20.md",
     "（Template）/音乐模板.md",
     "daily/2026-04-19.md",
