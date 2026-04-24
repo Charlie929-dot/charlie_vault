@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-23.md",
+                "file": "daily/2026-04-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-23"
+              "title": "2026-04-24"
             }
           },
           {
@@ -443,8 +443,9 @@
   },
   "active": "9516c1049c8ab0c5",
   "lastOpenFiles": [
-    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-04-23.md",
+    "daily/2026-04-24.md",
+    "高数/Kira小练习/微分中值定理.md",
     "daily/2026-04-20.md",
     "数据结构与算法分析第一次上机.md",
     "daily/2026-04-15.md",
@@ -486,7 +487,6 @@
     "daily/2026-03-13.md",
     "daily/2026-04-12.md",
     "AIGC/AIGC竞赛2.0.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "AIGC",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "未命名 1.canvas",
