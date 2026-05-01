@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-30.md",
+                "file": "2026-05-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-30"
+              "title": "2026-05-01"
             }
           },
           {
@@ -419,8 +419,9 @@
   },
   "active": "e29e3aa526537b93",
   "lastOpenFiles": [
-    "daily/2026-04-23.md",
     "daily/2026-04-30.md",
+    "2026-05-01.md",
+    "daily/2026-04-23.md",
     "daily/2026-04-18.md",
     "daily/2026-04-24.md",
     "高数/Kira小练习/微分中值定理.md",
@@ -462,7 +463,6 @@
     "大一下期中复习.md",
     "daily/2026-04-13.md",
     "daily/2026-03-13.md",
-    "daily/2026-04-12.md",
     "AIGC",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "未命名 1.canvas",
