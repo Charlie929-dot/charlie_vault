@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-05-01.md",
+                "file": "daily/2026-05-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-01"
+              "title": "2026-05-02"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -417,10 +417,11 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "e29e3aa526537b93",
+  "active": "05c5f7b6b8914944",
   "lastOpenFiles": [
-    "daily/2026-04-30.md",
+    "daily/2026-05-02.md",
     "2026-05-01.md",
+    "daily/2026-04-30.md",
     "daily/2026-04-23.md",
     "daily/2026-04-18.md",
     "daily/2026-04-24.md",
@@ -462,7 +463,6 @@
     "（Template）/music/愿得一心人.md",
     "大一下期中复习.md",
     "daily/2026-04-13.md",
-    "daily/2026-03-13.md",
     "AIGC",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "未命名 1.canvas",
