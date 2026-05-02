@@ -21,24 +21,24 @@
             "id": "e29e3aa526537b93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
+            }
+          },
+          {
+            "id": "09ced940f3a1aefe",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
               "state": {
-                "file": "daily/2026-05-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://pkmer.cn/products/widget/widgetMarket/",
+                "title": "PKMer_挂件集市",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "2026-05-02"
+              "icon": "globe-2",
+              "title": "PKMer_挂件集市"
             }
           },
           {
@@ -184,9 +184,33 @@
               "icon": "lucide-file",
               "title": "跑步路线"
             }
+          },
+          {
+            "id": "52b48c615a4b7871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "（Template）/日记模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日记模板"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -414,15 +438,17 @@
       "workspaces:管理工作区布局": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-git:Open Git source control": false,
-      "emoji-selector:打开表情选择器": false
+      "emoji-selector:打开表情选择器": false,
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "05c5f7b6b8914944",
+  "active": "09ced940f3a1aefe",
   "lastOpenFiles": [
-    "daily/2026-05-02.md",
+    "（Template）/日记模板.md",
     "2026-05-01.md",
-    "daily/2026-04-30.md",
     "daily/2026-04-23.md",
+    "daily/2026-05-02.md",
+    "daily/2026-04-30.md",
     "daily/2026-04-18.md",
     "daily/2026-04-24.md",
     "高数/Kira小练习/微分中值定理.md",
@@ -462,7 +488,6 @@
     "未命名.base",
     "（Template）/music/愿得一心人.md",
     "大一下期中复习.md",
-    "daily/2026-04-13.md",
     "AIGC",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "未命名 1.canvas",
