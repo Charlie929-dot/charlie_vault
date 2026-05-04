@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-02.md",
+                "file": "daily/2026-05-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,11 +206,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-02"
+              "title": "2026-05-04"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -442,14 +441,15 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "52b48c615a4b7871",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "2026-05-01.md",
+    "daily/2026-05-04.md",
+    "daily/2026-04-23.md",
     "daily/2026-05-02.md",
+    "2026-05-01.md",
     "（Template）/日记模板.md",
     "daily/2026-04-18.md",
     "未命名 6.md",
-    "daily/2026-04-23.md",
     "daily/2026-04-30.md",
     "daily/2026-04-24.md",
     "高数/Kira小练习/微分中值定理.md",
@@ -487,7 +487,6 @@
     "Pasted image 20260414165520.png",
     "Pasted image 20260414165303.png",
     "未命名.base",
-    "（Template）/music/愿得一心人.md",
     "AIGC",
     "2e8fe0179f4d8b8efa808a8d2058a97d_MD5.png",
     "未命名 1.canvas",
