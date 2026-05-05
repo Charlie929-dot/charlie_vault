@@ -263,7 +263,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语四级备考.md",
+                "file": "obsidian/tool/疑难解答.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -278,7 +278,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "英语四级备考"
+              "title": "疑难解答"
             }
           }
         ],
@@ -516,8 +516,10 @@
   },
   "active": "c8673eed2fa52a8e",
   "lastOpenFiles": [
-    "daily/2026-05-05.md",
+    "思维导图.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "英语四级备考.md",
+    "daily/2026-05-05.md",
     "2026-05-01.md",
     "daily/2026-05-04.md",
     "daily/2026-04-23.md",
@@ -549,8 +551,6 @@
     "71ac1619e5c59ea28f3e07efec562d22_MD5.jpg",
     "追剧/在追.md",
     "追剧/想看.md",
-    "未命名 5.md",
-    "部署ollama.md",
     "756.docx",
     "~$b2659183ffaff0182de81840b6963d_MD5.docx",
     "59b2659183ffaff0182de81840b6963d_MD5.docx",
