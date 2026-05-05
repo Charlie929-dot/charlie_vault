@@ -261,17 +261,24 @@
             "id": "c8673eed2fa52a8e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "英语四级备考.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "英语四级备考"
             }
           }
         ],
@@ -509,8 +516,8 @@
   },
   "active": "c8673eed2fa52a8e",
   "lastOpenFiles": [
-    "英语四级备考.md",
     "未命名.canvas",
+    "英语四级备考.md",
     "obsidian/tool/Markdown+语法手册.md",
     "思维导图.md",
     "obsidian/tool/疑难解答.md",
