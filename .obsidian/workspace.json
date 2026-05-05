@@ -263,7 +263,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语四级备考.md",
+                "file": "daily/2026-05-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -278,11 +278,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "英语四级备考"
+              "title": "2026-05-05"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -514,14 +513,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "c8673eed2fa52a8e",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "daily/2026-05-05.md",
     "英语四级备考.md",
+    "未命名.canvas",
     "obsidian/tool/Markdown+语法手册.md",
     "思维导图.md",
     "obsidian/tool/疑难解答.md",
-    "daily/2026-05-05.md",
     "2026-05-01.md",
     "daily/2026-05-04.md",
     "daily/2026-04-23.md",
