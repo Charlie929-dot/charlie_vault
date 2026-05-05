@@ -3,9 +3,10 @@
 		{"id":"133ae74f51ad4229","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
 		{"id":"d1c70546b6954c7b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"词汇"},
 		{"id":"3b97bfb4d6f3198c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"单词"},
-		{"id":"c5a8c1a4ea2c18b0","x":-126,"y":103,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c5a8c1a4ea2c18b0","x":-125,"y":120,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"ae528778bbb56267","fromNode":"3b97bfb4d6f3198c","fromSide":"bottom","toNode":"c5a8c1a4ea2c18b0","toSide":"top"}
+		{"id":"d44057ee7b184b64","fromNode":"3b97bfb4d6f3198c","fromSide":"right","toNode":"133ae74f51ad4229","toSide":"right"},
+		{"id":"538fc3c3cad1124a","fromNode":"3b97bfb4d6f3198c","fromSide":"top","toNode":"133ae74f51ad4229","toSide":"top"}
 	]
 }
