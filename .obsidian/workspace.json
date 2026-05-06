@@ -311,7 +311,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构.md",
+                "file": "daily/2026-05-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -326,11 +326,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "数据结构"
+              "title": "2026-05-06"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,7 +361,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#灵茶山艾府",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -563,8 +562,9 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
+    "daily/2026-05-06.md",
     "daily/2026-05-05.md",
     "数据结构.md",
     "2026-05-01.md",
@@ -594,7 +594,6 @@
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
     "daily/2026-04-16.md",
     "daily/2026-04-17.md",
-    "金牌选手.md",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
     "3d434cdbe7a6a5ba406f3b4d840491c5_MD5.jpg",
