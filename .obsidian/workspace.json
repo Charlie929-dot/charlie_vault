@@ -328,8 +328,33 @@
               "icon": "lucide-file",
               "title": "2026-05-06"
             }
+          },
+          {
+            "id": "79f32016b3f79efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-06"
+            }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -562,12 +587,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "79f32016b3f79efb",
   "lastOpenFiles": [
+    "2026-05-01.md",
     "daily/2026-05-06.md",
     "daily/2026-05-05.md",
     "数据结构.md",
-    "2026-05-01.md",
     "英语四级备考.md",
     "未命名.canvas",
     "obsidian/tool/Markdown+语法手册.md",
