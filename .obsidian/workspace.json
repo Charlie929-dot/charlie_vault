@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-07.md",
+                "file": "daily/2026-05-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -374,11 +374,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-07"
+              "title": "2026-05-08"
+            }
+          },
+          {
+            "id": "1b3fba6b2be4777f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-08"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -611,9 +635,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "fc683a54c7f72335",
+  "active": "1b3fba6b2be4777f",
   "lastOpenFiles": [
     "今日冬至.md",
+    "daily/2026-05-08.md",
     "daily/2026-05-07.md",
     "daily/2026-05-06.md",
     "daily/2026-05-05.md",
@@ -641,7 +666,6 @@
     "daily/2026-04-22.md",
     "（Template）/音乐模板.md",
     "daily/2026-04-19.md",
-    "英语小组汇报经验.md",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
