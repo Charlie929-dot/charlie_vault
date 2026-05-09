@@ -407,7 +407,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-08.md",
+                "file": "daily/2026-05-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -422,7 +422,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-08"
+              "title": "2026-05-09"
             }
           }
         ],
@@ -661,8 +661,9 @@
   },
   "active": "2acf62c30385c3fc",
   "lastOpenFiles": [
-    "daily/2026-05-07.md",
     "daily/2026-05-08.md",
+    "daily/2026-05-09.md",
+    "daily/2026-05-07.md",
     "今日冬至.md",
     "daily/2026-05-06.md",
     "daily/2026-05-05.md",
@@ -689,7 +690,6 @@
     "未命名 1.base",
     "daily/2026-04-22.md",
     "（Template）/音乐模板.md",
-    "daily/2026-04-19.md",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
