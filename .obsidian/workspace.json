@@ -65,7 +65,8 @@
               "title": "2026-05-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,10 +299,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "8f9a5b350c6a83fa",
   "lastOpenFiles": [
-    "daily/2026-05-10.md",
     "金牌选手.md",
+    "daily/2026-05-10.md",
     "daily/2026-05-09.md",
     "daily/2026-05-08.md",
     "daily/2026-05-07.md",
