@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-09.md",
+                "file": "daily/2026-05-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-09"
+              "title": "2026-05-10"
             }
           }
         ],
@@ -277,8 +277,9 @@
   },
   "active": "8f9a5b350c6a83fa",
   "lastOpenFiles": [
-    "金牌选手.md",
     "daily/2026-05-09.md",
+    "daily/2026-05-10.md",
+    "金牌选手.md",
     "daily/2026-05-08.md",
     "daily/2026-05-07.md",
     "daily/2026-05-06.md",
@@ -303,7 +304,6 @@
     "daily/2026-04-24.md",
     "高数/Kira小练习/微分中值定理.md",
     "daily/2026-04-20.md",
-    "daily/2026-04-15.md",
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
