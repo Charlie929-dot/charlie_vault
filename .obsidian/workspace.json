@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "2026-05-12"
             }
+          },
+          {
+            "id": "3bd26c7b82523fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-12"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -323,7 +347,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "846fe1aa1d30dc85",
+  "active": "3bd26c7b82523fa6",
   "lastOpenFiles": [
     "金牌选手.md",
     "daily/2026-05-12.md",
