@@ -93,9 +93,19 @@
             "id": "3bd26c7b82523fa6",
             "type": "leaf",
             "state": {
+              "type": "pkmer-downloader",
+              "state": {},
+              "icon": "bookmark",
+              "title": "Pkmer Market"
+            }
+          },
+          {
+            "id": "fa13de2f5e0f5a44",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-12.md",
+                "file": "未命名 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,11 +120,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-12"
+              "title": "未命名 6"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,8 +201,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -347,10 +356,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "3bd26c7b82523fa6",
+  "active": "fa13de2f5e0f5a44",
   "lastOpenFiles": [
-    "金牌选手.md",
     "daily/2026-05-12.md",
+    "未命名 6.md",
+    "金牌选手.md",
     "daily/2026-05-10.md",
     "daily/2026-05-09.md",
     "daily/2026-05-08.md",
@@ -375,7 +385,6 @@
     "（Template）/日记模板.md",
     "daily/2026-04-30.md",
     "daily/2026-04-24.md",
-    "高数/Kira小练习/微分中值定理.md",
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
