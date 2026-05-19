@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-19.md",
+                "file": "文摘/文摘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,7 +120,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "文摘"
             }
           }
         ],
@@ -358,8 +358,9 @@
   },
   "active": "fa13de2f5e0f5a44",
   "lastOpenFiles": [
-    "daily/2026-05-15.md",
+    "文摘/思辨.md",
     "daily/2026-05-19.md",
+    "daily/2026-05-15.md",
     "daily/2026-05-12.md",
     "扭摆法测量切变模量实验.md",
     "金牌选手.md",
@@ -384,7 +385,6 @@
     "思维导图.md",
     "obsidian/tool/疑难解答.md",
     "daily/2026-05-02.md",
-    "（Template）/日记模板.md",
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
