@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文摘/文摘.md",
+                "file": "daily/2026-05-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,11 +120,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "文摘"
+              "title": "2026-05-20"
+            }
+          },
+          {
+            "id": "638c39e838034a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 6"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -356,8 +380,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "fa13de2f5e0f5a44",
+  "active": "638c39e838034a9c",
   "lastOpenFiles": [
+    "daily/2026-05-20.md",
+    "未命名 6.md",
+    "文摘/文摘.md",
     "文摘/思辨.md",
     "daily/2026-05-19.md",
     "daily/2026-05-15.md",
@@ -382,9 +409,6 @@
     "英语四级备考.md",
     "未命名.canvas",
     "obsidian/tool/Markdown+语法手册.md",
-    "思维导图.md",
-    "obsidian/tool/疑难解答.md",
-    "daily/2026-05-02.md",
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
