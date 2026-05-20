@@ -52,15 +52,15 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
+  "pandocPath": {
+    "win32": "C:\\Program Files\\Pandoc\\pandoc.exe"
+  },
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
   "lastExportDirectory": {
     "win32": "C:\\Users\\HP\\Desktop"
-  },
-  "pandocPath": {
-    "win32": "C:\\Program Files\\Pandoc\\pandoc.exe"
   },
   "showOverwriteConfirmation": true,
   "lastExportType": "Word (.docx)"
