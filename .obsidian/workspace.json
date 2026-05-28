@@ -147,8 +147,7 @@
               "title": "2026-05-28"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,10 +378,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "638c39e838034a9c",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "牛顿环实验.md",
     "daily/2026-05-28.md",
+    "牛顿环实验.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "daily/2026-05-20.md",
     "文摘/文摘.md",
