@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -489,10 +489,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0887e1ecbf95af6f",
+  "active": "4c2b0f56e19d0ca5",
   "lastOpenFiles": [
-    "daily/2026-05-29.md",
     "大一下期末.md",
+    "daily/2026-05-29.md",
     "（Template）/音乐模板.md",
     "光栅衍射测量光谱实验.md",
     "daily/2026-04-16.md",
