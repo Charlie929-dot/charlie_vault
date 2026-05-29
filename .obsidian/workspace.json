@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-10.md",
+                "file": "daily/2026-05-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-10"
+              "title": "2026-05-07"
             }
           },
           {
@@ -146,8 +146,33 @@
               "icon": "lucide-file",
               "title": "2026-05-28"
             }
+          },
+          {
+            "id": "7c68a606bf9b7b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-29"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -378,25 +403,28 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "8f9a5b350c6a83fa",
   "lastOpenFiles": [
+    "daily/2026-05-05.md",
+    "daily/2026-04-30.md",
+    "daily/2026-05-10.md",
+    "daily/2026-05-12.md",
+    "daily/2026-05-20.md",
+    "daily/2026-05-29.md",
     "daily/2026-05-28.md",
+    "（Template）/音乐模板.md",
     "牛顿环实验.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
-    "daily/2026-05-20.md",
     "文摘/文摘.md",
     "文摘/思辨.md",
     "daily/2026-05-19.md",
     "daily/2026-05-15.md",
-    "daily/2026-05-12.md",
     "扭摆法测量切变模量实验.md",
     "金牌选手.md",
-    "daily/2026-05-10.md",
     "daily/2026-05-09.md",
     "daily/2026-05-08.md",
     "daily/2026-05-07.md",
     "daily/2026-05-06.md",
-    "daily/2026-05-05.md",
     "daily/2026-05-04.md",
     "跑步路线.md",
     "daily/2026-04-23.md",
@@ -404,9 +432,6 @@
     "daily/2026-04-16.md",
     "daily/2026-04-18.md",
     "今日冬至.md",
-    "2026-05-01.md",
-    "数据结构.md",
-    "英语四级备考.md",
     "未命名.canvas",
     "未命名 2.base",
     "未命名 1.base",
