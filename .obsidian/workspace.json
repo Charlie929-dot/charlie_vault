@@ -232,9 +232,33 @@
               "icon": "lucide-file",
               "title": "大一下期末"
             }
+          },
+          {
+            "id": "4c2b0f56e19d0ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-29"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -465,11 +489,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0887e1ecbf95af6f",
+  "active": "4c2b0f56e19d0ca5",
   "lastOpenFiles": [
-    "光栅衍射测量光谱实验.md",
-    "大一下期末.md",
+    "（Template）/音乐模板.md",
     "daily/2026-05-29.md",
+    "大一下期末.md",
+    "光栅衍射测量光谱实验.md",
     "daily/2026-04-16.md",
     "daily/2026-04-14.md",
     "daily/2026-04-03.md",
@@ -483,7 +508,6 @@
     "daily/2026-05-12.md",
     "daily/2026-05-20.md",
     "daily/2026-05-28.md",
-    "（Template）/音乐模板.md",
     "牛顿环实验.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "文摘/文摘.md",
