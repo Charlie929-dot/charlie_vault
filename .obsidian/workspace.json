@@ -239,7 +239,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-30.md",
+                "file": "离散数学网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -254,11 +254,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-30"
+              "title": "离散数学网课"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -489,9 +489,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "4aab2c3cc94254a2",
+  "active": "4c2b0f56e19d0ca5",
   "lastOpenFiles": [
     "daily/2026-05-30.md",
+    "obsidian/tool/Markdown+语法手册.md",
+    "obsidian/tool/疑难解答.md",
+    "obsidian/tool/临时笔记.md",
+    "obsidian/tool/翻译工具.md",
+    "obsidian/tool/笔记工具库.md",
+    "离散数学网课.md",
     "daily/2026-05-29.md",
     "大一下期末.md",
     "（Template）/音乐模板.md",
@@ -512,12 +518,6 @@
     "牛顿环实验.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "文摘/文摘.md",
-    "文摘/思辨.md",
-    "daily/2026-05-19.md",
-    "daily/2026-05-15.md",
-    "扭摆法测量切变模量实验.md",
-    "金牌选手.md",
-    "daily/2026-05-09.md",
     "未命名.canvas",
     "未命名 2.base",
     "未命名 1.base",
