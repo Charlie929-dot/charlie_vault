@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "光栅衍射测量光谱实验.md",
+                "file": "daily/2026-05-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "光栅衍射测量光谱实验"
+              "title": "2026-05-30"
             }
           },
           {
@@ -257,8 +257,7 @@
               "title": "离散数学网课"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -489,12 +488,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "4c2b0f56e19d0ca5",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "数据结构网课.md",
-    "大一下期末.md",
-    "离散数学网课.md",
     "daily/2026-05-30.md",
+    "光栅衍射测量光谱实验.md",
+    "数据结构网课.md",
+    "离散数学网课.md",
+    "大一下期末.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
@@ -502,7 +502,6 @@
     "obsidian/tool/笔记工具库.md",
     "daily/2026-05-29.md",
     "（Template）/音乐模板.md",
-    "光栅衍射测量光谱实验.md",
     "daily/2026-04-16.md",
     "daily/2026-04-14.md",
     "daily/2026-04-03.md",
