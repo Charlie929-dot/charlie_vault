@@ -256,8 +256,33 @@
               "icon": "lucide-file",
               "title": "离散数学网课"
             }
+          },
+          {
+            "id": "967a889e92e77993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-05-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-30"
+            }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -488,8 +513,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "37be5c91d83cd04e",
+  "active": "967a889e92e77993",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2026-05-30.md",
     "光栅衍射测量光谱实验.md",
     "数据结构网课.md",
@@ -501,7 +527,6 @@
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
     "daily/2026-05-29.md",
-    "（Template）/音乐模板.md",
     "daily/2026-04-16.md",
     "daily/2026-04-14.md",
     "daily/2026-04-03.md",
