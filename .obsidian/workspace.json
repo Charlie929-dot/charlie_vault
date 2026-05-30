@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一下期末.md",
+                "file": "数据结构网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一下期末"
+              "title": "数据结构网课"
             }
           },
           {
@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -489,17 +489,18 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "4c2b0f56e19d0ca5",
+  "active": "0887e1ecbf95af6f",
   "lastOpenFiles": [
+    "大一下期末.md",
+    "数据结构网课.md",
+    "离散数学网课.md",
     "daily/2026-05-30.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
     "obsidian/tool/翻译工具.md",
     "obsidian/tool/笔记工具库.md",
-    "离散数学网课.md",
     "daily/2026-05-29.md",
-    "大一下期末.md",
     "（Template）/音乐模板.md",
     "光栅衍射测量光谱实验.md",
     "daily/2026-04-16.md",
@@ -517,7 +518,6 @@
     "daily/2026-05-28.md",
     "牛顿环实验.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
-    "文摘/文摘.md",
     "未命名.canvas",
     "未命名 2.base",
     "未命名 1.base",
