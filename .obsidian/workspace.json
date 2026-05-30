@@ -263,7 +263,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "四级备考(半月板🥲).md",
+                "file": "英语四级备考.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -278,7 +278,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "四级备考(半月板🥲)"
+              "title": "英语四级备考"
             }
           }
         ],
@@ -314,7 +314,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "四级",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -359,7 +359,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -515,8 +516,8 @@
   },
   "active": "967a889e92e77993",
   "lastOpenFiles": [
-    "daily/2026-05-30.md",
     "四级备考(半月板🥲).md",
+    "daily/2026-05-30.md",
     "大一下期末.md",
     "（Template）/音乐模板.md",
     "光栅衍射测量光谱实验.md",
