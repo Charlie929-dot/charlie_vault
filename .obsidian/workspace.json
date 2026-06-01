@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-31.md",
+                "file": "daily/2026-06-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -288,7 +288,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-31"
+              "title": "2026-06-01"
             }
           },
           {
@@ -340,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -572,15 +572,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "0069970fc75b2e1e",
+  "active": "967a889e92e77993",
   "lastOpenFiles": [
+    "daily/2026-05-31.md",
+    "离散数学网课.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "daily/2026-06-01.md",
     "数据结构网课.md",
-    "daily/2026-05-31.md",
     "大一下期末.md",
-    "离散数学网课.md",
     "四级备考(半月板🥲).md",
     "未命名 3.base",
     "（Template）/音乐模板.md",
@@ -619,7 +619,6 @@
     "~$755.docx",
     "755.docx",
     "cde442f86dd01145540ce67b4959361a_MD5.jpg",
-    "Pasted image 20260414165520.png",
     "未命名.base",
     "未命名 1.canvas",
     "a.canvas"
