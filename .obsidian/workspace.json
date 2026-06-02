@@ -393,7 +393,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-02.md",
+                "file": "B站英语阅读题技巧.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -408,7 +408,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "B站英语阅读题技巧"
             }
           }
         ],
@@ -444,7 +444,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "阅读",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -489,7 +489,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -645,8 +646,8 @@
   },
   "active": "db426d235dbc01bb",
   "lastOpenFiles": [
-    "离散数学网课.md",
     "daily/2026-06-02.md",
+    "离散数学网课.md",
     "未命名 6.md",
     "数据结构网课.md",
     "daily/2026-06-01.md",
