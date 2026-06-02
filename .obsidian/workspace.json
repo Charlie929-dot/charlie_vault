@@ -364,20 +364,6 @@
             }
           },
           {
-            "id": "9f518d8ccbfe98ce",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1eaCPYSEtH/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
-                "title": "【期末冲刺上大分】《数据结构》6小时快速突击|期末不挂科必备【蜂考】_哔哩哔哩_bilibili",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "【期末冲刺上大分】《数据结构》6小时快速突击|期末不挂科必备【蜂考】_哔哩哔哩_bilibili"
-            }
-          },
-          {
             "id": "82d88ea3492759c3",
             "type": "leaf",
             "state": {
@@ -400,9 +386,33 @@
               "icon": "lucide-file",
               "title": "数据结构网课"
             }
+          },
+          {
+            "id": "db426d235dbc01bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 6"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -479,8 +489,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -634,9 +643,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "9f518d8ccbfe98ce",
+  "active": "db426d235dbc01bb",
   "lastOpenFiles": [
     "数据结构网课.md",
+    "未命名 6.md",
     "daily/2026-06-02.md",
     "daily/2026-06-01.md",
     "离散数学网课.md",
@@ -664,7 +674,6 @@
     "daily/2026-03-29.md",
     "daily/2026-03-19.md",
     "daily/2026-05-07.md",
-    "daily/2026-05-05.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
