@@ -393,7 +393,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B站英语阅读题技巧.md",
+                "file": "daily/2026-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -408,11 +408,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "B站英语阅读题技巧"
+              "title": "2026-06-02"
+            }
+          },
+          {
+            "id": "17ec7daf4d208369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-02"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -644,14 +668,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "db426d235dbc01bb",
+  "active": "17ec7daf4d208369",
   "lastOpenFiles": [
+    "（Template）/音乐模板.md",
     "daily/2026-06-02.md",
+    "B站英语阅读题技巧.md",
     "离散数学网课.md",
     "未命名 6.md",
     "数据结构网课.md",
     "daily/2026-06-01.md",
-    "（Template）/音乐模板.md",
     "四级备考(半月板🥲).md",
     "daily/2026-05-31.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
@@ -674,7 +699,6 @@
     "daily/2026-03-31.md",
     "daily/2026-03-29.md",
     "daily/2026-03-19.md",
-    "daily/2026-05-07.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
