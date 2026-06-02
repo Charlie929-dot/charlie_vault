@@ -345,7 +345,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-02.md",
+                "file": "数据结构网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -360,7 +360,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "数据结构网课"
+            }
+          },
+          {
+            "id": "9f518d8ccbfe98ce",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1eaCPYSEtH/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
+                "title": "【期末冲刺上大分】《数据结构》6小时快速突击|期末不挂科必备【蜂考】_哔哩哔哩_bilibili",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "【期末冲刺上大分】《数据结构》6小时快速突击|期末不挂科必备【蜂考】_哔哩哔哩_bilibili"
             }
           },
           {
@@ -388,7 +402,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -620,12 +634,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c6070af1007d1784",
+  "active": "9f518d8ccbfe98ce",
   "lastOpenFiles": [
-    "daily/2026-06-01.md",
-    "daily/2026-06-02.md",
-    "离散数学网课.md",
     "数据结构网课.md",
+    "daily/2026-06-02.md",
+    "daily/2026-06-01.md",
+    "离散数学网课.md",
     "（Template）/音乐模板.md",
     "四级备考(半月板🥲).md",
     "daily/2026-05-31.md",
