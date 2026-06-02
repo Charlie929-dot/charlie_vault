@@ -393,7 +393,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 6.md",
+                "file": "daily/2026-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -408,7 +408,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 6"
+              "title": "2026-06-02"
             }
           }
         ],
@@ -645,8 +645,8 @@
   },
   "active": "db426d235dbc01bb",
   "lastOpenFiles": [
-    "数据结构网课.md",
     "未命名 6.md",
+    "数据结构网课.md",
     "daily/2026-06-02.md",
     "daily/2026-06-01.md",
     "离散数学网课.md",
