@@ -411,8 +411,7 @@
               "title": "2026-06-03"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -644,10 +643,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "db426d235dbc01bb",
+  "active": "37be5c91d83cd04e",
   "lastOpenFiles": [
-    "离散数学网课.md",
     "daily/2026-06-03.md",
+    "离散数学网课.md",
     "大一下期末.md",
     "数据结构网课.md",
     "daily/2026-06-02.md",
