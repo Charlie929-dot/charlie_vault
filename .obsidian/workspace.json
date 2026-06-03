@@ -393,7 +393,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大一下期末.md",
+                "file": "daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -408,7 +408,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大一下期末"
+              "title": "2026-06-03"
             }
           },
           {
@@ -436,7 +436,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -668,13 +668,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "17ec7daf4d208369",
+  "active": "db426d235dbc01bb",
   "lastOpenFiles": [
-    "daily/2026-06-03.md",
+    "大一下期末.md",
     "离散数学网课.md",
+    "daily/2026-06-03.md",
     "数据结构网课.md",
     "daily/2026-06-02.md",
-    "大一下期末.md",
     "（Template）/音乐模板.md",
     "B站英语阅读题技巧.md",
     "未命名 6.md",
