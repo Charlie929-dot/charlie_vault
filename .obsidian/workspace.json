@@ -434,9 +434,57 @@
               "icon": "lucide-file",
               "title": "2026-06-03"
             }
+          },
+          {
+            "id": "ab1dea24c0724615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-03"
+            }
+          },
+          {
+            "id": "fe135f6215f4011f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学网课.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "离散数学网课"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -668,14 +716,14 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "511fa54fcf86591e",
+  "active": "fe135f6215f4011f",
   "lastOpenFiles": [
-    "（Template）/音乐模板.md",
     "daily/2026-06-03.md",
     "离散数学网课.md",
-    "大一下期末.md",
     "数据结构网课.md",
+    "（Template）/音乐模板.md",
     "daily/2026-06-02.md",
+    "大一下期末.md",
     "B站英语阅读题技巧.md",
     "未命名 6.md",
     "daily/2026-06-01.md",
