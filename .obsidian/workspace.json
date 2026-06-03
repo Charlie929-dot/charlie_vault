@@ -417,7 +417,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-02.md",
+                "file": "daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -432,7 +432,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-03"
             }
           }
         ],
@@ -670,8 +670,9 @@
   },
   "active": "17ec7daf4d208369",
   "lastOpenFiles": [
-    "数据结构网课.md",
     "daily/2026-06-02.md",
+    "daily/2026-06-03.md",
+    "数据结构网课.md",
     "离散数学网课.md",
     "大一下期末.md",
     "（Template）/音乐模板.md",
@@ -698,7 +699,6 @@
     "daily/2026-04-03.md",
     "daily/2026-03-31.md",
     "daily/2026-03-29.md",
-    "daily/2026-03-19.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
