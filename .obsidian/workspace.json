@@ -410,23 +410,9 @@
               "icon": "lucide-file",
               "title": "离散数学网课"
             }
-          },
-          {
-            "id": "fad334d48ed3a5b1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1jTCNYdEoV/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
-                "title": "出错啦! - bilibili.com",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "出错啦! - bilibili.com"
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -658,7 +644,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "fad334d48ed3a5b1",
+  "active": "db426d235dbc01bb",
   "lastOpenFiles": [
     "离散数学网课.md",
     "daily/2026-06-03.md",
