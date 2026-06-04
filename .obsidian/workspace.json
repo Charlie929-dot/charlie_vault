@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,8 +298,9 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "a2537d682b778f3d",
+  "active": "6aa5fcf5c5492ad7",
   "lastOpenFiles": [
+    "文摘/文摘.md",
     "（Template）/音乐模板.md",
     "daily/2026-06-04.md",
     "离散数学网课.md",
@@ -328,7 +329,6 @@
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
     "obsidian/tool/临时笔记.md",
-    "obsidian/tool/翻译工具.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
