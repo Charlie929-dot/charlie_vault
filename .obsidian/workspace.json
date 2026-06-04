@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-04.md",
+                "file": "听力技巧.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
+              "title": "听力技巧"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "文摘"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阅读",
+                "query": "听力",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,11 +297,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "6aa5fcf5c5492ad7",
+  "active": "fe135f6215f4011f",
   "lastOpenFiles": [
-    "文摘/文摘.md",
-    "（Template）/音乐模板.md",
+    "daily/2026-01-04.md",
     "daily/2026-06-04.md",
+    "（Template）/音乐模板.md",
+    "文摘/文摘.md",
     "离散数学网课.md",
     "daily/2026-06-03.md",
     "数据结构网课.md",
@@ -328,7 +328,6 @@
     "光栅衍射测量光谱实验.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/疑难解答.md",
-    "obsidian/tool/临时笔记.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
