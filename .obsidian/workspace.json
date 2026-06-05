@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-04.md",
+                "file": "数据结构网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
+              "title": "数据结构网课"
             }
           },
           {
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-05.md",
+                "file": "数据结构网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +86,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-05"
+              "title": "数据结构网课"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,17 +322,17 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "1f449e59ecfbb653",
+  "active": "6aa5fcf5c5492ad7",
   "lastOpenFiles": [
+    "数据结构网课.md",
     "daily/2026-06-04.md",
+    "文摘/文摘.md",
     "daily/2026-06-05.md",
     "离散数学网课.md",
-    "数据结构网课.md",
     "（Template）/音乐模板.md",
     "四级备考(半月板🥲).md",
     "daily/2026-01-04.md",
     "听力技巧.md",
-    "文摘/文摘.md",
     "daily/2026-06-03.md",
     "daily/2026-06-01.md",
     "daily/2026-05-30.md",
