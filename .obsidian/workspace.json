@@ -112,9 +112,33 @@
               "icon": "lucide-file",
               "title": "2026-06-07"
             }
+          },
+          {
+            "id": "4dfafcb8e37035dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大一下期末.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大一下期末"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -346,12 +370,13 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "5c55fc27328ba358",
+  "active": "4dfafcb8e37035dd",
   "lastOpenFiles": [
-    "daily/2026-06-06.md",
     "daily/2026-06-07.md",
     "大一下期末.md",
     "离散数学网课.md",
+    "高数/Kira小练习/微分中值定理.md",
+    "daily/2026-06-06.md",
     "数据结构网课.md",
     "daily/2026-06-05.md",
     "（Template）/音乐模板.md",
@@ -376,7 +401,6 @@
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
-    "daily/2026-05-09.md",
     "ae68f5a1b2a283aeff273f2bebf37ebc_MD5.jpg",
     "未命名.canvas",
     "未命名 2.base",
