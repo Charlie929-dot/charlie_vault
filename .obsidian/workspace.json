@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-06.md",
+                "file": "大一下期末.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-06"
+              "title": "大一下期末"
             }
           }
         ],
@@ -348,11 +348,12 @@
   },
   "active": "5c55fc27328ba358",
   "lastOpenFiles": [
-    "daily/2026-06-05.md",
-    "daily/2026-06-06.md",
     "离散数学网课.md",
-    "（Template）/音乐模板.md",
     "数据结构网课.md",
+    "大一下期末.md",
+    "daily/2026-06-06.md",
+    "daily/2026-06-05.md",
+    "（Template）/音乐模板.md",
     "daily/2026-06-04.md",
     "文摘/文摘.md",
     "四级备考(半月板🥲).md",
@@ -368,7 +369,6 @@
     "daily/2026-05-10.md",
     "daily/2026-04-16.md",
     "daily/2026-06-02.md",
-    "大一下期末.md",
     "B站英语阅读题技巧.md",
     "未命名 6.md",
     "daily/2026-05-31.md",
