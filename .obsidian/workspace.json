@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-09.md",
+                "file": "数据结构网课.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-09"
+              "title": "数据结构网课"
             }
           }
         ]
@@ -265,11 +265,11 @@
   },
   "active": "071160fb1f059123",
   "lastOpenFiles": [
+    "数据结构网课.md",
+    "daily/2026-06-09.md",
     "daily/2026-06-08.md",
     "daily/2026-06-07.md",
-    "数据结构网课.md",
     "文摘/文摘.md",
-    "daily/2026-06-09.md",
     "离散数学网课.md",
     "四级备考(半月板🥲).md",
     "大一下期末.md",
