@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-09.md",
+                "file": "大一下期末.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-09"
+              "title": "大一下期末"
             }
           }
         ],
@@ -300,8 +300,8 @@
   },
   "active": "47a46308c5c8713b",
   "lastOpenFiles": [
-    "离散数学网课.md",
     "daily/2026-06-09.md",
+    "离散数学网课.md",
     "大一下期末.md",
     "未命名.md",
     "数据结构网课.md",
