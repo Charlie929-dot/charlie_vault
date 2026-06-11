@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "2026-06-11"
             }
+          },
+          {
+            "id": "c41d56bf91ec81d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-11"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -298,7 +322,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "47a46308c5c8713b",
+  "active": "c41d56bf91ec81d1",
   "lastOpenFiles": [
     "未命名.md",
     "daily/2026-06-11.md",
