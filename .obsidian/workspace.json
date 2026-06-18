@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -370,10 +370,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "500c81ebb0100bfc",
+  "active": "5d6422b86ff6bc9a",
   "lastOpenFiles": [
-    "daily/2026-06-11.md",
     "daily/2026-06-18.md",
+    "daily/2026-06-11.md",
     "未命名.md",
     "大一下期末.md",
     "daily/2026-06-10.md",
