@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "大一下期末"
             }
+          },
+          {
+            "id": "8a99dbecad47b19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-18"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,14 +346,15 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c41d56bf91ec81d1",
+  "active": "8a99dbecad47b19f",
   "lastOpenFiles": [
-    "daily/2026-06-11.md",
     "未命名.md",
+    "daily/2026-06-18.md",
+    "大一下期末.md",
+    "daily/2026-06-11.md",
     "daily/2026-06-10.md",
     "daily/2026-06-09.md",
     "离散数学网课.md",
-    "大一下期末.md",
     "数据结构网课.md",
     "daily/2026-06-08.md",
     "daily/2026-06-07.md",
@@ -349,7 +374,6 @@
     "daily/2026-05-29.md",
     "daily/2026-05-28.md",
     "daily/2026-05-20.md",
-    "daily/2026-05-12.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
