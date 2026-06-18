@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-18.md",
+                "file": "大一下期末.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,11 +134,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-18"
+              "title": "大一下期末"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -370,12 +370,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "5d6422b86ff6bc9a",
+  "active": "8a99dbecad47b19f",
   "lastOpenFiles": [
-    "daily/2026-06-18.md",
-    "daily/2026-06-11.md",
-    "未命名.md",
     "大一下期末.md",
+    "daily/2026-06-18.md",
+    "未命名.md",
+    "daily/2026-06-11.md",
     "daily/2026-06-10.md",
     "daily/2026-06-09.md",
     "离散数学网课.md",
