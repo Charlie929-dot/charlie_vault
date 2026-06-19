@@ -31,23 +31,8 @@
               "icon": "lucide-file",
               "title": "2026-06-19"
             }
-          },
-          {
-            "id": "30d1f9df2297cb63",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
-                "title": "bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a99b97db47dfffb3",
@@ -393,7 +378,7 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "30d1f9df2297cb63",
+  "active": "8a99dbecad47b19f",
   "lastOpenFiles": [
     "daily/2026-06-19.md",
     "【近现代史纲要，九十分钟搞定脉络，最强串讲，不清楚自带板砖上门让你拍】.md",
