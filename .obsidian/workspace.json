@@ -6,6 +6,7 @@
       {
         "id": "0eaf8294ac23dbcf",
         "type": "tabs",
+        "dimension": 57.21476510067114,
         "children": [
           {
             "id": "8a99dbecad47b19f",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-18.md",
+                "file": "daily/2026-06-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,14 +29,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-18"
+              "title": "2026-06-19"
+            }
+          },
+          {
+            "id": "30d1f9df2297cb63",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
+                "title": "bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "bilibili.com/video/BV1yVUtYmEWB/?share_source=copy_web&vd_source=596215fcf2dfab8537868bf2d63fb284"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a99b97db47dfffb3",
         "type": "tabs",
+        "dimension": 42.78523489932886,
         "children": [
           {
             "id": "071160fb1f059123",
@@ -376,10 +393,12 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "8a99dbecad47b19f",
+  "active": "30d1f9df2297cb63",
   "lastOpenFiles": [
-    "大一下期末.md",
+    "daily/2026-06-19.md",
+    "【近现代史纲要，九十分钟搞定脉络，最强串讲，不清楚自带板砖上门让你拍】.md",
     "daily/2026-06-18.md",
+    "大一下期末.md",
     "未命名.md",
     "daily/2026-06-11.md",
     "daily/2026-06-10.md",
@@ -402,8 +421,6 @@
     "daily/2026-06-01.md",
     "daily/2026-05-30.md",
     "daily/2026-05-29.md",
-    "daily/2026-05-28.md",
-    "daily/2026-05-20.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
