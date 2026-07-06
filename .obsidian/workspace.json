@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -378,10 +378,10 @@
       "emoji-selector:打开表情选择器": false
     }
   },
-  "active": "c41d56bf91ec81d1",
+  "active": "5d6422b86ff6bc9a",
   "lastOpenFiles": [
-    "大一下期末.md",
     "daily/2026-07-06.md",
+    "大一下期末.md",
     "daily/2026-06-23.md",
     "daily/2026-06-22.md",
     "daily/2026-06-09.md",
