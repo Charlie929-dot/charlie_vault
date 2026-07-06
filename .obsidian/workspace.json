@@ -6,7 +6,7 @@
       {
         "id": "0eaf8294ac23dbcf",
         "type": "tabs",
-        "dimension": 57.21476510067114,
+        "dimension": 16.778523489932887,
         "children": [
           {
             "id": "8a99dbecad47b19f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-23.md",
+                "file": "daily/2026-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-23"
+              "title": "2026-07-06"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "a99b97db47dfffb3",
         "type": "tabs",
-        "dimension": 42.78523489932886,
+        "dimension": 83.22147651006712,
         "children": [
           {
             "id": "071160fb1f059123",
@@ -381,6 +381,7 @@
   "active": "5d6422b86ff6bc9a",
   "lastOpenFiles": [
     "daily/2026-07-06.md",
+    "（Template）/音乐模板.md",
     "大一下期末.md",
     "daily/2026-06-23.md",
     "daily/2026-06-22.md",
@@ -404,7 +405,6 @@
     "高数/Kira小练习/微分中值定理.md",
     "daily/2026-06-06.md",
     "daily/2026-06-05.md",
-    "（Template）/音乐模板.md",
     "daily/2026-06-04.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
