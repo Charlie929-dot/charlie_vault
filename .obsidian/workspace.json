@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/Python 网络与并发编程/未命名.md",
+                "file": "py/Python 网络与并发编程/python网络与并发编程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "python网络与并发编程"
             }
           }
         ],
@@ -372,7 +372,7 @@
   "active": "bb5254e05a128119",
   "lastOpenFiles": [
     "daily/2026-07-06.md",
-    "py/Python 网络与并发编程/未命名.md",
+    "py/Python 网络与并发编程/python网络与并发编程.md",
     "py/Python 网络与并发编程",
     "金牌选手.md",
     "（Template）/音乐模板.md",
