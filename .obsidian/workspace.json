@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-07-06.md",
+                "file": "py/Python 网络与并发编程/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-06"
+              "title": "未命名"
             }
           }
         ],
@@ -215,8 +215,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -372,8 +371,10 @@
   },
   "active": "bb5254e05a128119",
   "lastOpenFiles": [
-    "金牌选手.md",
     "daily/2026-07-06.md",
+    "py/Python 网络与并发编程/未命名.md",
+    "py/Python 网络与并发编程",
+    "金牌选手.md",
     "（Template）/音乐模板.md",
     "大一下期末.md",
     "daily/2026-06-23.md",
@@ -397,7 +398,6 @@
     "听力技巧.md",
     "高数/Kira小练习/微分中值定理.md",
     "daily/2026-06-06.md",
-    "daily/2026-06-05.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
@@ -418,7 +418,6 @@
     "~$755.docx",
     "755.docx",
     "cde442f86dd01145540ce67b4959361a_MD5.jpg",
-    "未命名.base",
     "未命名 1.canvas",
     "a.canvas"
   ]
