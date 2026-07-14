@@ -170,9 +170,33 @@
               "icon": "lucide-file",
               "title": "2026-07-14"
             }
+          },
+          {
+            "id": "52f5b3330c7a5cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件安全编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "软件安全编程"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -404,10 +428,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "2858c8eea4628c0b",
+  "active": "52f5b3330c7a5cd9",
   "lastOpenFiles": [
-    "py/Python 网络与并发编程/python网络与并发编程.md",
     "daily/2026-07-14.md",
+    "软件安全编程.md",
+    "py/Python 网络与并发编程/python网络与并发编程.md",
     "cf2f59a56e44e4817b0e73d265291b2e_MD5.png",
     "py/pandas/知识点.md",
     "obsidian/tool/Markdown+语法手册.md",
@@ -437,7 +462,6 @@
     "daily/2026-06-07.md",
     "文摘/文摘.md",
     "四级备考(半月板🥲).md",
-    "B站英语阅读题技巧.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
