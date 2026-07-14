@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/Python 网络与并发编程/python网络与并发编程.md",
+                "file": "daily/2026-07-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -168,7 +168,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python网络与并发编程"
+              "title": "2026-07-14"
             }
           }
         ],
@@ -406,9 +406,10 @@
   },
   "active": "2858c8eea4628c0b",
   "lastOpenFiles": [
+    "py/Python 网络与并发编程/python网络与并发编程.md",
+    "daily/2026-07-14.md",
     "cf2f59a56e44e4817b0e73d265291b2e_MD5.png",
     "py/pandas/知识点.md",
-    "py/Python 网络与并发编程/python网络与并发编程.md",
     "obsidian/tool/Markdown+语法手册.md",
     "6b10fb172e88bd13749bfa585e5f11b9_MD5.png",
     "edc45c8e0923e557bec6e4d1ce9d9286_MD5.png",
@@ -447,7 +448,6 @@
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
     "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
     "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
-    "3d434cdbe7a6a5ba406f3b4d840491c5_MD5.jpg",
     "756.docx",
     "~$b2659183ffaff0182de81840b6963d_MD5.docx",
     "59b2659183ffaff0182de81840b6963d_MD5.docx",
