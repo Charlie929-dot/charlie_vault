@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件安全编程.md",
+                "file": "daily/2026-07-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "软件安全编程"
+              "title": "2026-07-16"
             }
           }
         ],
@@ -430,8 +430,9 @@
   },
   "active": "52f5b3330c7a5cd9",
   "lastOpenFiles": [
-    "daily/2026-07-14.md",
     "软件安全编程.md",
+    "daily/2026-07-16.md",
+    "daily/2026-07-14.md",
     "py/Python 网络与并发编程/python网络与并发编程.md",
     "cf2f59a56e44e4817b0e73d265291b2e_MD5.png",
     "py/pandas/知识点.md",
@@ -461,7 +462,6 @@
     "daily/2026-06-08.md",
     "daily/2026-06-07.md",
     "文摘/文摘.md",
-    "四级备考(半月板🥲).md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
