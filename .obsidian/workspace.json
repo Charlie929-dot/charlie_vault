@@ -199,14 +199,24 @@
             "id": "fa69996150333c11",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://ezgif.com/webp-to-gif",
-                "title": "WebP to GIF converter",
-                "mode": "webview"
+                "file": "daily/2026-07-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "WebP to GIF converter"
+              "icon": "lucide-file",
+              "title": "2026-07-19"
             }
           }
         ],
@@ -242,7 +252,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "编程",
+                "query": "行李",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +297,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -444,6 +455,8 @@
   },
   "active": "fa69996150333c11",
   "lastOpenFiles": [
+    "daily/2026-01-15.md",
+    "daily/2026-07-19.md",
     "obsidian/tool/笔记工具库.md",
     "ezgif.com/webp-to-gif.md",
     "daily/2026-07-14.md",
@@ -475,8 +488,6 @@
     "daily/2026-06-11.md",
     "daily/2026-06-10.md",
     "离散数学网课.md",
-    "数据结构网课.md",
-    "daily/2026-06-08.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
