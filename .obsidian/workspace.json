@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家教/首课试课.md",
+                "file": "家教/准备.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "首课试课"
+              "title": "准备"
             }
           }
         ],
@@ -454,8 +454,8 @@
   },
   "active": "fa69996150333c11",
   "lastOpenFiles": [
-    "家教/准备.md",
     "家教/首课试课.md",
+    "家教/准备.md",
     "daily/2026-07-24.md",
     "家教",
     "daily/2026-07-19.md",
