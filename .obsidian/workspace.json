@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-07-26.md",
+                "file": "家教/准备.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-26"
+              "title": "准备"
             }
           }
         ],
@@ -428,10 +428,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "fa69996150333c11",
+  "active": "9067ac6211037568",
   "lastOpenFiles": [
-    "家教/准备.md",
     "daily/2026-07-26.md",
+    "家教/准备.md",
     "家教/首课试课.md",
     "课程总体安排.md",
     "daily/2026-07-24.md",
