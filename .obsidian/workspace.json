@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/Python 网络与并发编程/python网络与并发编程.md",
+                "file": "py/Python 网络与并发编程/网络编程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python网络与并发编程"
+              "title": "网络编程"
             }
           }
         ],
@@ -430,6 +430,11 @@
   },
   "active": "fa69996150333c11",
   "lastOpenFiles": [
+    "1fbf23915a1bc81d8afc867017770bb8_MD5.png",
+    "04d3d32682a8099bb2d7420f422b14b0_MD5.png",
+    "1a0f96a02775488e4acc7da97bf1f7b6_MD5.png",
+    "py/Python 网络与并发编程/并发编程.md",
+    "py/Python 网络与并发编程/网络编程.md",
     "daily/2026-07-31.md",
     "家教/首课试课.md",
     "obsidian/tool/笔记工具库.md",
@@ -445,7 +450,6 @@
     "ezgif.com",
     "软件安全编程.md",
     "daily/2026-07-16.md",
-    "py/Python 网络与并发编程/python网络与并发编程.md",
     "cf2f59a56e44e4817b0e73d265291b2e_MD5.png",
     "py/pandas/知识点.md",
     "obsidian/tool/Markdown+语法手册.md",
@@ -462,8 +466,6 @@
     "daily/2026-06-22.md",
     "daily/2026-06-09.md",
     "【近现代史纲要，九十分钟搞定脉络，最强串讲，不清楚自带板砖上门让你拍】.md",
-    "daily/2026-06-21.md",
-    "daily/2026-06-20.md",
     "9e822e3548dc8393afa4c0084db93f7f_MD5.jpg",
     "Pasted image 20260601192934.png",
     "未命名 3.base",
@@ -472,8 +474,6 @@
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
-    "41802aa2fcc0afcf7a47c9d94e2bd7d0_MD5.jpg",
-    "0cf568f651cc3c310562df7b6715f651_MD5.jpg",
     "756.docx",
     "~$b2659183ffaff0182de81840b6963d_MD5.docx",
     "59b2659183ffaff0182de81840b6963d_MD5.docx",
