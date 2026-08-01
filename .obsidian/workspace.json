@@ -153,33 +153,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/tool/笔记工具库.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "笔记工具库"
-            }
-          },
-          {
-            "id": "fa69996150333c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -193,6 +169,30 @@
               },
               "icon": "lucide-file",
               "title": "Markdown+语法手册"
+            }
+          },
+          {
+            "id": "fa69996150333c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "py/Python 网络与并发编程/网络编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "网络编程"
             }
           }
         ],
@@ -430,8 +430,10 @@
   },
   "active": "fa69996150333c11",
   "lastOpenFiles": [
-    "obsidian/教程/未命名.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "py/Python 网络与并发编程/网络编程.md",
+    "obsidian/tool/笔记工具库.md",
+    "obsidian/教程/未命名.md",
     "py/Python 网络与并发编程/并发编程.md",
     "b2566c972670c7f0829f7beea8db7338_MD5.png",
     "3a07471c4b1b2eefe2459f742ce4caf2_MD5.png",
@@ -445,7 +447,6 @@
     "cb16ec6647be960156af974a6dde6ef9_MD5.png",
     "daily/2026-07-31.md",
     "家教/首课试课.md",
-    "obsidian/tool/笔记工具库.md",
     "课程总体安排.md",
     "家教/准备.md",
     "daily/2026-07-26.md",
@@ -459,7 +460,6 @@
     "软件安全编程.md",
     "daily/2026-07-16.md",
     "py/pandas/知识点.md",
-    "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-07-06.md",
     "py/Python 网络与并发编程",
     "金牌选手.md",
