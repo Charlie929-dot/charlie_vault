@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/Python 网络与并发编程/网络编程.md",
+                "file": "obsidian/tool/Markdown+语法手册.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "网络编程"
+              "title": "Markdown+语法手册"
             }
           }
         ],
@@ -430,8 +430,9 @@
   },
   "active": "fa69996150333c11",
   "lastOpenFiles": [
-    "py/Python 网络与并发编程/并发编程.md",
+    "obsidian/教程/未命名.md",
     "py/Python 网络与并发编程/网络编程.md",
+    "py/Python 网络与并发编程/并发编程.md",
     "b2566c972670c7f0829f7beea8db7338_MD5.png",
     "3a07471c4b1b2eefe2459f742ce4caf2_MD5.png",
     "695039589c48bcbc026ff4426900512d_MD5.png",
