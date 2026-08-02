@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/Python 网络与并发编程/网络编程.md",
+                "file": "daily/2026-08-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -192,11 +192,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "网络编程"
+              "title": "2026-08-02"
+            }
+          },
+          {
+            "id": "c16498e4a8b1a0ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -428,10 +442,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "fa69996150333c11",
+  "active": "c16498e4a8b1a0ce",
   "lastOpenFiles": [
-    "obsidian/tool/Markdown+语法手册.md",
     "py/Python 网络与并发编程/网络编程.md",
+    "daily/2026-08-02.md",
+    "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/笔记工具库.md",
     "obsidian/教程/未命名.md",
     "py/Python 网络与并发编程/并发编程.md",
@@ -468,7 +483,6 @@
     "daily/2026-06-23.md",
     "daily/2026-06-22.md",
     "daily/2026-06-09.md",
-    "【近现代史纲要，九十分钟搞定脉络，最强串讲，不清楚自带板砖上门让你拍】.md",
     "未命名 3.base",
     "未命名.canvas",
     "未命名 2.base",
