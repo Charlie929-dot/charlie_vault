@@ -199,12 +199,24 @@
             "id": "c16498e4a8b1a0ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "py/函数式编程和核心特性/函数式编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "icon": "lucide-file",
+              "title": "函数式编程"
             }
           }
         ],
@@ -444,7 +456,11 @@
   },
   "active": "c16498e4a8b1a0ce",
   "lastOpenFiles": [
+    "59723d9b7513514e2cc328ebb9ce4c3a_MD5.png",
+    "d4573f0260b1e215051d7a94fe6944c2_MD5.png",
     "py/Python 网络与并发编程/网络编程.md",
+    "py/函数式编程和核心特性/函数式编程.md",
+    "py/函数式编程和核心特性",
     "daily/2026-08-02.md",
     "obsidian/tool/Markdown+语法手册.md",
     "obsidian/tool/笔记工具库.md",
@@ -459,7 +475,6 @@
     "da4e391511911130ec8c560bf47e59b0_MD5.gif",
     "b7b88505d860fd7335e1f48cefdc5fb7_MD5.png",
     "8a6b81df561cccc050d879a6cafd08f7_MD5.png",
-    "cb16ec6647be960156af974a6dde6ef9_MD5.png",
     "daily/2026-07-31.md",
     "家教/首课试课.md",
     "课程总体安排.md",
@@ -481,8 +496,6 @@
     "（Template）/音乐模板.md",
     "大一下期末.md",
     "daily/2026-06-23.md",
-    "daily/2026-06-22.md",
-    "daily/2026-06-09.md",
     "未命名 3.base",
     "未命名.canvas",
     "未命名 2.base",
@@ -490,7 +503,6 @@
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
     "756.docx",
     "~$b2659183ffaff0182de81840b6963d_MD5.docx",
-    "59b2659183ffaff0182de81840b6963d_MD5.docx",
     "未命名 1.canvas",
     "a.canvas"
   ]
