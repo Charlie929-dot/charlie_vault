@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-08-08.md",
+                "file": "py/函数式编程和核心特性/装饰器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-08"
+              "title": "装饰器"
             }
           }
         ],
@@ -254,7 +254,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行李",
+                "query": "tag:#先执行mylog的内部函数，再执行cost_time的内部函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,7 +299,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -454,9 +455,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "c16498e4a8b1a0ce",
+  "active": "7688c38f973f3aa4",
   "lastOpenFiles": [
+    "1cfc9c65086938c97e57e6aa826c9ae0_MD5.png",
     "py/函数式编程和核心特性/函数式编程.md",
+    "py/函数式编程和核心特性/装饰器.md",
     "daily/2026-08-08.md",
     "205b709a9f8fa5aaf53f5428d2d749ff_MD5.png",
     "caba0d6a45db90e3e45da133ff2aae32_MD5.png",
@@ -494,8 +497,6 @@
     "py/Python 网络与并发编程",
     "金牌选手.md",
     "（Template）/音乐模板.md",
-    "大一下期末.md",
-    "daily/2026-06-23.md",
     "未命名 3.base",
     "未命名.canvas",
     "未命名 2.base",
