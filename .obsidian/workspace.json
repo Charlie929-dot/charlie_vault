@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-08-10.md",
+                "file": "py/函数式编程和核心特性/生成器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-10"
+              "title": "生成器"
             }
           }
         ],
@@ -299,8 +299,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -457,7 +456,9 @@
   },
   "active": "c16498e4a8b1a0ce",
   "lastOpenFiles": [
+    "99be21f28f72d17f17e1cca928c74b8b_MD5.png",
     "py/函数式编程和核心特性/装饰器.md",
+    "py/函数式编程和核心特性/生成器.md",
     "daily/2026-08-10.md",
     "1cfc9c65086938c97e57e6aa826c9ae0_MD5.png",
     "py/函数式编程和核心特性/函数式编程.md",
@@ -495,8 +496,6 @@
     "py/pandas/知识点.md",
     "daily/2026-07-06.md",
     "py/Python 网络与并发编程",
-    "金牌选手.md",
-    "（Template）/音乐模板.md",
     "未命名 3.base",
     "未命名.canvas",
     "未命名 2.base",
