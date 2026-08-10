@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/函数式编程和核心特性/装饰器.md",
+                "file": "daily/2026-08-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "装饰器"
+              "title": "2026-08-10"
             }
           }
         ],
@@ -455,11 +455,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7688c38f973f3aa4",
+  "active": "c16498e4a8b1a0ce",
   "lastOpenFiles": [
+    "py/函数式编程和核心特性/装饰器.md",
+    "daily/2026-08-10.md",
     "1cfc9c65086938c97e57e6aa826c9ae0_MD5.png",
     "py/函数式编程和核心特性/函数式编程.md",
-    "py/函数式编程和核心特性/装饰器.md",
     "daily/2026-08-08.md",
     "205b709a9f8fa5aaf53f5428d2d749ff_MD5.png",
     "caba0d6a45db90e3e45da133ff2aae32_MD5.png",
@@ -471,7 +472,6 @@
     "e374e05d0061f11231df8c5d330c1d83_MD5.png",
     "e7953ba57660b823494e0c26c59c9d31_MD5.png",
     "0133f20b56b2be6f37d285fb8bf1d359_MD5.png",
-    "59723d9b7513514e2cc328ebb9ce4c3a_MD5.png",
     "py/Python 网络与并发编程/网络编程.md",
     "py/函数式编程和核心特性",
     "daily/2026-08-02.md",
