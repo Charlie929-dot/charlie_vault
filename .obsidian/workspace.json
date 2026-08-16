@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/函数式编程和核心特性/正则表达式.md",
+                "file": "py/函数式编程和核心特性/内存管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "正则表达式"
+              "title": "内存管理"
             }
           }
         ],
@@ -456,10 +456,12 @@
   },
   "active": "c16498e4a8b1a0ce",
   "lastOpenFiles": [
+    "7bea8a9635a352fb4831afc5ec9cf82e_MD5.png",
+    "py/函数式编程和核心特性/正则表达式.md",
+    "py/函数式编程和核心特性/内存管理.md",
     "3774380e7db2f5030b2d7e511d198df7_MD5.png",
     "d7d72b46af9d808ed068ae256d5adaec_MD5.png",
     "py/函数式编程和核心特性/生成器.md",
-    "py/函数式编程和核心特性/正则表达式.md",
     "9e4bf7ff285c74373c1a9b69b20dae95_MD5.png",
     "e2975f238b617afafe1f94504d84cca0_MD5.png",
     "a5d34db727bb35e427c9e09112254942_MD5.png",
@@ -472,7 +474,6 @@
     "205b709a9f8fa5aaf53f5428d2d749ff_MD5.png",
     "caba0d6a45db90e3e45da133ff2aae32_MD5.png",
     "5bb93a0f38d024b06c18bc9cf90de916_MD5.png",
-    "789843ed3ab5e7f0acdfa345201c7858_MD5.png",
     "py/Python 网络与并发编程/并发编程.md",
     "py/Python 网络与并发编程/网络编程.md",
     "py/函数式编程和核心特性",
@@ -494,7 +495,6 @@
     "ezgif.com",
     "软件安全编程.md",
     "daily/2026-07-16.md",
-    "py/pandas/知识点.md",
     "py/Python 网络与并发编程",
     "未命名 3.base",
     "未命名.canvas",
