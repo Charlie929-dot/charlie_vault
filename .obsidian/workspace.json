@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/函数式编程和核心特性/内存管理.md",
+                "file": "daily/2026-08-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -216,11 +216,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "内存管理"
+              "title": "2026-08-21"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -454,11 +454,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "c16498e4a8b1a0ce",
+  "active": "5d6422b86ff6bc9a",
   "lastOpenFiles": [
+    "daily/2026-08-21.md",
+    "py/函数式编程和核心特性/内存管理.md",
     "6e2aedb37866651b6f003b35c082c5dd_MD5.png",
     "py/函数式编程和核心特性/正则表达式.md",
-    "py/函数式编程和核心特性/内存管理.md",
     "a85bcf4fb359b545bc79bdbce84d5643_MD5.png",
     "304e10e0ec035b1912d644c3b301057d_MD5.png",
     "1103389831e5e927d80ad6534632b9f6_MD5.png",
@@ -468,7 +469,6 @@
     "6bcd3822e78b98f2eb29db305e0e50f5_MD5.png",
     "98d7d83fceccb7290a5bd29c7b5ae0c1_MD5.png",
     "a51bf94c538e65ea1f9a60bf31d55d58_MD5.png",
-    "710401acef2a1f497ecc3b6a9bcabb25_MD5.png",
     "py/函数式编程和核心特性/生成器.md",
     "py/函数式编程和核心特性/装饰器.md",
     "daily/2026-08-10.md",
