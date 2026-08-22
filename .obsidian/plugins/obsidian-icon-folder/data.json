@@ -43,10 +43,10 @@
   "寻深足迹": "LiFootprints",
   "（Template）": "LiBookTemplate",
   "(Attachments)": "🖼",
-  "生涯规划": "LiTable",
   "社会主义发展史": "LiNotebook",
   "test": "LiTestTubeDiagonal",
   "py": "LiComputer",
   "obsidian": "LiAlignJustify",
-  "临时笔记": "LiNotebook"
+  "临时笔记": "LiNotebook",
+  "生涯规划": "LiTable"
 }
