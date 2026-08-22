@@ -225,7 +225,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/HTTP.md",
+                "file": "网络安全/php环境.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -240,7 +240,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "php环境"
             }
           }
         ],
@@ -480,8 +480,9 @@
   },
   "active": "dd70f0d7d5544652",
   "lastOpenFiles": [
-    "网络安全/未命名.md",
     "网络安全/HTTP.md",
+    "网络安全/php环境.md",
+    "网络安全/未命名.md",
     "网络安全/网安学习路径.md",
     "e379b33c7e82926b18af7c68afb1c783_MD5.jpg",
     "Pasted image 20260822113210.png",
@@ -517,7 +518,6 @@
     "课程总体安排.md",
     "家教/准备.md",
     "daily/2026-07-26.md",
-    "daily/2026-07-24.md",
     "家教",
     "ezgif.com",
     "py/Python 网络与并发编程",
