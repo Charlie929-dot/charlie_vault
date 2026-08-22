@@ -225,7 +225,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/未命名.md",
+                "file": "网络安全/HTTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -240,7 +240,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "HTTP"
             }
           }
         ],
@@ -480,6 +480,9 @@
   },
   "active": "dd70f0d7d5544652",
   "lastOpenFiles": [
+    "网络安全/未命名.md",
+    "网络安全/HTTP.md",
+    "网络安全/网安学习路径.md",
     "e379b33c7e82926b18af7c68afb1c783_MD5.jpg",
     "Pasted image 20260822113210.png",
     "e923e83045f2d7997c08eb39a1d1e774_MD5.jpg",
@@ -490,15 +493,12 @@
     "Pasted image 20260822104102.png",
     "36938259dfbd43d9df04f8dde388c041_MD5.jpg",
     "Pasted image 20260822103835.png",
-    "网络安全/网安学习路径.md",
-    "网络安全/未命名.md",
     "网络安全/学习资料.md",
     "未命名 7.md",
     "daily/2026-08-21.md",
     "网安",
     "金牌选手.md",
     "py/函数式编程和核心特性/内存管理.md",
-    "6e2aedb37866651b6f003b35c082c5dd_MD5.png",
     "py/函数式编程和核心特性/正则表达式.md",
     "py/函数式编程和核心特性/生成器.md",
     "py/函数式编程和核心特性/装饰器.md",
