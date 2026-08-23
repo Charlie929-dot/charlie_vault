@@ -285,7 +285,7 @@ Markdown 对文字颜色、字体、高亮、下划线等样式的设置需要�
 为链接创建定义（关键词）：`[[ | 关键词]]
 
 链接到外部文件如[印象笔记](https://zhida.zhihu.com/search?content_id=199113314&content_type=Article&match_order=1&q=%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0&zhida_source=entity)：`[关键词]（链接）
-> [[疑难解答#双向链接|详细]]
+> [[obsidian/tool/疑难解答#双向链接|详细]]
 # [](https://forum-zh.obsidian.md/t/topic/25240#p-50721-h-3-26)4. 结语
 
 本文简要介绍了 Markdown 的基本语法以及借助 HTML 元素实现文字、段落、图片排版的基本方法。

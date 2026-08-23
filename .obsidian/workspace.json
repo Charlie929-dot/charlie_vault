@@ -247,12 +247,24 @@
             "id": "c9179945dd8f40ee",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "网络安全/疑难解答.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.7"
+              "icon": "lucide-file",
+              "title": "疑难解答"
             }
           }
         ],
@@ -492,6 +504,8 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "obsidian/tool/疑难解答.md",
+    "网络安全/疑难解答.md",
     "网络安全/php环境.md",
     "daily/2026-08-23.md",
     "网络安全/HTTP.md",
@@ -528,8 +542,6 @@
     "obsidian/教程/未命名.md",
     "daily/2026-07-31.md",
     "家教/首课试课.md",
-    "课程总体安排.md",
-    "家教/准备.md",
     "家教",
     "ezgif.com",
     "py/Python 网络与并发编程",
