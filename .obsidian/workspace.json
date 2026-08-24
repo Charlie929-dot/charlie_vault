@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/疑难解答.md",
+                "file": "PHP 学习建议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "PHP 学习建议"
             }
           }
         ],
@@ -504,11 +504,12 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
-    "PHP 学习建议.md",
     "网络安全/网安学习路径.md",
+    "网络安全/学习资料.md",
+    "网络安全/疑难解答.md",
+    "PHP 学习建议.md",
     "daily/2026-08-24.md",
     "daily/2026-08-23.md",
-    "网络安全/疑难解答.md",
     "obsidian/tool/疑难解答.md",
     "网络安全/php环境.md",
     "网络安全/HTTP.md",
@@ -523,7 +524,6 @@
     "Pasted image 20260822104102.png",
     "36938259dfbd43d9df04f8dde388c041_MD5.jpg",
     "Pasted image 20260822103835.png",
-    "网络安全/学习资料.md",
     "未命名 7.md",
     "daily/2026-08-21.md",
     "网安",
