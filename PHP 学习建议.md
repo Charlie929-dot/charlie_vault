@@ -1,5 +1,6 @@
-[w3school学习资料](https://www.w3school.com.cn/php/index.asp)
-
+# w3school学习资料[](https://www.w3school.com.cn/php/index.asp)
+# phpstudy安装集成环境包[](https://www.xp.cn/)
+# 学习安排
 ### 🔴 第一梯队：核心必学（直接决定你能不能挖洞）
 
 这些内容在 CTF 和实战中天天见，必须学透：
