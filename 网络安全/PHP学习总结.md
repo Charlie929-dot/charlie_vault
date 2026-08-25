@@ -6,3 +6,8 @@
 > 	- htmlspecialchars()函数 
 > 		- 将php返回结果转为html实体，避免HTML或script代码注入
 > 			- 例如：`<form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>"> ` 用户在地址栏输入`http://www.example.com/test_form.php/%22%3E%3Cscript%3Ealert('hacked')%3C/script%3E` 就可以注入script代码 `<form method="post" action="test_form.php/"><script>alert('hacked')</script>`
+
+# PHP文件
+> [!note] 
+> - 包含文件 -> 相当于导入模板
+> 	- 模板范例：菜单内容，变量，页眉页脚
