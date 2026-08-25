@@ -15,4 +15,9 @@
 > 	- 打开文件
 > 		- fopen()
 > 	- 读文件->readfile()单纯读文件
-> 		- fread()
+> 		- fread()读取整个文件
+> 		- fgets()获取行
+> 		- fgetc()获取单个字符
+> 		- feof()指针是否到达行尾
+> 	- 关闭文件
+> 		- fclose()
