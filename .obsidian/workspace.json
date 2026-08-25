@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/PHP学习总结.md",
+                "file": "PHP 学习建议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PHP学习总结"
+              "title": "PHP 学习建议"
             }
           }
         ],
@@ -504,9 +504,9 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/PHP学习总结.md",
     "PHP 学习建议.md",
     "网络安全/网安学习路径.md",
-    "网络安全/PHP学习总结.md",
     "网络安全/学习资料.md",
     "网络安全/疑难解答.md",
     "daily/2026-08-24.md",
