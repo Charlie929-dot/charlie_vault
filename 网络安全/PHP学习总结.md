@@ -19,6 +19,8 @@
 > 	- 目录
 > 		- `php  mkdir('my_folder', 0777, true);` // 在当前目录下创建名为 my_folder 的文件夹 // 0777 表示赋予最高读写权限，true 表示允许递归创建多级目录
 > 		- `rmdir('my_folder');` // 删除 my_folder 文件夹
+> - `<form>`属性: 文件编码类型 `enctype="multipart/form-data` 
+> 	- 作用: 分割提交表单信息, 便于储存dao `$_FILES` 数组中, 若无该属性,数组则为空
 
 # PHP表单
 > [!note] 
