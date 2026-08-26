@@ -21,6 +21,8 @@
 > 		- `rmdir('my_folder');` // 删除 my_folder 文件夹
 > - `<form>`属性: 文件编码类型 `enctype="multipart/form-data` 
 > 	- 作用: 分割提交表单信息, 便于储存dao `$_FILES` 数组中, 若无该属性,数组则为空
+> - `<input type="file" name="fileToUpload" id="fileToUpload">`
+> 	- `name` 是给后端定位的, `id` 是给前端定位的
 
 # PHP表单
 > [!note] 
