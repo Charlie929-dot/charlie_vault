@@ -12,6 +12,13 @@
 > - !=和!==
 > 	1. 普通不等于 (!=) 2var_dump(0 != false); // 输出: bool(false) （PHP认为 0 和 false 在普通比较下是相等的）
 > 	2. 严格不等于 (!\==) 5var_dump(0 !== false); // 输出: bool(true) （0是整数，false是布尔值，类型不同，所以严格不相等）
+> - 创建删除文件或目录
+> 	- 文件
+> 		- `touch('example.txt');` // 在当前目录下创建一个名为 example.txt 的空文件
+> 		- `unlink('example.txt');` // 删除 example.txt 文件
+> 	- 目录
+> 		- `php  mkdir('my_folder', 0777, true);` // 在当前目录下创建名为 my_folder 的文件夹 // 0777 表示赋予最高读写权限，true 表示允许递归创建多级目录
+> 		- `rmdir('my_folder');` // 删除 my_folder 文件夹
 
 # PHP表单
 > [!note] 
