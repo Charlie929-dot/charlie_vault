@@ -109,5 +109,6 @@ Array
 > - `final` 关键字可用于防止类继承或防止方法重写。
 > 	- 修饰 `class` : 防止继承
 > 	- 修饰 `function` : 防止方法重写
-> - 抽象类abstract ：必须在子类执行，否则会报致命错误
+> - 抽象方法abstract ：必须在子类执行，否则会报致命错误
 > - 接口interface：implements后必须强制执行所有接口方法
+> - 特性trait：便于复用
