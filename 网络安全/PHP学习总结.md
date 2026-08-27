@@ -97,3 +97,11 @@ Array
 > 		- 清理 `$url = filter_var($url, FILTER_SANITIZE_URL)`
 > 		- 验证 `!filter_var($url, FILTER_VALIDATE_URL) === false`
 > 		- 验证-必须包含查询字符串 `!filter_var($url, FILTER_VALIDATE_URL, FILTER_FLAG_QUERY_REQUIRED) === false`
+
+
+# OOP
+> [!note] 
+> - 访问修饰符
+> 	- `public` - 属性或方法可以在任何地方被访问。这是默认值
+> 	- `protected` - 属性或方法可以在类内部以及从该类派生的类中被访问
+> 	- `private` - 属性或方法只能在类内部被访问

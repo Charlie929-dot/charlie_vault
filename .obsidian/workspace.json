@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/未命名.md",
+                "file": "网络安全/PHP学习总结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "PHP学习总结"
             }
           }
         ],
@@ -504,6 +504,7 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/未命名.md",
     "PHP 学习建议.md",
     "网络安全/网安学习路径.md",
     "网络安全/PHP学习总结.md",
@@ -514,7 +515,6 @@
     "daily/2026-08-24.md",
     "daily/2026-08-23.md",
     "obsidian/tool/疑难解答.md",
-    "网络安全/未命名.md",
     "e379b33c7e82926b18af7c68afb1c783_MD5.jpg",
     "Pasted image 20260822113210.png",
     "e923e83045f2d7997c08eb39a1d1e774_MD5.jpg",
