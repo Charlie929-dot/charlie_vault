@@ -84,3 +84,9 @@ Array
 > 	- 验证整数 `filter_var($int, FILTER_VALIDATE_INT) === 0 || !filter_var($int, FILTER_VALIDATE_INT) === false` 
 > 		- `filter_var($int, FILTER_VALIDATE_INT)` 整数返回值是它本身 , 其他返回值是false
 > 	- 验证IP `!filter_var($ip, FILTER_VALIDATE_IP) === false`
+> 	- 清理并验证邮箱
+> 		- 清理 `$email = filter_var($email, FILTER_SANITIZE_EMAIL)`
+> 		- 验证 `!filter_var($email, FILTER_VALIDATE_EMAIL) === false`
+> 	- 清理并验证URL
+> 		- 清理 `$url = filter_var($url, FILTER_SANITIZE_URL)`
+> 		- 验证 `!filter_var($url, FILTER_VALIDATE_URL) === false`
