@@ -75,3 +75,6 @@ Array
 > 		- 限制文件类型
 > 		- 上传 `move_uploaded_file()`
 
+# PHP过滤器
+> [!note] 
+> 
