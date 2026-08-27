@@ -80,15 +80,20 @@ Array
 > - 列出过滤器清单: `filter_list()` -> `$index => $filter`
 > - 获取过滤器id: `filter_id($filter)`
 > - filter_var()函数
-> 	- 清理字符串 `$newstr = filter_var($str, FILTER_SANITIZE_STRING);`
-> 	- 验证整数 `filter_var($int, FILTER_VALIDATE_INT) === 0 || !filter_var($int, FILTER_VALIDATE_INT) === false` 
-> 		- `filter_var($int, FILTER_VALIDATE_INT)` 整数返回值是它本身 , 其他返回值是false
-> 	- 验证范围内的整数 `filter_var($int, FILTER_VALIDATE_INT, array("options" => array("min_range"=>$min, "max_range"=>$max))) === false`
-> 	- 验证IP `!filter_var($ip, FILTER_VALIDATE_IP) === false`
-> 	- 验证IPv6 `!filter_var($ip, FILTER_VALIDATE_IP, FILTER_FLAG_IPV6) === false`
-> 	- 清理并验证邮箱
+> 	- 字符串
+> 		- 清理字符串 `$newstr = filter_var($str, FILTER_SANITIZE_STRING);`
+> 		- 移除ASCII值大于127的字符 `filter_var($str, FILTER_SANITIZE_STRING, FILTER_FLAG_STRIP_HIGH)`
+> 	- 整数
+> 		- 验证整数 `filter_var($int, FILTER_VALIDATE_INT) === 0 || !filter_var($int, FILTER_VALIDATE_INT) === false` 
+> 			- `filter_var($int, FILTER_VALIDATE_INT)` 整数返回值是它本身 , 其他返回值是false
+> 		- 验证范围内的整数 `filter_var($int, FILTER_VALIDATE_INT, array("options" => array("min_range"=>$min, "max_range"=>$max))) === false`
+> 	- IP
+> 		- 验证IP `!filter_var($ip, FILTER_VALIDATE_IP) === false`
+> 		- 验证IPv6 `!filter_var($ip, FILTER_VALIDATE_IP, FILTER_FLAG_IPV6) === false`
+> 	- 邮箱
 > 		- 清理 `$email = filter_var($email, FILTER_SANITIZE_EMAIL)`
 > 		- 验证 `!filter_var($email, FILTER_VALIDATE_EMAIL) === false`
-> 	- 清理并验证URL
+> 	- URL
 > 		- 清理 `$url = filter_var($url, FILTER_SANITIZE_URL)`
 > 		- 验证 `!filter_var($url, FILTER_VALIDATE_URL) === false`
+> 		- 验证-必须包含查询字符串 `!filter_var($url, FILTER_VALIDATE_URL, FILTER_FLAG_QUERY_REQUIRED) === false`
