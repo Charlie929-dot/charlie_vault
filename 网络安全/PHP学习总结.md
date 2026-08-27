@@ -77,4 +77,10 @@ Array
 
 # PHP过滤器
 > [!note] 
-> 
+> - 列出过滤器清单: `filter_list()` -> `$index => $filter`
+> - 获取过滤器id: `filter_id($filter)`
+> - filter_var()函数
+> 	- 清理字符串 `$newstr = filter_var($str, FILTER_SANITIZE_STRING);`
+> 	- 验证整数 `filter_var($int, FILTER_VALIDATE_INT) === 0 || !filter_var($int, FILTER_VALIDATE_INT) === false` 
+> 		- `filter_var($int, FILTER_VALIDATE_INT)` 整数返回值是它本身 , 其他返回值是false
+> 	- 验证IP `!filter_var($ip, FILTER_VALIDATE_IP) === false`
