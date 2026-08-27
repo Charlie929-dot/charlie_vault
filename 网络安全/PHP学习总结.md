@@ -83,7 +83,9 @@ Array
 > 	- 清理字符串 `$newstr = filter_var($str, FILTER_SANITIZE_STRING);`
 > 	- 验证整数 `filter_var($int, FILTER_VALIDATE_INT) === 0 || !filter_var($int, FILTER_VALIDATE_INT) === false` 
 > 		- `filter_var($int, FILTER_VALIDATE_INT)` 整数返回值是它本身 , 其他返回值是false
+> 	- 验证范围内的整数 `filter_var($int, FILTER_VALIDATE_INT, array("options" => array("min_range"=>$min, "max_range"=>$max))) === false`
 > 	- 验证IP `!filter_var($ip, FILTER_VALIDATE_IP) === false`
+> 	- 验证IPv6 `!filter_var($ip, FILTER_VALIDATE_IP, FILTER_FLAG_IPV6) === false`
 > 	- 清理并验证邮箱
 > 		- 清理 `$email = filter_var($email, FILTER_SANITIZE_EMAIL)`
 > 		- 验证 `!filter_var($email, FILTER_VALIDATE_EMAIL) === false`
