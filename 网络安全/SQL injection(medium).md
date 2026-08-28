@@ -141,6 +141,10 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 - **查表名：** `id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit` 
 > [!note] 
 > 避免dvwa 和sql 字符集排序冲突，在 `group_concat(table_name)`和`COLLATE utf8_general_ci`
+> - where
+> 	- `TABLE_SCHEMA`：所属数据库（哪栋楼）。
+> 	- `TABLE_NAME`：所属表（哪个书架）。
+> 	- `COLUMN_NAME`：列的名字（文件夹的名字）。 
 
 ---
 
