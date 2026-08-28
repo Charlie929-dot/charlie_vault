@@ -26,6 +26,10 @@
 > 	- 作用: 分割提交表单信息, 便于储存dao `$_FILES` 数组中, 若无该属性,数组则为空
 > - `<input type="file" name="fileToUpload" id="fileToUpload">`
 > 	- `name` 是给后端定位的, `id` 是给前端定位的
+> - 进制转换
+> 	- 二进制字符串转十六进制 `bin2hex` <-> `hex2bin`
+> 	- 二进制转十进制 `bindec` <-> `decbin`
+> 	- 十进制转十六进制 `dechex` <-> `hexdec`
 ```php
 Array
 (
