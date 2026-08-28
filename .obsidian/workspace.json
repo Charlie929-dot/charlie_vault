@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/疑难解答.md",
+                "file": "网络安全/SQL injection(medium).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "SQL injection(medium)"
             }
           }
         ],
@@ -504,6 +504,7 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/疑难解答.md",
     "网络安全/SQL injection(medium).md",
     "网络安全/PHP学习总结.md",
     "网络安全/未命名.md",
@@ -512,7 +513,6 @@
     "网络安全/HTTP.md",
     "daily/2026-08-27.md",
     "网络安全/学习资料.md",
-    "网络安全/疑难解答.md",
     "daily/2026-08-24.md",
     "daily/2026-08-23.md",
     "obsidian/tool/疑难解答.md",
