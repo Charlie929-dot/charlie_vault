@@ -2,7 +2,92 @@
 > [!note] 
 > - `select a,b;` 显示a,b; `select a,b from c` 从c表中提取列a,b数据
 
+# low
+太好了！万丈高楼平地起，我们从最经典的 **SQL 注入（SQL Injection）** 开始。这也是你一开始就提到的重点。
 
+在 DVWA 中，SQL 注入分为 Low、Medium、High、Impossible 四个难度。我们现在先从 **Low（最低难度）** 开始，体验一下最纯粹的漏洞利用。
+
+---
+
+### 🎯 第一步：设置难度并了解靶场
+
+1. 在 DVWA 左侧菜单栏点击 **DVWA Security**。
+2. 将安全级别（Security Level）拉到 **Low**，然后点击 **Submit**。
+3. 点击左侧的 **SQL Injection** 模块。
+4. 你会看到一个输入框，提示你输入一个 `User ID`。
+
+---
+
+### 🔍 第二步：正常测试（了解业务逻辑）
+
+在输入框中输入 `1`，点击 `View Details`。
+
+- 页面会显示：`User ID: 1`，`First name: admin`，`Surname: admin`。
+- **分析：** 这说明后台把我们的输入 `1` 拼接到了一条 SQL 语句中，去数据库里查询了 `users` 表。
+
+---
+
+### 💥 第三步：开始攻击（判断是否存在漏洞）
+
+SQL 注入的核心思想是：**闭合原有的 SQL 语句，并注入我们自己的恶意代码。**
+
+1. **测试单引号：**  
+    在输入框中输入：`1'` ，点击查询。
+    
+    - **结果：** 页面报错，出现类似 `You have an error in your SQL syntax...` 的提示。
+    - **结论：** 报错说明存在 SQL 注入漏洞！因为单引号破坏了原本的 SQL 语法。
+2. **判断字段数（ORDER BY 报错法）：**  
+    输入：`1 ORDER BY 1#`
+    
+    - **结果：** 正常返回数据。  
+        输入：`1 ORDER BY 2#`
+    - **结果：** 正常返回数据。  
+        输入：`1 ORDER BY 3#`
+    - **结果：** 报错。
+    - **结论：** 说明查询语句只查了 2 个字段（即 `User ID` 和 `First name, Surname` 合并展示）。`#` 是 MySQL 的注释符，用来把后面的代码注释掉。
+
+---
+
+### 🛠️ 第四步：利用漏洞（联合查询 UNION SELECT）
+
+既然知道了查了 2 个字段，我们就可以用 `UNION SELECT` 来查询我们想要的数据。
+
+1. **让原查询失效：**  
+    输入：`1' AND 1=2#`
+    
+    - **结果：** 页面空白，没有返回数据。（因为 1=2 是假的，原查询没结果，但页面不报错了）。
+2. **注入我们的查询：**  
+    输入：`1' AND 1=2 UNION SELECT user, password FROM users#`
+    
+    - **结果：** 页面会列出数据库中所有用户的账号和明文密码（或 MD5 哈希值）！
+
+---
+
+### 💡 核心原理解析（为什么能成功？）
+
+在 Low 难度下，PHP 后台的代码大概是这样的：
+
+```php
+$query = "SELECT first_name, last_name FROM users WHERE user_id = '$id';";
+```
+
+当我们输入 `1' AND 1=2 UNION SELECT user, password FROM users#` 时，最终发给 MySQL 的语句变成了：
+
+```sql
+SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT user, password FROM users#';
+```
+
+`#` 把最后那个多余的单引号注释掉了，完美执行了我们的恶意查询！
+
+---
+
+**🚀 你的第一个实战任务：**  
+请按照上面的步骤，在你的 DVWA 中实操一遍。特别是最后一步，尝试把数据库里所有的账号密码都“偷”出来。
+
+完成后告诉我，或者如果在输入时遇到了什么奇怪的报错，随时发给我。搞定这个，我们马上进阶 **Medium 难度**！
+
+
+# medium
 太棒了！你已经准备好进阶了。
 
 在 DVWA 中，**Medium（中等难度）** 的 SQL 注入与 Low 难度相比，最大的变化是开发者加了“防护”。
