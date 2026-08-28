@@ -1,3 +1,8 @@
+# 语法
+> [!note] 
+> - `select a,b;` 显示a,b; `select a,b from c` 从c表中提取列a,b数据
+
+
 太棒了！你已经准备好进阶了。
 
 在 DVWA 中，**Medium（中等难度）** 的 SQL 注入与 Low 难度相比，最大的变化是开发者加了“防护”。
