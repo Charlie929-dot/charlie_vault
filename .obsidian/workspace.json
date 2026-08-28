@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/PHP学习总结.md",
+                "file": "网络安全/SQL injection(medium).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PHP学习总结"
+              "title": "SQL injection(medium)"
             }
           }
         ],
@@ -504,10 +504,11 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/PHP学习总结.md",
+    "网络安全/SQL injection(medium).md",
     "网络安全/未命名.md",
     "PHP 学习建议.md",
     "网络安全/网安学习路径.md",
-    "网络安全/PHP学习总结.md",
     "网络安全/HTTP.md",
     "daily/2026-08-27.md",
     "网络安全/学习资料.md",
@@ -541,7 +542,6 @@
     "py/函数式编程和核心特性",
     "daily/2026-08-02.md",
     "obsidian/tool/Markdown+语法手册.md",
-    "obsidian/tool/笔记工具库.md",
     "家教",
     "ezgif.com",
     "py/Python 网络与并发编程",
