@@ -1,6 +1,8 @@
 # 语法
 > [!note] 
 > - `select a,b;` 显示a,b; `select a,b from c` 从c表中提取列a,b数据
+> - `ascii(character)` 返回character首字符ascii码
+> - `substr(str, begin, num)` 从str的第begin个字符开始，取num个字符
 
 # low
 太好了！万丈高楼平地起，我们从最经典的 **SQL 注入（SQL Injection）** 开始。这也是你一开始就提到的重点。
