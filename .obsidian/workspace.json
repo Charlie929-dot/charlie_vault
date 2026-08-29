@@ -266,9 +266,23 @@
               "icon": "lucide-file",
               "title": "SQL injection"
             }
+          },
+          {
+            "id": "a7ad9a0e37cf8efb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.csdn.net/dreamthe/article/details/123795302?fromshare=blogdetail&sharetype=blogdetail&sharerId=123795302&sharerefer=PC&sharesource=weixin_49159748&sharefrom=from_link",
+                "title": "详细sqli-labs（1-65）通关讲解-CSDN博客",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "详细sqli-labs（1-65）通关讲解-CSDN博客"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -502,10 +516,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "c9179945dd8f40ee",
+  "active": "a7ad9a0e37cf8efb",
   "lastOpenFiles": [
-    "网络安全/网安素养.md",
     "网络安全/SQL injection.md",
+    "网络安全/网安素养.md",
     "网络安全/疑难解答.md",
     "网络安全/PHP学习总结.md",
     "网络安全/未命名.md",

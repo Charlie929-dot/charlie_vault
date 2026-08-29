@@ -323,7 +323,11 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 - **里面存了什么：** 所有表里的**字段名（列名）**，以及这个字段属于哪个库、哪张表。
 - **核心字段：** `TABLE_SCHEMA`（所属库）、`TABLE_NAME`（所属表）、`COLUMN_NAME`（字段名）。
 - **作用：** 黑客用它来查出 `users` 表里到底有哪些字段（比如 `username`, `password`）。
+
+
+
 > [!note] 
 >`?id=-1'union select 1,2,group_concat(column_name) from information_schema.columns where table_name='users' and table_schema=datacase()--+`  
 > 如果有多个数据库，可通过限定数据库名和表名来精准查询列名
 
+# SQLi-Labs[](https://blog.csdn.net/dreamthe/article/details/123795302?fromshare=blogdetail&sharetype=blogdetail&sharerId=123795302&sharerefer=PC&sharesource=weixin_49159748&sharefrom=from_link)
