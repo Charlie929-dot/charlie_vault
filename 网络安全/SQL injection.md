@@ -1,3 +1,4 @@
+# sql-labs通关教程[](https://www.cnblogs.com/xuanxian/articles/19105912)
 # 语法
 
 > [!note] 
