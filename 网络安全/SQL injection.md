@@ -3,7 +3,10 @@
 > - `select a,b;` 显示a,b; `select a,b from c` 从c表中提取列a,b数据
 > - `ascii(character)` 返回character首字符ascii码
 > - `substr(str, begin, num)` 从str的第begin个字符开始，取num个字符
-> - `--+`url中注释掉后面的代码，+在url中是空格，--后面加空格语法才对
+> - 注释方法
+> 	- `--+` <mark style="background: #FF5582A6;">url中</mark>注释掉后面的代码，+在url中是空格，--后面加空格语法才对
+> 	- `-- ` url以外的表单提交内容，注意后面有一个空格
+> 	- `#` 同 `-- `
 > - 注入方法
 > 	- 字符注入
 > 	- 整数注入
