@@ -4,6 +4,14 @@
 > - `ascii(character)` 返回character首字符ascii码
 > - `substr(str, begin, num)` 从str的第begin个字符开始，取num个字符
 > - `--+`url中注释掉后面的代码，+在url中是空格，--后面加空格语法才对
+> - 注入方法
+> 	- 字符注入
+> 	- 整数注入
+> 	- 布尔盲注
+> 	- 时间注入
+> 	- 错误注入
+
+
 
 
 # low
