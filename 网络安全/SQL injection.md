@@ -10,7 +10,71 @@
 > 	- `-- ` url以外的表单提交内容，注意后面有一个空格
 > 	- `#` 同 `-- `
 > - `limit i,j` 跳过前i行，共取j行
+# 查找数据库和表格
 
+哈哈，这个问题问得太好了！很多初学者在学 SQL 注入时，最懵的就是这个 `information_schema`，感觉像变魔术一样。
+
+其实一点都不神秘！你可以把 MySQL 数据库想象成一个**巨大的“图书馆”**。
+
+### 🏛️ 数据库到底长什么样？
+
+1. **Database（数据库） = 图书馆的“大楼”**  
+    你现在的 DVWA，就是其中一栋楼，它的名字叫 `dvwa`。
+2. **Table（表） = 楼里的“书架”**  
+    在 `dvwa` 这栋楼里，有不同的书架。比如 `users` 书架上放着所有用户的账号密码，`guestbook` 书架上放着留言板。
+3. **Column（列/字段） = 书架上的“文件夹”**  
+    在 `users` 书架上，有 `username`（用户名）文件夹，`password`（密码）文件夹。
+4. **Row（行/数据） = 文件夹里的“具体文件”**  
+    比如 `admin` 的账号密码，就是一份具体的文件。
+
+---
+
+### 📖 那么 `information_schema` 是什么？
+
+为了让别人知道这个图书馆里有什么书，MySQL 官方在每一栋楼里，都强行塞了一本**“图书馆总目录”**，它的名字就叫 `information_schema`。
+
+这本“总目录”里有两个非常关键的“书架”（系统表）：
+
+- **`tables` 表**：记录了所有图书馆（数据库）里有哪些书架（表名）。
+- **`columns` 表**：记录了所有书架（表）里有哪些文件夹（列名）。
+
+---
+
+### 🔍 我们来逐字拆解你的“查表名”咒语
+
+现在我们来看这句让你头疼的代码：  
+`id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit`
+
+把它翻译成大白话，就是黑客在向数据库下达的指令：
+
+1. **`id=0 union select 1,...`**
+    - **大白话**：“我不查 ID 为 0 的数据了（因为 0 不存在，原查询返回空），我要用 `UNION` 拼接一段我自己的查询！”
+2. **`from information_schema.tables`**
+    - **大白话**：“我要去翻阅那本**‘图书馆总目录’**里的**‘表名清单’**。”
+3. **`where table_schema=database()`**
+    - **大白话**：“但是总目录里记录了全世界所有的数据库，太乱了。我只要当前这个大楼（也就是 `dvwa`）的清单！”
+    - _(注：`database()` 是一个函数，它会自动获取当前所在的数据库名，相当于代替了写死 `dvwa`)_
+4. **`group_concat(table_name)`**
+    - **大白话**：“把查出来的所有书架名字（表名），用逗号连成一长串，一次性全给我显示出来！”
+
+---
+
+### 💡 总结一下整个过程
+
+当你输入这段代码时，你其实是在对数据库说：
+
+> “嘿，数据库！我不查 ID 了。你去翻翻你的**总目录（information_schema）**，看看**当前这栋楼（database()）**里面，到底**建了哪些书架（table_name）**，把它们的名字全都给我列出来！”
+
+数据库一听，乖乖地执行了，然后页面就会显示出：`users, guestbook`。
+
+**黑客的逻辑链就是这么简单：**  
+查到了大楼名（`dvwa`） ➡️ 翻目录查到了书架名（`users`） ➡️ 再翻目录查到了文件夹名（`username, password`） ➡️ 最后直接去 `users` 书架把文件全偷走！
+
+怎么样？把数据库想象成图书馆，是不是瞬间就通透了？
+
+---
+
+要不要我帮你整理一份常用字符串的十六进制对照表？注入的时候直接复制粘贴就行。
 # sql-labs各关卡闭合和攻击方式
 
 | 关卡      | 注入位置       | 闭合方式          | 攻击方式               |
@@ -532,71 +596,7 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 去实操一下吧！如果遇到 `Illegal mix of collations` 报错，或者单引号绕过失败，随时把报错信息发给我！
 
-# 查找数据库和表格
 
-哈哈，这个问题问得太好了！很多初学者在学 SQL 注入时，最懵的就是这个 `information_schema`，感觉像变魔术一样。
-
-其实一点都不神秘！你可以把 MySQL 数据库想象成一个**巨大的“图书馆”**。
-
-### 🏛️ 数据库到底长什么样？
-
-1. **Database（数据库） = 图书馆的“大楼”**  
-    你现在的 DVWA，就是其中一栋楼，它的名字叫 `dvwa`。
-2. **Table（表） = 楼里的“书架”**  
-    在 `dvwa` 这栋楼里，有不同的书架。比如 `users` 书架上放着所有用户的账号密码，`guestbook` 书架上放着留言板。
-3. **Column（列/字段） = 书架上的“文件夹”**  
-    在 `users` 书架上，有 `username`（用户名）文件夹，`password`（密码）文件夹。
-4. **Row（行/数据） = 文件夹里的“具体文件”**  
-    比如 `admin` 的账号密码，就是一份具体的文件。
-
----
-
-### 📖 那么 `information_schema` 是什么？
-
-为了让别人知道这个图书馆里有什么书，MySQL 官方在每一栋楼里，都强行塞了一本**“图书馆总目录”**，它的名字就叫 `information_schema`。
-
-这本“总目录”里有两个非常关键的“书架”（系统表）：
-
-- **`tables` 表**：记录了所有图书馆（数据库）里有哪些书架（表名）。
-- **`columns` 表**：记录了所有书架（表）里有哪些文件夹（列名）。
-
----
-
-### 🔍 我们来逐字拆解你的“查表名”咒语
-
-现在我们来看这句让你头疼的代码：  
-`id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit`
-
-把它翻译成大白话，就是黑客在向数据库下达的指令：
-
-1. **`id=0 union select 1,...`**
-    - **大白话**：“我不查 ID 为 0 的数据了（因为 0 不存在，原查询返回空），我要用 `UNION` 拼接一段我自己的查询！”
-2. **`from information_schema.tables`**
-    - **大白话**：“我要去翻阅那本**‘图书馆总目录’**里的**‘表名清单’**。”
-3. **`where table_schema=database()`**
-    - **大白话**：“但是总目录里记录了全世界所有的数据库，太乱了。我只要当前这个大楼（也就是 `dvwa`）的清单！”
-    - _(注：`database()` 是一个函数，它会自动获取当前所在的数据库名，相当于代替了写死 `dvwa`)_
-4. **`group_concat(table_name)`**
-    - **大白话**：“把查出来的所有书架名字（表名），用逗号连成一长串，一次性全给我显示出来！”
-
----
-
-### 💡 总结一下整个过程
-
-当你输入这段代码时，你其实是在对数据库说：
-
-> “嘿，数据库！我不查 ID 了。你去翻翻你的**总目录（information_schema）**，看看**当前这栋楼（database()）**里面，到底**建了哪些书架（table_name）**，把它们的名字全都给我列出来！”
-
-数据库一听，乖乖地执行了，然后页面就会显示出：`users, guestbook`。
-
-**黑客的逻辑链就是这么简单：**  
-查到了大楼名（`dvwa`） ➡️ 翻目录查到了书架名（`users`） ➡️ 再翻目录查到了文件夹名（`username, password`） ➡️ 最后直接去 `users` 书架把文件全偷走！
-
-怎么样？把数据库想象成图书馆，是不是瞬间就通透了？
-
----
-
-要不要我帮你整理一份常用字符串的十六进制对照表？注入的时候直接复制粘贴就行。
 
 # high
 太棒了！恭喜你成功通关 DVWA 的 Medium（中等难度）！
@@ -650,32 +650,5 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 你现在可以先去 High 难度下试试 `1' or '1'='1 #`，看看能不能成功绕过 `LIMIT 1` 的限制！如果遇到页面没反应或者报错，随时把现象告诉我，我带你一步步拆解！
 
 
-### 🗂️ 字典里到底有啥？（三大核心表）
-
-在 `information_schema` 这个字典库里，有三个最重要的表，它们就是你脱库的“导航图”：
-
-#### 1. `SCHEMATA` 表（全馆大楼分布图）
-
-- **里面存了什么：** 当前 MySQL 服务器里**所有的数据库名**。
-- **核心字段：** `SCHEMA_NAME`（数据库名）。
-- **作用：** 黑客用它来查出服务器上有哪些库（比如 `security`, `dvwa` 等）。
-
-#### 2. `TABLES` 表（全馆书架分布图）
-
-- **里面存了什么：** 所有数据库里的**表名**，以及这个表属于哪个库。
-- **核心字段：** `TABLE_SCHEMA`（所属数据库名）、`TABLE_NAME`（表名）。
-- **作用：** 黑客用它来查出 `security` 库里有哪些表（比如 `users`, `emails`）。
-
-#### 3. `COLUMNS` 表（全馆文件夹明细表）
-
-- **里面存了什么：** 所有表里的**字段名（列名）**，以及这个字段属于哪个库、哪张表。
-- **核心字段：** `TABLE_SCHEMA`（所属库）、`TABLE_NAME`（所属表）、`COLUMN_NAME`（字段名）。
-- **作用：** 黑客用它来查出 `users` 表里到底有哪些字段（比如 `username`, `password`）。
-
-
-
-> [!note] 
->`?id=-1'union select 1,2,group_concat(column_name) from information_schema.columns where table_name='users' and table_schema=datacase()--+`  
-> 如果有多个数据库，可通过限定数据库名和表名来精准查询列名
 
 # SQLi-Labs[](https://blog.csdn.net/dreamthe/article/details/123795302?fromshare=blogdetail&sharetype=blogdetail&sharerId=123795302&sharerefer=PC&sharesource=weixin_49159748&sharefrom=from_link)
