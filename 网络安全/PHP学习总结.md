@@ -30,6 +30,8 @@
 > 	- 二进制字符串转十六进制 `bin2hex` <-> `hex2bin`
 > 	- 二进制转十进制 `bindec` <-> `decbin`
 > 	- 十进制转十六进制 `dechex` <-> `hexdec`
+> 	- base64编码 `base64_encode()` <-> 解码 `base64_decode()`
+> - 
 ```php
 Array
 (
