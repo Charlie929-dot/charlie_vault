@@ -33,6 +33,7 @@
 > 	- base64编码 `base64_encode()` <-> 解码 `base64_decode()`
 > - `stripslashes()` 转译 : `\'` -> `'`; `\"` -> `"`; `\\` ->` \`; `\0` -> `NULL`
 > - `blacklist()` 替换`AND` `OR` `SELECT` 等关键字
+> - `mysql_fetch_array()` 参数有返回值，返回数组；无返回值，如果有sql语法错误打印warning提示
 ```php
 Array
 (
