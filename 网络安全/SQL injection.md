@@ -13,8 +13,8 @@
 > - `mysql_real_escape_string()` 在特殊符号前加上`\`转译，`%`和`_` 除外
 
 # 绕过过滤
-- `and` -> `aandnd` / `&&` 
-- `or` -> `oorr` /`||`
+- `and` -> `aandnd`
+	- `or` -> `oorr` /`||` （and不可换成&&，会触发http协议拦截）
 - 
 # 查找数据库和表格
 
