@@ -31,7 +31,7 @@
 > 	- 二进制转十进制 `bindec` <-> `decbin`
 > 	- 十进制转十六进制 `dechex` <-> `hexdec`
 > 	- base64编码 `base64_encode()` <-> 解码 `base64_decode()`
-> - 
+> - `stripslashes()`转译 : `\'` -> `'`; `\"` -> `"`; `\\` ->` \`; `\0` -> `NULL`
 ```php
 Array
 (
