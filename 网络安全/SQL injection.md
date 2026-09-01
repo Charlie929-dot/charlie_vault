@@ -1,4 +1,6 @@
-# sql-labs通关教程[](https://www.cnblogs.com/xuanxian/articles/19105912)
+# Linux下运行靶场
+`docker run -d -p 8080:80 acgpiano/sqli-labs`
+# sql-labs通关教程[](C:\Users\HP\Desktop\网安\sqli-labs\mysql-injection.pdf)
 # 语法
 
 > [!note] 
