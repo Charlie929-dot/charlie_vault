@@ -128,6 +128,7 @@
 | Less-18 | User-Agent | `'` + `and '` | 报错注入               |
 | Less-19 | Referer    | `'` + `and '` | 报错注入               |
 | Less-20 | Cookie     | `'`           | UNION / 报错         |
+| Less-23 |            | `'` + `and '` |                    |
 # 注入方法
 
 ### 1. 按注入点的数据类型分类
