@@ -59,6 +59,35 @@
 
 ---
 
+### 🗂️ 字典里到底有啥？（三大核心表）
+
+在 `information_schema` 这个字典库里，有三个最重要的表，它们就是你脱库的“导航图”：
+
+#### 1. `SCHEMATA` 表（全馆大楼分布图）
+
+- **里面存了什么：** 当前 MySQL 服务器里**所有的数据库名**。
+- **核心字段：** `SCHEMA_NAME`（数据库名）。
+- **作用：** 黑客用它来查出服务器上有哪些库（比如 `security`, `dvwa` 等）。
+
+#### 2. `TABLES` 表（全馆书架分布图）
+
+- **里面存了什么：** 所有数据库里的**表名**，以及这个表属于哪个库。
+- **核心字段：** `TABLE_SCHEMA`（所属数据库名）、`TABLE_NAME`（表名）。
+- **作用：** 黑客用它来查出 `security` 库里有哪些表（比如 `users`, `emails`）。
+
+#### 3. `COLUMNS` 表（全馆文件夹明细表）
+
+- **里面存了什么：** 所有表里的**字段名（列名）**，以及这个字段属于哪个库、哪张表。
+- **核心字段：** `TABLE_SCHEMA`（所属库）、`TABLE_NAME`（所属表）、`COLUMN_NAME`（字段名）。
+- **作用：** 黑客用它来查出 `users` 表里到底有哪些字段（比如 `username`, `password`）。
+
+
+
+> [!note] 
+>`?id=-1'union select 1,2,group_concat(column_name) from information_schema.columns where table_name='users' and table_schema=datacase()--+`  
+> 如果有多个数据库，可通过限定数据库名和表名来精准查询列名
+
+
 ### 💡 总结一下整个过程
 
 当你输入这段代码时，你其实是在对数据库说：
