@@ -1,3 +1,7 @@
+# upload-labs
+[![判断上传漏洞类型](https://github.com/c0ny1/upload-labs/raw/master/doc/sum_up.png)[[2a4a103c0cb9c7bce6ef66d930935509_MD5.jpg|Open: Pasted image 20260902161710.png]]
+![[2a4a103c0cb9c7bce6ef66d930935509_MD5.jpg]]
+# dvwa
 ### 🟢 第一阶段：Low 级别（毫无防备）
 
 在 Low 级别下，后端代码对上传的文件**没有做任何过滤和校验**，你传什么它存什么。
