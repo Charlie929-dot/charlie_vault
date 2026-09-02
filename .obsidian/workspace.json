@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "网络安全/疑难解答.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
