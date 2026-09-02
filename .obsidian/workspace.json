@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/file upload.md",
+                "file": "网络安全/疑难解答.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "file upload"
+              "title": "疑难解答"
             }
           }
         ]
@@ -267,12 +267,12 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/file upload.md",
     "daily/2026-08-23.md",
     "daily/2026-08-21.md",
     "daily/2026-08-02.md",
     "obsidian/tool/Markdown+语法手册.md",
     "daily/2026-07-14.md",
-    "网络安全/file upload.md",
     "大一下期末.md",
     "daily/2026-07-06.md",
     "daily/2026-06-11.md",
