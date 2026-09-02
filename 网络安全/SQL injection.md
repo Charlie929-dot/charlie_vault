@@ -459,14 +459,15 @@ if __name__ == '__main__':
     print('脚本运行结束')
 
 ```
-# low
+# DVWA (php5.6)
+## low
 太好了！万丈高楼平地起，我们从最经典的 **SQL 注入（SQL Injection）** 开始。这也是你一开始就提到的重点。
 
 在 DVWA 中，SQL 注入分为 Low、Medium、High、Impossible 四个难度。我们现在先从 **Low（最低难度）** 开始，体验一下最纯粹的漏洞利用。
 
 ---
 
-### 🎯 第一步：设置难度并了解靶场
+#### 🎯 第一步：设置难度并了解靶场
 
 1. 在 DVWA 左侧菜单栏点击 **DVWA Security**。
 2. 将安全级别（Security Level）拉到 **Low**，然后点击 **Submit**。
@@ -475,7 +476,7 @@ if __name__ == '__main__':
 
 ---
 
-### 🔍 第二步：正常测试（了解业务逻辑）
+#### 🔍 第二步：正常测试（了解业务逻辑）
 
 在输入框中输入 `1`，点击 `View Details`。
 
@@ -484,7 +485,7 @@ if __name__ == '__main__':
 
 ---
 
-### 💥 第三步：开始攻击（判断是否存在漏洞）
+#### 💥 第三步：开始攻击（判断是否存在漏洞）
 
 SQL 注入的核心思想是：**闭合原有的 SQL 语句，并注入我们自己的恶意代码。**
 
@@ -505,7 +506,7 @@ SQL 注入的核心思想是：**闭合原有的 SQL 语句，并注入我们自
 
 ---
 
-### 🛠️ 第四步：利用漏洞（联合查询 UNION SELECT）
+#### 🛠️ 第四步：利用漏洞（联合查询 UNION SELECT）
 
 既然知道了查了 2 个字段，我们就可以用 `UNION SELECT` 来查询我们想要的数据。
 
@@ -520,7 +521,7 @@ SQL 注入的核心思想是：**闭合原有的 SQL 语句，并注入我们自
 
 ---
 
-### 💡 核心原理解析（为什么能成功？）
+#### 💡 核心原理解析（为什么能成功？）
 
 在 Low 难度下，PHP 后台的代码大概是这样的：
 
@@ -544,12 +545,12 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 完成后告诉我，或者如果在输入时遇到了什么奇怪的报错，随时发给我。搞定这个，我们马上进阶 **Medium 难度**！
 
 
-# medium
+## medium
 太棒了！你已经准备好进阶了。
 
 在 DVWA 中，**Medium（中等难度）** 的 SQL 注入与 Low 难度相比，最大的变化是开发者加了“防护”。
 
-### 🔍 Medium 难度的核心变化：
+#### 🔍 Medium 难度的核心变化：
 
 1. **请求方式改变：** 输入框变成了**下拉菜单（Dropdown）**，请求方式从 GET 变成了 **POST**。
 2. **过滤了单引号：** 后台代码使用了 `mysql_real_escape_string()` 函数，把你输入的单引号 `'` 转义成了 `\'`，导致我们在 Low 难度下用的单引号闭合失效了。
@@ -557,7 +558,7 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 ---
 
-### 🛠️ 准备工作：使用 Burp Suite 抓包
+#### 🛠️ 准备工作：使用 Burp Suite 抓包
 
 因为现在是下拉菜单，我们没法直接在页面上输入代码，必须借助 **Burp Suite** 拦截并修改请求。
 
@@ -567,11 +568,11 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 ---
 
-### 💥 攻击步骤（在 Burp Suite 的 Repeater 中进行）：
+#### 💥 攻击步骤（在 Burp Suite 的 Repeater 中进行）：
 
 拦截到请求后，你会看到类似 `id=1&Submit=Submit` 的数据。我们把 `id=1` 替换为以下 Payload 进行测试：
 
-#### 第一步：判断注入类型（数字型注入）
+##### 第一步：判断注入类型（数字型注入）
 
 在 Low 难度我们用的是 `1' and 1=1#`，现在单引号被过滤了，我们直接去掉单引号：
 
@@ -579,20 +580,20 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 - 输入：`id=1 and 1=2&Submit=Submit` -> 页面返回为空或报错。
 - **结论：** 存在数字型注入，不需要单引号！
 
-#### 第二步：判断字段数
+##### 第二步：判断字段数
 
 - 输入：`id=1 order by 2&Submit=Submit` -> 正常。
 - 输入：`id=1 order by 3&Submit=Submit` -> 报错。
 - **结论：** 依然是 2 个字段。
 
-#### 第三步：联合查询（UNION SELECT）
+##### 第三步：联合查询（UNION SELECT）
 
 注意：因为是数字型注入，前面必须保留一个数字（比如 `0` 或 `1`），否则 SQL 语法会报错。
 
 - 输入：`id=0 union select 1,2&Submit=Submit`
 - **预期结果：** 页面正常显示数字 `1` 和 `2`，说明这两个位置都可以用来回显数据。
 
-#### 第四步：获取数据库信息
+##### 第四步：获取数据库信息
 
 - **查库名：** `id=0 union select 1,database()&Submit=Submit`
 - **查表名：** `id=0 union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()&Submit=Submit` 
@@ -605,7 +606,7 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 ---
 
-### ⚠️ Medium 难度最容易踩的坑（高能预警）：
+#### ⚠️ Medium 难度最容易踩的坑（高能预警）：
 
 当你试图查询 `users` 表的字段或数据时，你可能会写出这样的代码：  
 `id=0 union select 1,group_concat(column_name) from information_schema.columns where table_name='users'&Submit=Submit`
@@ -639,14 +640,14 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 
 
-# high
+## high
 太棒了！恭喜你成功通关 DVWA 的 Medium（中等难度）！
 
 在 Medium 难度中，你不仅掌握了数字型注入，还学会了使用 Burp Suite 抓包改包，甚至掌握了用十六进制（Hex）绕过单引号过滤的高级技巧。这说明你已经脱离了“只会复制粘贴 Payload”的新手阶段，具备了真正的“黑客思维”。
 
 接下来，我们将进入 **DVWA 的 High（高难度）级别**。这一关的防护手段更加复杂，非常接近真实的 CTF 比赛场景。
 
-### 🛡️ High 难度的核心变化：
+#### 🛡️ High 难度的核心变化：
 
 1. **Session 传参（最坑的一点）：** 开发者为了防止你抓包改参数，把 ID 的获取方式从 POST 请求体改成了**基于 Session 的弹窗传参**。这意味着你直接在 Burp 里改 POST 包可能没用了。
 2. **强制 LIMIT 1：** 后台代码在 SQL 语句末尾强行加上了 `LIMIT 1`。这意味着即使你的注入语句成功了，数据库也**只会返回 1 行数据**。你无法再用 `UNION SELECT` 一次性把整张表的数据“脱”出来。
@@ -654,25 +655,25 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 ---
 
-### 🚀 下一阶段（High 难度）核心实战任务：
+#### 🚀 下一阶段（High 难度）核心实战任务：
 
 面对 `LIMIT 1` 的限制，黑客必须掌握一种全新的技能——**盲注（Blind SQL Injection）**。在 High 难度下，我们主要练习**布尔盲注**。
 
-#### 第一步：绕过 LIMIT 1（注释符大法）
+##### 第一步：绕过 LIMIT 1（注释符大法）
 
 既然末尾有 `LIMIT 1` 限制我们，我们就用注释符 `#` 把它后面的代码全部“屏蔽”掉！
 
 - **测试 Payload：** 在弹窗中输入 `1' or '1'='1 #`
 - **原理解析：** 这里的 `#` 会把后台原本拼接的 `' LIMIT 1;` 变成注释。如果页面返回了数据，说明注入点存在且成功绕过了限制。
 
-#### 第二步：判断真假（布尔盲注）
+##### 第二步：判断真假（布尔盲注）
 
 因为 `LIMIT 1` 的存在，你无法用 `UNION SELECT` 看回显了。你只能通过**页面的反应（有数据 vs 没数据）**来判断你的条件是否成立。
 
 - **测试真条件：** `1' and 1=1 #` （页面应该正常返回 1 条数据）
 - **测试假条件：** `1' and 1=2 #` （页面应该为空或显示无结果）
 
-#### 第三步：逐字符“猜”数据（高阶玩法）
+##### 第三步：逐字符“猜”数据（高阶玩法）
 
 既然一次只能查一条数据，我们就利用 `substr()`（截取字符串）和 `ascii()`（转 ASCII 码）函数，一个字母一个字母地去猜数据库的名字。
 
@@ -681,7 +682,7 @@ SELECT first_name, last_name FROM users WHERE user_id = '1' AND 1=2 UNION SELECT
 
 ---
 
-### 🛠️ 你的 High 难度实操指南：
+#### 🛠️ 你的 High 难度实操指南：
 
 1. 将 DVWA 安全级别调整为 **High**。
 2. 点击输入框，在弹出的新窗口中输入上述 Payload 进行测试。
