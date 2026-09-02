@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/file upload.md",
+                "file": "网络安全/PHP学习总结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "file upload"
+              "title": "PHP学习总结"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
-    "网络安全/疑难解答.md",
     "网络安全/file upload.md",
+    "网络安全/疑难解答.md",
     "daily/2026-08-23.md",
     "daily/2026-08-21.md",
     "daily/2026-08-02.md",
