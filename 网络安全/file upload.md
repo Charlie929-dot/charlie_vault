@@ -1,5 +1,6 @@
 # upload-labs
-[![判断上传漏洞类型](https://github.com/c0ny1/upload-labs/raw/master/doc/sum_up.png)[[2a4a103c0cb9c7bce6ef66d930935509_MD5.jpg|Open: Pasted image 20260902161710.png]]
+![[12d8989ff661732e5539063d04950da3_MD5.jpg]]
+
 ![[2a4a103c0cb9c7bce6ef66d930935509_MD5.jpg]]
 # dvwa
 ### 🟢 第一阶段：Low 级别（毫无防备）
