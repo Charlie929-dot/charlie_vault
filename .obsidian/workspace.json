@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/网安学习路径.md",
+                "file": "网络安全/file upload.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "网安学习路径"
+              "title": "file upload"
             }
           },
           {
@@ -518,10 +518,11 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/网安学习路径.md",
+    "网络安全/file upload.md",
     "网络安全/网安素养.md",
     "网络安全/学习资料.md",
     "网络安全/SQL injection.md",
-    "网络安全/网安学习路径.md",
     "网络安全/疑难解答.md",
     "网络安全/PHP学习总结.md",
     "网络安全/未命名.md",
@@ -555,7 +556,6 @@
     "py/Python 网络与并发编程/并发编程.md",
     "py/Python 网络与并发编程/网络编程.md",
     "py/函数式编程和核心特性",
-    "daily/2026-08-02.md",
     "家教",
     "ezgif.com",
     "py/Python 网络与并发编程",
