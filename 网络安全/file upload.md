@@ -63,7 +63,7 @@ High 级别的防御非常严格：
 **突破思路：图片马 + 文件包含漏洞**  
 在这个级别，单纯的文件上传已经无法直接执行 PHP 代码了，必须配合其他漏洞。
 
-1. **制作图片马**：将一句话木马代码附加到一张真实图片的末尾。在 CMD 中执行命令：`copy 1.jpg /b + shell.php /a shell_new.jpg`。
+1. **制作图片马**：将一句话木马代码附加到一张真实图片的末尾。在 CMD 中执行命令：`copy 1.jpg /b + shell.php /a shell_new.jpg` / `cmd /c copy dvwa_email.png /b + shell.php /a new_shell.png` (powershell)。
 2. **上传图片马**：将 `shell_new.jpg` 上传到 DVWA，因为它是合法的图片，所以能成功上传。
 3. **利用文件包含执行**：单独访问这张图片，服务器只会把它当成普通图片显示。你需要利用 DVWA 的 **File Inclusion（文件包含）** 漏洞，强制让服务器把这张图片当作 PHP 文件来解析执行，从而触发木马代码，完成 GetShell。
 
