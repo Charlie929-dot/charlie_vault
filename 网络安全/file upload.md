@@ -2,6 +2,10 @@
 ![[12d8989ff661732e5539063d04950da3_MD5.jpg]]
 
 ![[2a4a103c0cb9c7bce6ef66d930935509_MD5.jpg]]
+# common sense
+1. `.htaccess`是局部配置文件；`x.conf`是全局配置文件
+2. phpstudy依赖虚拟主机，虚拟主机加载 `0localhost_80.conf` , 在80端口的网页已导入相关配置, `.htaccess` 中只需包含`addhandler`和`fcgidwrapper`语句
+
 # dvwa
 ### 🟢 第一阶段：Low 级别（毫无防备）
 

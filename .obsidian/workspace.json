@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/疑难解答.md",
+                "file": "网络安全/file upload.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "疑难解答"
+              "title": "file upload"
             }
           }
         ]
@@ -267,6 +267,7 @@
   },
   "active": "c9179945dd8f40ee",
   "lastOpenFiles": [
+    "网络安全/疑难解答.md",
     "网络安全/file upload.md",
     "daily/2026-08-23.md",
     "daily/2026-08-21.md",
@@ -287,7 +288,6 @@
     "网络安全/网安素养.md",
     "网络安全/学习资料.md",
     "网络安全/SQL injection.md",
-    "网络安全/疑难解答.md",
     "网络安全/PHP学习总结.md",
     "网络安全/未命名.md",
     "PHP 学习建议.md",
