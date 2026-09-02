@@ -5,6 +5,7 @@
 # common sense
 1. `.htaccess`是局部配置文件；`x.conf`是全局配置文件
 2. phpstudy依赖虚拟主机，虚拟主机加载 `0localhost_80.conf` , 在80端口的网页已导入相关配置, `.htaccess` 中只需包含`addhandler`和`fcgidwrapper`语句
+3. `$uploaded_name = $_FILES[ 'uploaded' ][ 'name' ]` 文件类型由此提取无法使用纯抓包修改文件名`$uploaded_type = $_FILES[ 'uploaded' ][ 'type' ]` 文件由此获得可使用纯抓包修改文件名
 
 # dvwa
 ### 🟢 第一阶段：Low 级别（毫无防备）

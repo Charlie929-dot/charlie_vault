@@ -36,6 +36,12 @@
 > - `mysql_fetch_array()` 参数有返回值，返回数组；无返回值，如果有sql语法错误打印warning提示
 > - `deldot($file_name)` 删除文件名末尾的点
 > - `trim($file_ext)` 首尾去空
+> - `strrchr($file_name, '.')` 从右开始到`.`前截取字符串
+> - `strtolower($file_ext)` 大写转小写
+> - `str_ireplace(': :$DATA', '', $file_name)`  忽略大小写替换
+> - `deldot( $file_name)` 删除文件末尾的点
+```
+```
 ```
 ```
 ```php
