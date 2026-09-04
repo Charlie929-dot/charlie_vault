@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选课经验.md",
+                "file": "daily/2026-09-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "选课经验"
+              "title": "2026-09-04"
             }
           }
         ],
@@ -292,8 +292,9 @@
   },
   "active": "5bf541fa20c69238",
   "lastOpenFiles": [
-    "网络安全/file upload.md",
     "选课经验.md",
+    "daily/2026-09-04.md",
+    "网络安全/file upload.md",
     "网络安全/PHP学习总结.md",
     "网络安全/SQL injection.md",
     "网络安全/网安学习路径.md",
@@ -328,7 +329,6 @@
     "网安",
     "金牌选手.md",
     "py/函数式编程和核心特性/内存管理.md",
-    "py/函数式编程和核心特性/正则表达式.md",
     "py/函数式编程和核心特性",
     "家教",
     "ezgif.com",
