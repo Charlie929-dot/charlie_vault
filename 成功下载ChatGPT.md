@@ -7,4 +7,5 @@
 ![[33c935b00fa8efcc3b59181a5890ad5f_MD5.jpg]]
 
 ### 配置方法
-1. an
+1. 安装客户端Clash Verge
+2. ding'yue
