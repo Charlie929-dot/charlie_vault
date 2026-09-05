@@ -8,4 +8,5 @@
 
 ### 配置方法
 1. 安装客户端Clash Verge
-2. ding'yue
+2. 订阅
+3. 
