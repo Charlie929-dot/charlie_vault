@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-09-05.md",
+                "file": "daily/2026-09-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +86,48 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "2026-09-04"
+            }
+          },
+          {
+            "id": "c5e582701a8bfc8c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 4.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 4"
+            }
+          },
+          {
+            "id": "01d52384f754ec1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成功下载ChatGPT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "成功下载ChatGPT"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -324,12 +361,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6addf8bc4986127c",
+  "active": "01d52384f754ec1a",
   "lastOpenFiles": [
-    "网络安全/SQL injection.md",
     "daily/2026-09-05.md",
-    "daily/2026-09-04.md",
+    "成功下载ChatGPT.md",
     "高数/Kira小练习/微分中值定理.md",
+    "未命名 4.base",
+    "daily/2026-09-04.md",
+    "网络安全/SQL injection.md",
     "选课经验.md",
     "网络安全/file upload.md",
     "网络安全/PHP学习总结.md",
@@ -357,7 +396,6 @@
     "网络安全/HTTP.md",
     "daily/2026-08-27.md",
     "daily/2026-08-24.md",
-    "obsidian/tool/疑难解答.md",
     "e379b33c7e82926b18af7c68afb1c783_MD5.jpg",
     "Pasted image 20260822113210.png",
     "e923e83045f2d7997c08eb39a1d1e774_MD5.jpg",
@@ -372,7 +410,6 @@
     "未命名 2.base",
     "未命名 1.base",
     "22688e6eaec39ca4144738dfcaf36acc_MD5.docx",
-    "756.docx",
     "未命名 1.canvas",
     "a.canvas"
   ]
