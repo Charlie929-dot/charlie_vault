@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/SQL injection.md",
+                "file": "daily/2026-09-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SQL injection"
+              "title": "2026-09-05"
             }
           }
         ],
@@ -326,12 +326,13 @@
   },
   "active": "6addf8bc4986127c",
   "lastOpenFiles": [
+    "网络安全/SQL injection.md",
+    "daily/2026-09-05.md",
     "daily/2026-09-04.md",
     "高数/Kira小练习/微分中值定理.md",
     "选课经验.md",
     "网络安全/file upload.md",
     "网络安全/PHP学习总结.md",
-    "网络安全/SQL injection.md",
     "网络安全/网安学习路径.md",
     "网络安全/疑难解答.md",
     "daily/2026-08-23.md",
@@ -362,7 +363,6 @@
     "e923e83045f2d7997c08eb39a1d1e774_MD5.jpg",
     "Pasted image 20260822112847.png",
     "网安",
-    "金牌选手.md",
     "py/函数式编程和核心特性",
     "家教",
     "ezgif.com",
